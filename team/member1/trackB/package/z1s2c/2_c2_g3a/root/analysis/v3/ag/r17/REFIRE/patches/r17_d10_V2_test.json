@@ -1,0 +1,16 @@
+{
+ "239": {
+  "value": 4.883732996555709,
+  "before": 3.418768932617382,
+  "video_id": "simulation_0116",
+  "cat": "D2",
+  "sub_id": 240
+ },
+ "1827": {
+  "value": 4.892974989618771,
+  "before": 3.443518741110358,
+  "video_id": "simulation_0116_segmented",
+  "cat": "D2",
+  "sub_id": 1828
+ }
+}

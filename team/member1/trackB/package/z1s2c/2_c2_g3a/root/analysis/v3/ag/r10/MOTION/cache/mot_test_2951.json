@@ -1,0 +1,1 @@
+{"id": 2951, "split": "test", "video": "internet_0002_segmented", "tv": "v2", "kind": "avgspeed", "g_box": 28.979014577285778, "g_pt": 30.75061083682398, "mode_box": "2d_ratio", "mode_pt": "2d_ratio", "J": 1.0996861542633356, "kept_target": 192, "single_row_same": true, "n_obj_sub": 4}

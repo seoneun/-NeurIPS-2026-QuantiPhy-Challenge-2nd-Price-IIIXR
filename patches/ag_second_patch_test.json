@@ -1,0 +1,26 @@
+{
+ "2119": {
+  "value": 4.237162568318657,
+  "why": "second_out B_qualifier: obj 3/4 surface gap 64px (centroid 158px, gap<0.5 centroid) x mpp 0.06667 (row)"
+ },
+ "2294": {
+  "value": 208.92562697131774,
+  "why": "second_out A_collapse: obj 0/1 3D centroids z=3.13/2.00 m f/W=0.622 (gap/centroid None)"
+ },
+ "2313": {
+  "value": 209.04770862251135,
+  "why": "second_out A_collapse: obj 0/1 3D centroids z=3.13/2.00 m f/W=0.622 (gap/centroid None)"
+ },
+ "2332": {
+  "value": 209.02029893646866,
+  "why": "second_out A_collapse: obj 0/1 3D centroids z=3.13/2.00 m f/W=0.622 (gap/centroid None)"
+ },
+ "3087": {
+  "value": 15.282979459139758,
+  "why": "second_out A_collapse: obj 7/1 centroid 107px x mpp 0.00143 (video)"
+ },
+ "3159": {
+  "value": 8.449359961648968,
+  "why": "second_out C_tall_axis: obj 5/6 centroid 454px x mpp 0.01861 (row) [axis]"
+ }
+}

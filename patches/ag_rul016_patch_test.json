@@ -1,0 +1,26 @@
+{
+ "312": {
+  "value": 0.6662517406519671,
+  "why": "rul016: airborne t=1.145-1.595s, |vx|=192px/s, mpp=g/a=0.00348; fusion dis_geo with CaW 2"
+ },
+ "313": {
+  "value": 0.2996738752982082,
+  "why": "rul016: airborne t=1.145-1.595s, |vx|=192px/s, mpp=g/a=0.00348; fusion dis_geo with CaW 2.1"
+ },
+ "316": {
+  "value": 0.6621929882292839,
+  "why": "rul016: airborne t=1.147-1.596s, |vx|=190px/s, mpp=g/a=0.00348; fusion dis_geo with CaW 2"
+ },
+ "317": {
+  "value": 0.2971780655875541,
+  "why": "rul016: airborne t=1.147-1.596s, |vx|=190px/s, mpp=g/a=0.00348; fusion dis_geo with CaW 1.1"
+ },
+ "311": {
+  "value": 0.9963000543036035,
+  "why": "c21drop: apple leaves the table; centre drop 285px x g/a=0.00348; fusion agree_wgm with CaW 1.01"
+ },
+ "315": {
+  "value": 1.025056268666528,
+  "why": "c21drop: apple leaves the table; centre drop 283px x g/a=0.00348; fusion agree_wgm with CaW 1.12"
+ }
+}

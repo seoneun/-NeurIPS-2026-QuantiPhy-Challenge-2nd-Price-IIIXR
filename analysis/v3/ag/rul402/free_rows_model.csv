@@ -1,0 +1,925 @@
+id0,fam,cls,b27,taken,held,c25,c26c,c24,writers,video,cat,src_type,kind,dim,unit,question,prior,depth,ans,g,cs,cfull,qwen,source,mode,prior_kind,prior_obj,target,r4,fW,fW_spec,F,Fp,split,model,rec,scored,prw,grav,v1,ratio
+2142,captured_0001,D3_lab_motion,24.29883177583245,0,,24.29883177583245,24.29883177583245,24.29883177583245,rt1,captured_0001,D3,lab,disp,,cm,What is the displacement of the ball between 0s and 1.5s in cm?,"t=1.6s, ball acceleration = 3.0m/s^2","t=0s, distance_ball_camera = 1.1075m
+t=1.5s, distance_ball_camera = 0.9120m
+distance_slope_far_end_camera = 1.1360m
+distance_slope_near_tower_camera = 0.8840m",24.29883177583245,20.656943925855973,195.5,195.5,195.0,dis_geo,3d_calib,accel,ball,ball,0,0.8330649850141284,1.3979946048231724,1.0506960849307927,1.2999999999999998,test,20.656943925855973,captured_0001,True,False,False,0.21213313769844364,0.9737726104452716
+2143,captured_0001,D3_lab_motion,113.72038075912336,0,,113.72038075912336,113.72038075912336,113.72038075912336,rul019,captured_0001,D3,lab,speed,,cm/s,What is the velocity of the ball at 1.5s in cm/s?,"t=1.6s, ball acceleration = 3.0m/s^2","t=0s, distance_ball_camera = 1.1075m
+t=1.5s, distance_ball_camera = 0.9120m
+distance_slope_far_end_camera = 1.1360m
+distance_slope_near_tower_camera = 0.8840m",113.72038075912336,50.50869212446825,144.0,144.0,120.0,patch:rul019,3d_calib,accel,ball,ball,0,0.8330649850141284,1.3979946048231724,1.29223089788337,1.2999999999999998,test,50.50869212446825,captured_0001,True,False,False,0.7628827443661527,0.6620767411174545
+2144,captured_0001,D3_lab_motion,121.59163211339832,0,,121.59163211339832,121.59163211339832,121.59163211339832,rul019,captured_0001,D3,lab,speed,,cm/s,What is the velocity of the ball at the end of the slope in cm/s? ,"t=1.6s, ball acceleration = 3.0m/s^2","t=0s, distance_ball_camera = 1.1075m
+t=1.5s, distance_ball_camera = 0.9120m
+distance_slope_far_end_camera = 1.1360m
+distance_slope_near_tower_camera = 0.8840m",121.59163211339832,22.884515209878668,150.0,150.0,120.0,patch:rul019,3d_calib,accel,ball,ball,0,0.8330649850141284,1.3979946048231724,1.1049756462869589,1.300000000000001,test,22.884515209878668,captured_0001,True,False,False,0.20303515229795602,1.1271208434042703
+2147,captured_0002,D3_lab_motion,8.631741604529694,0,,8.631741604529694,8.631741604529694,8.631741604529694,rul438,captured_0002,D3,lab,disp,,cm,What is the displacement of the ball between 1.0s and 1.3s in cm?,"t=1.4, ball acceleration = 4.05m/s^2","t=1.0s, distance_ball_camera = 1.7790m
+t=1.3s, distance_ball_camera = 1.7360m
+distance_slope_far_end_camera = 1.8150m
+distance_slope_near_tower_camera = 1.6715m",8.631741604529694,9.812918490988928,43.0,43.0,43.2,patch:rul438,3d_fovdefault,accel,ball,ball,0,0.5959,1.0,1.254164618951788,1.2999999999999912,test,12.307015180056084,captured_0002,True,False,False,0.10439222048583546,0.940004767148372
+2148,captured_0002,D3_lab_motion,83.61644993462143,0,,83.61644993462143,83.61644993462143,83.61644993462143,rul438,captured_0002,D3,lab,speed,,cm/s,What is the velocity of the ball at 1.3s in cm/s?,"t=1.4, ball acceleration = 4.05m/s^2","t=1.0s, distance_ball_camera = 1.7790m
+t=1.3s, distance_ball_camera = 1.7360m
+distance_slope_far_end_camera = 1.8150m
+distance_slope_near_tower_camera = 1.6715m",83.61644993462143,87.07844037668313,133.0,133.0,135.0,patch:rul438,3d_fovdefault,accel,ball,ball,0,0.5959,1.0,1.2934408947535416,1.2999999999999912,test,112.63081583455995,captured_0002,True,False,False,0.9128749046952009,0.9538923671667552
+2149,captured_0002,D3_lab_motion,157.9987,1,,112.16759576760388,112.16759576760388,112.16759576760388,rul451,captured_0002,D3,lab,speed,,cm/s,What is the velocity of the ball at the end of the slope in cm/s? ,"t=1.4, ball acceleration = 4.05m/s^2","t=1.0s, distance_ball_camera = 1.7790m
+t=1.3s, distance_ball_camera = 1.7360m
+distance_slope_far_end_camera = 1.8150m
+distance_slope_near_tower_camera = 1.6715m",122.6530275620048,112.16759576760388,152.0,152.0,122.5,agree_gm,3d_fovdefault,accel,ball,ball,0,0.5959,1.0,1.0471186266034505,1.2999999999999912,test,117.45277882958436,captured_0002,True,True,False,1.1454020559173086,0.979285790418572
+2152,captured_0006,D3_lab_motion,1.9305962164330843,0,,1.9305962164330843,1.9305962164330843,1.9305962164330843,rul451,captured_0006,D3,lab,speed,,m/s,What is the velocity of the toy at 1.2s in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",2.706462711563417,1.9305962164330843,3.37,3.37,3.25,agree_gm,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.1196648569975398,,test,2.161620736592541,captured_0006,True,True,True,2.118881434281984,0.9111393328562043
+2153,captured_0006,D3_lab_motion,35.35015675088338,0,,35.35015675088338,35.35015675088338,35.35015675088338,rul451,captured_0006,D3,lab,disp,,cm,What the displacement of the toy between 1s and 1.2s in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",27.24718456502576,35.35015675088338,33.7,33.7,33.7,agree_gm,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.080932142135397,,test,38.21112066155444,captured_0006,True,True,True,0.38760699529698983,0.912010288250799
+2154,captured_0006,D3_lab_motion,2.308546654663966,0,,2.308546654663966,2.308546654663966,2.308546654663966,,captured_0006,D3,lab,avgspeed,,m/s,What is the velocity of the toy when hitting the desk for the first time in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",2.308546654663966,1.1299947241001296,3.36,3.36,3.75,dis_caw_routed,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.0691185078103134,,test,1.208098273263457,captured_0006,True,False,True,1.2044024102901836,0.9382202447003353
+2157,captured_0006,D3_lab_motion,2.051596519395393,0,,2.051596519395393,2.051596519395393,2.051596519395393,rul451,captured_0006s,D3,lab,speed,,m/s,What is the velocity of the toy at 1.2s in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",2.706462711563417,2.051596519395393,3.37,3.37,3.25,agree_gm,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.1819793026967085,,test,2.42494462340996,captured_0006,True,True,True,2.586105771684146,0.7933150073979127
+2158,captured_0006,D3_lab_motion,36.13610149203462,0,,36.13610149203462,36.13610149203462,36.13610149203462,rul451,captured_0006s,D3,lab,disp,,cm,What the displacement of the toy between 1s and 1.2s in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",27.24718456502576,36.13610149203462,33.7,33.7,337.0,agree_gm,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.090430045882442,,test,39.40389080797189,captured_0006,True,True,True,0.3955049444633742,0.9136700311310775
+2159,captured_0006,D3_lab_motion,2.308546654663966,0,,2.308546654663966,2.308546654663966,2.308546654663966,,captured_0006s,D3,lab,avgspeed,,m/s,What is the velocity of the toy when hitting the desk for the first time in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4020m
+t=1.2s, distance_ball_camera = 1.065m
+",2.308546654663966,1.2117372867968716,3.08,3.08,4.9,dis_caw_routed,3d_gravnofall_fovdefault,accel,,toy,0,0.5959,1.0,1.064058303968874,,test,1.2893591222449243,captured_0006,True,False,True,1.2360369332442662,0.9803406793164227
+2160,captured_0008,D3_lab_motion,76.15240813323223,0,,76.15240813323223,76.15240813323223,76.15240813323223,rul297,captured_0008,D3,lab,dist2,,cm,What is the basketball's initial distance from the desk in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",76.15240813323223,109.24317182296144,120.0,120.0,125.0,patch:rul297,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,1.1209819102329173,,test,122.45961943000611,captured_0008,True,False,True,1.1159096873839227,0.9789606906188361
+2162,captured_0008,D3_lab_motion,39.77932119187996,0,,39.77932119187996,39.77932119187996,39.77932119187996,w1_labradius,captured_0008,D3,lab,maxheight,,cm,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",28.17932119187996,57.26409418665467,15.0,15.0,24.5,patch:rul140,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,,,test,57.26409418665467,captured_0008,True,True,True,,
+2163,captured_0008,D3_lab_motion,3.205668232952597,0,,3.205668232952597,3.205668232952597,3.205668232952597,"rul451,w1_d3labgeoS2",captured_0008,D3,lab,speed,,m/s,What is the basketball's velocity at 1.2s in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",3.321230243813015,3.205668232952597,3.64,3.64,2.05,agree_gm,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,1.284488952146868,,test,4.117645429475783,captured_0008,True,True,True,3.3812263558976285,0.948078565447469
+2164,captured_0008,D3_lab_motion,1.564,0,,1.564,1.564,1.564,,captured_0008,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.2s in meters? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",1.564,,1.564,1.564,1.564,depth_copy,,accel,,basketball,0,,,,,test,,captured_0008,True,False,True,,
+2165,captured_0008,D3_lab_motion,76.15240813323223,0,,76.15240813323223,76.15240813323223,76.15240813323223,rul297,captured_0008s,D3,lab,dist2,,cm,What is the basketball's initial distance from the desk in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",76.15240813323223,109.41814854544592,100.0,100.0,140.1,patch:rul297,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,1.1217150600368524,,test,122.7359850647761,captured_0008,True,False,True,1.1180325006018408,0.9786669751241198
+2167,captured_0008,D3_lab_motion,39.77932119187996,0,,39.77932119187996,39.77932119187996,39.77932119187996,w1_labradius,captured_0008s,D3,lab,maxheight,,cm,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",28.17932119187996,57.29774179064597,42.0,42.0,24.5,patch:rul140,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,,,test,57.29774179064597,captured_0008,True,True,True,,
+2168,captured_0008,D3_lab_motion,3.211200664067768,0,,3.211200664067768,3.211200664067768,3.211200664067768,"rul451,w1_d3labgeoS2",captured_0008s,D3,lab,speed,,m/s,What is the basketball's velocity at 1.2s in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",3.321230243813015,3.211200664067768,4.9,4.9,2.05,agree_gm,3d_calib,accel,,basketball,0,0.5457752932607944,0.9158840296371782,1.2842903602097773,,test,4.12411405756147,captured_0008,True,True,True,3.359915745895844,0.955738449093632
+2169,captured_0008,D3_lab_motion,1.564,0,,1.564,1.564,1.564,,captured_0008s,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.2s in meters? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",1.564,,1.564,1.564,1.564,depth_copy,,accel,,basketball,0,,,,,test,,captured_0008,True,False,True,,
+2170,captured_0008,D3_lab_motion,76.15240813323223,0,,76.15240813323223,76.15240813323223,76.15240813323223,rul297,captured_0008x,D3,lab,dist2,,cm,What is the basketball's initial distance from the desk in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",76.15240813323223,109.33608758317924,112.92432346572345,100.0,140.1,patch:rul297,3d_calib,accel,,basketball,0,0.5638219110932277,0.9461686710743876,1.1168680845351426,,test,122.11398670959198,captured_0008,True,False,True,1.1042433357970218,0.9901448715039111
+2172,captured_0008,D3_lab_motion,39.77932119187996,0,,39.77932119187996,39.77932119187996,39.77932119187996,w1_labradius,captured_0008x,D3,lab,maxheight,,cm,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",28.17932119187996,57.41672491205135,21.908010733990768,52.0,34.0,patch:rul140,3d_calib,accel,,basketball,0,0.5638219110932277,0.9461686710743876,,,test,57.41672491205135,captured_0008,True,True,True,,
+2173,captured_0008,D3_lab_motion,3.1844068133327874,0,,3.1844068133327874,3.1844068133327874,3.1844068133327874,"rul451,w1_d3labgeoS2",captured_0008x,D3,lab,speed,,m/s,What is the basketball's velocity at 1.2s in m/s? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",3.321230243813015,3.1844068133327874,3.872409530201672,3.92,2.45,agree_gm,3d_calib,accel,,basketball,0,0.5638219110932277,0.9461686710743876,1.2830495710415215,,test,4.085751795868331,captured_0008,True,True,True,3.2353810497928412,0.9842447502548988
+2174,captured_0008,D3_lab_motion,1.564,0,,1.564,1.564,1.564,,captured_0008x,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.2s in meters? ,acceleration = 9.8 m/s^2,"t=1.0s, distance_ball_camera = 1.4010m
+t=1.0s, distance_desk_camera = 1.7250m
+t=1.2s, distance_ball_camera = 1.5640m
+t=1.5s (max rebounce), distance_ball_camera=1.5225m",1.564,,1.564,1.564,1.564,depth_copy,,accel,,basketball,0,,,,,test,,captured_0008,True,False,True,,
+2175,captured_0009,D3_lab_motion,138.727,0,,138.727,138.727,79.8794244272807,,captured_0009,D3,lab,dist2,,cm,What is the basketball's initial distance from the floor in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",79.8794244272807,99.81240103402092,100.0,100.0,132.0,agree_geo_kind,3d_gravnofall_fovdefault,accel,,basketball,1,0.5959,1.0,1.1851823147022476,,test,118.29589249348992,captured_0009,True,True,True,1.100189431349,0.907229229712157
+2177,captured_0009,D3_lab_motion,78.44667557521959,0,,78.44667557521959,78.44667557521959,78.44667557521959,w1_labradius,captured_0009,D3,lab,maxheight,,cm,What is the maximum rebounce height of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",66.84667557521959,87.99442991390096,50.5,50.5,102.0,patch:rul140,3d_gravnofall_fovdefault,accel,,basketball,0,0.5959,1.0,,,test,87.99442991390096,captured_0009,True,True,True,,
+2178,captured_0009,D3_lab_motion,1.1921796121035562,0,,1.1921796121035562,1.1921796121035562,1.1921796121035562,rul265,captured_0009,D3,lab,speed,,m/s,What is the basketball's velocity at 1.8s in m/s? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.1921796121035562,0.6379289789139873,4.9,4.9,2.25,patch:rul265,3d_gravnofall_fovdefault,accel,,basketball,0,0.5959,1.0,1.2873641095442987,,test,0.8212468718921089,captured_0009,True,False,True,0.6699611926052252,0.9521879564894247
+2179,captured_0009,D3_lab_motion,1.5835,0,,1.5835,1.5835,1.5835,,captured_0009,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.8s in meters? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.5835,,1.5835,1.5835,1.5835,depth_copy,,accel,,basketball,0,,,,,test,,captured_0009,True,False,True,,
+2180,captured_0009,D3_lab_motion,138.727,0,,138.727,138.727,79.8794244272807,,captured_0009s,D3,lab,dist2,,cm,What is the basketball's initial distance from the floor in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",79.8794244272807,,70.75,70.75,66.75,caw_nogeo,,accel,,basketball,1,,,,,test,,captured_0009,True,True,True,,
+2182,captured_0009,D3_lab_motion,78.44667557521959,0,,78.44667557521959,78.44667557521959,78.44667557521959,w1_labradius,captured_0009s,D3,lab,maxheight,,cm,What is the maximum rebounce height of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",66.84667557521959,68.1603118682497,10.0,70.0,125.0,patch:rul140,vlm_3d_fovdefault,accel,,basketball,0,0.3575599456131917,0.6000334714099543,,,test,68.1603118682497,captured_0009,True,True,True,,
+2183,captured_0009,D3_lab_motion,1.1921796121035562,0,,1.1921796121035562,1.1921796121035562,1.1921796121035562,rul265,captured_0009s,D3,lab,speed,,m/s,What is the basketball's velocity at 1.8s in m/s? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.1921796121035562,0.6591579141747194,2.4,4.9,2.75,patch:rul265,vlm_3d_fovdefault,accel,,basketball,0,0.3575599456131917,0.6000334714099543,1.295593794911396,,test,0.8540009034715049,captured_0009,True,False,True,1.1327410265126763,0.581914046323582
+2184,captured_0009,D3_lab_motion,1.5835,0,,1.5835,1.5835,1.5835,,captured_0009s,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.8s in meters? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.5835,,1.5835,1.5835,1.5835,depth_copy,,accel,,basketball,0,,,,,test,,captured_0009,True,False,True,,
+2185,captured_0009,D3_lab_motion,138.727,0,,138.727,138.727,79.8794244272807,,captured_0009x,D3,lab,dist2,,cm,What is the basketball's initial distance from the floor in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",79.8794244272807,,89.10638290917363,70.75,60.75,caw_nogeo,,accel,,basketball,1,,,,,test,,captured_0009,True,True,True,,
+2187,captured_0009,D3_lab_motion,78.44667557521959,0,,78.44667557521959,78.44667557521959,78.44667557521959,w1_labradius,captured_0009x,D3,lab,maxheight,,cm,What is the maximum rebounce height of the basketball in cm? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",66.84667557521959,68.16612743447006,40.71088955768207,70.0,125.0,patch:rul140,3d_fovdefault,accel,,basketball,0,0.3575599456131917,0.6000334714099543,,,test,68.16612743447006,captured_0009,True,True,True,,
+2188,captured_0009,D3_lab_motion,1.1921796121035562,0,,1.1921796121035562,1.1921796121035562,1.1921796121035562,rul265,captured_0009x,D3,lab,speed,,m/s,What is the basketball's velocity at 1.8s in m/s? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.1921796121035562,0.6576347158933104,4.350427547951408,4.9,1.47,patch:rul265,3d_fovdefault,accel,,basketball,0,0.3575599456131917,0.6000334714099543,1.295596289193527,,test,0.8520290975562125,captured_0009,True,False,True,1.1330612315560777,0.5804052751766599
+2189,captured_0009,D3_lab_motion,1.5835,0,,1.5835,1.5835,1.5835,,captured_0009x,D3,lab,dist2,,m,What is the basketball's  distance from the camera at 1.8s in meters? ,acceleration = 9.8 m/s^2,"t=0.0s, distance_ball_camera = 1.3210m
+t=0.0s, distance_floor_camera = 2.0285m
+t=1.8s, distance_ball_camera = 1.5835m
+t=1.92s (max rebounce), distance_ball_camera=1.5795m",1.5835,,1.5835,1.5835,1.5835,depth_copy,,accel,,basketball,0,,,,,test,,captured_0009,True,False,True,,
+2192,captured_0010,D3_lab_motion,1.2714866090276162,0,,1.2714866090276162,1.2714866090276162,1.2714866090276162,"rul333,pendcapphC",captured_0010,D3,lab,speed,,m/s,What is the ball's velocity at 0.3s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",1.2714866090276162,1.3333629298952023,2.1,2.41,1.07,patch:rul333,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0689273338215348,,test,1.4252680816693486,captured_0010,True,False,True,1.3547579344774856,0.984207507453695
+2193,captured_0010,D3_lab_motion,0.762518,0,,0.762518,0.762518,0.762518,rul448,captured_0010,D3,lab,speed,,m/s,What is the ball's velocoty at 0.6s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",0.9008336877967972,0.3053444859424026,2.05,2.18,1.25,patch:rul333,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.1298148460958173,,test,0.344982733391222,captured_0010,True,False,True,0.3131853507907785,0.9749641391955974
+2194,captured_0010,D3_lab_motion,7.447482238911131,0,,7.447482238911131,7.447482238911131,7.447482238911131,"r2_strictport_tspendaq,tspendaq",captured_0010,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.3s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",3.07808428925704,2.1693296542792573,9.8,10.1,2.0,dis_caw_routed,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.3000000000000016,,test,2.820128550563038,captured_0010,True,True,True,2.2799758031983908,0.951470472290137
+2195,captured_0010,D3_lab_motion,7.243256187927787,0,,7.243256187927787,7.243256187927787,7.243256187927787,"rul332,pendacc_upC",captured_0010,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.6s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",7.243256187927787,3.8819984224034862,1.63,10.1,2.0,patch:rul332,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0720496995352564,,test,4.161695242333997,captured_0010,True,False,True,3.9311698897111165,0.9874918996921693
+2198,captured_0010,D3_lab_motion,1.3318926719257391,0,,1.3318926719257391,1.3318926719257391,1.3318926719257391,rul406,captured_0010s,D3,lab,speed,,m/s,What is the ball's velocity at 0.3s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",1.3318926719257391,1.3318926719257391,3.18,4.9,1.706,patch:rul406,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0678660401096065,,test,1.422282953420342,captured_0010,True,False,True,1.3519603535421585,0.9851566049523259
+2199,captured_0010,D3_lab_motion,0.7395738889235272,0,,0.7395738889235272,0.7395738889235272,0.7395738889235272,"rul333,pendcapphC",captured_0010s,D3,lab,speed,,m/s,What is the ball's velocoty at 0.6s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",0.7395738889235272,0.2975642567128767,2.15,4.19,1.75,patch:rul333,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.1190865536223855,,test,0.3330001585260199,captured_0010,True,False,True,0.3044302042586027,0.9774465626285438
+2200,captured_0010,D3_lab_motion,7.447482238911131,0,,7.447482238911131,7.447482238911131,7.447482238911131,r2_strictport_tspendaq,captured_0010s,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.3s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",3.07808428925704,2.1867478048201856,10.1,9.8,2.0,dis_caw_routed,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.2999999999999987,,test,2.8427721462662383,captured_0010,True,True,True,2.2693005175694974,0.9636219565852262
+2201,captured_0010,D3_lab_motion,7.243256,0,,7.243256,7.243256,7.243256,rul448,captured_0010s,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.6s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",5.250610051194371,3.824460816422867,10.1,9.8,2.0,dis_caw_routed,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0183630369943844,,test,3.894689531878413,captured_0010,True,False,True,3.1335237934963387,1.2204984127966652
+2204,captured_0010,D3_lab_motion,1.332286026512531,0,,1.332286026512531,1.332286026512531,1.332286026512531,rul406,captured_0010X,D3,lab,speed,,m/s,What is the ball's velocity at 0.3s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",1.332286026512531,1.332286026512531,2.676178118843911,3.93,1.97,patch:rul406,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0679956178041816,,test,1.4228756379771288,captured_0010,True,False,True,1.3523008444827698,0.9851994339485204
+2205,captured_0010,D3_lab_motion,0.7625184775563745,0,,0.7625184775563745,0.7625184775563745,0.7625184775563745,"rul333,pendcapphC",captured_0010X,D3,lab,speed,,m/s,What is the ball's velocoty at 0.6s in m/s? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",0.7625184775563745,0.2960000144309485,2.287785176231311,3.68,2.45,patch:rul333,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.1232187541036924,,test,0.3324727674238049,captured_0010,True,False,True,0.3077049341586748,0.9619605718714591
+2206,captured_0010,D3_lab_motion,7.447482238911131,0,,7.447482238911131,7.447482238911131,7.447482238911131,r2_strictport_tspendaq,captured_0010X,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.3s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",3.07808428925704,2.1873145006892964,9.99899323197855,9.8,2.0,dis_caw_routed,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.3000000000000005,,test,2.8435088508960864,captured_0010,True,True,True,2.2730605765063925,0.9622772588186433
+2207,captured_0010,D3_lab_motion,7.244017092213311,0,,7.244017092213311,7.244017092213311,7.244017092213311,rul332,captured_0010X,D3,lab,accel,,m/s^2,What is that ball's acceleration at 0.6s in m/s^2? ,gravity_acceleration = 9.8 m/s^2,"t=0.3s, distance_ball_camera = 1.7060m
+t=0.6s, distance_ball_camera = 1.3440m
+t=0.9s, distance_ball_camera = 1.4605m
+t=1.2s, distance_ball_camera = 1.7840m
+t=1.5s, distance_ball_camera = 1.7170m
+t=1.8s, distance_ball_camera = 1.3500m
+",7.244017092213311,3.7982110350092952,7.415091751731955,9.8,2.0,patch:rul332,3d_fovdefault,accel,,ball,0,0.5959,1.0,1.0652902592004188,,test,4.046197217982943,captured_0010,True,False,True,3.8796809357481905,0.979000876080243
+2239,captured_0014,D3_lab_motion,145.1368576891167,0,,145.1368576891167,145.1368576891167,145.1368576891167,,captured_0014,D3,lab,speed,,cm/s,What is the velocity of the rolling ball at 0.6s in cm/s? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",145.1368576891167,141.12399280313835,50.0,49.0,127.2,dis_geo,3d_calib,accel,ball,rolling ball,0,0.3942149547303951,0.6615454853673353,1.2968678578343282,1.2999999999999992,test,141.12399280313835,captured_0014,True,False,False,1.3692807114662826,1.0306432539462045
+2242,captured_0014,D3_lab_motion,24.09081580002238,0,,24.09081580002238,24.09081580002238,24.09081580002238,rul298,captured_0014,D3,lab,disp,,cm,What is the displacement of the rolling object from 0s to 0.6s in cm? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",24.09081580002238,24.03786956408645,90.0,90.0,9.5,patch:rul298,3d_calib,accel,ball,rolling object,0,,,,,test,24.03786956408645,captured_0014,True,False,False,,
+2250,captured_0014,D3_lab_motion,145.1368576891167,0,,145.1368576891167,145.1368576891167,145.1368576891167,,captured_0014s,D3,lab,speed,,cm/s,What is the velocity of the rolling ball at 0.6s in cm/s? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",145.1368576891167,138.4904752816481,49.0,49.0,120.0,dis_geo,3d_calib,accel,ball,rolling ball,0,0.5959,1.0,1.291752890420912,1.2999999999999998,test,178.89547174083478,captured_0014,True,False,False,0.844676614752751,1.6395680058241726
+2253,captured_0014,D3_lab_motion,24.09081580002238,0,,24.09081580002238,24.09081580002238,24.09081580002238,rul298,captured_0014s,D3,lab,disp,,cm,What is the displacement of the rolling object from 0s to 0.6s in cm? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",24.09081580002238,24.197058389706648,90.0,90.0,9.0,patch:rul298,3d_calib,accel,ball,rolling object,0,0.5959,1.0,1.230267438455056,1.3000000000000016,test,29.76885304325182,captured_0014,True,False,False,0.1763958555042845,1.3717475572502282
+2261,captured_0014,D3_lab_motion,145.1368576891167,0,,145.1368576891167,145.1368576891167,145.1368576891167,,captured_0014x,D3,lab,speed,,cm/s,What is the velocity of the rolling ball at 0.6s in cm/s? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",145.1368576891167,141.12399280313835,47.80343568248174,41.4,120.0,dis_geo,3d_calib,accel,ball,rolling ball,0,0.5959,1.0,1.292594337557092,1.299999999999992,test,182.41607399078444,captured_0014,True,False,False,0.8912281776322856,1.5834776810811866
+2264,captured_0014,D3_lab_motion,24.09081580002238,0,,24.09081580002238,24.09081580002238,24.09081580002238,rul298,captured_0014x,D3,lab,disp,,cm,What is the displacement of the rolling object from 0s to 0.6s in cm? ,"t=0.6, ball acceleration = 4.6m/s^2","t=0s, distance_cookie_camera = 1.7355m
+t=0s, distance_ball_camera = 1.8180m
+t=0s, distance_cup_camera = 1.7270m
+t=0s, distance_pen_camera = 1.6725m
+t=0s, distance_book_camera = 1.6650m
+t=0.6s, distance_ball_camera = 1.7288m
+t=0s, distance_slope_far_camera = 1.8540m
+t=0s, distance_slope_near_camera = 1.7010m
+",24.09081580002238,,89.99999999999997,90.0,9.0,patch:rul298,,accel,ball,rolling object,0,,,,,test,,captured_0014,True,False,False,,
+2280,captured_0016,D3_lab_motion,216.6285289939957,0,,216.6285289939957,216.6285289939957,216.6285289939957,rul141,captured_0016,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",216.6285289939957,174.87779225814356,,1529.0,152.9,patch:rul141,3d_gravnofall_fovdefault,accel,,people,0,0.5959,1.0,1.299997340328478,,test,227.3406648181027,captured_0016,True,False,True,2.1765657720539417,0.8034574213354374
+2282,captured_0016,D3_lab_motion,2.0715616413814897,0,,2.0715616413814897,2.0715616413814897,2.0715616413814897,rul451,captured_0016,D3,lab,speed,,m/s,What is the velocity of the soccer ball at 1.5s in m/s?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",1.8046127123575968,2.0715616413814897,2.0,2.0,10.0,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.2031528765410109,,test,2.492405347760157,captured_0016,True,True,True,2.846779969309132,0.727685899056057
+2283,captured_0016,D3_lab_motion,124.00552296735673,0,,124.00552296735673,124.00552296735673,124.00552296735673,rul451,captured_0016,D3,lab,disp,,cm,What is the displacement of the soccer ball between 1.0s and 1.5s in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",98.21645726454658,124.00552296735673,140.0,140.0,102.0,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.297003378036137,,test,160.83558218379943,captured_0016,True,True,True,1.445749851546149,0.8577246114515572
+2284,captured_0016,D3_lab_motion,216.6285289939957,0,,216.6285289939957,216.6285289939957,216.6285289939957,rul141,captured_0016s,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",216.6285289939957,174.84605484258944,,1529.0,152.9,patch:rul141,3d_gravnofall_fovdefault,accel,,people,0,0.5959,1.0,1.2999997941496786,,test,227.2998353032497,captured_0016,True,False,True,2.1790618000063957,0.8023914459061062
+2286,captured_0016,D3_lab_motion,1.8983391942848271,0,,1.8983391942848271,1.8983391942848271,1.8983391942848271,rul451,captured_0016s,D3,lab,speed,,m/s,What is the velocity of the soccer ball at 1.5s in m/s?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",1.8046127123575968,1.8983391942848271,2.0,2.0,1.402,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.2112703291654074,,test,2.299401940728977,captured_0016,True,True,True,2.728634422462104,0.6957103445803179
+2287,captured_0016,D3_lab_motion,124.32260798248294,0,,124.32260798248294,124.32260798248294,124.32260798248294,rul451,captured_0016s,D3,lab,disp,,cm,What is the displacement of the soccer ball between 1.0s and 1.5s in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",98.21645726454658,124.32260798248294,100.0,100.0,52.0,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.2964246231006986,,test,161.17489019658635,captured_0016,True,True,True,1.4558909776684565,0.8539280062136243
+2288,captured_0016,D3_lab_motion,216.6285289939957,0,,216.6285289939957,216.6285289939957,216.6285289939957,rul141,captured_0016x,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",216.6285289939957,174.96908842565915,,1529.0,152.9,patch:rul141,3d_gravnofall_fovdefault,accel,,people,0,0.5959,1.0,1.2999998857202018,,test,227.4597949579248,captured_0016,True,False,True,2.1807230514115896,0.8023443798257694
+2290,captured_0016,D3_lab_motion,1.9917666495211777,0,,1.9917666495211777,1.9917666495211777,1.9917666495211777,rul451,captured_0016x,D3,lab,speed,,m/s,What is the velocity of the soccer ball at 1.5s in m/s?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",1.8046127123575968,1.9917666495211777,2.788760502450782,14.7,4.744,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.2210947582916134,,test,2.432135815470359,captured_0016,True,True,True,2.5244186370510158,0.7890001366207336
+2291,captured_0016,D3_lab_motion,124.33647796462309,0,,124.33647796462309,124.33647796462309,124.33647796462309,rul451,captured_0016x,D3,lab,disp,,cm,What is the displacement of the soccer ball between 1.0s and 1.5s in cm?,Gravity acc = 9.8m/s^2,"t=1.5s, distance_soccer_ball_camera =1.4020m
+distance_near_person_camera = 0.8430m
+distance_far_person_camera = 2.3720m",98.21645726454658,124.33647796462309,127.15032404237778,110.0,52.0,agree_gm,3d_gravnofall_fovdefault,accel,,soccer ball,0,0.5959,1.0,1.2969519621703456,,test,161.25843906556784,captured_0016,True,True,True,1.4477593577263572,0.8588200608137535
+2294,captured_0018,D3_lab_motion,208.9256269713177,0,,208.9256269713177,208.9256269713177,208.9256269713177,second,captured_0018,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",208.9256269713177,,,1128.0,113.0,patch:second,,accel,,people,0,0.5959,1.0,1.3,,test,,captured_0018,True,False,True,0.8800654207864389,
+2301,captured_0018,D3_lab_motion,149.27026475710957,0,,149.27026475710957,149.27026475710957,149.27026475710957,rul301,captured_0018,D3,lab,speed,,cm/s,What is the velocity of the box at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",149.27026475710957,296.3421408975641,143.0,148.0,0.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,296.3421408975641,captured_0018,True,False,True,,
+2302,captured_0018,D3_lab_motion,143.4569209302371,0,,143.4569209302371,143.4569209302371,143.4569209302371,"rul451,w1_d3labgeoS2",captured_0018,D3,lab,speed,,cm/s,What is the velocity of the soccer ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",116.91425018753628,143.4569209302371,147.0,147.0,0.0,agree_gm,3d_fovdefault,accel,,soccer ball,0,0.4638456451512423,0.7783951084934424,1.3000000000000005,,test,186.49399720930828,captured_0018,True,True,True,1.938301028184189,0.7401168283165402
+2303,captured_0018,D3_lab_motion,294.14710427759,0,,294.14710427759,294.14710427759,294.14710427759,rul285,captured_0018,D3,lab,speed,,cm/s,What is the velocity of the tennis ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",294.14710427759,343.1672753887932,214.0,154.0,0.0,patch:rul285,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.2061663153090914,,test,413.9168080903609,captured_0018,True,False,True,3.33238791177648,1.0297939029728755
+2304,captured_0018,D3_lab_motion,326.9358730519317,0,,326.9358730519317,326.9358730519317,326.9358730519317,rul285,captured_0018,D3,lab,speed,,cm/s,What is the velocity of the pineapple toy at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",326.9358730519317,349.71821839672793,153.0,146.0,0.0,patch:rul285,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,,,,,test,349.71821839672793,captured_0018,True,False,True,,
+2305,captured_0018,D3_lab_motion,23.5542,0,,23.5,23.5542,16.43855712327115,,captured_0018,D3,lab,dist2,,cm,What is the distance between the box and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",16.43855712327115,21.62985048286929,38.0,10.0,100.0,agree_geo_kind,3d_fovdefault_tdepth=prior,accel,,box,1,0.4638456451512423,0.7783951084934424,1.300000000000001,,test,28.118805627730097,captured_0018,True,True,True,0.13311353430514677,1.6249174507894484
+2306,captured_0018,D3_lab_motion,136.73587287099687,0,,136.73587287099687,136.73587287099687,136.73587287099687,rul301,captured_0018,D3,lab,dist2,,cm,What is the distance between the box and the pineapple toy in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",136.73587287099687,133.8635367030182,112.0,143.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,133.8635367030182,captured_0018,True,False,True,,
+2307,captured_0018,D3_lab_motion,114.51153067731876,0,,114.51153067731876,114.51153067731876,114.51153067731876,rul301,captured_0018,D3,lab,dist2,,cm,What is the distance between the box and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",114.51153067731876,99.00072988748724,115.0,138.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,0.5959,1.0,1.3,,test,128.70094885373342,captured_0018,True,False,True,1.0604731416777666,0.9335524493421768
+2308,captured_0018,D3_lab_motion,102.78132508461556,0,,102.78132508461556,102.78132508461556,102.78132508461556,rul301,captured_0018,D3,lab,dist2,,cm,What is the distance between the tennis ball and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",102.78132508461556,77.58705011685309,113.0,133.0,120.0,patch:rul301,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.2985506593669829,,test,100.75071508757873,captured_0018,True,False,True,0.8257712742284675,0.9395707084791006
+2309,captured_0018,D3_lab_motion,123.22257639620214,0,,123.22257639620214,123.22257639620214,123.22257639620214,rul301,captured_0018,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",123.22257639620214,112.29817290626832,112.0,133.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.4638456451512422,0.7783951084934423,1.3000000000000005,,test,145.98762477814884,captured_0018,True,False,True,1.5387070340732287,0.7298216646803469
+2310,captured_0018,D3_lab_motion,24.965103469870385,0,,24.965103469870385,24.965103469870385,24.965103469870385,rul161,captured_0018,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",24.965103469870385,35.61641079983931,110.0,110.0,120.0,patch:rul161,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.5959,1.0,1.2999999999999992,,test,46.30133403979107,captured_0018,True,False,True,0.39348710380453705,0.9051481091876292
+2313,captured_0018,D3_lab_motion,209.0477086225113,0,,209.0477086225113,209.0477086225113,209.0477086225113,second,captured_0018s,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",209.0477086225113,,,1128.0,113.0,patch:second,,accel,,people,0,0.5959,1.0,1.3,,test,,captured_0018,True,False,True,0.8989136793191026,
+2320,captured_0018,D3_lab_motion,149.27026475710957,0,,149.27026475710957,149.27026475710957,149.27026475710957,rul301,captured_0018s,D3,lab,speed,,cm/s,What is the velocity of the box at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",149.27026475710957,186.17511009054684,133.0,136.0,0.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,186.17511009054684,captured_0018,True,False,True,,
+2321,captured_0018,D3_lab_motion,141.09380954601323,0,,141.09380954601323,141.09380954601323,141.09380954601323,rul451,captured_0018s,D3,lab,speed,,cm/s,What is the velocity of the soccer ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",116.91425018753628,141.09380954601323,143.6,148.0,0.0,agree_gm,3d_fovdefault,accel,,soccer ball,0,0.4346276266111893,0.7293633606497555,1.3000000000000005,,test,183.42195240981724,captured_0018,True,True,True,2.0428871623371347,0.6906588486492663
+2322,captured_0018,D3_lab_motion,294.14710427759,0,,294.14710427759,294.14710427759,294.14710427759,rul285,captured_0018s,D3,lab,speed,,cm/s,What is the velocity of the tennis ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",294.14710427759,307.6811273050333,152.1,148.0,0.0,patch:rul285,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.264969870764749,,test,389.2073558438003,captured_0018,True,False,True,3.0619740775247046,1.004845630678109
+2323,captured_0018,D3_lab_motion,326.9358730519317,0,,326.9358730519317,326.9358730519317,326.9358730519317,rul285,captured_0018s,D3,lab,speed,,cm/s,What is the velocity of the pineapple toy at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",326.9358730519317,317.1243502567704,146.0,147.06,0.0,patch:rul285,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,,,,,test,317.1243502567704,captured_0018,True,False,True,,
+2324,captured_0018,D3_lab_motion,23.5542,0,,23.5,23.5542,16.43855712327115,,captured_0018s,D3,lab,dist2,,cm,What is the distance between the box and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",16.43855712327115,10.357454859659272,40.0,10.0,100.0,dis_caw_routed,3d_fovdefault_tdepth=prior,accel,,box,1,0.4489990332573338,0.753480505550149,1.3000000000000007,,test,13.464691317557062,captured_0018,True,True,True,0.1330227277678178,0.7786229491352419
+2325,captured_0018,D3_lab_motion,136.73587287099687,0,,136.73587287099687,136.73587287099687,136.73587287099687,rul301,captured_0018s,D3,lab,dist2,,cm,What is the distance between the box and the pineapple toy in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",136.73587287099687,133.4124242411659,112.0,152.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,133.4124242411659,captured_0018,True,False,True,,
+2326,captured_0018,D3_lab_motion,114.51153067731876,0,,114.51153067731876,114.51153067731876,114.51153067731876,rul301,captured_0018s,D3,lab,dist2,,cm,What is the distance between the box and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",114.51153067731876,98.65899999046438,130.0,150.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,0.5959,1.0,1.2999999999999998,,test,128.25669998760367,captured_0018,True,False,True,1.0504123042003577,0.939240711442066
+2327,captured_0018,D3_lab_motion,102.78132508461556,0,,102.78132508461556,102.78132508461556,102.78132508461556,rul301,captured_0018s,D3,lab,dist2,,cm,What is the distance between the tennis ball and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",102.78132508461556,77.29898979856569,112.0,134.0,100.0,patch:rul301,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.2999999999999996,,test,100.48868673813536,captured_0018,True,False,True,0.8150464843839543,0.9483997695786817
+2328,captured_0018,D3_lab_motion,123.22257639620214,0,,123.22257639620214,123.22257639620214,123.22257639620214,rul301,captured_0018s,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",123.22257639620214,111.99775473279438,112.0,143.0,125.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.4346276266111893,0.7293633606497555,1.3000000000000007,,test,145.59708115263277,captured_0018,True,False,True,1.6452095878944526,0.6807506809884913
+2329,captured_0018,D3_lab_motion,24.992314273441345,0,,24.992314273441345,24.992314273441345,24.992314273441345,rul301,captured_0018s,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",24.992314273441345,35.49354310921061,34.0,11.0,100.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.5959,1.0,1.3000000000000005,,test,46.14160604197381,captured_0018,True,False,True,0.38497875017449945,0.9219610976741558
+2332,captured_0018,D3_lab_motion,209.02029893646863,0,,209.02029893646863,209.02029893646863,209.02029893646863,second,captured_0018x,D3,lab,dist2,,cm,What is the distance between the two people in cm?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",209.02029893646863,,,1128.0,113.0,patch:second,,accel,,people,0,0.5959,1.0,1.2999999999999996,,test,,captured_0018,True,False,True,0.8984466380082418,
+2339,captured_0018,D3_lab_motion,149.27026475710957,0,,149.27026475710957,149.27026475710957,149.27026475710957,rul301,captured_0018x,D3,lab,speed,,cm/s,What is the velocity of the box at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",149.27026475710957,172.5427318641744,115.0,113.0,0.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,172.5427318641744,captured_0018,True,False,True,,
+2340,captured_0018,D3_lab_motion,142.21983138452288,0,,142.21983138452288,142.21983138452288,142.21983138452288,"rul451,w1_d3labgeoS2",captured_0018x,D3,lab,speed,,cm/s,What is the velocity of the soccer ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",116.91425018753628,142.21983138452288,143.6,133.0,0.0,agree_gm,3d_fovdefault,accel,,soccer ball,0,0.4346276266111893,0.7293633606497555,1.3000000000000012,,test,184.8857807998799,captured_0018,True,True,True,2.061316861172341,0.6899464806378075
+2341,captured_0018,D3_lab_motion,294.14710427759,0,,294.14710427759,294.14710427759,294.14710427759,rul285,captured_0018x,D3,lab,speed,,cm/s,What is the velocity of the tennis ball at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",294.14710427759,305.23410257411774,148.0,148.0,0.0,patch:rul285,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.2679471917166087,,test,387.0207231749919,captured_0018,True,False,True,3.2360994024909213,0.9432160901459641
+2342,captured_0018,D3_lab_motion,326.9358730519317,0,,326.9358730519317,326.9358730519317,326.9358730519317,rul285,captured_0018x,D3,lab,speed,,cm/s,What is the velocity of the pineapple toy at 3.4s in cm/s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",326.9358730519317,315.0938167331336,133.0,134.6,0.0,patch:rul285,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,,,,,test,315.0938167331336,captured_0018,True,False,True,,
+2343,captured_0018,D3_lab_motion,23.5542,0,,23.5,23.5542,16.43855712327115,,captured_0018x,D3,lab,dist2,,cm,What is the distance between the box and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",16.43855712327115,9.590478615717888,43.0,10.0,100.0,dis_caw_routed,3d_fovdefault_tdepth=prior,accel,,box,1,0.4346276266111893,0.7293633606497555,1.3000000000000007,,test,12.467622200433262,captured_0018,True,True,True,0.1419906447781095,0.6754303166032556
+2344,captured_0018,D3_lab_motion,136.73587287099687,0,,136.73587287099687,136.73587287099687,136.73587287099687,rul301,captured_0018x,D3,lab,dist2,,cm,What is the distance between the box and the pineapple toy in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",136.73587287099687,132.65749784437833,113.0,148.0,120.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,,,,,test,132.65749784437833,captured_0018,True,False,True,,
+2345,captured_0018,D3_lab_motion,114.51153067731876,0,,114.51153067731876,114.51153067731876,114.51153067731876,rul301,captured_0018x,D3,lab,dist2,,cm,What is the distance between the box and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",114.51153067731876,98.1518863950688,112.0,140.0,120.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,box,0,0.5959,1.0,1.3,,test,127.59745231358944,captured_0018,True,False,True,1.0550139835100834,0.9303373029096036
+2346,captured_0018,D3_lab_motion,102.78132508461556,0,,102.78132508461556,102.78132508461556,102.78132508461556,rul301,captured_0018x,D3,lab,dist2,,cm,What is the distance between the tennis ball and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",102.78132508461556,77.04904984617382,110.0,140.0,120.0,patch:rul301,3d_fovdefault,accel,,tennis ball,0,0.5959,1.0,1.299933148820953,,test,100.15861398019926,captured_0018,True,False,True,0.8196134589964594,0.9400656980488488
+2347,captured_0018,D3_lab_motion,123.22257639620214,0,,123.22257639620214,123.22257639620214,123.22257639620214,rul301,captured_0018x,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the soccer ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",123.22257639620214,111.60669179564198,113.0,133.0,120.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.4346276266111893,0.7293633606497555,1.2999999999999998,,test,145.08869933433456,captured_0018,True,False,True,1.6460354137837967,0.678033357369195
+2348,captured_0018,D3_lab_motion,24.937922292520643,0,,24.937922292520643,24.937922292520643,24.937922292520643,rul301,captured_0018x,D3,lab,dist2,,cm,What is the distance between the pineapple toy and the tennis ball in cm at 3.0s?,Gravity acc = 9.8m/s^2,"distance_soccer_ball_camera =2.8000m
+distance_near_person_camera = 2.002m
+distance_far_person_camera = 3.130m",24.937922292520643,35.24153752025161,38.0,11.0,100.0,patch:rul301,3d_fovdefault_tdepth=prior,accel,,pineapple toy,0,0.5959,1.0,1.3000000000000007,,test,45.81399877632712,captured_0018,True,False,True,0.38565581388038067,0.9138080187527658
+2352,captured_0020,D3_lab_motion,229.1796168176056,0,,229.1796168176056,229.1796168176056,229.1796168176056,rul141,captured_0020,D3,lab,dist2,,cm,What is the distance between two people in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",229.1796168176056,168.38042029893737,,1657.0,145.0,patch:rul141,3d_fovdefault,accel,,people,0,0.5959,1.0,1.3000000000000005,,test,218.8945463886186,captured_0020,True,False,True,1.9606241118028098,0.8588103108867217
+2353,captured_0020,D3_lab_motion,187.7460667523723,0,,187.7460667523723,187.7460667523723,187.7460667523723,rul120,captured_0020,D3,lab,speed,,cm/s,What is the velocity of the yellow toy at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",187.7460667523723,,152.0,153.0,127.5,patch:rul120,,accel,,yellow toy,0,,,,,test,,captured_0020,True,False,True,,
+2354,captured_0020,D3_lab_motion,328.91510054439965,0,,328.91510054439965,328.91510054439965,328.91510054439965,"rul082,c48gflbC",captured_0020,D3,lab,speed,,cm/s,What is the velocity of the white jar at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",328.91510054439965,264.57111776152897,143.0,143.0,127.5,patch:rul082,3d_fovdefault,accel,,white jar,0,0.5959,1.0,1.2789199601649928,,test,338.36528338838224,captured_0020,True,False,True,3.2100382819205353,0.8241992603379128
+2355,captured_0020,D3_lab_motion,57.12508723206978,0,r5held:r5_consider,57.12508723206978,57.12508723206978,57.12508723206978,,captured_0020,D3,lab,disp,,cm,What is the displacement of the yellow toy from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",57.12508723206978,,68.0,104.0,34.5,caw_nogeo,,accel,,yellow toy,0,,,,,test,,captured_0020,True,False,True,,
+2356,captured_0020,D3_lab_motion,70.26664310852168,0,,70.26664310852168,70.26664310852168,70.26664310852168,rul451,captured_0020,D3,lab,disp,,cm,What is the displacement of the white jar from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",83.78684436662758,70.26664310852168,104.0,104.0,33.5,agree_gm,3d_fovdefault,accel,,white jar,0,0.5959,1.0,1.205373944673593,,test,84.69758078269031,captured_0020,True,True,True,0.7420348409510323,0.9469453350527869
+2360,captured_0020,D3_lab_motion,229.1796168176056,0,,229.1796168176056,229.1796168176056,229.1796168176056,rul141,captured_0020s,D3,lab,dist2,,cm,What is the distance between two people in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",229.1796168176056,168.4091348725225,165.7,165.7,143.0,patch:rul141,3d_fovdefault,accel,,people,0,0.5959,1.0,1.2999999999999998,,test,218.9318753342792,captured_0020,True,False,True,1.9667526241266002,0.8562802093492057
+2361,captured_0020,D3_lab_motion,188.74696015856395,0,,188.74696015856395,188.74696015856395,188.74696015856395,rul120,captured_0020s,D3,lab,speed,,cm/s,What is the velocity of the yellow toy at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",188.74696015856395,133.32142361690845,133.0,152.0,125.0,patch:rul120,vlm_3d_fovdefault_tdepth=prior,accel,,yellow toy,0,,,,,test,133.32142361690845,captured_0020,True,False,True,,
+2362,captured_0020,D3_lab_motion,330.50616859291955,0,,330.50616859291955,330.50616859291955,330.50616859291955,"rul082,c48gflbC",captured_0020s,D3,lab,speed,,cm/s,What is the velocity of the white jar at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",330.50616859291955,274.601544043235,152.0,152.0,125.0,patch:rul082,3d_fovdefault,accel,,white jar,0,0.5959,1.0,1.2855666260012677,,test,353.0185804704,captured_0020,True,False,True,3.0920773721974664,0.8880810891484329
+2363,captured_0020,D3_lab_motion,43.93538455644644,0,,43.93538455644644,43.93538455644644,43.93538455644644,rul451,captured_0020s,D3,lab,disp,,cm,What is the displacement of the yellow toy from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",57.12508723206978,43.93538455644644,48.0,104.0,25.0,agree_gm,vlm_3d_fovdefault_tdepth=prior,accel,,yellow toy,0,,,,,test,43.93538455644644,captured_0020,True,True,True,,
+2364,captured_0020,D3_lab_motion,64.20772911291289,0,,64.20772911291289,64.20772911291289,64.20772911291289,rul451,captured_0020s,D3,lab,disp,,cm,What is the displacement of the white jar from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",83.78684436662758,64.20772911291289,104.0,104.0,25.0,agree_gm,3d_fovdefault,accel,,white jar,0,0.5959,1.0,1.1909720430274942,,test,76.46961031976177,captured_0020,True,True,True,0.747350116795523,0.8591385439025802
+2368,captured_0020,D3_lab_motion,229.1796168176056,0,,229.1796168176056,229.1796168176056,229.1796168176056,rul141,captured_0020x,D3,lab,dist2,,cm,What is the distance between two people in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",229.1796168176056,169.15759589339913,,1657.0,145.0,patch:rul141,3d_gravnofall_fovdefault,accel,,people,0,0.5959,1.0,1.3000000000000005,,test,219.9048746614189,captured_0020,True,False,True,1.9691989791368019,0.8590172841118847
+2369,captured_0020,D3_lab_motion,188.5931779827503,0,,188.5931779827503,188.5931779827503,188.5931779827503,rul120,captured_0020x,D3,lab,speed,,cm/s,What is the velocity of the yellow toy at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",188.5931779827503,,149.14276312740537,152.0,125.0,patch:rul120,,accel,,yellow toy,0,,,,,test,,captured_0020,True,False,True,,
+2370,captured_0020,D3_lab_motion,327.9251249556618,0,,327.9251249556618,327.9251249556618,327.9251249556618,"rul082,c48gflbC",captured_0020x,D3,lab,speed,,cm/s,What is the velocity of the white jar at 0.60s in cm/s?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",327.9251249556618,273.098874603803,145.93917526394858,152.0,125.0,patch:rul082,3d_gravnofall_fovdefault,accel,,white jar,0,0.5959,1.0,1.296812179221206,,test,354.1579467178166,captured_0020,True,False,True,2.9255520777011674,0.9334951740746242
+2371,captured_0020,D3_lab_motion,57.12508723206978,0,r5held:r5_consider,57.12508723206978,57.12508723206978,57.12508723206978,,captured_0020x,D3,lab,disp,,cm,What is the displacement of the yellow toy from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",57.12508723206978,,84.62039105452934,110.0,34.5,caw_nogeo,,accel,,yellow toy,0,,,,,test,,captured_0020,True,False,True,,
+2372,captured_0020,D3_lab_motion,58.22231434032828,0,,58.22231434032828,58.22231434032828,58.22231434032828,rul451,captured_0020x,D3,lab,disp,,cm,What is the displacement of the white jar from 0.60s to 0.80s in cm?,Gravity acc = 9.8m/s^2,"t=0.60s, distance_jar_camera =1.9735m
+t=0.60s, distance_carrot_camera = 2.6300m
+distance_near_person_camera = 1.5800m
+distance_far_person_camera = 3.2370m",83.78684436662758,58.22231434032828,103.99999999999996,104.0,25.0,agree_gm,3d_gravnofall_fovdefault,accel,,white jar,0,0.5959,1.0,1.219033983094208,,test,70.97497975525341,captured_0020,True,True,True,0.6645716076812542,0.8760878988416432
+2406,captured_0023,D3_lab_motion,86.3705268990384,0,,86.3705268990384,86.3705268990384,86.3705268990384,rul132,captured_0023,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",86.3705268990384,86.3705268990384,47.0,130.0,220.0,patch:rul132,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0049758259712194,1.000051510235425,test,86.80029160993053,captured_0023,True,False,False,1.1014799991165194,0.7841315953836193
+2407,captured_0023,D3_lab_motion,32.266371708536425,1,,95.5405672999695,95.5405672999695,95.5405672999695,"rul228,d05toplab_kinaccC3,d05toplab_kinaccC",captured_0023,D3,lab,speed,,cm/s,What is the velocity of the book at 1.4s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",95.5405672999695,51.03064179401599,47.0,143.0,227.0,patch:rul228,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0016161740876075,1.000051510235425,test,51.11311619495747,captured_0023,True,False,False,0.4665831322972643,1.0937095291628314
+2414,captured_0023,D3_lab_motion,33.23863386538818,0,,33.23863386538818,33.23863386538818,33.23863386538818,rul451,captured_0023,D3,lab,disp,,cm,What is the displacement of the book between 1.0s and 1.6s in cm?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",32.712519806577845,33.23863386538818,16.9,17.0,14.0,agree_gm,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0016346415760735,1.000051510235425,test,33.292967118236426,captured_0023,True,True,False,0.3327899758584652,0.9987871112898091
+2415,captured_0023,D3_lab_motion,86.370527,0,,86.370527,86.370527,86.370527,rul448,captured_0023s,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",109.3401720950561,109.3401720950561,45.0,45.5,280.0,patch:rul132,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.035818134179548,1.000409741521233,test,113.2565330503717,captured_0023,True,False,False,0.8463021204576959,1.2919756367374209
+2416,captured_0023,D3_lab_motion,32.28196990140587,1,,95.5405672999695,95.5405672999695,95.5405672999695,"rul228,d05toplab_kinaccC3,d05toplab_kinaccC",captured_0023s,D3,lab,speed,,cm/s,What is the velocity of the book at 1.4s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",95.5405672999695,47.26236519353069,47.0,47.6,280.0,patch:rul228,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.01883807970192,1.000409741521233,test,48.15269739594766,captured_0023,True,False,False,0.5190585134166243,0.910540217950252
+2423,captured_0023,D3_lab_motion,33.243924904975344,0,,33.243924904975344,33.243924904975344,33.243924904975344,rul451,captured_0023s,D3,lab,disp,,cm,What is the displacement of the book between 1.0s and 1.6s in cm?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",32.712519806577845,33.243924904975344,17.0,17.0,14.5,agree_gm,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0366762614336027,1.000409741521233,test,34.46318778586927,captured_0023,True,True,False,0.3515752939398561,0.9455705642007476
+2424,captured_0023,D3_lab_motion,86.36409741097171,0,,86.36409741097171,86.36409741097171,86.36409741097171,rul132,captured_0023x,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",86.36409741097171,86.36409741097171,77.04163490473577,45.5,280.0,patch:rul132,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.036184307533198,1.000211628189942,test,89.48912247151738,captured_0023,True,False,False,0.8468228726542973,1.0198602352375117
+2425,captured_0023,D3_lab_motion,32.29570330577138,1,,95.5405672999695,95.5405672999695,95.5405672999695,"rul228,d05toplab_kinaccC3,d05toplab_kinaccC",captured_0023x,D3,lab,speed,,cm/s,What is the velocity of the book at 1.4s in cm/s?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",95.5405672999695,51.0675775910666,81.98170527623832,47.6,280.0,patch:rul228,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0349809557082963,1.000211628189942,test,52.8539702609097,captured_0023,True,False,False,0.44703698187509894,1.1423568890623632
+2432,captured_0023,D3_lab_motion,33.24159266978302,0,,33.24159266978302,33.24159266978302,33.24159266978302,rul451,captured_0023x,D3,lab,disp,,cm,What is the displacement of the book between 1.0s and 1.6s in cm?,"t=1.4, book acceleration = 2.8m/s^2","distance_table_left_camera=0.7040m
+distance_table_right_camera=0.7250m
+distance_slope_far_camera=1.2010m
+distance_slope_near_camera=0.9555m
+t=1.2s, distance_book_camera=1.02m
+t=1.4s, distance_book_camera=0.8570m
+t=1.6s, distance_book_camera=0.8510m",32.712519806577845,33.24159266978302,16.983292336200268,17.0,14.7,agree_gm,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.037521454290904,1.000211628189942,test,34.48886556969913,captured_0023,True,True,False,0.3520772145276176,0.9441563185048285
+2433,captured_0024,D3_lab_motion,66.95513126444038,0,,66.95513126444038,66.95513126444038,66.95513126444038,rul438,captured_0024,D3,lab,speed,,cm/s,What is the velocity of the book at 1.0s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",66.95513126444038,45.75002328400314,30.0,130.0,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0193481515105742,1.2999999999776088,test,46.635201666114334,captured_0024,True,False,False,0.47103016114265217,0.9712758769633795
+2434,captured_0024,D3_lab_motion,122.95513126444038,0,,122.95513126444038,122.95513126444038,122.95513126444038,rul438,captured_0024,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",122.95513126444038,45.75004213174165,34.5,91.5,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0193430857781915,1.2999999999776088,test,46.63498912105181,captured_0024,True,False,False,0.47102642458296073,0.9712839820451264
+2442,captured_0024,D3_lab_motion,49.87082986295711,0,,49.87082986295711,49.87082986295711,49.87082986295711,rul438,captured_0024,D3,lab,path,,cm,What is the distance travelled by the book in cm?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",49.87082986295711,91.50022621927113,9.15,9.15,23.5,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.019554453046059,1.2999999999776088,test,93.28946309657964,captured_0024,True,False,False,0.9423650125301937,0.9709637454981324
+2443,captured_0024,D3_lab_motion,66.95513126444038,0,,66.95513126444038,66.95513126444038,66.95513126444038,rul438,captured_0024s,D3,lab,speed,,cm/s,What is the velocity of the book at 1.0s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",66.95513126444038,63.043681768014594,30.0,30.0,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0198623096562476,1.2999999999723344,test,64.29587489716083,captured_0024,True,False,False,0.4714099731405441,1.3373429787243603
+2444,captured_0024,D3_lab_motion,122.95513126444038,0,,122.95513126444038,122.95513126444038,122.95513126444038,rul438,captured_0024s,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",122.95513126444038,71.43618108656024,33.5,34.5,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0199855693007591,1.2999999999723344,test,72.86387383424729,captured_0024,True,False,False,0.47150119098602444,1.5150795470350709
+2452,captured_0024,D3_lab_motion,49.87082986295711,0,,49.87082986295711,49.87082986295711,49.87082986295711,rul438,captured_0024s,D3,lab,path,,cm,What is the distance travelled by the book in cm?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",49.87082986295711,103.20158673112414,9.15,9.15,23.5,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0202046855854168,1.2999999999723344,test,105.28674234294262,captured_0024,True,False,False,0.9433277819712547,1.094016191439477
+2453,captured_0024,D3_lab_motion,66.95513126444038,0,,66.95513126444038,66.95513126444038,66.95513126444038,rul438,captured_0024x,D3,lab,speed,,cm/s,What is the velocity of the book at 1.0s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",66.95513126444038,45.75013183646288,62.44997998398401,34.0,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.1713037393347523,1.299999999999996,test,53.58730049510687,captured_0024,True,False,False,0.6738599031377179,0.6789264596904327
+2454,captured_0024,D3_lab_motion,122.95513126444038,0,,122.95513126444038,122.95513126444038,122.95513126444038,rul438,captured_0024x,D3,lab,speed,,cm/s,What is the velocity of the book at 1.2s in cm/s?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",122.95513126444038,45.75009803508348,55.4975128848795,104.5,280.0,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.1941343940050282,1.299999999999996,test,54.63176559279505,captured_0024,True,False,False,0.7395682748534899,0.6186054701189918
+2462,captured_0024,D3_lab_motion,49.87082986295711,0,,49.87082986295711,49.87082986295711,49.87082986295711,rul438,captured_0024x,D3,lab,path,,cm,What is the distance travelled by the book in cm?,"t=1.0, book acceleration = 2.8m/s^2","t=1.0s, distance_book_camera=1.0685m
+t=1.2s, distance_book_camera=0.9770m
+distance_table_left_camera=1.035m
+distance_table_right_camera=0.5730m
+distance_slope_far_camera=1.2430m
+distance_slope_near_camera=0.9900m",49.87082986295711,91.50126273498684,13.430363298741938,9.15,23.5,patch:rul438,3d_fovdefault,accel,book,book,0,0.5959,1.0,1.0735850773341509,1.299999999999996,test,98.2343902295133,captured_0024,True,False,False,1.0602586294487455,0.8630088941842482
+2774,captured_0047,D3_lab_motion,1.0891012343384634,0,,1.0891012343384634,1.0891012343384634,1.0891012343384634,rul304,captured_0047,D3,lab,disp,,m,What is the yoga ball's displacement between 1.0s and 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",1.0891012343384634,0.7894037854256396,2.5,2.5,1.4972,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.0589346514391047,1.000011839128386,test,0.8359270223644095,captured_0047,True,False,False,0.6956490342552412,1.134773063073065
+2775,captured_0047,D3_lab_motion,2.486932775310402,0,,2.486932775310402,2.486932775310402,2.486932775310402,rul304,captured_0047,D3,lab,dist2,,m,What is the distance from the yoga ball to the person at 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",2.486932775310402,2.0541472201800874,2.3328,2.3328,2.3315,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.026919085966434,1.000011839128386,test,2.1094429857878265,captured_0047,True,False,False,1.8435898500305385,1.1142105279794532
+2777,captured_0047,D3_lab_motion,1.0891012343384634,0,,1.0891012343384634,1.0891012343384634,1.0891012343384634,rul304,captured_0047s,D3,lab,disp,,m,What is the yoga ball's displacement between 1.0s and 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",1.0891012343384634,0.763195894719695,2.5,2.5,1.4972,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.0350659829472255,1.0000116583154193,test,0.7899581089493285,captured_0047,True,False,False,0.7139421997981555,1.0689883507873108
+2778,captured_0047,D3_lab_motion,2.486932775310402,0,,2.486932775310402,2.486932775310402,2.486932775310402,rul304,captured_0047s,D3,lab,dist2,,m,What is the distance from the yoga ball to the person at 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",2.486932775310402,2.030264327689601,2.3328,2.3328,2.3315,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.0221619707955674,1.0000116583154193,test,2.07525898642714,captured_0047,True,False,False,1.9044662444319498,1.0660542467609728
+2780,captured_0047,D3_lab_motion,1.0891012343384634,0,,1.0891012343384634,1.0891012343384634,1.0891012343384634,rul304,captured_0047x,D3,lab,disp,,m,What is the yoga ball's displacement between 1.0s and 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",1.0891012343384634,0.8031111473979504,2.5000000000000004,2.5,1.4972,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.052713358073211,1.000011227207278,test,0.845445832883326,captured_0047,True,False,False,0.7066206883588908,1.1365519869835063
+2781,captured_0047,D3_lab_motion,2.486932775310402,0,,2.486932775310402,2.486932775310402,2.486932775310402,rul304,captured_0047x,D3,lab,dist2,,m,What is the distance from the yoga ball to the person at 1.5s in meters? ,velocity of the yoga ball at 1.0s = 2.1464m/s,"t=1.0s, distance_yoga_ball_camera = 2.4985m
+t=1.5s, distance_soccer_ball_camera = 1.4972m
+distance_person_camera = 3.8300m",2.486932775310402,2.10118416541086,2.02608949543921,1.0013,2.3315,patch:rul304,3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.0236611399058644,1.000011227207278,test,2.150900577916633,captured_0047,True,False,False,1.891122554665797,1.1110777354047188
+2782,captured_0052,D3_lab_motion,1.3974691719552166,0,,1.3974691719552166,1.3974691719552166,1.3974691719552166,,captured_0052,D3,lab,dist2,,m,What is the initial distance between the yoga ball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.3974691719552166,1.3974691719552166,0.381,0.381,1.381,depth_bound_geo,3d_fovdefault,speed,yoga ball,yoga ball,0,0.3575599456131917,0.6000334714099543,1.2332504134233004,1.000059350706502,test,1.3974691719552166,captured_0052,True,False,False,1.8405198491253947,0.7592795984348045
+2787,captured_0052,D3_lab_motion,1.231,0,,1.231,1.231,1.231,"rul027,c23s1d2lbC",captured_0052,D3,lab,dist2,,m,What is the distance between the basketball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.231,1.23104135658404,0.4,0.4,1.3,patch:rul027,3d_fovdefault,speed,yoga ball,basketball,0,0.3575599456131917,0.6000334714099543,1.296116841136063,1.000059350706502,test,1.23104135658404,captured_0052,True,False,False,2.4364367867908836,0.5052629985141078
+2788,captured_0052,D3_lab_motion,1.5258001524564286,0,,1.5258001524564286,1.5258001524564286,1.5258001524564286,,captured_0052,D3,lab,dist2,,m,What is the distance between the trashbin and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.5258001524564286,1.5258001524564286,0.748,0.748,0.235,depth_bound_geo,3d_fovdefault,speed,yoga ball,trash bin,0,0.3575599456131917,0.6000334714099543,1.2748922016130335,1.000059350706502,test,1.5258001524564286,captured_0052,True,False,False,2.4371346851673503,0.6260631231185554
+2789,captured_0052,D3_lab_motion,1.1307525378847727,0,,1.1307525378847727,1.1307525378847727,1.1307525378847727,,captured_0052,D3,lab,dist2,,m,What is the distance between the trashbin and the basketball in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.1307525378847727,1.120770373139809,1.04,1.04,1.0405,agree_geo_kind,3d_fovdefault,speed,yoga ball,trash bin,0,0.3575599456131917,0.6000334714099543,1.0135959124901497,1.000059350706502,test,1.120770373139809,captured_0052,True,False,False,1.0617768931973632,1.0555610885115392
+2790,captured_0052,D3_lab_motion,1.405649,0,,1.405649,1.405649,1.405649,rul448,captured_0052s,D3,lab,dist2,,m,What is the initial distance between the yoga ball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.515672932166754,1.515672932166754,0.381,0.381,1.375,depth_bound_geo,vlm_3d_calib,speed,yoga ball,yoga ball,0,0.5959,1.0,1.169954636558204,1.0000437571669067,test,1.773268574494262,captured_0052,True,False,False,1.3162779480847973,1.1514839509178736
+2795,captured_0052,D3_lab_motion,1.2592,0,,1.2592,1.2592,1.2592,rul448,captured_0052s,D3,lab,dist2,,m,What is the distance between the basketball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.4124,1.4124332109627744,0.4,0.4,0.3005,patch:rul027,vlm_3d_calib,speed,yoga ball,basketball,0,0.5959,1.0,1.2894321465591618,1.0000437571669067,test,1.82123678708318,captured_0052,True,False,False,1.4788161544188005,0.9551107531131104
+2796,captured_0052,D3_lab_motion,1.551841,0,,1.551841,1.551841,1.551841,rul448,captured_0052s,D3,lab,dist2,,m,What is the distance between the trashbin and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.712251037458053,1.712251037458053,0.746,0.746,0.235,depth_bound_geo,vlm_3d_calib,speed,yoga ball,trash bin,0,0.5959,1.0,1.2391757449576792,1.0000437571669067,test,2.121779954896642,captured_0052,True,False,False,1.5768071957056584,1.0858975289567856
+2797,captured_0052,D3_lab_motion,1.1307525378847727,0,,1.1307525378847727,1.1307525378847727,1.1307525378847727,,captured_0052s,D3,lab,dist2,,m,What is the distance between the trashbin and the basketball in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.1307525378847727,1.1466495872957616,1.0405,1.0405,1.0405,agree_geo_kind,vlm_3d_calib,speed,yoga ball,trash bin,0,0.5959,1.0,1.004998190596504,1.0000437571669067,test,1.1523807604804683,captured_0052,True,False,False,1.048139277002962,1.09398589715527
+2798,captured_0052,D3_lab_motion,1.4056494147000185,0,,1.4056494147000185,1.4056494147000185,1.4056494147000185,,captured_0052x,D3,lab,dist2,,m,What is the initial distance between the yoga ball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.4056494147000185,1.4056494147000185,0.381,0.381,0.381,depth_bound_geo,vlm_3d_calib,speed,yoga ball,yoga ball,0,0.266806351432298,0.4477367870990066,1.257994066913545,1.0000767187984356,test,1.4056494147000185,captured_0052,True,False,False,2.330643629084323,0.6031164083426509
+2803,captured_0052,D3_lab_motion,1.2592,0,,1.2592,1.2592,1.2592,rul027,captured_0052x,D3,lab,dist2,,m,What is the distance between the basketball and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.2592,1.2592179163227946,0.4916958096835676,1.38,0.3005,patch:rul027,vlm_3d_calib,speed,yoga ball,basketball,0,0.266806351432298,0.4477367870990066,1.2978206670563728,1.0000767187984356,test,1.2592179163227946,captured_0052,True,False,False,3.2511983719970514,0.38730885422697814
+2804,captured_0052,D3_lab_motion,1.5518412910795454,0,,1.5518412910795454,1.5518412910795454,1.5518412910795454,,captured_0052x,D3,lab,dist2,,m,What is the distance between the trashbin and the shoe in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.5518412910795454,1.5518412910795454,0.7478327942867006,0.749,0.235,depth_bound_geo,vlm_3d_calib,speed,yoga ball,trash bin,0,0.266806351432298,0.4477367870990066,1.285421399790306,1.0000767187984356,test,1.5518412910795454,captured_0052,True,False,False,3.191830280994677,0.48619166887405485
+2805,captured_0052,D3_lab_motion,1.1307525378847727,0,,1.1307525378847727,1.1307525378847727,1.1307525378847727,,captured_0052x,D3,lab,dist2,,m,What is the distance between the trashbin and the basketball in meters? ,velocity of the yoga ball at 1.0s = 2.19m/s,"t=1.0s, distance_yoga_ball_camera = 2.6120m
+distance_shoe_camera = 2.2310m
+distance_trashbin_camera = 2.9770m
+distance_basketball_camera = 1.9365m",1.1307525378847727,1.125007330430398,1.0401666399643967,1.0405,1.0405,agree_geo_kind,vlm_3d_calib,speed,yoga ball,trash bin,0,0.3942149547303951,0.6615454853673353,1.0112249301201983,1.0000521306919332,test,1.125007330430398,captured_0052,True,False,False,1.0579512947645793,1.0633829137481612
+2811,captured_0053,D3_lab_motion,1.4673811838810615,0,,1.4673811838810615,1.4673811838810615,1.4673811838810615,"rul156,c81labfstdfS2",captured_0053,D3,lab,dist2,,m,What is the diatance between the white cup and the basketball in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",1.4673811838810615,1.011759057561583,0.41,0.41,1.409,patch:rul156,3d_calib,speed,trash bin,white cup,0,0.8606111301030887,1.444220725126848,1.267236684768786,1.0014289094991982,test,1.011759057561583,captured_0053,True,False,False,1.171442505288197,0.863686483113118
+2812,captured_0053,D3_lab_motion,0.755020659187297,0,,0.755020659187297,0.755020659187297,0.755020659187297,rul156,captured_0053,D3,lab,dist2,,m,What is the diatance between the white cup and the book in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.755020659187297,0.5898929444336607,0.43,0.43,0.434,patch:rul156,3d_calib,speed,trash bin,white cup,0,0.8606111301030887,1.444220725126848,1.1481293567252446,1.0014289094991982,test,0.5898929444336607,captured_0053,True,False,False,0.5912350574448018,0.997729984049083
+2813,captured_0053,D3_lab_motion,0.6686514270231617,0,,0.6686514270231617,0.6686514270231617,0.6686514270231617,"rul451,w1_d3labgeoS2",captured_0053,D3,lab,disp,,m,What is the displacement of the trashbin between 0.4s and 1.4s in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.805437299530582,0.6686514270231617,1.0,1.0,1.0248,agree_gm,3d_calib,speed,trash bin,trash bin,0,0.8330649850141284,1.3979946048231724,1.2070510763545172,1.00149677353355,test,0.6686514270231617,captured_0053,True,True,False,0.7173957656610165,0.9320537686852094
+2819,captured_0053,D3_lab_motion,1.5027122466262468,0,,1.5027122466262468,1.5027122466262468,1.5027122466262468,rul156,captured_0053s,D3,lab,dist2,,m,What is the diatance between the white cup and the basketball in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",1.5027122466262468,1.0658871122819928,0.41,0.41,0.409,patch:rul156,3d_calib,speed,trash bin,white cup,0,0.8064005274640814,1.3532480742810562,1.270891647098994,1.001582329463876,test,1.0658871122819928,captured_0053,True,False,False,1.2419300944214844,0.8582504901602406
+2820,captured_0053,D3_lab_motion,0.7631314672593974,0,,0.7631314672593974,0.7631314672593974,0.7631314672593974,rul156,captured_0053s,D3,lab,dist2,,m,What is the diatance between the white cup and the book in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.7631314672593974,0.5436141799542791,0.434,0.434,0.434,patch:rul156,3d_calib,speed,trash bin,white cup,0,0.8064005274640814,1.3532480742810562,1.157745358923281,1.0015193777006626,test,0.5436141799542791,captured_0053,True,False,False,0.6096949677380825,0.8916166422876055
+2821,captured_0053,D3_lab_motion,0.6997341653457994,0,,0.6997341653457994,0.6997341653457994,0.6997341653457994,"rul451,w1_d3labgeoS2",captured_0053s,D3,lab,disp,,m,What is the displacement of the trashbin between 0.4s and 1.4s in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.805437299530582,0.6997341653457994,1.0,1.0,1.0,agree_gm,3d_calib,speed,trash bin,trash bin,0,0.8330649850141284,1.3979946048231724,1.2034792057168178,1.001406543739371,test,0.6997341653457994,captured_0053,True,True,False,0.7253124233675313,0.9647348408800508
+2827,captured_0053,D3_lab_motion,1.502081641371263,0,,1.502081641371263,1.502081641371263,1.502081641371263,rul156,captured_0053x,D3,lab,dist2,,m,What is the diatance between the white cup and the basketball in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",1.502081641371263,1.0114752387154131,0.41,0.41,0.409,patch:rul156,3d_calib,speed,trash bin,white cup,0,0.8890681166304866,1.491975359339632,1.2653070676318054,1.0012485332298633,test,1.0114752387154131,captured_0053,True,False,False,1.1388267764051943,0.8881730388428543
+2828,captured_0053,D3_lab_motion,0.755021,0,,0.755021,0.755021,0.755021,rul448,captured_0053x,D3,lab,dist2,,m,What is the diatance between the white cup and the book in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.554273213466679,0.5310161065767349,0.4313292202010392,0.434,0.434,agree_geo_kind,3d_calib,speed,trash bin,white cup,0,,,,,test,0.5310161065767349,captured_0053,True,False,False,,
+2829,captured_0053,D3_lab_motion,0.6679226365144519,0,,0.6679226365144519,0.6679226365144519,0.6679226365144519,"rul451,w1_d3labgeoS2",captured_0053x,D3,lab,disp,,m,What is the displacement of the trashbin between 0.4s and 1.4s in meters?,velocity of the trashbin at 0.4s = 0.9962m/s,"t=0.4s, distance_trashbin_camera = 2.7300m
+distance_white_cup_camera = 2.5160m
+distance_book_camera = 2.0820m
+distance_basketball_camera = 2.9250m",0.805437299530582,0.6679226365144519,1.0,1.0,1.0,agree_gm,3d_calib,speed,trash bin,trash bin,0,0.8890681166304866,1.491975359339632,1.2004919460919443,1.0012485332298633,test,0.6679226365144519,captured_0053,True,True,False,0.6836739887331231,0.9769607261966202
+2830,captured_0054,D3_lab_motion,0.8202,0,,0.8202,0.8202,1.0863664529296329,,captured_0054a,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.0863664529296329,1.187718003942691,0.5457,0.5457,0.5457,dis_geo,3d_calib,speed,orange ball,orange ball,1,0.5457752932607944,0.9158840296371782,1.2233391388090786,1.0022540329131235,test,1.187718003942691,captured_0054a,True,True,False,1.0306325162925496,1.152416584152825
+2831,captured_0054,D3_lab_motion,0.3573165355470705,0,,0.3573165355470705,0.3573165355470705,0.3573165355470705,,captured_0054a,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.3573165355470705,0.2512709533174434,1.04,0.68,1.05,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.236083432088931,1.0022540329131235,test,0.2512709533174434,captured_0054a,True,False,False,0.3002332162835219,0.8369192337471364
+2835,captured_0054,D3_lab_motion,0.4182689766063466,0,,0.4182689766063466,0.4182689766063466,0.4182689766063466,rt1,captured_0054a,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.4182689766063466,0.3638475839679811,2.21,3.13,1.47,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.1216559098058188,1.0022540329131235,test,0.3638475839679811,captured_0054a,True,False,False,0.4598346153749612,0.7912574908509015
+2836,captured_0054,D3_lab_motion,2.681242895902612,0,,2.681242895902612,2.681242895902612,2.681242895902612,"rul451,w1_d3labgeoS2",captured_0054a,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.5521672569289167,2.681242895902612,3.04,3.04,2.0,agree_gm,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.260222434310498,1.0022540329131235,test,2.681242895902612,captured_0054a,True,True,False,1.439020432447694,1.8632417132131793
+2837,captured_0054,D3_lab_motion,2.519632679884182,0,,2.519632679884182,2.519632679884182,2.519632679884182,"rul451,w1_d3labgeoS2",captured_0054a,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.206407474571648,2.519632679884182,2.21,3.48,3.0735,agree_gm,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.0463676544583498,1.0022540329131235,test,2.519632679884182,captured_0054a,True,True,False,1.869170811994829,1.3479948775763102
+2838,captured_0054,D3_lab_motion,4.092629286115775,0,,4.092629286115775,4.092629286115775,4.092629286115775,"rul082,c48gflbC",captured_0054a,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",4.092629286115775,2.673718795441996,3.14,3.14,2.04,patch:rul082,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.1373679693595868,1.0022540329131235,test,2.673718795441996,captured_0054a,True,False,False,2.1425806208538725,1.2478964709278717
+2839,captured_0054,D3_lab_motion,4.0585229776119,1,,2.926253617519272,2.926253617519272,2.926253617519272,,captured_0054a,D3,lab,speed,,m/s,What is the velocity of the pink ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.926253617519272,,3.14,3.14,0.0,caw_nogeo,,speed,orange ball,pink ball,0,,,,,test,,captured_0054a,True,False,False,,
+2840,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054a,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.759112645695062,1.7998429473220714,1.0635,1.0635,1.2635,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.2485806363358882,1.0022540329131235,test,1.7998429473220714,captured_0054a,True,False,False,1.9064521929959741,0.9440797697075387
+2841,captured_0054,D3_lab_motion,0.121179,1,,0.2284829058667641,0.2284829058667641,0.2284829058667641,rt1,captured_0054a,D3,lab,dist2,,m,What is the distance between the green ball and the pink ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.2284829058667641,2.753988946487985,0.0345,0.0345,0.0345,dis_geo,3d_calib,speed,orange ball,green ball,0,0.5638219110932277,0.9461686710743876,1.2999999999999998,1.0022692336971228,test,2.753988946487985,captured_0054a,True,False,False,2.317231818476494,1.1884822763648415
+2842,captured_0054,D3_lab_motion,0.8202,0,,0.8202,0.8202,1.0863664529296329,,captured_0054as,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.0863664529296329,1.1896249542093005,0.5457,0.5457,0.5457,dis_geo,3d_calib,speed,orange ball,orange ball,1,0.5457752932607944,0.9158840296371782,1.2235386136447186,1.0022603555958245,test,1.1896249542093005,captured_0054a,True,True,False,1.0319352262261519,1.1528097151599614
+2843,captured_0054,D3_lab_motion,0.3573165355470705,0,,0.3573165355470705,0.3573165355470705,0.3573165355470705,,captured_0054as,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.3573165355470705,0.2513740776264395,1.08,1.05,0.45,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.2372344176404997,1.0022603555958245,test,0.2513740776264395,captured_0054a,True,False,False,0.3029047977549039,0.8298781646563399
+2847,captured_0054,D3_lab_motion,0.418299100403984,0,,0.418299100403984,0.418299100403984,0.418299100403984,rt1,captured_0054as,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.418299100403984,0.3638999945759428,2.21,3.14,1.12,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.1218339986302417,1.0022603555958245,test,0.3638999945759428,captured_0054a,True,False,False,0.4600474600297604,0.7910053335636331
+2848,captured_0054,D3_lab_motion,2.696646125625004,0,,2.696646125625004,2.696646125625004,2.696646125625004,"rul451,w1_d3labgeoS2",captured_0054as,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.5521672569289167,2.696646125625004,3.04,3.04,1.78,agree_gm,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.283820889975896,1.0022603555958245,test,2.696646125625004,captured_0054a,True,True,False,1.3933153659568478,1.935416913867956
+2849,captured_0054,D3_lab_motion,2.519632679884182,0,,2.519632679884182,2.519632679884182,2.519632679884182,rul451,captured_0054as,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.206407474571648,2.519632679884182,3.07,3.84,1.77,agree_gm,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.03681251257758,1.0022603555958245,test,2.519632679884182,captured_0054a,True,True,False,1.4123074173387724,1.7840539877868486
+2850,captured_0054,D3_lab_motion,4.089716494845338,0,,4.089716494845338,4.089716494845338,4.089716494845338,rul082,captured_0054as,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",4.089716494845338,2.673718795441996,3.14,3.14,1.54,patch:rul082,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.1564791688264011,1.0022603555958245,test,2.673718795441996,captured_0054a,True,False,False,1.9054658430235747,1.4031837963567821
+2851,captured_0054,D3_lab_motion,4.965974284153561,0,,4.965974284153561,4.965974284153561,4.965974284153561,"rul451,w1_d3labgeoS2",captured_0054as,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",5.214825335221722,4.965974284153561,3.07,4.18,1.54,agree_gm,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.1840144113165758,1.0022603555958245,test,4.965974284153561,captured_0054a,True,True,False,7.671040531495204,0.6473664509742352
+2852,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054as,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.759112645695062,1.8003775472555277,1.56,1.56,1.2635,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.2483935185653072,1.0022603555958245,test,1.8003775472555277,captured_0054a,True,False,False,1.9030626549897514,0.9460421823396158
+2853,captured_0054,D3_lab_motion,0.1039618705340362,0,,0.1039618705340362,0.1039618705340362,0.1039618705340362,rul203,captured_0054as,D3,lab,dist2,,m,What is the distance between the green ball and the white ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.1039618705340362,2.96408294838877,0.0345,0.0345,0.3345,patch:rul203,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.2999382822544174,1.0022603555958245,test,2.96408294838877,captured_0054a,True,False,False,2.4147053093067674,1.2275133271809977
+2854,captured_0054,D3_lab_motion,0.8202,0,,0.8202,0.8202,1.0863664529296329,,captured_0054ax,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.0863664529296329,1.1891818106719778,0.5457,0.5457,0.5457,dis_geo,3d_calib,speed,orange ball,orange ball,1,0.5638219110932277,0.9461686710743876,1.2197381019885822,1.0022731459190484,test,1.1891818106719778,captured_0054a,True,True,False,1.0079664680798313,1.1797831062151902
+2855,captured_0054,D3_lab_motion,0.3573165355470705,0,,0.3573165355470705,0.3573165355470705,0.3573165355470705,,captured_0054ax,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.3573165355470705,0.2530306845789712,0.8542062663069664,1.15,1.05,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5638219110932277,0.9461686710743876,1.2342960972098524,1.0022731459190484,test,0.2530306845789712,captured_0054a,True,False,False,0.29622586038961995,0.8541816175203779
+2858,captured_0054,D3_lab_motion,0.4347192712130768,0,,0.4347192712130768,0.4347192712130768,0.4347192712130768,,captured_0054ax,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.4347192712130768,0.3638795466282959,2.6300760445279905,3.48,1.12,dis_geo,3d_calib,speed,orange ball,soccer ball,0,0.5638219110932277,0.9461686710743876,1.116636861450231,1.0022731459190484,test,0.3638795466282959,captured_0054a,True,False,False,0.4539682970372661,0.80155277142277
+2859,captured_0054,D3_lab_motion,2.681242895902612,0,,2.681242895902612,2.681242895902612,2.681242895902612,rul451,captured_0054ax,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.5521672569289167,2.681242895902612,3.039833310485173,3.039,2.0,agree_gm,3d_calib,speed,orange ball,green ball,0,0.5638219110932277,0.9461686710743876,1.2049309441577385,1.0022752250955256,test,2.681242895902612,captured_0054a,True,True,False,1.5586909537526126,1.7201889120145397
+2860,captured_0054,D3_lab_motion,2.519632679884182,0,,2.519632679884182,2.519632679884182,2.519632679884182,rul451,captured_0054ax,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.206407474571648,2.519632679884182,3.105987270628172,3.48,2.21,agree_gm,3d_calib,speed,orange ball,white ball,0,0.5638219110932277,0.9461686710743876,1.032659677818988,1.0022731459190484,test,2.519632679884182,captured_0054a,True,True,False,1.4886658077849517,1.6925442007922846
+2861,captured_0054,D3_lab_motion,4.0916859974694,0,,4.0916859974694,4.0916859974694,4.0916859974694,"rul082,c48gflbC",captured_0054ax,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",4.0916859974694,2.673718795441996,3.286747808289719,4.13,1.54,patch:rul082,3d_calib,speed,orange ball,green ball,0,0.5638219110932277,0.9461686710743876,1.175258163598414,1.0022752250955256,test,2.673718795441996,captured_0054a,True,False,False,1.7590787096846021,1.5199540422619213
+2862,captured_0054,D3_lab_motion,4.04000178586841,1,,2.926253617519272,2.926253617519272,2.926253617519272,,captured_0054ax,D3,lab,speed,,m/s,What is the velocity of the pink ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",2.926253617519272,,3.366737530095395,4.15,0.0,caw_nogeo,,speed,orange ball,pink ball,0,0.5638219110932277,0.9461686710743876,1.2543552227505912,1.00227408252025,test,,captured_0054a,True,False,False,2.6550475395252295,
+2863,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054ax,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",1.759112645695062,1.8004456720315516,1.1666528247886805,1.2635,1.2635,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5638219110932277,0.9461686710743876,1.2456141407733217,1.0022731459190484,test,1.8004456720315516,captured_0054a,True,False,False,1.854808908520136,0.9706906537709277
+2864,captured_0054,D3_lab_motion,0.1039618705340362,0,,0.1039618705340362,0.1039618705340362,0.1039618705340362,rul203,captured_0054ax,D3,lab,dist2,,m,What is the distance between the green ball and the white ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.3557m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 3.0735m
+t=1.0s, distance_green_ball_camera = 3.0390m",0.1039618705340362,0.8520550381215679,0.0345,0.0345,0.3445,patch:rul203,3d_calib,speed,orange ball,green ball,0,0.5638219110932277,0.9461686710743876,1.299786504476725,1.0022752250955256,test,0.8520550381215679,captured_0054a,True,False,False,2.3500268307666174,0.36257247235071505
+2865,captured_0054,D3_lab_motion,0.8202394596367807,0,,0.8202394596367807,0.8202394596367807,0.8202394596367807,"rul451,c28s3chordC,copyrules_c15,copyrules,w1_d3labgeoS2",captured_0054b,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.0863664529296329,0.8202394596367807,0.43,0.43,0.43,agree_gm,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.2265987972117531,1.0039635522995562,test,0.8202394596367807,captured_0054b,True,True,False,0.8294176446857883,0.9889341815817234
+2866,captured_0054,D3_lab_motion,0.4080738952963235,0,,0.4080738952963235,0.4080738952963235,0.4080738952963235,"rul451,w1_d3labgeoS2",captured_0054b,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.3573165355470705,0.4080738952963235,0.68,0.58,1.254,agree_gm,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.28427014103198,1.0039635522995562,test,0.4080738952963235,captured_0054b,True,True,False,0.5298276131474051,0.7702012601272102
+2870,captured_0054,D3_lab_motion,0.185038620377635,0,,0.185038620377635,0.185038620377635,0.185038620377635,"rul147,c79occdipC",captured_0054b,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.185038620377635,4.094312441602308,3.13,3.15,0.0,patch:rul147,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.0672354351639115,1.0039635522995562,test,4.094312441602308,captured_0054b,True,False,False,3.2001551967875126,1.2794105878716127
+2871,captured_0054,D3_lab_motion,2.552167,0,,2.552167,2.552167,2.552167,rul448,captured_0054b,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.843341894090935,2.004173681784599,3.05,3.05,1.331,patch:rul178,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.1024081187526888,1.0039635522995562,test,2.004173681784599,captured_0054b,True,False,False,2.379022655579264,0.8424357275809996
+2872,captured_0054,D3_lab_motion,2.206407,0,,2.206407,2.206407,2.206407,rul448,captured_0054b,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.3585147317909465,1.496653466974355,2.21,3.15,2.21,patch:rul178,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.106474977774324,1.0039635522995562,test,1.496653466974355,captured_0054b,True,False,False,1.9536172511713585,0.7660934945557963
+2873,captured_0054,D3_lab_motion,4.091343746168182,0,,4.091343746168182,4.091343746168182,4.091343746168182,rul166,captured_0054b,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",4.091343746168182,0.7768127922072543,3.08,3.08,1.55,patch:rul166,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.088758162632568,1.0039635522995562,test,0.7768127922072543,captured_0054b,True,False,False,0.7237253806027186,1.073352977562186
+2874,captured_0054,D3_lab_motion,3.904553886470442,0,,3.904553886470442,3.904553886470442,3.904553886470442,rul203,captured_0054b,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",3.904553886470442,0.7404959005586829,2.47,3.06,1.84,patch:rul203,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.0873816463763624,1.0039635522995562,test,0.7404959005586829,captured_0054b,True,False,False,0.6695146076960841,1.1060190353528772
+2875,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054b,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.759112645695062,1.655060380424384,2.475,2.475,2.019,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.220358368599458,1.0039635522995562,test,1.655060380424384,captured_0054b,True,False,False,2.017112094299383,0.8205098690855092
+2876,captured_0054,D3_lab_motion,0.1328,0,,0.1328,0.1328,0.1328,rul207,captured_0054b,D3,lab,dist2,,m,What is the distance between the green ball and the white ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.1328,0.1039618705340362,0.1,0.1,0.975,patch:rul207,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.0724180139688324,1.0039635522995562,test,0.1039618705340362,captured_0054b,True,False,False,0.13205593085946943,0.7872563531029121
+2877,captured_0054,D3_lab_motion,0.8202,0,,0.8202,0.8202,1.0863664529296329,,captured_0054bs,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.0863664529296329,0.8733450550416408,0.43,0.43,0.43,dis_geo,3d_calib,speed,orange ball,orange ball,1,0.5457752932607944,0.9158840296371782,1.2265981932471712,1.003985876625831,test,0.8733450550416408,captured_0054b,True,True,False,0.829414331505225,1.0529659566608767
+2878,captured_0054,D3_lab_motion,0.4371681349508962,0,,0.4371681349508962,0.4371681349508962,0.4371681349508962,"rul451,w1_d3labgeoS2",captured_0054bs,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.3573165355470705,0.4371681349508962,0.44,0.44,0.424,agree_gm,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.277181229366362,1.0039997503428546,test,0.4371681349508962,captured_0054b,True,True,False,0.5344326930465348,0.8180041016181443
+2882,captured_0054,D3_lab_motion,0.269411490608836,0,,0.269411490608836,0.269411490608836,0.269411490608836,"rul147,c79occdipC",captured_0054bs,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.269411490608836,3.979728544173698,3.25,3.01,0.0,patch:rul147,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.0675261380752006,1.0039997503428546,test,3.979728544173698,captured_0054b,True,False,False,5.271738820831975,0.7549176238487523
+2883,captured_0054,D3_lab_motion,2.414100439231184,0,,2.414100439231184,2.414100439231184,2.414100439231184,"rul451,w1_d3labgeoS2",captured_0054bs,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.5521672569289167,2.414100439231184,3.66,3.66,0.52,agree_gm,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.269832439711009,1.003985876625831,test,2.414100439231184,captured_0054b,True,True,False,2.2193156104715115,1.087767971279348
+2884,captured_0054,D3_lab_motion,2.206407474571648,0,,2.206407474571648,2.206407474571648,2.206407474571648,,captured_0054bs,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.206407474571648,1.496653466974355,3.09,3.66,0.67,dis_geo,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.2732223899613273,1.003985876625831,test,1.496653466974355,captured_0054b,True,False,False,2.0553914428688067,0.7281598219001073
+2885,captured_0054,D3_lab_motion,4.091343746168182,0,,4.091343746168182,4.091343746168182,4.091343746168182,rul166,captured_0054bs,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",4.091343746168182,0.7768127922072543,3.05,3.05,0.34,patch:rul166,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.2128353972511523,1.003985876625831,test,0.7768127922072543,captured_0054b,True,False,False,5.906310680317283,0.13152250774683671
+2886,captured_0054,D3_lab_motion,3.904553886470442,0,,3.904553886470442,3.904553886470442,3.904553886470442,rul203,captured_0054bs,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",3.904553886470442,0.7404959005586829,3.06,3.05,0.34,patch:rul203,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.216758682115891,1.003985876625831,test,0.7404959005586829,captured_0054b,True,False,False,4.787245011553246,0.15468101147353333
+2887,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054bs,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.759112645695062,1.7445209556999872,2.62,2.62,1.575,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.231391795378102,1.0039997503428546,test,1.7445209556999872,captured_0054b,True,False,False,1.8720896824623088,0.9318575771463395
+2888,captured_0054,D3_lab_motion,0.1337303078096375,0,,0.1337303078096375,0.1337303078096375,0.1337303078096375,,captured_0054bs,D3,lab,dist2,,m,What is the distance between the green ball and the white ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.1337303078096375,0.1337303078096375,0.096,0.096,0.096,agree_geo_kind,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.2245197480835075,1.003985876625831,test,0.1337303078096375,captured_0054b,True,False,False,0.16185334573932247,0.8262437035130596
+2889,captured_0054,D3_lab_motion,0.8202,0,,0.8202,0.8202,1.0863664529296329,,captured_0054bx,D3,lab,disp,,m,What is the orange ball's displacement between 0.5s and 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.0863664529296329,1.037766476593859,0.43,0.43,0.43,dis_geo,3d_calib,speed,orange ball,orange ball,1,0.5457752932607944,0.9158840296371782,1.2266480610050448,1.0039910890274852,test,1.037766476593859,captured_0054b,True,True,False,0.8296880313328623,1.2507911858469583
+2890,captured_0054,D3_lab_motion,0.498530004132274,0,,0.498530004132274,0.498530004132274,0.498530004132274,"rul451,w1_d3labgeoS2",captured_0054bx,D3,lab,disp,,m,What is the soccer ball's displacement between 1.0s and 1.4s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.3573165355470705,0.498530004132274,0.5431874255317227,0.44,0.254,agree_gm,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.2753643557974788,1.0039875703405052,test,0.498530004132274,captured_0054b,True,True,False,0.5311279448947158,0.9386250693909476
+2894,captured_0054,D3_lab_motion,0.2341208405277492,0,,0.2341208405277492,0.2341208405277492,0.2341208405277492,"rul147,c79occdipC",captured_0054bx,D3,lab,speed,,m/s,What is the soccer ball's velocity at 0.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.2341208405277492,3.3453515612944784,3.1680917215200184,3.18,0.0,patch:rul147,3d_calib,speed,orange ball,soccer ball,0,0.5457752932607944,0.9158840296371782,1.0665882656247283,1.0039875703405052,test,3.3453515612944784,captured_0054b,True,False,False,3.4782432118277953,0.9617934565123515
+2895,captured_0054,D3_lab_motion,2.4799184135014483,0,,2.4799184135014483,2.4799184135014483,2.4799184135014483,rul451,captured_0054bx,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.5521672569289167,2.4799184135014483,3.157699488198688,3.13,0.52,agree_gm,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.269766505407541,1.0039910890274852,test,2.4799184135014483,captured_0054b,True,True,False,2.188681213146283,1.133065152935865
+2896,captured_0054,D3_lab_motion,1.8098467567750247,0,,1.8098467567750247,1.8098467567750247,1.8098467567750247,rul451,captured_0054bx,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.0s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",2.206407474571648,1.8098467567750247,3.0347802564012354,3.13,1.235,agree_gm,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.280773454248605,1.0039910890274852,test,1.8098467567750247,captured_0054b,True,True,False,2.0104925187361324,0.9002006920735817
+2897,captured_0054,D3_lab_motion,4.091343746168182,0,,4.091343746168182,4.091343746168182,4.091343746168182,rul166,captured_0054bx,D3,lab,speed,,m/s,What is the velocity of the green ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",4.091343746168182,0.7768127922072543,3.084883201199503,3.14,0.42,patch:rul166,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.2834775442958586,1.0039910890274852,test,0.7768127922072543,captured_0054b,True,False,False,4.730156462633824,0.1642256019105789
+2898,captured_0054,D3_lab_motion,3.904553886470442,0,,3.904553886470442,3.904553886470442,3.904553886470442,rul203,captured_0054bx,D3,lab,speed,,m/s,What is the velocity of the white ball at 1.5s in m/s? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",3.904553886470442,0.7405020249882087,2.9510761512186034,3.13,0.42,patch:rul203,3d_calib,speed,orange ball,white ball,0,0.5457752932607944,0.9158840296371782,1.1935834745864773,1.0039910890274852,test,0.7405020249882087,captured_0054b,True,False,False,5.390369039131244,0.1373750145143224
+2899,captured_0054,D3_lab_motion,1.759112645695062,0,,1.759112645695062,1.759112645695062,1.759112645695062,,captured_0054bx,D3,lab,dist2,,m,What is the distance between the orange ball and the soccer ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",1.759112645695062,1.759112645695062,2.498597021580094,2.475,1.575,agree_geo_kind,3d_calib,speed,orange ball,orange ball,0,0.5457752932607944,0.9158840296371782,1.2280776676862866,1.0039875703405052,test,1.759112645695062,captured_0054b,True,False,False,1.9151836692212822,0.9185085869128787
+2900,captured_0054,D3_lab_motion,0.1304930438023451,0,,0.1304930438023451,0.1304930438023451,0.1304930438023451,rul207,captured_0054bx,D3,lab,dist2,,m,What is the distance between the green ball and the white ball at 1.0s in meters? ,velocity of the orange ball at 0.5s = 2.21m/s,"t=0.5s, distance_orange_ball_camera = 2.2400m
+t=1.0s, distance_orange_ball_camera = 1.8100m
+t=1.0s, distance_white_ball_camera = 1.2350m
+t=1.0s, distance_green_ball_camera = 1.3310m
+t=2.0s, distance_soccer_ball_camera = 3.2540m",0.1304930438023451,0.4328779684440182,0.0986484829732188,0.096,0.096,patch:rul207,3d_calib,speed,orange ball,green ball,0,0.5457752932607944,0.9158840296371782,1.2287892612504596,1.0039910890274852,test,0.4328779684440182,captured_0054b,True,False,False,0.15858478257627298,2.729631187884128

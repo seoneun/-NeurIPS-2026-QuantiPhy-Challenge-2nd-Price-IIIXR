@@ -1,0 +1,14 @@
+{
+ "497": {
+  "value": 0.0010496,
+  "why": "rul312: macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+ },
+ "499": {
+  "value": 0.0076244,
+  "why": "rul312: macro scene: VLM part track 146px x 0.0522 mm/px (prior 1.88 mm / 36px)"
+ },
+ "500": {
+  "value": 0.0120976,
+  "why": "rul312: macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+ }
+}

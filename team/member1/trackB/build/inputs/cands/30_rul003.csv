@@ -1,0 +1,15 @@
+id0,value,rule
+400,1.6179799529427996,adv_unsure:restore_A
+401,2.0546636196849875,adv_unsure:restore_A
+402,2.047922701456748,adv_unsure:restore_A
+403,1.578263283299216,adv_unsure:restore_A
+404,2.2773426856682617,adv_unsure:restore_A
+405,1.1489141970649075,adv_unsure:restore_A
+406,1.2952835034639645,adv_unsure:restore_A
+407,2.218224595591592,adv_unsure:restore_A
+1058,2.13,adv_unsure:readmit
+1059,0.94,adv_unsure:readmit
+1060,6.4,adv_unsure:readmit
+1066,2.15,adv_unsure:readmit
+1071,2.13,adv_unsure:readmit
+1954,0.6070642417287914,adv_refuted:readmit

@@ -1,0 +1,4 @@
+name	pred_t034
+base	pred_t052
+block	rul008	*	json:patches/ag_rul008_patch_test.json
+block	rul217	*	json:patches/ag_rul217_patch_test.json

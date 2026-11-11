@@ -1,0 +1,1 @@
+{"ok": true,"value": 9.321418284319558,"mode": "3d_calib_tdepth=prior","kind": "dist2","f": 0.8890681166304865,"mpp": null,"split": "test","id": 1176,"cls": "T","why_old": "target_px_fail","video_id": "simulation_0045","cat": "D3","vlm": 10.25,"phrase_fix": "{\"left pillar of the\": \"left pillar of the\", \"right pillar of the far door\": \"right pillar of the far door\"}"}

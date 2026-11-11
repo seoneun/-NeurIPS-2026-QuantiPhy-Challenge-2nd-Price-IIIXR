@@ -1,0 +1,22 @@
+{
+"2598": {
+"value": 75.88286835208982,
+"before": 50.49812873021177,
+"why": "r48 BUILD WSt (target dkeys within prior dkeys): own-row prior-reading fixes (QP_R48_PF), 2-pass chain + UNFREEZE maps, ratio CHWS/CH_S on j6"
+},
+"2603": {
+"value": 56.705909085228285,
+"before": 40.8559936215392,
+"why": "r48 BUILD WSt (target dkeys within prior dkeys): own-row prior-reading fixes (QP_R48_PF), 2-pass chain + UNFREEZE maps, ratio CHWS/CH_S on j6"
+},
+"2605": {
+"value": 60.012750068960926,
+"before": 63.520526314939424,
+"why": "r48 BUILD WSt (target dkeys within prior dkeys): own-row prior-reading fixes (QP_R48_PF), 2-pass chain + UNFREEZE maps, ratio CHWS/CH_S on j6"
+},
+"2610": {
+"value": 54.21998847907886,
+"before": 41.17300910880397,
+"why": "r48 BUILD WSt (target dkeys within prior dkeys): own-row prior-reading fixes (QP_R48_PF), 2-pass chain + UNFREEZE maps, ratio CHWS/CH_S on j6"
+}
+}

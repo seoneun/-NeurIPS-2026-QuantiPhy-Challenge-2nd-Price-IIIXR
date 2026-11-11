@@ -1,0 +1,492 @@
+{
+"23": {
+"value": 11.856100746850062,
+"before": 11.86274084164081,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"47": {
+"value": 2.185634419470492,
+"before": 2.229717919727141,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"48": {
+"value": 5.884400360112863,
+"before": 6.0030867069576885,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"49": {
+"value": 5.872224000626978,
+"before": 5.990664754456915,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"50": {
+"value": 5.061539680365432,
+"before": 5.163629208152283,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"51": {
+"value": 4.132245781721976,
+"before": 4.215591768752695,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"100": {
+"value": 7.080074107049998,
+"before": 7.066789124765043,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"157": {
+"value": 58.407864922732514,
+"before": 58.42424843001907,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"179": {
+"value": 8.598594374878108,
+"before": 8.598168701831142,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"213": {
+"value": 10.026172585460202,
+"before": 9.717507357531495,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"234": {
+"value": 27.040879490905287,
+"before": 27.0,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"264": {
+"value": 0.0773402455958524,
+"before": 0.0772734048983455,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"265": {
+"value": 0.044194426054772806,
+"before": 0.0441562313704831,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"266": {
+"value": 0.1125006285585022,
+"before": 0.1124034007772238,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"267": {
+"value": 0.044194426054772806,
+"before": 0.0441562313704831,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"269": {
+"value": 0.1878263107327844,
+"before": 0.1876639833245534,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"300": {
+"value": 4.387411863639118,
+"before": 4.470156075077657,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"301": {
+"value": 2.193705931819559,
+"before": 2.2350780375388286,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"302": {
+"value": 46.631724843034775,
+"before": 47.511173916903,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"303": {
+"value": 46.631724843034775,
+"before": 47.511173916903,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"307": {
+"value": 14.485313412923931,
+"before": 14.477351736350975,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"308": {
+"value": 19.597206636299248,
+"before": 19.586435269707184,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"374": {
+"value": 1.3475017019289597,
+"before": 1.3341110100950595,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"375": {
+"value": 1.6531399526885782,
+"before": 1.5848722050739337,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"388": {
+"value": 0.7489542892785022,
+"before": 0.7559075224707202,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"392": {
+"value": 0.7747802992536229,
+"before": 0.7819732991076416,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"477": {
+"value": 0.13810113657671186,
+"before": 0.1387338456454158,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"482": {
+"value": 0.13810113657671186,
+"before": 0.1387338456454158,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"592": {
+"value": 0.9417254758239458,
+"before": 0.9368525149607766,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"846": {
+"value": 5.797033408346204,
+"before": 5.803465267153561,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"847": {
+"value": 4.683832796940174,
+"before": 4.701179856624389,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"848": {
+"value": 5.4259524843435285,
+"before": 5.441132052234655,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"849": {
+"value": 5.054884582238963,
+"before": 5.045763842604732,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"850": {
+"value": 6.680261368200537,
+"before": 6.703640240342441,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"851": {
+"value": 6.104840214185205,
+"before": 6.090304370826246,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"852": {
+"value": 5.529419489091685,
+"before": 5.5521114417283215,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"870": {
+"value": 6.750652853745988,
+"before": 6.745552433988177,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"871": {
+"value": 6.223828216790931,
+"before": 6.222084205198789,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"872": {
+"value": 5.697003792192218,
+"before": 5.696867498264701,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"873": {
+"value": 1.0491727567592595,
+"before": 1.0536515702976257,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"874": {
+"value": 1.0720142609086456,
+"before": 1.0536515702976257,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"875": {
+"value": 1.046259181932546,
+"before": 1.053651570297626,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"876": {
+"value": 6.702872379298466,
+"before": 6.704235427593432,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"877": {
+"value": 6.177004569314021,
+"before": 6.174918095611612,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"878": {
+"value": 5.651137018239919,
+"before": 5.58836052623374,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"880": {
+"value": 1.0602552862087464,
+"before": 1.0499841534803696,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"887": {
+"value": 1.9726109882071061,
+"before": 1.9726623798378304,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"888": {
+"value": 3.9319045185725527,
+"before": 3.933408473876173,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"917": {
+"value": 1.9620637234491785,
+"before": 1.96,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"918": {
+"value": 3.915736279824961,
+"before": 3.92,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"919": {
+"value": 6.133004984863075,
+"before": 6.125,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"924": {
+"value": 6.20211913598275,
+"before": 6.537003635547984,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"925": {
+"value": 3.1245524435064613,
+"before": 3.293263195181371,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"932": {
+"value": 5.848374330043767,
+"before": 5.853445583075056,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"933": {
+"value": 2.9113427422440687,
+"before": 2.9138672310803733,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"934": {
+"value": 1.9902583197577424,
+"before": 2.0,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"935": {
+"value": 3.994342686969866,
+"before": 4.0,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"971": {
+"value": 2.5295475603857276,
+"before": 2.5285842803056453,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"977": {
+"value": 2.563991711435236,
+"before": 2.573133479620542,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1027": {
+"value": 0.1614259957498225,
+"before": 0.1608524934348607,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1241": {
+"value": 3.8009985409260887,
+"before": 3.804216711434285,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1291": {
+"value": 2.541393265014079,
+"before": 2.5315480276326965,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1378": {
+"value": 2.9029275556005336,
+"before": 2.9982527713704004,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1784": {
+"value": 8.45638130679778,
+"before": 8.608867940078156,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1785": {
+"value": 3.22448987813601,
+"before": 3.2826343240550178,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1786": {
+"value": 1.205118912040343,
+"before": 1.22684978236567,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1792": {
+"value": 3.4787723457215978,
+"before": 3.481050170164555,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1817": {
+"value": 26.965243533946357,
+"before": 27.0,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1831": {
+"value": 0.0773452112305128,
+"before": 0.0772954275735781,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1832": {
+"value": 0.04419726356029301,
+"before": 0.0441688157563303,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1833": {
+"value": 0.11407047102167668,
+"before": 0.1139970489557805,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1835": {
+"value": 0.4662810631214196,
+"before": 0.4659809388330213,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1995": {
+"value": 5.26575186985265,
+"before": 5.264854690141794,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1996": {
+"value": 4.261971255524808,
+"before": 4.261277942317137,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1997": {
+"value": 4.9311463983511405,
+"before": 4.918796943094271,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1998": {
+"value": 4.596551991583013,
+"before": 4.613023663566402,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"1999": {
+"value": 6.750333813179383,
+"before": 6.744562219923037,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2000": {
+"value": 6.224042036862156,
+"before": 6.217761231232817,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2001": {
+"value": 5.697750323157266,
+"before": 5.692693860504484,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2002": {
+"value": 1.057039957077621,
+"before": 1.0525842304891788,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2003": {
+"value": 1.052584230489188,
+"before": 1.035134637116065,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2004": {
+"value": 1.0525842304891877,
+"before": 1.1036911775336196,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2006": {
+"value": 1.961529229333387,
+"before": 1.96,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2007": {
+"value": 3.9148032817905882,
+"before": 3.92,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2008": {
+"value": 6.134876418662391,
+"before": 6.125,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2056": {
+"value": 14.232028731367116,
+"before": 14.095309825258992,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2058": {
+"value": 20.99203816292453,
+"before": 20.945623271843065,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2060": {
+"value": 11.644502745831822,
+"before": 11.55913218275912,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2072": {
+"value": 2.501090124141506,
+"before": 2.7435326724693896,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2078": {
+"value": 26.70675711976677,
+"before": 27.07744743409173,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2505": {
+"value": 47.162276010514944,
+"before": 46.94840044584769,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2506": {
+"value": 87.91560601739626,
+"before": 87.88818850175505,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2625": {
+"value": 56.96106742766144,
+"before": 57.117374114296126,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2627": {
+"value": 54.81536243218093,
+"before": 55.14057748153432,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2956": {
+"value": 4.099411656842444,
+"before": 4.085651738753536,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"2990": {
+"value": 25.83513215069665,
+"before": 25.70765741552356,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"3132": {
+"value": 1.0843662848298088,
+"before": 1.0813062158772735,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+},
+"3272": {
+"value": 6.821330003888345,
+"before": 6.675238515070964,
+"why": "r40 STACK = FIX_CPU_SEG V2"
+}
+}

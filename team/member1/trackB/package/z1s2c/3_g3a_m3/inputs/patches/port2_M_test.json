@@ -1,0 +1,7 @@
+{
+ "500": {
+  "value": 0.0114889,
+  "before": 0.06,
+  "why": "PORT2_M: macro (prior 1.88 mm / 36px): target 220px -> 0.01149; frame span 0.02507; j7 0.06"
+ }
+}

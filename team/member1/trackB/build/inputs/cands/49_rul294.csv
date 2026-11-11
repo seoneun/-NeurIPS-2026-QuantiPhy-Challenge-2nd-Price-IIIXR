@@ -1,0 +1,21 @@
+id0,value,rule
+311,1.0247219304657202,TF_table_from_rolloff_fall: own g x own fall drop px / own parabola a px (apple a=2719px/s2 rms=1.36 n=32 drop=284.3px T=0.457s tv=1.136)
+315,1.0265929958233138,TF_table_from_rolloff_fall: own g x own fall drop px / own parabola a px (apple a=2737px/s2 rms=0.88 n=15 drop=286.8px T=0.458s tv=1.140)
+796,1.6717560640398872,FO_farm_own_render: own prior back-horse speed x own pixel-speed ratio (top=True k=1.0000)
+812,1.6318444331037378,FO_farm_own_render: own prior back-horse speed x own pixel-speed ratio (top=True k=1.0000)
+842,1.6315534348723895,FO_farm_own_render: own prior back-horse speed x own pixel-speed ratio (top=True k=1.0000)
+1121,4.034927095135456,SR_speed_ratio_own_depth: own stated speed x own pixel-speed ratio x own depth-key ratio (k=0.925 eagle->boat)
+1158,10.701681708536222,SR_speed_ratio_own_depth: own stated speed x own pixel-speed ratio x own depth-key ratio (k=1.003 boat->eagle)
+1386,0.3970103508964331,"BD_ball_decay_own_track: a(t)=k v(t) from an exponential-decay straight-line 3D fit of the own track (own diameter prior, own depth key) (k=0.1067 v(t)=3.720 rms=[0.59 0.45 0.3 ] n=34 f=1719)"
+1388,0.3763825485390166,"BD_ball_decay_own_track: a(t)=k v(t) from an exponential-decay straight-line 3D fit of the own track (own diameter prior, own depth key) (k=0.1067 v(t)=3.527 rms=[0.59 0.45 0.3 ] n=34 f=1719)"
+1616,1.0574457554081333,SR_speed_ratio_own_depth: own stated speed x own pixel-speed ratio x own depth-key ratio (k=1.213 black cat->dog)
+1617,1.136838482002497,SR_speed_ratio_own_depth: own stated speed x own pixel-speed ratio x own depth-key ratio (k=1.213 black cat->dog)
+1623,1.5250465416636054,FO_farm_own_render: own prior back-horse speed x own pixel-speed ratio (top=False k=0.9228)
+1625,1.4932865948471485,FO_farm_own_render: own prior back-horse speed x own pixel-speed ratio (top=False k=0.8849)
+1671,3.7721671239535746,SR_speed_ratio_own_depth: own stated speed x own pixel-speed ratio x own depth-key ratio (k=0.934 eagle->boat)
+2162,40.178543543999865,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)
+2167,40.21356594070713,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)
+2172,40.14589473369389,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)
+2177,78.81829318934284,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)
+2182,80.41028418838108,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)
+2187,80.41431224411008,LR_rebounce_centre: gravity-timing drop + basketball radius 12.0 cm (centre above surface)

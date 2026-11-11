@@ -1,0 +1,14 @@
+{
+ "389": {
+  "value": 8.211886934387643,
+  "why": "rul244: sim 2D road width geo 9.24 m = 354 px x own 2d_ratio mpp 0.0261 (persp cross: clusters [-65.0, 104.0, 290.0] wpx 354); agree_gm with CaW 7.3"
+ },
+ "394": {
+  "value": 7.435217669825917,
+  "why": "rul244: sim 2D road width geo 8.38 m = 231 px x own 2d_ratio mpp 0.0363 (ortho cross: clusters [-38.0, 68.0, 193.0] wpx 231); agree_gm with CaW 6.6"
+ },
+ "399": {
+  "value": 6.62949059094757,
+  "why": "rul244: sim 2D road width geo 6.63 m = 183 px x own 2d_ratio mpp 0.0363 (ortho on: edges 48/134 px); geo_strong with CaW 18.0"
+ }
+}

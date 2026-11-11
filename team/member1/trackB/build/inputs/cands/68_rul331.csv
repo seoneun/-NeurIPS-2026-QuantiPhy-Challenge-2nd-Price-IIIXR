@@ -1,0 +1,3 @@
+id0,value,rule
+114,5.961041666666667,kc_rest: v=a(n-0.5)/fps a=4.03 T=1.5 n=36; own video starts from rest (k0 gate)
+128,3.9460416666666673,kc_rest: v=a(n-0.5)/fps a=4.03 T=1 n=24; own video starts from rest (k0 gate)

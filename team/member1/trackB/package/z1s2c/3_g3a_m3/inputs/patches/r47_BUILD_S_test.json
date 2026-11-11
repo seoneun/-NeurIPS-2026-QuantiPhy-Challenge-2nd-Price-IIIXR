@@ -1,0 +1,22 @@
+{
+"2358": {
+"value": 14.450531014914752,
+"before": 8.393833625446778,
+"why": "r47 BUILD S: own-row lab focal fallback (QP_R47_FC), 2-pass chain + UNFREEZE maps, ratio CHS/CHV2 on j1"
+},
+"2359": {
+"value": 10.0,
+"before": 6.681084028195843,
+"why": "r47 BUILD S: own-row lab focal fallback (QP_R47_FC), 2-pass chain + UNFREEZE maps, ratio CHS/CHV2 on j1"
+},
+"2362": {
+"value": 383.8459455662577,
+"before": 330.50616859291955,
+"why": "r47 BUILD S: own-row lab focal fallback (QP_R47_FC), 2-pass chain + UNFREEZE maps, ratio CHS/CHV2 on j1"
+},
+"2364": {
+"value": 85.39382501733031,
+"before": 43.210398306253,
+"why": "r47 BUILD S: own-row lab focal fallback (QP_R47_FC), 2-pass chain + UNFREEZE maps, ratio CHS/CHV2 on j1"
+}
+}

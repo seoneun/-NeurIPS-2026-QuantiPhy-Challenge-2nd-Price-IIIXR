@@ -1,0 +1,46 @@
+{
+ "3002": {
+  "value": 3.4196067270843,
+  "why": "A1 d2path: geo re-measured over 0.5-1s on 'boat' = 3.42 (was nan); agree_geo_kind with CaW 3.2"
+ },
+ "3003": {
+  "value": 5.934462061304221,
+  "why": "A1 d2path: geo re-measured over 0.5-1.37s on 'boat' = 5.934 (was nan); agree_geo_kind with CaW 10.24"
+ },
+ "3006": {
+  "value": 0.4339721708959091,
+  "why": "A1 win: geo re-measured over 0.5-1.37s = 0.434 (was 0.3605); dis_geo with CaW 3.2"
+ },
+ "3018": {
+  "value": 0.0157389941028234,
+  "why": "A1 two_window: geo re-measured as (vbar(2.0, 4.5) - vbar(0.0, 2.0)) / midpoint gap on 'boat' = 0.01574 (was 0.07294); dis_geo_kin with CaW 0.5; geo fails the 2-decade rule vs prior copy 7 but CaW 0.5 needs a speed change 1.12 m/s > 1.5x the measured mean speed 0.66 m/s"
+ },
+ "3019": {
+  "value": 0.0251567164141363,
+  "why": "A1 two_window: geo re-measured as (vbar(4.5, 7.0) - vbar(2.0, 4.5)) / midpoint gap on 'boat' = 0.02516 (was nan); dis_geo_kin with CaW 0.5; geo fails the 2-decade rule vs prior copy 7 but CaW 0.5 needs a speed change 1.25 m/s > 1.5x the measured mean speed 0.72 m/s"
+ },
+ "3020": {
+  "value": 0.0193346521370755,
+  "why": "A1 win: geo re-measured over 0-7s on 'boat' = 0.01933 (was nan); dis_geo_kin with CaW 0.57; geo fails the 2-decade rule vs prior copy 7 but CaW 0.57 needs a speed change 3.99 m/s > 3x the measured mean speed 0.67 m/s"
+ },
+ "3026": {
+  "value": 9.189466530442887,
+  "why": "A1 win: geo re-measured over 0.5-1.73s = 9.189 (was 13.88); agree_geo_kind with CaW 16.7"
+ },
+ "3030": {
+  "value": 12.126579732558065,
+  "why": "A1 start: geo re-measured over 0-0.83s = 10.89 (was 24.61); agree_gm with CaW 13.5"
+ },
+ "3051": {
+  "value": 15.76183660726369,
+  "why": "A1 start: geo re-measured over 0-0.73s = 18.4 (was 18.89); agree_gm with CaW 13.5"
+ },
+ "3052": {
+  "value": 26.454307273046425,
+  "why": "A1 start: geo re-measured over 0-0.73s = 26.45 (was 21.38); agree_geo_kind with CaW 40.99"
+ },
+ "1314": {
+  "value": 1.4814064293952376,
+  "why": "A1 end: geo re-measured over 1-3s = 1.481 (was 1.266); agree_geo_kind with CaW 2.32"
+ }
+}

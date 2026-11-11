@@ -1,0 +1,2810 @@
+{
+"2": {
+"value": 3.62,
+"why": "rmap5 R1 pred_t141 final value (p1 3.39303); last writer dis_caw_routed; "
+},
+"7": {
+"value": 1.8,
+"why": "rmap5 R1 pred_t141 final value (p1 1.79766); last writer caw_nogeo; "
+},
+"11": {
+"value": 6.6482499440511065,
+"why": "rmap5 R1 pred_t141 final value (p1 3.77109); last writer patch:h_rgV4; "
+},
+"13": {
+"value": 1.4384619024034937,
+"why": "rmap5 R1 pred_t141 final value (p1 1.4191); last writer agree_gm; "
+},
+"14": {
+"value": 1.5494065359454334,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14259); last writer patch:h_rgV4; "
+},
+"15": {
+"value": 3.1,
+"why": "rmap5 R1 pred_t141 final value (p1 2.93136); last writer caw_nogeo; "
+},
+"22": {
+"value": 1.1,
+"why": "rmap5 R1 pred_t141 final value (p1 4.05758); last writer patch:rm_phys_bounds_final; "
+},
+"38": {
+"value": 2.178914464945822,
+"why": "rmap5 R1 pred_t141 final value (p1 2.3335); last writer patch:h_rgV4; "
+},
+"45": {
+"value": 1.3,
+"why": "rmap5 R1 pred_t141 final value (p1 1.34907); last writer caw_nogeo; "
+},
+"46": {
+"value": 1.1,
+"why": "rmap5 R1 pred_t141 final value (p1 1.24097); last writer dis_caw_routed; "
+},
+"54": {
+"value": 5.524446742859857,
+"why": "rmap5 R1 pred_t141 final value (p1 4.73676); last writer patch:h_rgV4; "
+},
+"59": {
+"value": 4.867925229043814,
+"why": "rmap5 R1 pred_t141 final value (p1 4.58929); last writer patch:h_rgV4; "
+},
+"65": {
+"value": 4.811321447310746,
+"why": "rmap5 R1 pred_t141 final value (p1 4.57589); last writer patch:h_rgV4; "
+},
+"66": {
+"value": 0.8872913319072859,
+"why": "rmap5 R1 pred_t141 final value (p1 1.11454); last writer agree_gm; "
+},
+"69": {
+"value": 0.6740664039391832,
+"why": "rmap5 R1 pred_t141 final value (p1 0.971439); last writer dis_geo; "
+},
+"72": {
+"value": 1.2575919926273549,
+"why": "rmap5 R1 pred_t141 final value (p1 1.36793); last writer agree_gm; "
+},
+"79": {
+"value": 1.3548817156441235,
+"why": "rmap5 R1 pred_t141 final value (p1 1.37726); last writer agree_gm; "
+},
+"83": {
+"value": 1.2908511747653155,
+"why": "rmap5 R1 pred_t141 final value (p1 1.34432); last writer agree_gm; "
+},
+"86": {
+"value": 3.4,
+"why": "rmap5 R1 pred_t141 final value (p1 3.23782); last writer dis_caw_routed; "
+},
+"88": {
+"value": 4.7,
+"why": "rmap5 R1 pred_t141 final value (p1 4.81977); last writer patch:rm_c1; "
+},
+"95": {
+"value": 4.89,
+"why": "rmap5 R1 pred_t141 final value (p1 4.86776); last writer patch:rm_c1; "
+},
+"101": {
+"value": 6.325269273481276,
+"why": "rmap5 R1 pred_t141 final value (p1 5.25357); last writer patch:h_rgV4; "
+},
+"102": {
+"value": 2.5301077093925106,
+"why": "rmap5 R1 pred_t141 final value (p1 2.0347); last writer patch:h_rgV4; "
+},
+"103": {
+"value": 6.219848118923255,
+"why": "rmap5 R1 pred_t141 final value (p1 5.19615); last writer patch:h_rgV4; "
+},
+"104": {
+"value": 2.582818286671521,
+"why": "rmap5 R1 pred_t141 final value (p1 1.97737); last writer patch:h_rgV4; "
+},
+"109": {
+"value": 1.3001566272197886,
+"why": "rmap5 R1 pred_t141 final value (p1 1.58745); last writer patch:h_rgV4; "
+},
+"118": {
+"value": 2.38074916193433,
+"why": "rmap5 R1 pred_t141 final value (p1 2.0347); last writer patch:h_rgV4; "
+},
+"132": {
+"value": 2.1369964566513704,
+"why": "rmap5 R1 pred_t141 final value (p1 2.11845); last writer patch:h5_wing_B1; wingspan re-measure, plain gm with own CaW when within 2x"
+},
+"136": {
+"value": 1.9293563277878087,
+"why": "rmap5 R1 pred_t141 final value (p1 2.0807); last writer patch:h5_wing_B1; wingspan re-measure, plain gm with own CaW when within 2x"
+},
+"139": {
+"value": 25.625416633801084,
+"why": "rmap5 R1 pred_t141 final value (p1 32.8331); last writer agree_gm; "
+},
+"159": {
+"value": 6.151744466893181,
+"why": "rmap5 R1 pred_t141 final value (p1 5.25357); last writer patch:h_rgV4; "
+},
+"160": {
+"value": 2.085337107421417,
+"why": "rmap5 R1 pred_t141 final value (p1 1.70294); last writer patch:h_rgV4; "
+},
+"181": {
+"value": 0.9663232050442636,
+"why": "rmap5 R1 pred_t141 final value (p1 1.22143); last writer patch:rm5c_X12V1; "
+},
+"183": {
+"value": 2.4823467999412063,
+"why": "rmap5 R1 pred_t141 final value (p1 3.08102); last writer agree_gm; "
+},
+"185": {
+"value": 1.0707302886767265,
+"why": "rmap5 R1 pred_t141 final value (p1 1.2326); last writer patch:rm5c_X12V1; "
+},
+"189": {
+"value": 1.346251936073352,
+"why": "rmap5 R1 pred_t141 final value (p1 1.26084); last writer patch:rm5c_X12V1; "
+},
+"194": {
+"value": 0.9593089401912662,
+"why": "rmap5 R1 pred_t141 final value (p1 1.20376); last writer patch:rm5c_X12V1; "
+},
+"199": {
+"value": 1.1829533649922293,
+"why": "rmap5 R1 pred_t141 final value (p1 1.5031); last writer patch:rm5c_X12V1; "
+},
+"205": {
+"value": 0.9516971512840088,
+"why": "rmap5 R1 pred_t141 final value (p1 1.18038); last writer patch:rm5c_X12V1; "
+},
+"207": {
+"value": 0.16,
+"why": "rmap5 R1 pred_t141 final value (p1 0.258154); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"211": {
+"value": 1.4556988332152452,
+"why": "rmap5 R1 pred_t141 final value (p1 0.660653); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f21-45 a=303px/s^2 (x1.000) dur 1.00s -> mpp 0.03235 frameH 15.5m blob 0.384m; target ext 45.0px"
+},
+"212": {
+"value": 1.4233497234526682,
+"why": "rmap5 R1 pred_t141 final value (p1 0.619747); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f21-45 a=303px/s^2 (x1.000) dur 1.00s -> mpp 0.03235 frameH 15.5m blob 0.384m; target ext 44.0px"
+},
+"222": {
+"value": 2.86,
+"why": "rmap5 R1 pred_t141 final value (p1 2.73473); last writer dis_caw_routed; "
+},
+"224": {
+"value": 1.591969041109616,
+"why": "rmap5 R1 pred_t141 final value (p1 2.08869); last writer patch:rm_rul175; "
+},
+"244": {
+"value": 0.16,
+"why": "rmap5 R1 pred_t141 final value (p1 0.156272); last writer caw_nogeo; "
+},
+"248": {
+"value": 0.29,
+"why": "rmap5 R1 pred_t141 final value (p1 0.289362); last writer caw_nogeo; "
+},
+"251": {
+"value": 0.04,
+"why": "rmap5 R1 pred_t141 final value (p1 0.03718); last writer caw_nogeo; "
+},
+"263": {
+"value": 2.4,
+"why": "rmap5 R1 pred_t141 final value (p1 2.37024); last writer caw_nogeo; "
+},
+"268": {
+"value": 0.44,
+"why": "rmap5 R1 pred_t141 final value (p1 1.88106); last writer patch:rm5c_X22cs; BBg[S1]: own box fills the frame (t fills W along extent) -> geo invalid -> CaW-only value = own CaW read 0.44"
+},
+"285": {
+"value": 1.03,
+"why": "rmap5 R1 pred_t141 final value (p1 0.971599); last writer dis_caw_routed; "
+},
+"287": {
+"value": 2.8527435528630254,
+"why": "rmap5 R1 pred_t141 final value (p1 1.97737); last writer patch:h_rgV4; "
+},
+"288": {
+"value": 7.891663625245719,
+"why": "rmap5 R1 pred_t141 final value (p1 5.19615); last writer patch:h_rgV4; "
+},
+"289": {
+"value": 1.75,
+"why": "rmap5 R1 pred_t141 final value (p1 2.18309); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"290": {
+"value": 3.002887950382132,
+"why": "rmap5 R1 pred_t141 final value (p1 2.0347); last writer patch:h_rgV4; "
+},
+"291": {
+"value": 8.032725267272204,
+"why": "rmap5 R1 pred_t141 final value (p1 5.19615); last writer patch:h_rgV4; "
+},
+"292": {
+"value": 3.228104546660792,
+"why": "rmap5 R1 pred_t141 final value (p1 1.97737); last writer patch:h_rgV4; "
+},
+"293": {
+"value": 7.73243647223399,
+"why": "rmap5 R1 pred_t141 final value (p1 5.19615); last writer patch:h_rgV4; "
+},
+"295": {
+"value": 4.807150982619992,
+"why": "rmap5 R1 pred_t141 final value (p1 3.13205); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f0-37 a=265px/s^2 (x1.000) dur 1.54s -> mpp 0.03698 frameH 17.7m blob 0.269m; target ext 130.0px"
+},
+"296": {
+"value": 3.9936331240227614,
+"why": "rmap5 R1 pred_t141 final value (p1 2.44614); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f0-37 a=265px/s^2 (x1.000) dur 1.54s -> mpp 0.03698 frameH 17.7m blob 0.269m; target ext 108.0px"
+},
+"298": {
+"value": 6.136629260778471,
+"why": "rmap5 R1 pred_t141 final value (p1 3.19773); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f0-7 a=180px/s^2 (x1.000) dur 0.29s -> mpp 0.05431 frameH 26.1m blob 0.401m; target ext 113.0px"
+},
+"299": {
+"value": 2.2,
+"why": "rmap5 R1 pred_t141 final value (p1 2.48711); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"336": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.59034); last writer caw_nogeo; "
+},
+"337": {
+"value": 4.6,
+"why": "rmap5 R1 pred_t141 final value (p1 4.55584); last writer caw_nogeo; "
+},
+"339": {
+"value": 15.497853708608416,
+"why": "rmap5 R1 pred_t141 final value (p1 11.5763); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 88.3px, quadratic fit"
+},
+"340": {
+"value": 26.296857472095894,
+"why": "rmap5 R1 pred_t141 final value (p1 9.99551); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 88.3px, quadratic fit"
+},
+"341": {
+"value": 29.303628353837606,
+"why": "rmap5 R1 pred_t141 final value (p1 9.9873); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 88.3px, quadratic fit"
+},
+"347": {
+"value": 1.9595671185432595,
+"why": "rmap5 R1 pred_t141 final value (p1 3.19621); last writer patch:h_rgV4; "
+},
+"357": {
+"value": 7.96359876021946,
+"why": "rmap5 R1 pred_t141 final value (p1 13.7083); last writer patch:rm_rul441; "
+},
+"358": {
+"value": 2.2763583549919875,
+"why": "rmap5 R1 pred_t141 final value (p1 3.47678); last writer patch:rv0420; "
+},
+"385": {
+"value": 0.7357164467841418,
+"why": "rmap5 R1 pred_t141 final value (p1 0.685857); last writer patch:h_rgV4; "
+},
+"386": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 10.0244); last writer caw_nogeo; "
+},
+"388": {
+"value": 0.7559075224707202,
+"why": "rmap5 R1 pred_t141 final value (p1 0.690515); last writer patch:h_rgV4; "
+},
+"389": {
+"value": 7.3,
+"why": "rmap5 R1 pred_t141 final value (p1 7.14889); last writer caw_nogeo; "
+},
+"394": {
+"value": 6.6,
+"why": "rmap5 R1 pred_t141 final value (p1 6.23106); last writer caw_nogeo; "
+},
+"398": {
+"value": 8.701266363748546,
+"why": "rmap5 R1 pred_t141 final value (p1 6.92399); last writer patch:rm_rul251; "
+},
+"399": {
+"value": 18.0,
+"why": "rmap5 R1 pred_t141 final value (p1 17.0298); last writer caw_nogeo; "
+},
+"402": {
+"value": 2.047922701456748,
+"why": "rmap5 R1 pred_t141 final value (p1 2.62124); last writer agree_gm; "
+},
+"404": {
+"value": 2.2773426856682617,
+"why": "rmap5 R1 pred_t141 final value (p1 2.88127); last writer agree_gm; "
+},
+"406": {
+"value": 1.2952835034639645,
+"why": "rmap5 R1 pred_t141 final value (p1 0.932089); last writer agree_gm; "
+},
+"431": {
+"value": 2.1,
+"why": "rmap5 R1 pred_t141 final value (p1 3.54805); last writer patch:rm5c_X22cs; BBg[S1]: own box fills the frame (t fills H along extent) -> geo invalid -> CaW-only value = own CaW read 2.1"
+},
+"432": {
+"value": 0.5,
+"why": "rmap5 R1 pred_t141 final value (p1 0.49095); last writer caw_nogeo; "
+},
+"447": {
+"value": 4.8274263027661215,
+"why": "rmap5 R1 pred_t141 final value (p1 3.64176); last writer patch:rm_rul108; "
+},
+"455": {
+"value": 1.946078704433445,
+"why": "rmap5 R1 pred_t141 final value (p1 0.900332); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.8px (max step 0.8px), prior px 8.743/s -> mpp 0.01075; target ext 181.0px"
+},
+"456": {
+"value": 0.9999188923332069,
+"why": "rmap5 R1 pred_t141 final value (p1 0.58632); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.8px (max step 0.8px), prior px 8.743/s -> mpp 0.01075; target ext 93.0px"
+},
+"457": {
+"value": 8.196287081777877,
+"why": "rmap5 R1 pred_t141 final value (p1 6.69052); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.8px (max step 0.8px), prior px 8.743/s -> mpp 0.01075; target ext 762.3px"
+},
+"458": {
+"value": 3.537347479329301,
+"why": "rmap5 R1 pred_t141 final value (p1 3.08667); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.8px (max step 0.8px), prior px 8.743/s -> mpp 0.01075; target ext 329.0px"
+},
+"459": {
+"value": 0.763378939308147,
+"why": "rmap5 R1 pred_t141 final value (p1 0.9906); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.8px (max step 0.8px), prior px 8.743/s -> mpp 0.01075; target ext 71.0px"
+},
+"460": {
+"value": 3.104047536863943,
+"why": "rmap5 R1 pred_t141 final value (p1 3.54965); last writer patch:rm_rul151; "
+},
+"461": {
+"value": 2.6599998389349993,
+"why": "rmap5 R1 pred_t141 final value (p1 2.67993); last writer patch:rm_rul151; "
+},
+"466": {
+"value": 1.136995347418847,
+"why": "rmap5 R1 pred_t141 final value (p1 0.584036); last writer dis_geo; "
+},
+"473": {
+"value": 1.4673982385019575,
+"why": "rmap5 R1 pred_t141 final value (p1 2.54558); last writer patch:rv0259; "
+},
+"492": {
+"value": 0.0004,
+"why": "rmap5 R1 pred_t141 final value (p1 0.00037072); last writer caw_nogeo; "
+},
+"493": {
+"value": 0.000432,
+"why": "rmap5 R1 pred_t141 final value (p1 0.000401112); last writer caw_nogeo; "
+},
+"494": {
+"value": 0.08,
+"why": "rmap5 R1 pred_t141 final value (p1 0.074848); last writer caw_nogeo; "
+},
+"495": {
+"value": 0.015,
+"why": "rmap5 R1 pred_t141 final value (p1 0.0139065); last writer caw_nogeo; "
+},
+"507": {
+"value": 0.07,
+"why": "rmap5 R1 pred_t141 final value (p1 0.066269); last writer caw_nogeo; "
+},
+"508": {
+"value": 0.11,
+"why": "rmap5 R1 pred_t141 final value (p1 0.104214); last writer caw_nogeo; "
+},
+"547": {
+"value": 0.2309441544214402,
+"why": "rmap5 R1 pred_t141 final value (p1 0.159386); last writer dis_geo; "
+},
+"553": {
+"value": 2.690743358757892,
+"why": "rmap5 R1 pred_t141 final value (p1 1.64035); last writer dis_geo; "
+},
+"555": {
+"value": 0.232140472426095,
+"why": "rmap5 R1 pred_t141 final value (p1 0.159798); last writer dis_geo; "
+},
+"643": {
+"value": 0.95,
+"why": "rmap5 R1 pred_t141 final value (p1 0.899365); last writer caw_nogeo; "
+},
+"658": {
+"value": 1.119961674197465,
+"why": "rmap5 R1 pred_t141 final value (p1 1.09071); last writer patch:rv0242; "
+},
+"659": {
+"value": 1.5508113523355291,
+"why": "rmap5 R1 pred_t141 final value (p1 2.02102); last writer patch:rv0242; "
+},
+"663": {
+"value": 0.740620823994757,
+"why": "rmap5 R1 pred_t141 final value (p1 0.626163); last writer patch:rv0242; "
+},
+"674": {
+"value": 1.1169756293946775,
+"why": "rmap5 R1 pred_t141 final value (p1 1.0849); last writer patch:rv0242; "
+},
+"675": {
+"value": 2.107048048343672,
+"why": "rmap5 R1 pred_t141 final value (p1 2.02724); last writer patch:rv0242; "
+},
+"679": {
+"value": 0.9126559583704502,
+"why": "rmap5 R1 pred_t141 final value (p1 0.950846); last writer patch:rv0242; "
+},
+"682": {
+"value": 0.3798663672676435,
+"why": "rmap5 R1 pred_t141 final value (p1 0.221618); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"683": {
+"value": 0.7216471667951613,
+"why": "rmap5 R1 pred_t141 final value (p1 0.686527); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"684": {
+"value": 0.7406899506652241,
+"why": "rmap5 R1 pred_t141 final value (p1 0.689548); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"685": {
+"value": 0.7216471667951613,
+"why": "rmap5 R1 pred_t141 final value (p1 0.688276); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"686": {
+"value": 1.1015135340628048,
+"why": "rmap5 R1 pred_t141 final value (p1 1.05472); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"687": {
+"value": 0.7216471667951613,
+"why": "rmap5 R1 pred_t141 final value (p1 0.68839); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 35.9px, quadratic fit"
+},
+"689": {
+"value": 0.37887390229216134,
+"why": "rmap5 R1 pred_t141 final value (p1 0.832606); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"690": {
+"value": 0.8246683488200777,
+"why": "rmap5 R1 pred_t141 final value (p1 1.78443); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"691": {
+"value": 0.7912080767022001,
+"why": "rmap5 R1 pred_t141 final value (p1 1.78565); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"692": {
+"value": 0.8246683488200777,
+"why": "rmap5 R1 pred_t141 final value (p1 0.62971); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"693": {
+"value": 1.2035422511122391,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14979); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"694": {
+"value": 0.8246683488200777,
+"why": "rmap5 R1 pred_t141 final value (p1 1.79875); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"698": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.5787); last writer caw_nogeo; "
+},
+"701": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.56412); last writer caw_nogeo; "
+},
+"705": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.56376); last writer caw_nogeo; "
+},
+"738": {
+"value": 2.7,
+"why": "rmap5 R1 pred_t141 final value (p1 2.69163); last writer caw_nogeo; "
+},
+"749": {
+"value": 2.7,
+"why": "rmap5 R1 pred_t141 final value (p1 2.6892); last writer caw_nogeo; "
+},
+"807": {
+"value": 1.3721103350406223,
+"why": "rmap5 R1 pred_t141 final value (p1 0.648242); last writer patch:rm_jump; "
+},
+"886": {
+"value": 0.15,
+"why": "rmap5 R1 pred_t141 final value (p1 0.1485); last writer caw_nogeo; "
+},
+"889": {
+"value": 0.15,
+"why": "rmap5 R1 pred_t141 final value (p1 0.14136); last writer caw_nogeo; "
+},
+"890": {
+"value": 0.1,
+"why": "rmap5 R1 pred_t141 final value (p1 0.09408); last writer caw_nogeo; "
+},
+"891": {
+"value": 1.2,
+"why": "rmap5 R1 pred_t141 final value (p1 1.1568); last writer caw_nogeo; "
+},
+"892": {
+"value": 0.8,
+"why": "rmap5 R1 pred_t141 final value (p1 0.79896); last writer caw_nogeo; "
+},
+"893": {
+"value": 0.17,
+"why": "rmap5 R1 pred_t141 final value (p1 0.167688); last writer caw_nogeo; "
+},
+"901": {
+"value": 0.07,
+"why": "rmap5 R1 pred_t141 final value (p1 0.069419); last writer caw_nogeo; "
+},
+"911": {
+"value": 0.09,
+"why": "rmap5 R1 pred_t141 final value (p1 0.084258); last writer caw_nogeo; "
+},
+"920": {
+"value": 0.1,
+"why": "rmap5 R1 pred_t141 final value (p1 0.248532); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"929": {
+"value": 2.13582429795308,
+"why": "rmap5 R1 pred_t141 final value (p1 1.89155); last writer patch:rm5c_X12V1; "
+},
+"941": {
+"value": 1.5069136304685644,
+"why": "rmap5 R1 pred_t141 final value (p1 1.86338); last writer patch:rm5c_X12V1; "
+},
+"974": {
+"value": 3.983798986795044,
+"why": "rmap5 R1 pred_t141 final value (p1 2.83405); last writer agree_gm; "
+},
+"982": {
+"value": 20.555861006473236,
+"why": "rmap5 R1 pred_t141 final value (p1 10.2517); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 181.7px (max step 3.6px), prior px 62.03/s -> mpp 0.02692; target ext 763.5px"
+},
+"983": {
+"value": 5.357764626908059,
+"why": "rmap5 R1 pred_t141 final value (p1 5.89687); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 181.7px (max step 3.6px), prior px 62.03/s -> mpp 0.02692; target ext 199.0px"
+},
+"1017": {
+"value": 0.3155478853641783,
+"why": "rmap5 R1 pred_t141 final value (p1 0.382313); last writer patch:rm5c_X12V1; "
+},
+"1034": {
+"value": 3.2062906369107216,
+"why": "rmap5 R1 pred_t141 final value (p1 2.7); last writer patch:rv0420; "
+},
+"1037": {
+"value": 4.33,
+"why": "rmap5 R1 pred_t141 final value (p1 4.43096); last writer caw_nogeo; "
+},
+"1038": {
+"value": 2.05,
+"why": "rmap5 R1 pred_t141 final value (p1 1.95365); last writer caw_nogeo; "
+},
+"1040": {
+"value": 2.13,
+"why": "rmap5 R1 pred_t141 final value (p1 2.03521); last writer caw_nogeo; "
+},
+"1041": {
+"value": 3.4,
+"why": "rmap5 R1 pred_t141 final value (p1 3.28508); last writer caw_nogeo; "
+},
+"1044": {
+"value": 1.051177475032743,
+"why": "rmap5 R1 pred_t141 final value (p1 1.99449); last writer patch:rv0259; "
+},
+"1048": {
+"value": 3.58,
+"why": "rmap5 R1 pred_t141 final value (p1 3.0989); last writer caw_nogeo; "
+},
+"1050": {
+"value": 1.2,
+"why": "rmap5 R1 pred_t141 final value (p1 1.08736); last writer caw_nogeo; "
+},
+"1051": {
+"value": 3.0,
+"why": "rmap5 R1 pred_t141 final value (p1 2.71672); last writer caw_nogeo; "
+},
+"1052": {
+"value": 13.67162848953889,
+"why": "rmap5 R1 pred_t141 final value (p1 15.552); last writer patch:rm5c_X01G2; M1g[G2]: own depth text 55 m (>=50 m), own calibrated geo 13.67 vs own CaW 5.13 >2x -> own geo"
+},
+"1054": {
+"value": 1.03,
+"why": "rmap5 R1 pred_t141 final value (p1 1.00435); last writer caw_nogeo; "
+},
+"1058": {
+"value": 3.859835732827788,
+"why": "rmap5 R1 pred_t141 final value (p1 2.13); last writer dis_size_gm; "
+},
+"1059": {
+"value": 1.590536428579195,
+"why": "rmap5 R1 pred_t141 final value (p1 1.22274); last writer dis_size_gm; "
+},
+"1060": {
+"value": 11.284812906370556,
+"why": "rmap5 R1 pred_t141 final value (p1 8.4984); last writer dis_size_gm; "
+},
+"1061": {
+"value": 0.8376220544311995,
+"why": "rmap5 R1 pred_t141 final value (p1 0.54145); last writer dis_size_gm; "
+},
+"1062": {
+"value": 1.7455643976545694,
+"why": "rmap5 R1 pred_t141 final value (p1 1.5); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 2.005 and own CaW 1.52 -> plain gm"
+},
+"1065": {
+"value": 0.9083880216894062,
+"why": "rmap5 R1 pred_t141 final value (p1 1.15); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 1.086 and own CaW 0.76 -> plain gm"
+},
+"1066": {
+"value": 3.963321559301504,
+"why": "rmap5 R1 pred_t141 final value (p1 2.15); last writer dis_size_gm; "
+},
+"1067": {
+"value": 1.779512980849837,
+"why": "rmap5 R1 pred_t141 final value (p1 1.39909); last writer dis_size_gm; "
+},
+"1068": {
+"value": 15.51683432184075,
+"why": "rmap5 R1 pred_t141 final value (p1 13.9); last writer patch:rm_c94; "
+},
+"1069": {
+"value": 1.03,
+"why": "rmap5 R1 pred_t141 final value (p1 0.906542); last writer caw_nogeo; "
+},
+"1070": {
+"value": 1.336157402644352,
+"why": "rmap5 R1 pred_t141 final value (p1 1.29035); last writer patch:rm5c_X12V1; "
+},
+"1071": {
+"value": 3.363776148969293,
+"why": "rmap5 R1 pred_t141 final value (p1 2.67672); last writer dis_size_gm; "
+},
+"1079": {
+"value": 6.2,
+"why": "rmap5 R1 pred_t141 final value (p1 6.17024); last writer caw_nogeo; "
+},
+"1081": {
+"value": 1.2920462743199463,
+"why": "rmap5 R1 pred_t141 final value (p1 1.34494); last writer agree_gm; "
+},
+"1089": {
+"value": 1.197261059326066,
+"why": "rmap5 R1 pred_t141 final value (p1 1.3463); last writer patch:roll; "
+},
+"1095": {
+"value": 1.392516857368275,
+"why": "rmap5 R1 pred_t141 final value (p1 1.39625); last writer agree_gm; "
+},
+"1102": {
+"value": 7.94,
+"why": "rmap5 R1 pred_t141 final value (p1 8.95441); last writer rul263_caw; "
+},
+"1107": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 3.9); last writer patch:rv0259; "
+},
+"1108": {
+"value": 14.30917991659792,
+"why": "rmap5 R1 pred_t141 final value (p1 14.1031); last writer agree_gm; "
+},
+"1114": {
+"value": 1.4,
+"why": "rmap5 R1 pred_t141 final value (p1 1.40009); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1115": {
+"value": 1.4,
+"why": "rmap5 R1 pred_t141 final value (p1 1.40008); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1117": {
+"value": 11.0505704485242,
+"why": "rmap5 R1 pred_t141 final value (p1 12.3937); last writer dis_geo; "
+},
+"1118": {
+"value": 1.52,
+"why": "rmap5 R1 pred_t141 final value (p1 1.13666); last writer rul263_caw; "
+},
+"1120": {
+"value": 8.13,
+"why": "rmap5 R1 pred_t141 final value (p1 8.33778); last writer rul263_caw; "
+},
+"1124": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 10.4512); last writer rul263_caw; "
+},
+"1125": {
+"value": 4.2,
+"why": "rmap5 R1 pred_t141 final value (p1 3.30454); last writer rul263_caw; "
+},
+"1127": {
+"value": 1.53,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14039); last writer rul263_caw; "
+},
+"1128": {
+"value": 14.052365406107006,
+"why": "rmap5 R1 pred_t141 final value (p1 13.976); last writer agree_gm; "
+},
+"1130": {
+"value": 1.281848316222845,
+"why": "rmap5 R1 pred_t141 final value (p1 1.33962); last writer agree_gm; "
+},
+"1135": {
+"value": 4.616,
+"why": "rmap5 R1 pred_t141 final value (p1 4.55763); last writer rul263_caw; "
+},
+"1137": {
+"value": 0.35,
+"why": "rmap5 R1 pred_t141 final value (p1 0.318117); last writer caw_nogeo; "
+},
+"1140": {
+"value": 3.83268170010699,
+"why": "rmap5 R1 pred_t141 final value (p1 3.15673); last writer agree_gm; "
+},
+"1141": {
+"value": 1.3595422272847155,
+"why": "rmap5 R1 pred_t141 final value (p1 1.37962); last writer agree_geo_kind; "
+},
+"1143": {
+"value": 11.89779894661994,
+"why": "rmap5 R1 pred_t141 final value (p1 12.86); last writer agree_geo_kind; "
+},
+"1144": {
+"value": 1.1442323150949216,
+"why": "rmap5 R1 pred_t141 final value (p1 1.26567); last writer agree_geo_kind; "
+},
+"1146": {
+"value": 12.274155142029176,
+"why": "rmap5 R1 pred_t141 final value (p1 13.0618); last writer agree_geo_kind; "
+},
+"1151": {
+"value": 1.1944043890393123,
+"why": "rmap5 R1 pred_t141 final value (p1 1.29312); last writer agree_geo_kind; "
+},
+"1153": {
+"value": 1.3031745119820688,
+"why": "rmap5 R1 pred_t141 final value (p1 1.35072); last writer agree_gm; "
+},
+"1155": {
+"value": 4.8,
+"why": "rmap5 R1 pred_t141 final value (p1 3.5327); last writer rul263_caw; "
+},
+"1158": {
+"value": 13.27630041945242,
+"why": "rmap5 R1 pred_t141 final value (p1 13.5846); last writer agree_gm; "
+},
+"1160": {
+"value": 13.9,
+"why": "rmap5 R1 pred_t141 final value (p1 13.9); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1161": {
+"value": 1.44,
+"why": "rmap5 R1 pred_t141 final value (p1 1.37228); last writer caw_nogeo; "
+},
+"1163": {
+"value": 4.2,
+"why": "rmap5 R1 pred_t141 final value (p1 3.30454); last writer rul263_caw; "
+},
+"1165": {
+"value": 1.53,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14039); last writer rul263_caw; "
+},
+"1167": {
+"value": 4.141084833005711,
+"why": "rmap5 R1 pred_t141 final value (p1 3.71532); last writer agree_gm; "
+},
+"1171": {
+"value": 7.704247823552971,
+"why": "rmap5 R1 pred_t141 final value (p1 13.9004); last writer dis_geo; "
+},
+"1174": {
+"value": 1.74,
+"why": "rmap5 R1 pred_t141 final value (p1 1.827); last writer rul263_caw; "
+},
+"1176": {
+"value": 4.41,
+"why": "rmap5 R1 pred_t141 final value (p1 3.9426); last writer caw_nogeo; "
+},
+"1180": {
+"value": 0.17,
+"why": "rmap5 R1 pred_t141 final value (p1 0.245541); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1181": {
+"value": 1.3559274019827643,
+"why": "rmap5 R1 pred_t141 final value (p1 1.37779); last writer agree_gm; "
+},
+"1184": {
+"value": 1.2499810103957518,
+"why": "rmap5 R1 pred_t141 final value (p1 1.11803); last writer agree_gm; "
+},
+"1188": {
+"value": 0.1830446777350069,
+"why": "rmap5 R1 pred_t141 final value (p1 0.176402); last writer agree_gm; "
+},
+"1190": {
+"value": 1.1189894104385287,
+"why": "rmap5 R1 pred_t141 final value (p1 1.25163); last writer agree_gm; "
+},
+"1191": {
+"value": 1.932117883115616,
+"why": "rmap5 R1 pred_t141 final value (p1 1.00006); last writer dis_size_gm; "
+},
+"1192": {
+"value": 5.64,
+"why": "rmap5 R1 pred_t141 final value (p1 5.49167); last writer caw_nogeo; "
+},
+"1196": {
+"value": 1.2513179087005724,
+"why": "rmap5 R1 pred_t141 final value (p1 1.32357); last writer agree_geo_kind; "
+},
+"1197": {
+"value": 1.77,
+"why": "rmap5 R1 pred_t141 final value (p1 1.8375); last writer rul263_caw; "
+},
+"1200": {
+"value": 0.66,
+"why": "rmap5 R1 pred_t141 final value (p1 0.664981); last writer rul263_caw; "
+},
+"1203": {
+"value": 1.1,
+"why": "rmap5 R1 pred_t141 final value (p1 1.04881); last writer rul263_caw; "
+},
+"1204": {
+"value": 5.67,
+"why": "rmap5 R1 pred_t141 final value (p1 5.48856); last writer dis_caw_routed; "
+},
+"1209": {
+"value": 0.17,
+"why": "rmap5 R1 pred_t141 final value (p1 0.267208); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1210": {
+"value": 0.88,
+"why": "rmap5 R1 pred_t141 final value (p1 1.01028); last writer rul263_caw; "
+},
+"1211": {
+"value": 6.4,
+"why": "rmap5 R1 pred_t141 final value (p1 4.23013); last writer rul263_caw; "
+},
+"1213": {
+"value": 4.824,
+"why": "rmap5 R1 pred_t141 final value (p1 4.60922); last writer rul263_caw; "
+},
+"1214": {
+"value": 1.37,
+"why": "rmap5 R1 pred_t141 final value (p1 1.52249); last writer rul263_caw; "
+},
+"1215": {
+"value": 0.31,
+"why": "rmap5 R1 pred_t141 final value (p1 0.280355); last writer caw_nogeo; "
+},
+"1216": {
+"value": 1.42,
+"why": "rmap5 R1 pred_t141 final value (p1 1.88164); last writer rul263_caw; "
+},
+"1217": {
+"value": 4.52,
+"why": "rmap5 R1 pred_t141 final value (p1 4.1157); last writer rul263_caw; "
+},
+"1218": {
+"value": 12.827058016327031,
+"why": "rmap5 R1 pred_t141 final value (p1 8.17243); last writer dis_geo; "
+},
+"1221": {
+"value": 4.388,
+"why": "rmap5 R1 pred_t141 final value (p1 4.44365); last writer rul263_caw; "
+},
+"1223": {
+"value": 0.23,
+"why": "rmap5 R1 pred_t141 final value (p1 0.201793); last writer caw_nogeo; "
+},
+"1224": {
+"value": 0.8489829798211234,
+"why": "rmap5 R1 pred_t141 final value (p1 0.933333); last writer patch:rm_rul211; "
+},
+"1231": {
+"value": 8.973,
+"why": "rmap5 R1 pred_t141 final value (p1 8.83212); last writer dis_caw_routed; "
+},
+"1234": {
+"value": 4.060970393179668,
+"why": "rmap5 R1 pred_t141 final value (p1 4.61474); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white car' loses obj1 to 'yellow car' (3/72); own OWL chain 72 fr 0-71; size on own chain with own MoGe focal 0.863W = 3.665, own CaW 4.5 -> 4.061 (was 4.5)"
+},
+"1239": {
+"value": 1.2906365341462824,
+"why": "rmap5 R1 pred_t141 final value (p1 1.34421); last writer agree_geo_kind; "
+},
+"1246": {
+"value": 3.6299879651368796,
+"why": "rmap5 R1 pred_t141 final value (p1 4.64356); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white car' loses obj9 to 'yellow car' (14/72); own OWL chain 72 fr 0-71; size on own chain with own MoGe focal 0.826W = 2.739, own CaW 4.81 -> 3.63 (was 4.5)"
+},
+"1247": {
+"value": 4.6,
+"why": "rmap5 R1 pred_t141 final value (p1 4.54973); last writer rul263_caw; "
+},
+"1248": {
+"value": 1.43,
+"why": "rmap5 R1 pred_t141 final value (p1 1.596); last writer rul263_caw; "
+},
+"1249": {
+"value": 0.66,
+"why": "rmap5 R1 pred_t141 final value (p1 0.828645); last writer rul263_caw; "
+},
+"1253": {
+"value": 1.7,
+"why": "rmap5 R1 pred_t141 final value (p1 1.61128); last writer rul263_caw; "
+},
+"1254": {
+"value": 8.260757720908193,
+"why": "rmap5 R1 pred_t141 final value (p1 6.4268); last writer agree_geo_kind; "
+},
+"1256": {
+"value": 2.67907891774482,
+"why": "rmap5 R1 pred_t141 final value (p1 1.97737); last writer dis_size_gm; "
+},
+"1259": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 5.23283); last writer rul263_caw; "
+},
+"1260": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.33876); last writer rul263_caw; "
+},
+"1266": {
+"value": 2.5918258282346627,
+"why": "rmap5 R1 pred_t141 final value (p1 2.04597); last writer dis_size_gm; "
+},
+"1267": {
+"value": 2.5988718202344687,
+"why": "rmap5 R1 pred_t141 final value (p1 2.05158); last writer dis_size_gm; "
+},
+"1269": {
+"value": 7.5,
+"why": "rmap5 R1 pred_t141 final value (p1 6.83205); last writer caw_nogeo; "
+},
+"1270": {
+"value": 4.57,
+"why": "rmap5 R1 pred_t141 final value (p1 4.9808); last writer rul263_caw; "
+},
+"1271": {
+"value": 4.66,
+"why": "rmap5 R1 pred_t141 final value (p1 4.5793); last writer rul263_caw; "
+},
+"1273": {
+"value": 0.67,
+"why": "rmap5 R1 pred_t141 final value (p1 0.750747); last writer rul263_caw; "
+},
+"1277": {
+"value": 1.7,
+"why": "rmap5 R1 pred_t141 final value (p1 1.93157); last writer rul263_caw; "
+},
+"1278": {
+"value": 8.14597610431795,
+"why": "rmap5 R1 pred_t141 final value (p1 6.382); last writer agree_geo_kind; "
+},
+"1280": {
+"value": 7.5,
+"why": "rmap5 R1 pred_t141 final value (p1 6.77031); last writer caw_nogeo; "
+},
+"1283": {
+"value": 4.53,
+"why": "rmap5 R1 pred_t141 final value (p1 4.51498); last writer rul263_caw; "
+},
+"1291": {
+"value": 2.5315480276326965,
+"why": "rmap5 R1 pred_t141 final value (p1 3.55777); last writer agree_geo_kind; "
+},
+"1293": {
+"value": 7.3,
+"why": "rmap5 R1 pred_t141 final value (p1 6.64649); last writer caw_nogeo; "
+},
+"1294": {
+"value": 2.025251478217072,
+"why": "rmap5 R1 pred_t141 final value (p1 1.827); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 2.357 and own CaW 1.74 -> plain gm"
+},
+"1296": {
+"value": 4.793704787138123,
+"why": "rmap5 R1 pred_t141 final value (p1 4.54973); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 4.996 and own CaW 4.6 -> plain gm"
+},
+"1297": {
+"value": 1.7045805471232391,
+"why": "rmap5 R1 pred_t141 final value (p1 1.554); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 1.963 and own CaW 1.48 -> plain gm"
+},
+"1298": {
+"value": 1.9359360108038923,
+"why": "rmap5 R1 pred_t141 final value (p1 2.01); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 1.865 and own CaW 2.01 -> plain gm"
+},
+"1299": {
+"value": 0.6567995497985938,
+"why": "rmap5 R1 pred_t141 final value (p1 0.67); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 0.6439 and own CaW 0.67 -> plain gm"
+},
+"1301": {
+"value": 9.059545759612318,
+"why": "rmap5 R1 pred_t141 final value (p1 7.49461); last writer dis_size_gm; "
+},
+"1303": {
+"value": 1.869377589892578,
+"why": "rmap5 R1 pred_t141 final value (p1 1.75); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 1.997 and own CaW 1.75 -> plain gm"
+},
+"1306": {
+"value": 6.424909619807433,
+"why": "rmap5 R1 pred_t141 final value (p1 4.74207); last writer dis_size_gm; "
+},
+"1307": {
+"value": 2.506018182166469,
+"why": "rmap5 R1 pred_t141 final value (p1 2.04939); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 3.14 and own CaW 2 -> plain gm"
+},
+"1308": {
+"value": 2.262996668752699,
+"why": "rmap5 R1 pred_t141 final value (p1 2.01); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.548 and own CaW 2.01 -> plain gm"
+},
+"1309": {
+"value": 4.965447418160616,
+"why": "rmap5 R1 pred_t141 final value (p1 4.95445); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 5.455 and own CaW 4.52 -> plain gm"
+},
+"1310": {
+"value": 1.7947874300016466,
+"why": "rmap5 R1 pred_t141 final value (p1 1.596); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.119 and own CaW 1.52 -> plain gm"
+},
+"1312": {
+"value": 0.5551890101294479,
+"why": "rmap5 R1 pred_t141 final value (p1 0.664981); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 0.4601 and own CaW 0.67 -> plain gm"
+},
+"1314": {
+"value": 2.0308294346840685,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68617); last writer patch:twin; "
+},
+"1315": {
+"value": 1.95013534094133,
+"why": "rmap5 R1 pred_t141 final value (p1 1.785); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.237 and own CaW 1.7 -> plain gm"
+},
+"1319": {
+"value": 2.388551212313466,
+"why": "rmap5 R1 pred_t141 final value (p1 1.78297); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 3.279 and own CaW 1.74 -> plain gm"
+},
+"1320": {
+"value": 2.3023488873247593,
+"why": "rmap5 R1 pred_t141 final value (p1 2); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.65 and own CaW 2 -> plain gm"
+},
+"1322": {
+"value": 1.7739772772818918,
+"why": "rmap5 R1 pred_t141 final value (p1 1.45507); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.216 and own CaW 1.42 -> plain gm"
+},
+"1323": {
+"value": 1.9704422542927007,
+"why": "rmap5 R1 pred_t141 final value (p1 1.8); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 2.157 and own CaW 1.8 -> plain gm"
+},
+"1326": {
+"value": 1.3450478096468277,
+"why": "rmap5 R1 pred_t141 final value (p1 1.37225); last writer agree_geo_kind; "
+},
+"1327": {
+"value": 1.5701932320484604,
+"why": "rmap5 R1 pred_t141 final value (p1 1.75); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 1.45 and own CaW 1.7 -> plain gm"
+},
+"1330": {
+"value": 5.0,
+"why": "rmap5 R1 pred_t141 final value (p1 4.59586); last writer caw_nogeo; "
+},
+"1332": {
+"value": 4.24,
+"why": "rmap5 R1 pred_t141 final value (p1 4.36807); last writer rul263_caw; "
+},
+"1333": {
+"value": 1.78,
+"why": "rmap5 R1 pred_t141 final value (p1 2.1); last writer rul263_caw; "
+},
+"1335": {
+"value": 1.42,
+"why": "rmap5 R1 pred_t141 final value (p1 1.491); last writer rul263_caw; "
+},
+"1342": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.77632); last writer rul263_caw; "
+},
+"1343": {
+"value": 1.13,
+"why": "rmap5 R1 pred_t141 final value (p1 1.491); last writer rul263_caw; "
+},
+"1344": {
+"value": 2.6518621023856945,
+"why": "rmap5 R1 pred_t141 final value (p1 2.0347); last writer dis_size_gm; "
+},
+"1345": {
+"value": 2.3543016449829217,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68523); last writer patch:rm5c_X12V1; "
+},
+"1350": {
+"value": 1.78,
+"why": "rmap5 R1 pred_t141 final value (p1 1.869); last writer rul263_caw; "
+},
+"1351": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.47441); last writer rul263_caw; "
+},
+"1352": {
+"value": 1.53,
+"why": "rmap5 R1 pred_t141 final value (p1 1.596); last writer rul263_caw; "
+},
+"1361": {
+"value": 5.123885571243083,
+"why": "rmap5 R1 pred_t141 final value (p1 4.80182); last writer agree_gm; "
+},
+"1366": {
+"value": 1.8868167147684665,
+"why": "rmap5 R1 pred_t141 final value (p1 1.75499); last writer agree_gm; "
+},
+"1368": {
+"value": 1.7004906314486874,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68523); last writer patch:rm5c_X12V1; "
+},
+"1369": {
+"value": 4.4355787995069615,
+"why": "rmap5 R1 pred_t141 final value (p1 4.46767); last writer agree_gm; "
+},
+"1372": {
+"value": 0.718370213448088,
+"why": "rmap5 R1 pred_t141 final value (p1 0.64861); last writer patch:rm_rul267; "
+},
+"1373": {
+"value": 2.653799122918029,
+"why": "rmap5 R1 pred_t141 final value (p1 2.19773); last writer agree_gm; "
+},
+"1374": {
+"value": 3.992774140159188,
+"why": "rmap5 R1 pred_t141 final value (p1 3.62908); last writer agree_gm; "
+},
+"1381": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.606976); last writer caw_nogeo; "
+},
+"1382": {
+"value": 1.4164980579450357,
+"why": "rmap5 R1 pred_t141 final value (p1 1.40822); last writer agree_gm; "
+},
+"1383": {
+"value": 1.4886393357026142,
+"why": "rmap5 R1 pred_t141 final value (p1 1.44364); last writer agree_gm; "
+},
+"1390": {
+"value": 11.2,
+"why": "rmap5 R1 pred_t141 final value (p1 9.73633); last writer caw_nogeo; "
+},
+"1392": {
+"value": 4.66,
+"why": "rmap5 R1 pred_t141 final value (p1 4.5793); last writer rul263_caw; "
+},
+"1395": {
+"value": 15.6,
+"why": "rmap5 R1 pred_t141 final value (p1 14.2742); last writer caw_nogeo; "
+},
+"1397": {
+"value": 0.66,
+"why": "rmap5 R1 pred_t141 final value (p1 0.664981); last writer rul263_caw; "
+},
+"1417": {
+"value": 0.98,
+"why": "rmap5 R1 pred_t141 final value (p1 1.18253); last writer rul263_caw; "
+},
+"1420": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.552558); last writer caw_nogeo; "
+},
+"1429": {
+"value": 3.16,
+"why": "rmap5 R1 pred_t141 final value (p1 2.923); last writer caw_nogeo; "
+},
+"1430": {
+"value": 3.16,
+"why": "rmap5 R1 pred_t141 final value (p1 2.923); last writer caw_nogeo; "
+},
+"1436": {
+"value": 0.45,
+"why": "rmap5 R1 pred_t141 final value (p1 0.435322); last writer rul263_caw; "
+},
+"1438": {
+"value": 9.73751300656168,
+"why": "rmap5 R1 pred_t141 final value (p1 4.88514); last writer rul263_degbg_gm; "
+},
+"1439": {
+"value": 3.3,
+"why": "rmap5 R1 pred_t141 final value (p1 3.82409); last writer rul263_caw; "
+},
+"1443": {
+"value": 2.54,
+"why": "rmap5 R1 pred_t141 final value (p1 3.74629); last writer rul263_caw; "
+},
+"1449": {
+"value": 4.261889667908846,
+"why": "rmap5 R1 pred_t141 final value (p1 3.11787); last writer rul263_degbg_gm; "
+},
+"1451": {
+"value": 1.68,
+"why": "rmap5 R1 pred_t141 final value (p1 3.06283); last writer rul263_caw; "
+},
+"1454": {
+"value": 5.0698061195013056,
+"why": "rmap5 R1 pred_t141 final value (p1 4.77641); last writer rul263_degbg_gm; "
+},
+"1455": {
+"value": 2.2123017617739853,
+"why": "rmap5 R1 pred_t141 final value (p1 2.01758); last writer rul263_degbg_gm; "
+},
+"1459": {
+"value": 3.3,
+"why": "rmap5 R1 pred_t141 final value (p1 3.55221); last writer rul263_caw; "
+},
+"1460": {
+"value": 1.6,
+"why": "rmap5 R1 pred_t141 final value (p1 2.96094); last writer rul263_caw; "
+},
+"1464": {
+"value": 5.300962100637696,
+"why": "rmap5 R1 pred_t141 final value (p1 4.07192); last writer rul263_degbg_gm; "
+},
+"1465": {
+"value": 2.3502007117882973,
+"why": "rmap5 R1 pred_t141 final value (p1 2.07951); last writer rul263_degbg_gm; "
+},
+"1466": {
+"value": 0.99,
+"why": "rmap5 R1 pred_t141 final value (p1 1); last writer rul263_caw; "
+},
+"1467": {
+"value": 10.4,
+"why": "rmap5 R1 pred_t141 final value (p1 4.5); last writer patch:rm_phys_bounds_final; "
+},
+"1473": {
+"value": 3.05,
+"why": "rmap5 R1 pred_t141 final value (p1 10); last writer rul263_caw; "
+},
+"1478": {
+"value": 4.860601376467313,
+"why": "rmap5 R1 pred_t141 final value (p1 10); last writer rul263_degbg_gm; "
+},
+"1480": {
+"value": 18.17,
+"why": "rmap5 R1 pred_t141 final value (p1 18.0719); last writer rul263_caw; "
+},
+"1483": {
+"value": 10.6,
+"why": "rmap5 R1 pred_t141 final value (p1 12.6095); last writer rul263_caw; "
+},
+"1487": {
+"value": 2.465678187117021,
+"why": "rmap5 R1 pred_t141 final value (p1 1.94554); last writer agree_gm; "
+},
+"1488": {
+"value": 2.7448837814368856,
+"why": "rmap5 R1 pred_t141 final value (p1 2.90302); last writer agree_gm; "
+},
+"1490": {
+"value": 1.555655057730306,
+"why": "rmap5 R1 pred_t141 final value (p1 1.33267); last writer agree_gm; "
+},
+"1491": {
+"value": 1.837207688411567,
+"why": "rmap5 R1 pred_t141 final value (p1 1.67939); last writer agree_gm; "
+},
+"1492": {
+"value": 5.530608254197747,
+"why": "rmap5 R1 pred_t141 final value (p1 4.45013); last writer dis_geo; "
+},
+"1493": {
+"value": 5.703513573936925,
+"why": "rmap5 R1 pred_t141 final value (p1 6.39105); last writer dis_geo; "
+},
+"1494": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.49942); last writer patch:rm_rul077; "
+},
+"1495": {
+"value": 1.428767886980825,
+"why": "rmap5 R1 pred_t141 final value (p1 1.60499); last writer agree_gm; "
+},
+"1496": {
+"value": 3.929970902359421,
+"why": "rmap5 R1 pred_t141 final value (p1 3.75129); last writer agree_gm; "
+},
+"1500": {
+"value": 0.54,
+"why": "rmap5 R1 pred_t141 final value (p1 0.566667); last writer rul263_caw; "
+},
+"1501": {
+"value": 1.48,
+"why": "rmap5 R1 pred_t141 final value (p1 1.46801); last writer caw_nogeo; "
+},
+"1502": {
+"value": 2.96,
+"why": "rmap5 R1 pred_t141 final value (p1 2.8123); last writer caw_nogeo; "
+},
+"1503": {
+"value": 1.48,
+"why": "rmap5 R1 pred_t141 final value (p1 1.42198); last writer caw_nogeo; "
+},
+"1504": {
+"value": 10.57,
+"why": "rmap5 R1 pred_t141 final value (p1 9.81424); last writer caw_nogeo; "
+},
+"1505": {
+"value": 4.29,
+"why": "rmap5 R1 pred_t141 final value (p1 23.038); last writer patch:rm5c_X22cs; BBg[S1]: own box fills the frame (t fills H (pinned)) -> geo invalid -> CaW-only value = own CaW read 4.29"
+},
+"1509": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.536685); last writer caw_nogeo; "
+},
+"1510": {
+"value": 2.11,
+"why": "rmap5 R1 pred_t141 final value (p1 1.82293); last writer caw_nogeo; "
+},
+"1511": {
+"value": 2.11,
+"why": "rmap5 R1 pred_t141 final value (p1 1.85553); last writer caw_nogeo; "
+},
+"1515": {
+"value": 19.856948394713083,
+"why": "rmap5 R1 pred_t141 final value (p1 17.5415); last writer geo_cawinvalid; "
+},
+"1516": {
+"value": 12.683990004488953,
+"why": "rmap5 R1 pred_t141 final value (p1 14.0197); last writer dis_geo; "
+},
+"1517": {
+"value": 7.5,
+"why": "rmap5 R1 pred_t141 final value (p1 5.87884); last writer caw_nogeo; "
+},
+"1519": {
+"value": 1.0,
+"why": "rmap5 R1 pred_t141 final value (p1 1.04832); last writer caw_nogeo; "
+},
+"1526": {
+"value": 1.1,
+"why": "rmap5 R1 pred_t141 final value (p1 1.12853); last writer caw_nogeo; "
+},
+"1533": {
+"value": 1.7777800882292665,
+"why": "rmap5 R1 pred_t141 final value (p1 1.63299); last writer agree_gm; "
+},
+"1534": {
+"value": 5.7,
+"why": "rmap5 R1 pred_t141 final value (p1 5.48568); last writer caw_nogeo; "
+},
+"1535": {
+"value": 1.433328964450567,
+"why": "rmap5 R1 pred_t141 final value (p1 1.59185); last writer agree_gm; "
+},
+"1540": {
+"value": 2.126374708437171,
+"why": "rmap5 R1 pred_t141 final value (p1 1.94216); last writer agree_gm; "
+},
+"1549": {
+"value": 3.5,
+"why": "rmap5 R1 pred_t141 final value (p1 3.06397); last writer caw_nogeo; "
+},
+"1556": {
+"value": 2.416,
+"why": "rmap5 R1 pred_t141 final value (p1 2.47767); last writer rul263_caw; "
+},
+"1573": {
+"value": 2.416,
+"why": "rmap5 R1 pred_t141 final value (p1 2.42897); last writer rul263_caw; "
+},
+"1575": {
+"value": 0.36,
+"why": "rmap5 R1 pred_t141 final value (p1 0.403906); last writer rul263_caw; "
+},
+"1606": {
+"value": 0.88,
+"why": "rmap5 R1 pred_t141 final value (p1 0.977112); last writer rul263_caw; "
+},
+"1618": {
+"value": 0.86,
+"why": "rmap5 R1 pred_t141 final value (p1 0.826884); last writer rul263_caw; "
+},
+"1633": {
+"value": 2.3824553911908084,
+"why": "rmap5 R1 pred_t141 final value (p1 2.99335); last writer rul263_degbg_gm; "
+},
+"1634": {
+"value": 1.0503842439069044,
+"why": "rmap5 R1 pred_t141 final value (p1 1.73333); last writer patch:rv0259; "
+},
+"1638": {
+"value": 4.55,
+"why": "rmap5 R1 pred_t141 final value (p1 4.0303); last writer caw_nogeo; "
+},
+"1640": {
+"value": 2.1,
+"why": "rmap5 R1 pred_t141 final value (p1 1.91919); last writer caw_nogeo; "
+},
+"1641": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.08716); last writer caw_nogeo; "
+},
+"1642": {
+"value": 13.099740603740283,
+"why": "rmap5 R1 pred_t141 final value (p1 14.9985); last writer patch:rm5c_X01G2; M1g[G2]: own depth text 55 m (>=50 m), own calibrated geo 13.1 vs own CaW 3.11 >2x -> own geo"
+},
+"1644": {
+"value": 1.03,
+"why": "rmap5 R1 pred_t141 final value (p1 0.980045); last writer caw_nogeo; "
+},
+"1650": {
+"value": 1.6410613932825964,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68507); last writer rul263_degbg_gm; "
+},
+"1652": {
+"value": 0.9959354867216478,
+"why": "rmap5 R1 pred_t141 final value (p1 0.998982); last writer rul263_degbg_gm; "
+},
+"1653": {
+"value": 0.538124361413639,
+"why": "rmap5 R1 pred_t141 final value (p1 0.478398); last writer rul263_degbg_gm; "
+},
+"1654": {
+"value": 2.3465442045592964,
+"why": "rmap5 R1 pred_t141 final value (p1 2.28663); last writer rul263_degbg_gm; "
+},
+"1655": {
+"value": 1.3308743606195377,
+"why": "rmap5 R1 pred_t141 final value (p1 1); last writer rul263_degbg_gm; "
+},
+"1656": {
+"value": 0.498775821266985,
+"why": "rmap5 R1 pred_t141 final value (p1 0.529385); last writer rul263_degbg_gm; "
+},
+"1657": {
+"value": 0.8261759960335495,
+"why": "rmap5 R1 pred_t141 final value (p1 1.01003); last writer rul263_degbg_gm; "
+},
+"1664": {
+"value": 1.4,
+"why": "rmap5 R1 pred_t141 final value (p1 0.506373); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1670": {
+"value": 4.225610134046627,
+"why": "rmap5 R1 pred_t141 final value (p1 4.15251); last writer agree_gm; "
+},
+"1674": {
+"value": 0.9931941352593971,
+"why": "rmap5 R1 pred_t141 final value (p1 0.828571); last writer rul263_degbg_gm; "
+},
+"1677": {
+"value": 10.45599421145971,
+"why": "rmap5 R1 pred_t141 final value (p1 10.489); last writer rul263_degbg_gm; "
+},
+"1678": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 3.9); last writer patch:rv0259; "
+},
+"1681": {
+"value": 5.441093150099884,
+"why": "rmap5 R1 pred_t141 final value (p1 4.52875); last writer rul263_degbg_gm; "
+},
+"1683": {
+"value": 0.9994866343255608,
+"why": "rmap5 R1 pred_t141 final value (p1 0.797752); last writer rul263_degbg_gm; "
+},
+"1685": {
+"value": 1.7281003027976374,
+"why": "rmap5 R1 pred_t141 final value (p1 1.70698); last writer rul263_degbg_gm; "
+},
+"1698": {
+"value": 0.85,
+"why": "rmap5 R1 pred_t141 final value (p1 1.275); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1702": {
+"value": 1.7347477441093586,
+"why": "rmap5 R1 pred_t141 final value (p1 1.70862); last writer rul263_degbg_gm; "
+},
+"1705": {
+"value": 4.69833638930734,
+"why": "rmap5 R1 pred_t141 final value (p1 3.9); last writer rul263_degbg_gm; "
+},
+"1707": {
+"value": 1.000178923286856,
+"why": "rmap5 R1 pred_t141 final value (p1 0.78979); last writer rul263_degbg_gm; "
+},
+"1710": {
+"value": 2.05,
+"why": "rmap5 R1 pred_t141 final value (p1 1.89378); last writer caw_nogeo; "
+},
+"1711": {
+"value": 13.7,
+"why": "rmap5 R1 pred_t141 final value (p1 13.7499); last writer dis_caw_routed; "
+},
+"1712": {
+"value": 0.4637916837402266,
+"why": "rmap5 R1 pred_t141 final value (p1 0.589783); last writer dis_size_gm; "
+},
+"1714": {
+"value": 5.3864,
+"why": "rmap5 R1 pred_t141 final value (p1 5.36194); last writer caw_nogeo; "
+},
+"1721": {
+"value": 1.034422019225094,
+"why": "rmap5 R1 pred_t141 final value (p1 1.20341); last writer geo_cawinvalid; "
+},
+"1728": {
+"value": 1.1937518483186096,
+"why": "rmap5 R1 pred_t141 final value (p1 1.29277); last writer geo_cawinvalid; "
+},
+"1729": {
+"value": 1.81478243571578,
+"why": "rmap5 R1 pred_t141 final value (p1 1.728); last writer rul263_degbg_gm; "
+},
+"1734": {
+"value": 1.78,
+"why": "rmap5 R1 pred_t141 final value (p1 1.64436); last writer caw_nogeo; "
+},
+"1735": {
+"value": 1.6094430872289407,
+"why": "rmap5 R1 pred_t141 final value (p1 1.71375); last writer rul263_degbg_gm; "
+},
+"1738": {
+"value": 10.2431325408602,
+"why": "rmap5 R1 pred_t141 final value (p1 10.4352); last writer rul263_degbg_gm; "
+},
+"1739": {
+"value": 4.853392209497182,
+"why": "rmap5 R1 pred_t141 final value (p1 3.9); last writer rul263_degbg_gm; "
+},
+"1740": {
+"value": 1.343772208315041,
+"why": "rmap5 R1 pred_t141 final value (p1 1.275); last writer patch:rm5c_X01G2; M1g[G2]: own depth text 179 m (>=50 m), own calibrated geo 1.344 vs own CaW 0.59 >2x -> own geo"
+},
+"1742": {
+"value": 13.9,
+"why": "rmap5 R1 pred_t141 final value (p1 9.26667); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1751": {
+"value": 21.8519542607875,
+"why": "rmap5 R1 pred_t141 final value (p1 20.7612); last writer agree_gm; "
+},
+"1753": {
+"value": 1.0,
+"why": "rmap5 R1 pred_t141 final value (p1 3.40896); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"1754": {
+"value": 4.85,
+"why": "rmap5 R1 pred_t141 final value (p1 4.69577); last writer dis_caw_routed; "
+},
+"1762": {
+"value": 6.0,
+"why": "rmap5 R1 pred_t141 final value (p1 5.43068); last writer caw_nogeo; "
+},
+"1764": {
+"value": 5.723555096286623,
+"why": "rmap5 R1 pred_t141 final value (p1 4.77888); last writer rul263_degbg_gm; "
+},
+"1766": {
+"value": 5.667680619364354,
+"why": "rmap5 R1 pred_t141 final value (p1 4.84641); last writer rul263_degbg_gm; "
+},
+"1767": {
+"value": 1.48,
+"why": "rmap5 R1 pred_t141 final value (p1 1.47); last writer rul263_caw; "
+},
+"1768": {
+"value": 2.72709037394123,
+"why": "rmap5 R1 pred_t141 final value (p1 1.8); last writer patch:rm_rul077; "
+},
+"1769": {
+"value": 0.6734579760827172,
+"why": "rmap5 R1 pred_t141 final value (p1 0.663339); last writer rul263_degbg_gm; "
+},
+"1771": {
+"value": 1.952884576217776,
+"why": "rmap5 R1 pred_t141 final value (p1 1.79865); last writer rul263_degbg_gm; "
+},
+"1773": {
+"value": 1.8676657231529228,
+"why": "rmap5 R1 pred_t141 final value (p1 1.76343); last writer rul263_degbg_gm; "
+},
+"1774": {
+"value": 4.7316841358216895,
+"why": "rmap5 R1 pred_t141 final value (p1 4.55684); last writer rul263_degbg_gm; "
+},
+"1775": {
+"value": 1.2203815790890715,
+"why": "rmap5 R1 pred_t141 final value (p1 2); last writer patch:rm5c_X12V1; "
+},
+"1776": {
+"value": 2.657568411729336,
+"why": "rmap5 R1 pred_t141 final value (p1 2.05158); last writer dis_size_gm; "
+},
+"1777": {
+"value": 1.6797727892882828,
+"why": "rmap5 R1 pred_t141 final value (p1 2); last writer patch:rm5c_X12V1; "
+},
+"1804": {
+"value": 1.397544634836318,
+"why": "rmap5 R1 pred_t141 final value (p1 1.49556); last writer patch:rm5c_X12V1; "
+},
+"1815": {
+"value": 6.309220954307692,
+"why": "rmap5 R1 pred_t141 final value (p1 6.9824); last writer patch:h5_wing_B1; wingspan re-measure, plain gm with own CaW when within 2x"
+},
+"1834": {
+"value": 0.01,
+"why": "rmap5 R1 pred_t141 final value (p1 0.009271); last writer caw_nogeo; "
+},
+"1836": {
+"value": 0.15,
+"why": "rmap5 R1 pred_t141 final value (p1 0.1392); last writer caw_nogeo; "
+},
+"1845": {
+"value": 0.23,
+"why": "rmap5 R1 pred_t141 final value (p1 0.229655); last writer caw_nogeo; "
+},
+"1846": {
+"value": 2.1,
+"why": "rmap5 R1 pred_t141 final value (p1 2.00529); last writer caw_nogeo; "
+},
+"1847": {
+"value": 1.49,
+"why": "rmap5 R1 pred_t141 final value (p1 1.47689); last writer caw_nogeo; "
+},
+"1849": {
+"value": 14.451341019455498,
+"why": "rmap5 R1 pred_t141 final value (p1 2.9); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 92.8px, quadratic fit"
+},
+"1850": {
+"value": 25.506198407743,
+"why": "rmap5 R1 pred_t141 final value (p1 33.6303); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 92.8px, quadratic fit"
+},
+"1851": {
+"value": 30.15903324622296,
+"why": "rmap5 R1 pred_t141 final value (p1 100); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 92.8px, quadratic fit"
+},
+"1852": {
+"value": 1.8259125155639648,
+"why": "rmap5 R1 pred_t141 final value (p1 4.5); last writer patch:cv_echo_seg_stack; "
+},
+"1869": {
+"value": 6.184356004800644,
+"why": "rmap5 R1 pred_t141 final value (p1 5.43166); last writer dis_geo; "
+},
+"1896": {
+"value": 9.73901264328796,
+"why": "rmap5 R1 pred_t141 final value (p1 8.41111); last writer rul263_degbg_gm; "
+},
+"1902": {
+"value": 1.936975982224232,
+"why": "rmap5 R1 pred_t141 final value (p1 0.895162); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.9px (max step 0.8px), prior px 8.832/s -> mpp 0.01064; target ext 182.0px"
+},
+"1903": {
+"value": 0.979130716289172,
+"why": "rmap5 R1 pred_t141 final value (p1 0.62244); last writer patch:rm5c_rm5c_X21V1; SP (D2: dynamic prior + planar motion): slow prior track: travel 28.9px (max step 0.8px), prior px 8.832/s -> mpp 0.01064; target ext 92.0px"
+},
+"1912": {
+"value": 1.101,
+"why": "rmap5 R1 pred_t141 final value (p1 1.10127); last writer patch:rm_rul195; "
+},
+"1913": {
+"value": 1.113,
+"why": "rmap5 R1 pred_t141 final value (p1 1.11324); last writer patch:rm_rul195; "
+},
+"1919": {
+"value": 1.07,
+"why": "rmap5 R1 pred_t141 final value (p1 1.0704); last writer patch:rm_rul195; "
+},
+"1943": {
+"value": 0.382467225481293,
+"why": "rmap5 R1 pred_t141 final value (p1 0.719027); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1944": {
+"value": 0.8098155492144561,
+"why": "rmap5 R1 pred_t141 final value (p1 1.12); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1945": {
+"value": 0.787375000088521,
+"why": "rmap5 R1 pred_t141 final value (p1 0.536656); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1946": {
+"value": 0.8098155492144561,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1947": {
+"value": 1.1922827746957492,
+"why": "rmap5 R1 pred_t141 final value (p1 0.719027); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1948": {
+"value": 0.8098155492144561,
+"why": "rmap5 R1 pred_t141 final value (p1 1.14); last writer patch:rm5c_rm5c_X20V1; MBLOBV1: own geo track failed (target_static_track); own-video moving blob (median background), prior-object major-axis ruler 32.0px, quadratic fit"
+},
+"1952": {
+"value": 0.52,
+"why": "rmap5 R1 pred_t141 final value (p1 0.485732); last writer caw_nogeo; "
+},
+"1956": {
+"value": 0.5,
+"why": "rmap5 R1 pred_t141 final value (p1 0.46705); last writer caw_nogeo; "
+},
+"1959": {
+"value": 1.810731462135532,
+"why": "rmap5 R1 pred_t141 final value (p1 1.57672); last writer dis_geo; "
+},
+"2005": {
+"value": 0.1931,
+"why": "rmap5 R1 pred_t141 final value (p1 0.193068); last writer patch:rm_rul195; "
+},
+"2009": {
+"value": 0.6240647901813682,
+"why": "rmap5 R1 pred_t141 final value (p1 0.512552); last writer rul263_degbg_gm; "
+},
+"2010": {
+"value": 0.8960419066256767,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68); last writer dis_size_gm; "
+},
+"2011": {
+"value": 10.54407257286088,
+"why": "rmap5 R1 pred_t141 final value (p1 7.51199); last writer agree_gm; "
+},
+"2013": {
+"value": 3.792977443468425,
+"why": "rmap5 R1 pred_t141 final value (p1 4.1341); last writer agree_gm; "
+},
+"2014": {
+"value": 1.6544682355162172,
+"why": "rmap5 R1 pred_t141 final value (p1 2.31972); last writer agree_gm; "
+},
+"2030": {
+"value": 1.603044668454558,
+"why": "rmap5 R1 pred_t141 final value (p1 1.59); last writer agree_gm; "
+},
+"2031": {
+"value": 1.5,
+"why": "rmap5 R1 pred_t141 final value (p1 1.4154); last writer caw_nogeo; "
+},
+"2064": {
+"value": 7.0,
+"why": "rmap5 R1 pred_t141 final value (p1 6.7795); last writer caw_nogeo; "
+},
+"2067": {
+"value": 2.6860332346600653,
+"why": "rmap5 R1 pred_t141 final value (p1 4.4); last writer patch:rm_jump; "
+},
+"2069": {
+"value": 18.3,
+"why": "rmap5 R1 pred_t141 final value (p1 17.0666); last writer caw_nogeo; "
+},
+"2070": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 9.74505); last writer caw_nogeo; "
+},
+"2073": {
+"value": 18.3,
+"why": "rmap5 R1 pred_t141 final value (p1 17.0684); last writer caw_nogeo; "
+},
+"2074": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 9.83325); last writer caw_nogeo; "
+},
+"2085": {
+"value": 33.0,
+"why": "rmap5 R1 pred_t141 final value (p1 14.2839); last writer patch:rm5c_X08V2; C25g: answer = own geo 14.28 but own CaW 33 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"2087": {
+"value": 13.0,
+"why": "rmap5 R1 pred_t141 final value (p1 12.0783); last writer caw_nogeo; "
+},
+"2089": {
+"value": 4.0,
+"why": "rmap5 R1 pred_t141 final value (p1 3.794); last writer caw_nogeo; "
+},
+"2091": {
+"value": 22.449885893182547,
+"why": "rmap5 R1 pred_t141 final value (p1 22.6737); last writer agree_gm; "
+},
+"2104": {
+"value": 3000.0,
+"why": "rmap5 R1 pred_t141 final value (p1 2788.8); last writer caw_nogeo; "
+},
+"2114": {
+"value": 103.0,
+"why": "rmap5 R1 pred_t141 final value (p1 97.0878); last writer caw_nogeo; "
+},
+"2131": {
+"value": 33.0,
+"why": "rmap5 R1 pred_t141 final value (p1 66.4375); last writer patch:rm5c_X08V2; C25g: answer = own geo 66.44 but own CaW 33 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"2132": {
+"value": 23.0,
+"why": "rmap5 R1 pred_t141 final value (p1 55.8791); last writer patch:rm5c_X08V2; C25g: answer = own geo 55.88 but own CaW 23 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"2151": {
+"value": 10.63114589952476,
+"why": "rmap5 R1 pred_t141 final value (p1 10); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_gravnofall_mogefov; independent own geo 11.3 and own CaW 10 -> plain gm"
+},
+"2161": {
+"value": 22.212243730016205,
+"why": "rmap5 R1 pred_t141 final value (p1 23.0888); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.582W) 26.5->20.6, gm own CaW 24 = 22.2"
+},
+"2166": {
+"value": 22.01058236784683,
+"why": "rmap5 R1 pred_t141 final value (p1 22.9838); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.582W) 26->20.2, gm own CaW 24 = 22"
+},
+"2171": {
+"value": 22.056606781211485,
+"why": "rmap5 R1 pred_t141 final value (p1 23.0078); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.564W) 27->20.3, gm own CaW 24 = 22.1"
+},
+"2176": {
+"value": 20.531662052043774,
+"why": "rmap5 R1 pred_t141 final value (p1 22.1982); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.624W) 21.2->17.6, gm own CaW 24 = 20.5"
+},
+"2180": {
+"value": 70.75,
+"why": "rmap5 R1 pred_t141 final value (p1 69.2855); last writer caw_nogeo; "
+},
+"2181": {
+"value": 20.729014883247768,
+"why": "rmap5 R1 pred_t141 final value (p1 22.3046); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 1.042W) 12.9->17.9, gm own CaW 24 = 20.7"
+},
+"2185": {
+"value": 70.75,
+"why": "rmap5 R1 pred_t141 final value (p1 68.295); last writer caw_nogeo; "
+},
+"2186": {
+"value": 20.777928628247384,
+"why": "rmap5 R1 pred_t141 final value (p1 22.3309); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 1.025W) 13.2->18, gm own CaW 24 = 20.8"
+},
+"2190": {
+"value": 100.0,
+"why": "rmap5 R1 pred_t141 final value (p1 34.0504); last writer caw_nogeo; "
+},
+"2195": {
+"value": 1.63,
+"why": "rmap5 R1 pred_t141 final value (p1 7.22296); last writer patch:rm_rul145; "
+},
+"2196": {
+"value": 87.44932902950183,
+"why": "rmap5 R1 pred_t141 final value (p1 35.4373); last writer rul263_disp_gm; "
+},
+"2197": {
+"value": 3.0,
+"why": "rmap5 R1 pred_t141 final value (p1 2.8773); last writer caw_nogeo; "
+},
+"2202": {
+"value": 46.25648056121971,
+"why": "rmap5 R1 pred_t141 final value (p1 34.0504); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 29.89 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.868W -> 21.4; CaW 100 (0.21x) -> gm 46.26 (was 100)"
+},
+"2203": {
+"value": 6.0,
+"why": "rmap5 R1 pred_t141 final value (p1 5.691); last writer caw_nogeo; "
+},
+"2209": {
+"value": 11.641518671504887,
+"why": "rmap5 R1 pred_t141 final value (p1 14); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 9.68 and own CaW 14 -> plain gm"
+},
+"2210": {
+"value": 8.639514153991835,
+"why": "rmap5 R1 pred_t141 final value (p1 7); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 7.464 and own CaW 10 -> plain gm"
+},
+"2212": {
+"value": 48.292461661222866,
+"why": "rmap5 R1 pred_t141 final value (p1 71); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 38.23 and own CaW 61 -> plain gm"
+},
+"2216": {
+"value": 12.27758050451663,
+"why": "rmap5 R1 pred_t141 final value (p1 11.7959); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 11.6 and own CaW 13 -> plain gm"
+},
+"2217": {
+"value": 11.13119442631015,
+"why": "rmap5 R1 pred_t141 final value (p1 10.7538); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 8.26 and own CaW 15 -> plain gm"
+},
+"2218": {
+"value": 8.098461161864515,
+"why": "rmap5 R1 pred_t141 final value (p1 6.77566); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 6.559 and own CaW 10 -> plain gm"
+},
+"2224": {
+"value": 12.8319736101048,
+"why": "rmap5 R1 pred_t141 final value (p1 12.3286); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 12.67 and own CaW 13 -> plain gm"
+},
+"2225": {
+"value": 13.135656121275181,
+"why": "rmap5 R1 pred_t141 final value (p1 12.6902); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 11.5 and own CaW 15 -> plain gm"
+},
+"2226": {
+"value": 8.53906494721884,
+"why": "rmap5 R1 pred_t141 final value (p1 7.63757); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 7.292 and own CaW 10 -> plain gm"
+},
+"2241": {
+"value": 37.417245445265316,
+"why": "rmap5 R1 pred_t141 final value (p1 48.9854); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 68px x near depth 1.701 m / own MoGe f 539px -> 21.54, gm own CaW 65"
+},
+"2252": {
+"value": 18.279328480242878,
+"why": "rmap5 R1 pred_t141 final value (p1 31.0778); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 68px x near depth 1.701 m / own MoGe f 530px -> 21.84, gm own CaW 15.3"
+},
+"2258": {
+"value": 16.56689096890264,
+"why": "rmap5 R1 pred_t141 final value (p1 16.976); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 13.72 and own CaW 20 -> plain gm"
+},
+"2259": {
+"value": 14.818106645574266,
+"why": "rmap5 R1 pred_t141 final value (p1 15.184); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 10.98 and own CaW 20 -> plain gm"
+},
+"2263": {
+"value": 19.067183202126905,
+"why": "rmap5 R1 pred_t141 final value (p1 51.0695); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 28px x near depth 1.701 m / own MoGe f 460px -> 10.3, gm own CaW 35.3"
+},
+"2265": {
+"value": 177.35464747676374,
+"why": "rmap5 R1 pred_t141 final value (p1 161.815); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f15-22 a=1875px/s^2 (x0.999) dur 0.29s -> mpp 0.005232 frameH 2.51m blob 0.17m; target ext 339.0px"
+},
+"2266": {
+"value": 179.3681982187249,
+"why": "rmap5 R1 pred_t141 final value (p1 145.237); last writer patch:rm_rul241; "
+},
+"2268": {
+"value": 48.19890102476106,
+"why": "rmap5 R1 pred_t141 final value (p1 40.8524); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f15-22 a=1875px/s^2 (x0.999) dur 0.29s -> mpp 0.005232 frameH 2.51m blob 0.17m; target ext 92.1px"
+},
+"2269": {
+"value": 202.9727949056318,
+"why": "rmap5 R1 pred_t141 final value (p1 147.92); last writer patch:rm_rul241; "
+},
+"2270": {
+"value": 169.56728587911104,
+"why": "rmap5 R1 pred_t141 final value (p1 164.686); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f52-58 a=1956px/s^2 (x0.999) dur 0.25s -> mpp 0.005017 frameH 2.41m blob 0.176m; target ext 338.0px"
+},
+"2273": {
+"value": 49.56693736032549,
+"why": "rmap5 R1 pred_t141 final value (p1 39.948); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f52-58 a=1956px/s^2 (x0.999) dur 0.25s -> mpp 0.005017 frameH 2.41m blob 0.176m; target ext 98.8px"
+},
+"2274": {
+"value": 179.94260480888474,
+"why": "rmap5 R1 pred_t141 final value (p1 135.477); last writer patch:rm_rul241; "
+},
+"2275": {
+"value": 171.5359010657072,
+"why": "rmap5 R1 pred_t141 final value (p1 164.488); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f53-58 a=1933px/s^2 (x0.999) dur 0.21s -> mpp 0.005075 frameH 2.44m blob 0.196m; target ext 338.0px"
+},
+"2276": {
+"value": 175.05899053869388,
+"why": "rmap5 R1 pred_t141 final value (p1 137.373); last writer patch:rm_rul241; "
+},
+"2277": {
+"value": 28.927651954867784,
+"why": "rmap5 R1 pred_t141 final value (p1 104.786); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f53-58 a=1933px/s^2 (x0.999) dur 0.21s -> mpp 0.005075 frameH 2.44m blob 0.196m; target ext 57.0px"
+},
+"2278": {
+"value": 46.465641877293855,
+"why": "rmap5 R1 pred_t141 final value (p1 39.932); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f53-58 a=1933px/s^2 (x0.999) dur 0.21s -> mpp 0.005075 frameH 2.44m blob 0.196m; target ext 91.6px"
+},
+"2279": {
+"value": 196.6463175591516,
+"why": "rmap5 R1 pred_t141 final value (p1 142.249); last writer patch:rm_rul241; "
+},
+"2281": {
+"value": 17.418070900594874,
+"why": "rmap5 R1 pred_t141 final value (p1 19.5754); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.773W) 13.4->13.8, gm own CaW 22 = 17.4"
+},
+"2285": {
+"value": 17.326782191839882,
+"why": "rmap5 R1 pred_t141 final value (p1 19.5241); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.776W) 13.2->13.6, gm own CaW 22 = 17.3"
+},
+"2289": {
+"value": 17.033673712260356,
+"why": "rmap5 R1 pred_t141 final value (p1 19.3582); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.656W) 15.1->13.2, gm own CaW 22 = 17"
+},
+"2292": {
+"value": 152.6955042749134,
+"why": "rmap5 R1 pred_t141 final value (p1 163); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 143 and own CaW 163 -> plain gm"
+},
+"2293": {
+"value": 183.93107914552675,
+"why": "rmap5 R1 pred_t141 final value (p1 163); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 207.5 and own CaW 163 -> plain gm"
+},
+"2295": {
+"value": 31.0,
+"why": "rmap5 R1 pred_t141 final value (p1 30.9194); last writer caw_nogeo; "
+},
+"2296": {
+"value": 14.035951519974013,
+"why": "rmap5 R1 pred_t141 final value (p1 19.6497); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 8.028 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.532W -> 9.381; CaW 21 (0.45x) -> gm 14.04 (was 21)"
+},
+"2297": {
+"value": 16.539268831462014,
+"why": "rmap5 R1 pred_t141 final value (p1 19.0752); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.407W) 22.9->12.4, gm own CaW 22 = 16.5"
+},
+"2298": {
+"value": 6.7,
+"why": "rmap5 R1 pred_t141 final value (p1 6.44812); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"2299": {
+"value": 20.0,
+"why": "rmap5 R1 pred_t141 final value (p1 19.702); last writer caw_nogeo; "
+},
+"2300": {
+"value": 63.346137209187376,
+"why": "rmap5 R1 pred_t141 final value (p1 30); last writer dis_size_gm; "
+},
+"2314": {
+"value": 18.981158118778158,
+"why": "rmap5 R1 pred_t141 final value (p1 29.253); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 18.31 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.948W -> 12.01; CaW 30 (0.40x) -> gm 18.98 (was 30)"
+},
+"2315": {
+"value": 10.698934655621184,
+"why": "rmap5 R1 pred_t141 final value (p1 19.8597); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 8.313 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.948W -> 5.451; CaW 21 (0.26x) -> gm 10.7 (was 21)"
+},
+"2316": {
+"value": 16.48686342230141,
+"why": "rmap5 R1 pred_t141 final value (p1 19.045); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.394W) 23.6->12.4, gm own CaW 22 = 16.5"
+},
+"2317": {
+"value": 6.7,
+"why": "rmap5 R1 pred_t141 final value (p1 6.69564); last writer caw_nogeo; "
+},
+"2318": {
+"value": 18.519574760499346,
+"why": "rmap5 R1 pred_t141 final value (p1 14.508); last writer rul263_degbg_gm; "
+},
+"2319": {
+"value": 48.50206710455283,
+"why": "rmap5 R1 pred_t141 final value (p1 30); last writer dis_size_gm; "
+},
+"2333": {
+"value": 19.721847064840293,
+"why": "rmap5 R1 pred_t141 final value (p1 30.8884); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 18.55 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.919W -> 12.55; CaW 31 (0.40x) -> gm 19.72 (was 31)"
+},
+"2334": {
+"value": 13.013022338906627,
+"why": "rmap5 R1 pred_t141 final value (p1 29.859); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 8.347 (3d_fovdefault_tdepth=prior, default f 0.622W) re-focused with own MoGe f 0.919W -> 5.645; CaW 30 (0.19x) -> gm 13.01 (was 30)"
+},
+"2335": {
+"value": 16.422529345170098,
+"why": "rmap5 R1 pred_t141 final value (p1 19.0078); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.407W) 22.6->12.3, gm own CaW 22 = 16.4"
+},
+"2336": {
+"value": 6.7,
+"why": "rmap5 R1 pred_t141 final value (p1 6.53721); last writer patch:rm5h_gk; general-knowledge class value (>2x off) / regulation ball"
+},
+"2337": {
+"value": 22.20127176949718,
+"why": "rmap5 R1 pred_t141 final value (p1 20.307); last writer rul263_degbg_gm; "
+},
+"2338": {
+"value": 49.231271247073074,
+"why": "rmap5 R1 pred_t141 final value (p1 30); last writer dis_size_gm; "
+},
+"2349": {
+"value": 23.0,
+"why": "rmap5 R1 pred_t141 final value (p1 22.6987); last writer caw_nogeo; "
+},
+"2350": {
+"value": 11.2667854728098,
+"why": "rmap5 R1 pred_t141 final value (p1 13); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 9.765 and own CaW 13 -> plain gm"
+},
+"2351": {
+"value": 9.087462714625369,
+"why": "rmap5 R1 pred_t141 final value (p1 10); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_gravnofall_mogefov; independent own geo 8.258 and own CaW 10 -> plain gm"
+},
+"2357": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.819); last writer caw_nogeo; "
+},
+"2359": {
+"value": 6.681084028195843,
+"why": "rmap5 R1 pred_t141 final value (p1 9.985); last writer patch:rm5c_rm5c_X24V1; rmap4 D3a A regeo_ownf V1: own geo 9.853 (3d_fovdefault, default f 0.622W) re-focused with own MoGe f 1.372W -> 4.464; CaW 10 (0.45x) -> gm 6.681 (was 10)"
+},
+"2365": {
+"value": 21.0,
+"why": "rmap5 R1 pred_t141 final value (p1 20.9391); last writer caw_nogeo; "
+},
+"2374": {
+"value": 100.37880734210411,
+"why": "rmap5 R1 pred_t141 final value (p1 91.7134); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2379": {
+"value": 101.21829149285088,
+"why": "rmap5 R1 pred_t141 final value (p1 92.6576); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2384": {
+"value": 102.71349111691812,
+"why": "rmap5 R1 pred_t141 final value (p1 94.1537); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2408": {
+"value": 24.626981410542687,
+"why": "rmap5 R1 pred_t141 final value (p1 21); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 28.88 and own CaW 21 -> plain gm"
+},
+"2412": {
+"value": 22.895628250613814,
+"why": "rmap5 R1 pred_t141 final value (p1 31); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 88px x near depth 0.956 m / own MoGe f 497px -> 16.91, gm own CaW 31"
+},
+"2421": {
+"value": 22.915918495639705,
+"why": "rmap5 R1 pred_t141 final value (p1 24.6865); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 87px x near depth 0.956 m / own MoGe f 681px -> 12.21, gm own CaW 43"
+},
+"2430": {
+"value": 23.664694720906724,
+"why": "rmap5 R1 pred_t141 final value (p1 25.3201); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 88px x near depth 0.956 m / own MoGe f 616px -> 13.66, gm own CaW 41"
+},
+"2435": {
+"value": 18.215780194475904,
+"why": "rmap5 R1 pred_t141 final value (p1 21); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 15.8 and own CaW 21 -> plain gm"
+},
+"2438": {
+"value": 39.84554939214881,
+"why": "rmap5 R1 pred_t141 final value (p1 43); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 36.92 and own CaW 43 -> plain gm"
+},
+"2439": {
+"value": 19.140289337513543,
+"why": "rmap5 R1 pred_t141 final value (p1 38.5); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 55px x near depth 0.990 m / own MoGe f 520px -> 10.47, gm own CaW 35"
+},
+"2440": {
+"value": 74.45612250502366,
+"why": "rmap5 R1 pred_t141 final value (p1 80); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode vlm_3d_mogefov; independent own geo 69.3 and own CaW 80 -> plain gm"
+},
+"2447": {
+"value": 4.041422249483337,
+"why": "rmap5 R1 pred_t141 final value (p1 6.25729); last writer patch:rm5c_rm5c_X02V2; WFV2: weak monocular-focal geo mode 3d_mogefov; independent own geo 5.444 and own CaW 3 -> plain gm"
+},
+"2449": {
+"value": 19.062923508596533,
+"why": "rmap5 R1 pred_t141 final value (p1 36.4331); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 54px x near depth 0.990 m / own MoGe f 631px -> 8.451, gm own CaW 43"
+},
+"2459": {
+"value": 21.741938804670056,
+"why": "rmap5 R1 pred_t141 final value (p1 41.4834); last writer patch:rm5c_rm5c_X25V2; EV2: own frame-0 board blob short side 54px x near depth 0.990 m / own MoGe f 587px -> 9.091, gm own CaW 52"
+},
+"2466": {
+"value": 46.0,
+"why": "rmap5 R1 pred_t141 final value (p1 45.8528); last writer caw_nogeo; "
+},
+"2519": {
+"value": 3.292076815381254,
+"why": "rmap5 R1 pred_t141 final value (p1 3.33684); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.731W) 2.65->2.58, gm own CaW 4.2 = 3.29"
+},
+"2525": {
+"value": 3.5051662773608743,
+"why": "rmap5 R1 pred_t141 final value (p1 3.55283); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.731W) 3.01->2.93, gm own CaW 4.2 = 3.51"
+},
+"2531": {
+"value": 3.4364700744525902,
+"why": "rmap5 R1 pred_t141 final value (p1 4.90143); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.369W) 5.59->2.75, gm own CaW 4.3 = 3.44"
+},
+"2542": {
+"value": 3.6303585297139485,
+"why": "rmap5 R1 pred_t141 final value (p1 4.05694); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.602W) 4.11->3.29, gm own CaW 4 = 3.63"
+},
+"2548": {
+"value": 3.6054103133894624,
+"why": "rmap5 R1 pred_t141 final value (p1 4.02906); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.602W) 3.96->3.17, gm own CaW 4.1 = 3.61"
+},
+"2555": {
+"value": 126.07382336091247,
+"why": "rmap5 R1 pred_t141 final value (p1 115.823); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2558": {
+"value": 129.2359182848262,
+"why": "rmap5 R1 pred_t141 final value (p1 118.649); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2561": {
+"value": 128.31095658384476,
+"why": "rmap5 R1 pred_t141 final value (p1 117.562); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2567": {
+"value": 16.671713537717917,
+"why": "rmap5 R1 pred_t141 final value (p1 20.7454); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.546W) 17.4->12.6, gm own CaW 22 = 16.7"
+},
+"2576": {
+"value": 16.59437487014487,
+"why": "rmap5 R1 pred_t141 final value (p1 20.5296); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.564W) 16.7->12.5, gm own CaW 22 = 16.6"
+},
+"2585": {
+"value": 16.58080316819548,
+"why": "rmap5 R1 pred_t141 final value (p1 20.6888); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.546W) 17.2->12.5, gm own CaW 22 = 16.6"
+},
+"2590": {
+"value": 27.237452436089,
+"why": "rmap5 R1 pred_t141 final value (p1 80.226); last writer dis_motion_geo; "
+},
+"2591": {
+"value": 30.65318201145848,
+"why": "rmap5 R1 pred_t141 final value (p1 78.2811); last writer dis_motion_geo; "
+},
+"2593": {
+"value": 20.577168330695777,
+"why": "rmap5 R1 pred_t141 final value (p1 24.8458); last writer dis_size_gm; "
+},
+"2594": {
+"value": 13.881222183629985,
+"why": "rmap5 R1 pred_t141 final value (p1 18.7429); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.568W) 11.6->8.76, gm own CaW 22 = 13.9"
+},
+"2595": {
+"value": 65.28365804231363,
+"why": "rmap5 R1 pred_t141 final value (p1 66.1363); last writer agree_gm; "
+},
+"2596": {
+"value": 40.84267931940338,
+"why": "rmap5 R1 pred_t141 final value (p1 50.3069); last writer patch:rm_rul124; "
+},
+"2597": {
+"value": 21.29242699004671,
+"why": "rmap5 R1 pred_t141 final value (p1 68.8311); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'tennis ball' loses obj0 to 'ping pong ball' (3/49); own OWL chain 46 fr 0-48; speed on own chain with own calibrated focal 0.691W = 21.29, own CaW 100 -> 21.29 (was 22.45)"
+},
+"2598": {
+"value": 23.40357414203437,
+"why": "rmap5 R1 pred_t141 final value (p1 71.062); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'tennis ball' loses obj0 to 'ping pong ball' (3/49); own OWL chain 46 fr 0-48; speed on own chain with own calibrated focal 0.691W = 23.4, own CaW 100 -> 23.4 (was 25.5)"
+},
+"2600": {
+"value": 17.376581490970416,
+"why": "rmap5 R1 pred_t141 final value (p1 21.2554); last writer dis_size_gm; "
+},
+"2601": {
+"value": 13.888257411787126,
+"why": "rmap5 R1 pred_t141 final value (p1 17.8515); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.691W) 9.54->8.77, gm own CaW 22 = 13.9"
+},
+"2602": {
+"value": 61.96412982732172,
+"why": "rmap5 R1 pred_t141 final value (p1 19.2085); last writer dis_disp_geo; "
+},
+"2603": {
+"value": 40.8559936215392,
+"why": "rmap5 R1 pred_t141 final value (p1 49.4966); last writer patch:rm_rul124; "
+},
+"2604": {
+"value": 100.0,
+"why": "rmap5 R1 pred_t141 final value (p1 70.0089); last writer dis_caw_routed; "
+},
+"2605": {
+"value": 26.54511357451916,
+"why": "rmap5 R1 pred_t141 final value (p1 98.2605); last writer dis_disp_geo; "
+},
+"2606": {
+"value": 8.689970346668234,
+"why": "rmap5 R1 pred_t141 final value (p1 14.5692); last writer patch:rm5c_X12V1; "
+},
+"2607": {
+"value": 17.73129257538828,
+"why": "rmap5 R1 pred_t141 final value (p1 21.4712); last writer dis_size_gm; "
+},
+"2608": {
+"value": 13.893628622389542,
+"why": "rmap5 R1 pred_t141 final value (p1 18.0063); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.668W) 9.87->8.77, gm own CaW 22 = 13.9"
+},
+"2609": {
+"value": 61.531222108403135,
+"why": "rmap5 R1 pred_t141 final value (p1 19.1748); last writer dis_disp_geo; "
+},
+"2610": {
+"value": 41.17300910880397,
+"why": "rmap5 R1 pred_t141 final value (p1 48.478); last writer patch:rm_rul124; "
+},
+"2615": {
+"value": 17.819486593392764,
+"why": "rmap5 R1 pred_t141 final value (p1 21.2739); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.564W) 19.2->14.4, gm own CaW 22 = 17.8"
+},
+"2624": {
+"value": 17.76866450095727,
+"why": "rmap5 R1 pred_t141 final value (p1 21.2436); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.564W) 19.1->14.4, gm own CaW 22 = 17.8"
+},
+"2633": {
+"value": 17.588879648497407,
+"why": "rmap5 R1 pred_t141 final value (p1 21.3084); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.546W) 19.7->14.3, gm own CaW 21.6 = 17.6"
+},
+"2644": {
+"value": 18.36661887798514,
+"why": "rmap5 R1 pred_t141 final value (p1 21.4231); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.582W) 19.8->15.3, gm own CaW 22 = 18.4"
+},
+"2653": {
+"value": 18.35180297726779,
+"why": "rmap5 R1 pred_t141 final value (p1 21.4145); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.582W) 19.7->15.3, gm own CaW 22 = 18.4"
+},
+"2662": {
+"value": 18.14542277904634,
+"why": "rmap5 R1 pred_t141 final value (p1 21.2937); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.582W) 19.1->14.8, gm own CaW 22.2 = 18.1"
+},
+"2700": {
+"value": 9.2,
+"why": "rmap5 R1 pred_t141 final value (p1 9.17792); last writer caw_nogeo; "
+},
+"2701": {
+"value": 3.464823030222885,
+"why": "rmap5 R1 pred_t141 final value (p1 4.13225); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 4.16->2.93, gm own CaW 4.1 = 3.46"
+},
+"2707": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.43445); last writer caw_nogeo; "
+},
+"2708": {
+"value": 2.898634997491045,
+"why": "rmap5 R1 pred_t141 final value (p1 3.457); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 2.91->2.05, gm own CaW 4.1 = 2.9"
+},
+"2714": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.4487); last writer caw_nogeo; "
+},
+"2715": {
+"value": 2.9648744228391286,
+"why": "rmap5 R1 pred_t141 final value (p1 3.536); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 3.05->2.14, gm own CaW 4.1 = 2.96"
+},
+"2721": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 10.4076); last writer caw_nogeo; "
+},
+"2722": {
+"value": 3.6926427273975526,
+"why": "rmap5 R1 pred_t141 final value (p1 4.40396); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 4.85->3.41, gm own CaW 4 = 3.69"
+},
+"2728": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 9.7814); last writer caw_nogeo; "
+},
+"2729": {
+"value": 3.5523225268429113,
+"why": "rmap5 R1 pred_t141 final value (p1 4.23661); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 4.17->2.93, gm own CaW 4.3 = 3.55"
+},
+"2735": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 10.436); last writer caw_nogeo; "
+},
+"2736": {
+"value": 5.9446092722989405,
+"why": "rmap5 R1 pred_t141 final value (p1 13.2274); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 13.2->9.3, gm own CaW 3.8 = 5.94"
+},
+"2742": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 10.478); last writer caw_nogeo; "
+},
+"2743": {
+"value": 3.2316039315710614,
+"why": "rmap5 R1 pred_t141 final value (p1 3.85411); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 3.62->2.55, gm own CaW 4.1 = 3.23"
+},
+"2750": {
+"value": 10.5,
+"why": "rmap5 R1 pred_t141 final value (p1 10.3992); last writer caw_nogeo; "
+},
+"2751": {
+"value": 3.22411276835739,
+"why": "rmap5 R1 pred_t141 final value (p1 3.84517); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 3.7->2.6, gm own CaW 4 = 3.22"
+},
+"2758": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 10.5438); last writer caw_nogeo; "
+},
+"2759": {
+"value": 3.2445375747355345,
+"why": "rmap5 R1 pred_t141 final value (p1 3.86953); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.528W) 3.65->2.57, gm own CaW 4.1 = 3.24"
+},
+"2764": {
+"value": 20.122439607099587,
+"why": "rmap5 R1 pred_t141 final value (p1 21.0403); last writer patch:cv_labfocal; "
+},
+"2767": {
+"value": 18.626628093801404,
+"why": "rmap5 R1 pred_t141 final value (p1 20.2432); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.335W) 35.4->15.8, gm own CaW 22 = 18.6"
+},
+"2770": {
+"value": 17.943784501745927,
+"why": "rmap5 R1 pred_t141 final value (p1 19.8687); last writer patch:cv_labfocal; "
+},
+"2786": {
+"value": 19.860790234423945,
+"why": "rmap5 R1 pred_t141 final value (p1 21.8325); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.541W) 22.8->16.4, gm own CaW 24 = 19.9"
+},
+"2794": {
+"value": 19.71625658378953,
+"why": "rmap5 R1 pred_t141 final value (p1 21.7529); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.546W) 22.3->16.2, gm own CaW 24 = 19.7"
+},
+"2802": {
+"value": 20.182264503844014,
+"why": "rmap5 R1 pred_t141 final value (p1 22.0085); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.731W) 17.4->17, gm own CaW 24 = 20.2"
+},
+"2808": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.714); last writer caw_nogeo; "
+},
+"2809": {
+"value": 23.541003879801647,
+"why": "rmap5 R1 pred_t141 final value (p1 23.7694); last writer patch:cv_labfocal; "
+},
+"2816": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 10.9197); last writer caw_nogeo; "
+},
+"2817": {
+"value": 19.71504827371954,
+"why": "rmap5 R1 pred_t141 final value (p1 21.7523); last writer patch:cv_labfocal; "
+},
+"2822": {
+"value": 21.0,
+"why": "rmap5 R1 pred_t141 final value (p1 20.4939); last writer caw_nogeo; "
+},
+"2823": {
+"value": 26.0,
+"why": "rmap5 R1 pred_t141 final value (p1 25.7296); last writer caw_nogeo; "
+},
+"2824": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 10.9417); last writer caw_nogeo; "
+},
+"2825": {
+"value": 20.315070477408412,
+"why": "rmap5 R1 pred_t141 final value (p1 22.0808); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 1.013W) 12.8->17.2, gm own CaW 24 = 20.3"
+},
+"2832": {
+"value": 14.41506557868634,
+"why": "rmap5 R1 pred_t141 final value (p1 17.8082); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.267W) 26.6->9.45, gm own CaW 22 = 14.4"
+},
+"2834": {
+"value": 13.076959079930532,
+"why": "rmap5 R1 pred_t141 final value (p1 14.5551); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white ball' loses obj1 to 'soccer ball' (0/40); own OWL chain 23 fr 0-31; size on own chain with own MoGe focal 0.521W = 7.773, own CaW 22 -> 13.08 (was 14.56)"
+},
+"2844": {
+"value": 14.265184396066653,
+"why": "rmap5 R1 pred_t141 final value (p1 17.7154); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.267W) 26.1->9.25, gm own CaW 22 = 14.3"
+},
+"2846": {
+"value": 9.32542211565344,
+"why": "rmap5 R1 pred_t141 final value (p1 14.2534); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white ball' loses obj1 to 'soccer ball' (0/41); own OWL chain 16 fr 7-29; size on own chain with own MoGe focal 1.126W = 3.953, own CaW 22 -> 9.325 (was 14.25)"
+},
+"2853": {
+"value": 0.28366272169674117,
+"why": "rmap5 R1 pred_t141 final value (p1 0.912191); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: chain 42 clash 42; 'white ball' loses obj1 to 'soccer ball' (0/41); own OWL chain 16 fr 7-29; dist2 on own chain with own calibrated focal 0.267W = 0.2837, own CaW 0.0345 -> 0.2837 (was 0.9122)"
+},
+"2867": {
+"value": 22.729837367773147,
+"why": "rmap5 R1 pred_t141 final value (p1 22.3619); last writer patch:cv_labfocal; "
+},
+"2869": {
+"value": 13.274099014509195,
+"why": "rmap5 R1 pred_t141 final value (p1 13.4076); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white ball' loses obj4 to 'soccer ball' (8/46); own OWL chain 21 fr 21-45; size on own chain with own MoGe focal 0.577W = 8.009, own CaW 22 -> 13.27 (was 13.41)"
+},
+"2871": {
+"value": 2.843341894090935,
+"why": "rmap5 R1 pred_t141 final value (p1 2.47239); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'green ball' loses obj5 to 'soccer ball' (0/46); own OWL chain 18 fr 18-45; speed on own chain with own calibrated focal 0.528W = 2.651, own CaW 3.05 -> 2.843 (was 2.472)"
+},
+"2872": {
+"value": 2.3585147317909465,
+"why": "rmap5 R1 pred_t141 final value (p1 1.94627); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white ball' loses obj4 to 'soccer ball' (8/46); own OWL chain 21 fr 21-45; speed on own chain with own calibrated focal 0.528W = 2.517, own CaW 2.21 -> 2.359 (was 1.946)"
+},
+"2874": {
+"value": 2.793589829383487,
+"why": "rmap5 R1 pred_t141 final value (p1 0.716285); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'white ball' loses obj4 to 'soccer ball' (8/46); own OWL chain 21 fr 21-45; speed on own chain with own calibrated focal 0.528W = 3.16, own CaW 2.47 -> 2.794 (was 0.7163)"
+},
+"2876": {
+"value": 0.1152291082721617,
+"why": "rmap5 R1 pred_t141 final value (p1 0.103006); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'green ball' loses obj5 to 'soccer ball' (0/46); own OWL chain 18 fr 18-45; 'white ball' loses obj4 to 'soccer ball' (8/46); own OWL chain 21 fr 21-45; dist2 on own chain with own calibrated focal 0.528W = 0.1328, own CaW 0.1 -> 0.1152 (was 0.103)"
+},
+"2879": {
+"value": 17.94880606775736,
+"why": "rmap5 R1 pred_t141 final value (p1 19.8714); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.464W) 23.7->14.6, gm own CaW 22 = 17.9"
+},
+"2891": {
+"value": 16.97036693413564,
+"why": "rmap5 R1 pred_t141 final value (p1 19.3222); last writer patch:cv_labfocal; "
+},
+"2902": {
+"value": 20.335690333879764,
+"why": "rmap5 R1 pred_t141 final value (p1 21.1515); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.557W) 25.4->18.8, gm own CaW 22 = 20.3"
+},
+"2908": {
+"value": 41.42939227155682,
+"why": "rmap5 R1 pred_t141 final value (p1 58.1922); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: 'yoga ball' loses obj1 to 'ping pong ball' (0/49); own OWL chain 35 fr 3-48; size on own chain with own MoGe focal 1.021W = 26.41, own CaW 65 -> 41.43 (was 58.19)"
+},
+"2909": {
+"value": 15.775608893548897,
+"why": "rmap5 R1 pred_t141 final value (p1 18.6296); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 1.021W) 8.32->11.3, gm own CaW 22 = 15.8"
+},
+"2910": {
+"value": 1.4277707671734068,
+"why": "rmap5 R1 pred_t141 final value (p1 1.43143); last writer patch:rm5c_rm5c_X26V1; owlregr (any source, S3/D3): rmap4 D3a B owlregr V2: no query/sibling; 'yoga ball' loses obj1 to 'ping pong ball' (0/49); own OWL chain 35 fr 3-48; dist2 on own chain with own MoGe focal 1.021W = 1.377, own CaW 1.48 -> 1.428 (was 1.431)"
+},
+"2916": {
+"value": 21.617665441629057,
+"why": "rmap5 R1 pred_t141 final value (p1 21.808); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.642W) 24.9->21.2, gm own CaW 22 = 21.6"
+},
+"2942": {
+"value": 21.0,
+"why": "rmap5 R1 pred_t141 final value (p1 20.9727); last writer caw_nogeo; "
+},
+"2943": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.732); last writer caw_nogeo; "
+},
+"2958": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.341); last writer caw_nogeo; "
+},
+"2959": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.5727); last writer caw_nogeo; "
+},
+"2969": {
+"value": 10.8,
+"why": "rmap5 R1 pred_t141 final value (p1 10.0786); last writer caw_nogeo; "
+},
+"2974": {
+"value": 3.5,
+"why": "rmap5 R1 pred_t141 final value (p1 3.29035); last writer caw_nogeo; "
+},
+"2978": {
+"value": 310.0,
+"why": "rmap5 R1 pred_t141 final value (p1 289.292); last writer caw_nogeo; "
+},
+"2988": {
+"value": 45.0,
+"why": "rmap5 R1 pred_t141 final value (p1 51.9615); last writer caw_nogeo; "
+},
+"2994": {
+"value": 0.6,
+"why": "rmap5 R1 pred_t141 final value (p1 0.826054); last writer patch:rm5c_X22cs; BBg[S1]: own box fills the frame (p fills W (pinned)) -> geo invalid -> CaW-only value = own CaW read 0.6"
+},
+"2995": {
+"value": 0.7,
+"why": "rmap5 R1 pred_t141 final value (p1 2.85312); last writer patch:rm5c_X22cs; BBg[S1]: own box fills the frame (p fills W (pinned)) -> geo invalid -> CaW-only value = own CaW read 0.7"
+},
+"3011": {
+"value": 65.0,
+"why": "rmap5 R1 pred_t141 final value (p1 31.0777); last writer patch:rm5c_X08V2; C25g: answer = own geo 31.08 but own CaW 65 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3013": {
+"value": 3.5,
+"why": "rmap5 R1 pred_t141 final value (p1 1.65464); last writer patch:rm5c_X08V2; C25g: answer = own geo 1.655 but own CaW 3.5 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3050": {
+"value": 5.4,
+"why": "rmap5 R1 pred_t141 final value (p1 11.7954); last writer patch:rm5c_X08V2; C25g: answer = own geo 11.8 but own CaW 5.4 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3055": {
+"value": 210.0,
+"why": "rmap5 R1 pred_t141 final value (p1 205.317); last writer caw_nogeo; "
+},
+"3057": {
+"value": 132.0,
+"why": "rmap5 R1 pred_t141 final value (p1 123.578); last writer caw_nogeo; "
+},
+"3067": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 4.6877); last writer patch:rm5c_X08V2; C25g: answer = own geo 4.688 but own CaW 11 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3087": {
+"value": 30.0,
+"why": "rmap5 R1 pred_t141 final value (p1 29.487); last writer dis_caw_routed; "
+},
+"3095": {
+"value": 26.05701158784293,
+"why": "rmap5 R1 pred_t141 final value (p1 27.1286); last writer agree_gm; "
+},
+"3097": {
+"value": 1.47,
+"why": "rmap5 R1 pred_t141 final value (p1 0.682198); last writer patch:rm5c_X08V2; C25g: answer = own geo 0.6822 but own CaW 1.47 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3100": {
+"value": 45.7,
+"why": "rmap5 R1 pred_t141 final value (p1 45.5355); last writer caw_nogeo; "
+},
+"3101": {
+"value": 24.107048188587186,
+"why": "rmap5 R1 pred_t141 final value (p1 24.1597); last writer agree_gm; "
+},
+"3102": {
+"value": 167.88003750950116,
+"why": "rmap5 R1 pred_t141 final value (p1 106.016); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f33-65 a=1647px/s^2 (x0.999) dur 0.90s -> mpp 0.005955 frameH 2.86m blob 0.229m; target ext 281.9px"
+},
+"3103": {
+"value": 169.1354523780319,
+"why": "rmap5 R1 pred_t141 final value (p1 212.723); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f33-65 a=1647px/s^2 (x0.999) dur 0.90s -> mpp 0.005955 frameH 2.86m blob 0.229m; target ext 284.0px"
+},
+"3107": {
+"value": 1.8640632603635208,
+"why": "rmap5 R1 pred_t141 final value (p1 1.62788); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f33-65 a=1647px/s^2 (x0.999) dur 0.90s -> mpp 0.005955 frameH 2.86m blob 0.229m; target ext 313.0px"
+},
+"3108": {
+"value": 1.5502834719389849,
+"why": "rmap5 R1 pred_t141 final value (p1 1.3); last writer patch:rm5c_rm5c_X23V1; GRK (D2 gravity prior + planar): blob fall f33-65 a=1647px/s^2 (x0.999) -> mpp 0.005955 frameH 2.86m blob 0.229m; avgspeed 260.3px"
+},
+"3109": {
+"value": 1.6578395613601316,
+"why": "rmap5 R1 pred_t141 final value (p1 1.68695); last writer agree_gm; "
+},
+"3111": {
+"value": 0.6859443203459624,
+"why": "rmap5 R1 pred_t141 final value (p1 0.679159); last writer agree_gm; "
+},
+"3112": {
+"value": 0.9210007046822312,
+"why": "rmap5 R1 pred_t141 final value (p1 1.00548); last writer agree_gm; "
+},
+"3113": {
+"value": 1.9536144396999888,
+"why": "rmap5 R1 pred_t141 final value (p1 2.15447); last writer agree_gm; "
+},
+"3114": {
+"value": 2.4,
+"why": "rmap5 R1 pred_t141 final value (p1 4.89531); last writer patch:rm5c_X08V2; C25g: answer = own geo 4.895 but own CaW 2.4 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3116": {
+"value": 1.7750879339236376,
+"why": "rmap5 R1 pred_t141 final value (p1 1.81309); last writer agree_gm; "
+},
+"3117": {
+"value": 3.509816064668154,
+"why": "rmap5 R1 pred_t141 final value (p1 3.75987); last writer agree_gm; "
+},
+"3121": {
+"value": 1.0779103824352323,
+"why": "rmap5 R1 pred_t141 final value (p1 1.09186); last writer agree_gm; "
+},
+"3124": {
+"value": 1.2359496523105817,
+"why": "rmap5 R1 pred_t141 final value (p1 1.7); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3125": {
+"value": 1.1699919311179552,
+"why": "rmap5 R1 pred_t141 final value (p1 1.0593); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3126": {
+"value": 3.3279393746486945,
+"why": "rmap5 R1 pred_t141 final value (p1 3.04105); last writer agree_gm; "
+},
+"3128": {
+"value": 1.7967989820360957,
+"why": "rmap5 R1 pred_t141 final value (p1 1.80509); last writer agree_gm; "
+},
+"3132": {
+"value": 1.0739998544427634,
+"why": "rmap5 R1 pred_t141 final value (p1 1.08596); last writer agree_gm; "
+},
+"3133": {
+"value": 0.9061020618991464,
+"why": "rmap5 R1 pred_t141 final value (p1 0.963131); last writer agree_gm; "
+},
+"3135": {
+"value": 4.016389779555001,
+"why": "rmap5 R1 pred_t141 final value (p1 3.62217); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3136": {
+"value": 0.9201490078044418,
+"why": "rmap5 R1 pred_t141 final value (p1 0.973118); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3137": {
+"value": 1.1171163346355157,
+"why": "rmap5 R1 pred_t141 final value (p1 1.112); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3140": {
+"value": 0.74276068195411,
+"why": "rmap5 R1 pred_t141 final value (p1 0.728368); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3141": {
+"value": 1.0930539369988097,
+"why": "rmap5 R1 pred_t141 final value (p1 0.963079); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3142": {
+"value": 0.8820596335170836,
+"why": "rmap5 R1 pred_t141 final value (p1 0.856264); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3146": {
+"value": 3.9275650095506975,
+"why": "rmap5 R1 pred_t141 final value (p1 4.48194); last writer agree_gm; "
+},
+"3147": {
+"value": 5.530000571333222,
+"why": "rmap5 R1 pred_t141 final value (p1 5.31328); last writer agree_gm; "
+},
+"3148": {
+"value": 1.427385054649729,
+"why": "rmap5 R1 pred_t141 final value (p1 1.62179); last writer agree_gm; "
+},
+"3149": {
+"value": 0.8,
+"why": "rmap5 R1 pred_t141 final value (p1 1.79695); last writer patch:rm5c_X08V2; C25g: answer = own geo 1.797 but own CaW 0.8 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3152": {
+"value": 0.8076667514484869,
+"why": "rmap5 R1 pred_t141 final value (p1 0.831956); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3153": {
+"value": 3.0,
+"why": "rmap5 R1 pred_t141 final value (p1 2.9442); last writer caw_nogeo; "
+},
+"3154": {
+"value": 0.98082389034728,
+"why": "rmap5 R1 pred_t141 final value (p1 0.973257); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3155": {
+"value": 0.7137376663446843,
+"why": "rmap5 R1 pred_t141 final value (p1 0.715238); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3156": {
+"value": 3.2,
+"why": "rmap5 R1 pred_t141 final value (p1 3.12096); last writer caw_nogeo; "
+},
+"3157": {
+"value": 0.5878117930201467,
+"why": "rmap5 R1 pred_t141 final value (p1 0.583006); last writer patch:h5_c89_B1; own-prior person ruler re-measure, plain gm with own CaW when within 2x"
+},
+"3158": {
+"value": 1.739951334611186,
+"why": "rmap5 R1 pred_t141 final value (p1 1.75987); last writer agree_gm; "
+},
+"3161": {
+"value": 1.5264803093575976,
+"why": "rmap5 R1 pred_t141 final value (p1 1.47817); last writer agree_gm; "
+},
+"3165": {
+"value": 3.68,
+"why": "rmap5 R1 pred_t141 final value (p1 1.65314); last writer patch:rm5c_X08V2; C25g: answer = own geo 1.653 but own CaW 3.68 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3170": {
+"value": 1.841915865398989,
+"why": "rmap5 R1 pred_t141 final value (p1 1.95562); last writer agree_gm; "
+},
+"3179": {
+"value": 24.54376218455061,
+"why": "rmap5 R1 pred_t141 final value (p1 24.8147); last writer agree_gm; "
+},
+"3188": {
+"value": 8.052986670950038,
+"why": "rmap5 R1 pred_t141 final value (p1 9.30239); last writer agree_gm; "
+},
+"3189": {
+"value": 7.924635522263669,
+"why": "rmap5 R1 pred_t141 final value (p1 9.08233); last writer agree_gm; "
+},
+"3194": {
+"value": 7.288137706237183,
+"why": "rmap5 R1 pred_t141 final value (p1 7.43365); last writer agree_gm; "
+},
+"3197": {
+"value": 4.752608496308539,
+"why": "rmap5 R1 pred_t141 final value (p1 9.275); last writer patch:rm5c_rm5c_X23V1; GRK (D2 gravity prior + planar): blob fall f62-104 a=13867px/s^2 (x0.999) -> mpp 0.0007076 frameH 0.34m blob 0.00245m; dist2 67.2px"
+},
+"3198": {
+"value": 11.500000735348852,
+"why": "rmap5 R1 pred_t141 final value (p1 10.1992); last writer patch:rm5c_rm5c_X23V1; GRK (D2 gravity prior + planar): blob fall f62-104 a=13867px/s^2 (x0.999) -> mpp 0.0007076 frameH 0.34m blob 0.00245m; dist2 162.5px"
+},
+"3200": {
+"value": 11.0,
+"why": "rmap5 R1 pred_t141 final value (p1 10.8405); last writer caw_nogeo; "
+},
+"3201": {
+"value": 10.0,
+"why": "rmap5 R1 pred_t141 final value (p1 9.947); last writer caw_nogeo; "
+},
+"3203": {
+"value": 0.31,
+"why": "rmap5 R1 pred_t141 final value (p1 0.288114); last writer caw_nogeo; "
+},
+"3206": {
+"value": 25.248142382991524,
+"why": "rmap5 R1 pred_t141 final value (p1 24.4315); last writer agree_gm; "
+},
+"3207": {
+"value": 7.878611603842713,
+"why": "rmap5 R1 pred_t141 final value (p1 7.81979); last writer agree_gm; "
+},
+"3211": {
+"value": 0.11,
+"why": "rmap5 R1 pred_t141 final value (p1 0.102146); last writer caw_nogeo; "
+},
+"3215": {
+"value": 0.8306348532906854,
+"why": "rmap5 R1 pred_t141 final value (p1 3.1); last writer patch:rm5c_rm5c_X23V1; GRK (D2 gravity prior + planar): blob fall f81-145 a=1572px/s^2 (x0.999) -> mpp 0.006242 frameH 3m blob 0.227m; speed 133.1px"
+},
+"3219": {
+"value": 24.19793419864293,
+"why": "rmap5 R1 pred_t141 final value (p1 24.2955); last writer agree_gm; "
+},
+"3228": {
+"value": 25.81223163799199,
+"why": "rmap5 R1 pred_t141 final value (p1 24); last writer patch:rm5c_rm5c_X23V1; GR-V3 (D2 gravity prior + planar): blob fall f73-79 a=4484px/s^2 (x1.000) dur 0.20s -> mpp 0.002186 frameH 1.05m blob 0.012m; target ext 118.1px"
+},
+"3241": {
+"value": 6.281087071082564,
+"why": "rmap5 R1 pred_t141 final value (p1 7.02403); last writer agree_gm; "
+},
+"3242": {
+"value": 5.624958283182161,
+"why": "rmap5 R1 pred_t141 final value (p1 5.05324); last writer agree_gm; "
+},
+"3258": {
+"value": 4.461251342136992,
+"why": "rmap5 R1 pred_t141 final value (p1 4.44238); last writer agree_gm; "
+},
+"3259": {
+"value": 1.875444205541589,
+"why": "rmap5 R1 pred_t141 final value (p1 1.77432); last writer agree_gm; "
+},
+"3264": {
+"value": 30.0,
+"why": "rmap5 R1 pred_t141 final value (p1 13.794); last writer patch:rm5c_X08V2; C25g: answer = own geo 13.79 but own CaW 30 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"3288": {
+"value": 12.2,
+"why": "rmap5 R1 pred_t141 final value (p1 11.468); last writer caw_nogeo; "
+}
+}

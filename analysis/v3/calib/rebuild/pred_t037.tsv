@@ -1,0 +1,4 @@
+name	pred_t037
+base	pred_t036
+block	rul448	*	json:patches/ag_rul448_patch_test.json
+block	rul415	*	rows:analysis/v3/calib/rebuild/pred_t037_rows.csv

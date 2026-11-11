@@ -1,0 +1,25 @@
+split,video,phrase,det,frame,k,idx,score,x0,y0,x1,y1
+test,internet_0072,credit card,owlv2,5,5,0,0.0503,335.7,638.3,420.7,727.8
+test,internet_0072,credit card,owlv2,6,6,0,0.0851,327.4,616.6,412.3,702.9
+test,internet_0072,credit card,owlv2,7,7,0,0.405,320.1,602.5,406.3,683.7
+test,internet_0072,credit card,owlv2,8,8,0,0.481,314.0,584.1,399.0,662.0
+test,internet_0072,credit card,owlv2,9,9,0,0.4292,305.7,569.2,394.0,643.7
+test,internet_0072,credit card,owlv2,10,10,0,0.479,296.1,556.2,383.6,630.0
+test,internet_0072,credit card,owlv2,11,11,0,0.5109,289.5,543.5,376.9,616.0
+test,internet_0072,credit card,owlv2,11,11,1,0.0567,239.5,554.2,390.3,632.0
+test,internet_0072,credit card,owlv2,12,12,0,0.5562,282.4,533.5,370.7,606.0
+test,internet_0072,credit card,owlv2,13,13,0,0.5583,275.1,520.2,364.6,592.7
+test,internet_0072,credit card,owlv2,14,14,0,0.6637,265.9,511.7,357.2,581.2
+test,internet_0072,credit card,owlv2,14,14,1,0.0647,225.7,523.1,370.7,589.8
+test,internet_0072,credit card,owlv2,15,15,0,0.5827,260.3,501.7,352.8,571.2
+test,internet_0072,credit card,owlv2,16,16,0,0.6261,253.7,492.1,346.1,560.8
+test,internet_0072,credit card,owlv2,17,17,0,0.6397,248.0,486.1,341.7,553.5
+test,internet_0072,credit card,owlv2,18,18,0,0.5974,241.4,479.4,335.1,546.9
+test,internet_0072,credit card,owlv2,19,19,0,0.628,235.7,473.1,330.7,539.8
+test,internet_0072,credit card,owlv2,20,20,0,0.6215,232.4,466.5,327.4,533.1
+test,internet_0072,credit card,owlv2,21,21,0,0.6114,229.7,462.7,323.4,530.2
+test,internet_0072,credit card,owlv2,22,22,0,0.6234,226.8,456.5,323.0,523.1
+test,internet_0072,credit card,owlv2,23,23,0,0.6663,223.5,453.6,319.7,519.4
+test,internet_0072,credit card,owlv2,24,24,0,0.6783,217.0,450.2,319.5,516.0
+test,internet_0072,credit card,owlv2,25,25,0,0.6602,217.8,447.5,315.3,512.1
+test,internet_0072,credit card,owlv2,26,26,0,0.6951,215.5,443.6,314.3,509.4

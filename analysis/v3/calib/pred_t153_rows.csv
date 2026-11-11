@@ -1,0 +1,59 @@
+id0,cat,block,writer,old,new,video,question
+5,D2,claimC,claimC_sel_rows.csv#claimC,1.96013863507602,1.8,simulation_0012,What is the body length of the bird in meters?
+14,D2,claimC,claimC_sel_rows.csv#claimC,1.5494065359454334,1.4,simulation_0047,What is the width of the telephone booth in meters?
+22,D2,claimC,claimC_sel_rows.csv#claimC,0.99,1.3,simulation_0053,What is the walking speed of the person at 2.0s in m/s?
+102,D2,claimC,claimC_sel_rows.csv#claimC,2.3971381565346594,2.2,simulation_0084,What is the width of the yellow car in meters?
+104,D2,claimC,claimC_sel_rows.csv#claimC,2.3563835906607657,2.2,simulation_0084,What is the width of the black and white car in meters?
+118,D2,claimC,claimC_sel_rows.csv#claimC,2.3826316451151497,2.2,simulation_0086,What is the width of the car in meters?
+160,D2,claimC,claimC_sel_rows.csv#claimC,2.085927287105924,2.0,simulation_0094,What is the height of the car in meters?
+301,D2,claimC,claimC_sel_rows.csv#claimC,2.269530789614465,2.2,simulation_0130,What is the width of the car in meters?
+790,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.6562303866596466,1.5235,simulation_0238,What is the speed of the horse in the front in m/s?
+796,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.4386501846235455,1.5793,simulation_0239,What is the speed of the horse in the front at 1s in m/s?
+804,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.7080921474976698,1.5793,simulation_0240,What is the speed of the horse in the front at 1s in m/s?
+807,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.387364966900347,2.1206,simulation_0240,What is the speed of the rabbit at 1s in m/s?
+812,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.3862654232444185,1.5793,simulation_0241,What is the speed of the white horse at 1s in m/s?
+835,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.327774102433987,1.5793,simulation_0248,What is the speed of the horse in the front at 1s in m/s?
+842,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.2902414818899108,1.5793,simulation_0249,What is the speed of the horse in the front at 1s in m/s?
+1034,D2,claimC,claimC_sel_rows.csv#claimC,3.31966509797723,2.6,simulation_0298,What is the width of the fire truck in meters?
+1130,D3,claimC,claimC_sel_rows.csv#claimC,0.7995415340664458,1.3,simulation_0033,What is the walking speed of the person at 1.0s in m/s?
+1224,D3,claimC,claimC_sel_rows.csv#claimC,0.5326687954401899,1.3,simulation_0055,What is the average walking speed of the person from 1.0s to 2.0s in m/s?
+1281,D3,claimC,claimC_sel_rows.csv#claimC,2.04,2.0,simulation_0062,What is the height of the white car in meters?
+1294,D3,claimC,claimC_sel_rows.csv#claimC,2.04,2.0,simulation_0063,What is the height of the white car in meters?
+1331,D3,claimC,claimC_sel_rows.csv#claimC,2.255,2.2,simulation_0066,What is the width of the white car in meters?
+1333,D3,claimC,claimC_sel_rows.csv#claimC,2.04,2.0,simulation_0066,What is the height of the white car in meters?
+1348,D3,claimC,claimC_sel_rows.csv#claimC,2.255,2.2,simulation_0067,What is the width of the white car in meters?
+1350,D3,claimC,claimC_sel_rows.csv#claimC,2.04,2.0,simulation_0067,What is the height of the white car in meters?
+1393,D3,claimC,claimC_sel_rows.csv#claimC,2.2631075955799123,2.2,simulation_0168,What is the width of the police car in meters?
+1406,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.7302205928711096,1.72,simulation_0172,What is the speed of the astronaut at time 0.5s in m/s?
+1407,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.7721043818998172,1.801,simulation_0172,What is the acceleration of the astronaut at time 0.5s in m/s^2?
+1408,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,4.255167349754135,4.89,simulation_0172,What is the speed of the astronaut at time 1s in m/s?
+1409,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,2.0245330799188417,1.192,simulation_0172,What is the acceleration of the astronaut at time 1s in m/s^2?
+1410,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,2.159532931491107,1.86,simulation_0172,What is the speed of the astronaut at time 2s in m/s?
+1411,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,0.7360285125596376,0.705,simulation_0172,What is the acceleration of the astronaut at time 2s in m/s^2?
+1412,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.052383296810236,1.462,simulation_0172,What is the speed of the astronaut at time 3s in m/s?
+1413,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.196511925632341,2.634,simulation_0172,What is the acceleration of the astronaut at time 3s in m/s^2?
+1443,D3,claimC,claimC_sel_rows.csv#claimC,2.7940000000000005,2.6,simulation_0188,What is the width of the truck in meters?
+1560,D3,claimC,claimC_sel_rows.csv#claimC,0.3675,0.35,simulation_0202,What is the height of the typewriter in meters?
+1623,D3,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.7526461043378063,1.5235,simulation_0242,What is the average speed of the white horse in m/s?
+1625,D3,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.6980930606276488,1.4997,simulation_0242,What is the average speed of the rabbit in m/s?
+1648,D2,claimC,claimC_sel_rows.csv#claimC,1.96013863507602,1.8,simulation_0012_segmented,What is the length of the bird in meters?
+1763,D3,claimC,claimC_sel_rows.csv#claimC,2.255,2.2,simulation_0066_segmented,What is the width of the white car in meters?
+1765,D3,claimC,claimC_sel_rows.csv#claimC,2.04,2.0,simulation_0066_segmented,What is the height of the white car in meters?
+1881,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.7302205928711096,1.72,simulation_0172_segmented,What is the speed of the astronaut at time 0.5s in m/s?
+1882,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.7721043818998172,1.801,simulation_0172_segmented,What is the acceleration of the astronaut at time 0.5s in m/s^2?
+1883,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,4.255167349754135,4.89,simulation_0172_segmented,What is the speed of the astronaut at time 1s in m/s?
+1884,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,2.0245330799188417,1.192,simulation_0172_segmented,What is the acceleration of the astronaut at time 1s in m/s^2?
+1885,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,2.159532931491107,1.86,simulation_0172_segmented,What is the speed of the astronaut at time 2s in m/s?
+1886,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,0.7360285125596376,0.705,simulation_0172_segmented,What is the acceleration of the astronaut at time 2s in m/s^2?
+1887,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.052383296810236,1.462,simulation_0172_segmented,What is the speed of the astronaut at time 3s in m/s?
+1888,S3,r2_simsize_animlink,ag_r2_simsize_animlink_patch_test.json,1.196511925632341,2.634,simulation_0172_segmented,What is the acceleration of the astronaut at time 3s in m/s^2?
+1901,D3,claimC,claimC_sel_rows.csv#claimC,2.7940000000000005,2.6,simulation_0188_segmented,What is the width of the truck in meters?
+1908,D2,claimC,claimC_sel_rows.csv#claimC,2.9125998213818405,2.6,simulation_0190_segmented,What is the width of the truck in meters?
+1989,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.8364526074059089,1.5235,simulation_0248_segmented,What is the average speed of the white horse in m/s?
+1992,D2,r2_d2sim_farmfront,ag_r2_d2sim_farmfront_patch_test.json,1.8393379440450504,1.4997,simulation_0248_segmented,What is the average speed of the rabbit in m/s?
+2041,S2,claimC,claimC_sel_rows.csv#claimC,7.63004142564432,6.2,internet_0007,What is the length of the black car in meters?
+2126,S2,claimC,claimC_sel_rows.csv#claimC,9.04870800030771,8.0,internet_0025,What is the length of the canoe in meters?
+2194,D3,r2_strictport_tspendaq,ag_r2_strictport_tspendaq_patch_test.json,3.07808428925704,7.447482238911131,captured_0010,What is that ball's acceleration at 0.3s in m/s^2? 
+2200,D3,r2_strictport_tspendaq,ag_r2_strictport_tspendaq_patch_test.json,3.07808428925704,7.447482238911131,captured_0010s,What is that ball's acceleration at 0.3s in m/s^2? 
+2206,D3,r2_strictport_tspendaq,ag_r2_strictport_tspendaq_patch_test.json,3.07808428925704,7.447482238911131,captured_0010X,What is that ball's acceleration at 0.3s in m/s^2? 
+2980,S2,claimC,claimC_sel_rows.csv#claimC,9.04870800030771,8.0,internet_0025_segmented,What is the length of the canoe in meters? 

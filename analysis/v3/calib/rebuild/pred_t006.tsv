@@ -1,0 +1,3 @@
+name	pred_t006
+base	pred_t044
+block	rul350	D2	json:patches/ag_rul350_patch_test.json

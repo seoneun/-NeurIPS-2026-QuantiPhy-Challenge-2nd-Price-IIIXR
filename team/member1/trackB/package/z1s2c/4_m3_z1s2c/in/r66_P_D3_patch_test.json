@@ -1,0 +1,266 @@
+{
+"1048": {
+"value": 2.1012953294338472,
+"before": 3.222,
+"rule": "rul143",
+"why": "r66 P_D3: rul143: own scene3d d_min (own stated distances)"
+},
+"1049": {
+"value": 1.72723017573975,
+"before": 1.32,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.32 ~ geo 2.26 within 2.6 -> gm"
+},
+"1051": {
+"value": 0.9691701892973564,
+"before": 0.999496339777997,
+"rule": "rul170",
+"why": "r66 P_D3: rul170: rul170 gap 16.2px480 (conn:wooden steps) Z=23.12(stairs) f/W=0.806"
+},
+"1064": {
+"value": 0.4421788064837772,
+"before": 0.37400000000000005,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 length CaW 0.374 ~ geo 0.5228 within 1.6 -> gm"
+},
+"1083": {
+"value": 0.5361775487832684,
+"before": 0.803,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 0.803 ~ geo 0.358 within 2.6 -> gm"
+},
+"1085": {
+"value": 0.6405,
+"before": 0.45481869035581585,
+"rule": "roll",
+"why": "r66 P_D3: roll: rolled own video, heights on image x -> geo invalid; own full CaW 0.61 x1.05"
+},
+"1088": {
+"value": 0.5481866911708301,
+"before": 1.1864999999999999,
+"rule": "cawconf",
+"why": "r66 P_D3: cawconf: crop 0.75 vs full 1.13 >0.1dec, geo 0.4007~CaW 0.75 -> gm"
+},
+"1104": {
+"value": 1.4455628087075816,
+"before": 1.6720000000000002,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.672 ~ geo 1.25 within 2.6 -> gm"
+},
+"1110": {
+"value": 1.4364192185160265,
+"before": 1.6720000000000002,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.672 ~ geo 1.234 within 2.6 -> gm"
+},
+"1129": {
+"value": 1.4906948614201405,
+"before": 1.6830000000000003,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.683 ~ geo 1.32 within 2.6 -> gm"
+},
+"1157": {
+"value": 1.4721653132359611,
+"before": 1.6830000000000003,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.683 ~ geo 1.288 within 2.6 -> gm"
+},
+"1166": {
+"value": 1.4598424534480732,
+"before": 1.6720000000000002,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.672 ~ geo 1.275 within 2.6 -> gm"
+},
+"1221": {
+"value": 4.450209028798535,
+"before": 4.8268,
+"rule": "rul221",
+"why": "r66 P_D3: rul221: own edge-key geo 4.103; gm with CaW-led 4.827"
+},
+"1229": {
+"value": 1.8157705425380497,
+"before": 2.068,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 2.068 ~ geo 1.594 within 2.6 -> gm"
+},
+"1230": {
+"value": 1.6397009139286398,
+"before": 1.903,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.903 ~ geo 1.413 within 2.6 -> gm"
+},
+"1233": {
+"value": 12.682635428746364,
+"before": 9.8710192855896,
+"rule": "rul237",
+"why": "r66 P_D3: rul237: own road width 12.68 m (MoGe plane, own key scale)"
+},
+"1243": {
+"value": 2.1247730282727115,
+"before": 1.87,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.87 ~ geo 2.414 within 2.6 -> gm"
+},
+"1269": {
+"value": 12.403389738715106,
+"before": 6.075,
+"rule": "rul245",
+"why": "r66 P_D3: rul245: own road width 12.4 m (MoGe plane, own key scale)"
+},
+"1287": {
+"value": 4.7250000000000005,
+"before": 5.63,
+"rule": "tlight",
+"why": "r66 P_D3: rul436: head-only geo (g 0.9674745893388362) -> own full CaW 4.5 x1.05"
+},
+"1308": {
+"value": 2.1105,
+"before": 2.262996668752699,
+"rule": "carwcap",
+"why": "r66 P_D3: carwcap: car width, own geo 2.548 > 2.5 inflated, own CaW 2.01 -> x1.05"
+},
+"1313": {
+"value": 4.41,
+"before": 4.5,
+"rule": "tlight",
+"why": "r66 P_D3: rul436: head-only geo (g 1.5074251684210034) -> own full CaW 4.2 x1.05"
+},
+"1314": {
+"value": 1.5235465109403508,
+"before": 2.0308294346840685,
+"rule": "rul121",
+"why": "r66 P_D3: rul121: own CaW walking 2.32 > 2.0 -> gm(own geo 1.719, 1.35)"
+},
+"1318": {
+"value": 13.032331586716692,
+"before": 8.459163188884169,
+"rule": "rul237",
+"why": "r66 P_D3: rul237: own road width 13.03 m (MoGe plane, own key scale)"
+},
+"1325": {
+"value": 5.869678440936949,
+"before": 2.5,
+"rule": "tlight",
+"why": "r66 P_D3: rul193: CaW unstable crop 2.5 vs full 12.5 -> gm x1.05"
+},
+"1326": {
+"value": 1.3475216298906736,
+"before": 1.3450478096468277,
+"rule": "rul121",
+"why": "r66 P_D3: rul121: own CaW walking 2.5 > 2.0 -> gm(own geo 1.345, 1.35)"
+},
+"1330": {
+"value": 12.43413409661981,
+"before": 4.050000000000001,
+"rule": "rul237",
+"why": "r66 P_D3: rul237: own road width 12.43 m (MoGe plane, own key scale)"
+},
+"1331": {
+"value": 2.1,
+"before": 2.255,
+"rule": "carwcap",
+"why": "r66 P_D3: carwcap: car width, own geo 4.613 > 2.5 inflated, own CaW 2 -> x1.05"
+},
+"1334": {
+"value": 5.934664134950445,
+"before": 4.95,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 length CaW 4.95 ~ geo 7.115 within 1.6 -> gm"
+},
+"1336": {
+"value": 1.8900000000000001,
+"before": 1.9800000000000002,
+"rule": "dimgm+carwcap",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.98 ~ geo 2.782 within 2.6 -> gm | carwcap: car width, own geo 2.782 > 2.5 inflated, own CaW 1.8 -> x1.05"
+},
+"1345": {
+"value": 1.1502,
+"before": 1.42,
+"rule": "rul454",
+"why": "r66 P_D3: rul454: rejected own geo; own routed CaW read 1.15"
+},
+"1349": {
+"value": 5.849096195767353,
+"before": 4.95,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 length CaW 4.95 ~ geo 6.912 within 1.6 -> gm"
+},
+"1353": {
+"value": 1.8900000000000001,
+"before": 1.9800000000000002,
+"rule": "dimgm+carwcap",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.98 ~ geo 2.516 within 2.6 -> gm | carwcap: car width, own geo 2.516 > 2.5 inflated, own CaW 1.8 -> x1.05"
+},
+"1393": {
+"value": 2.33957438738881,
+"before": 2.2660000000000005,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 2.266 ~ geo 2.416 within 2.6 -> gm"
+},
+"1431": {
+"value": 0.9239123751940412,
+"before": 0.7370000000000001,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 length CaW 0.737 ~ geo 1.158 within 1.6 -> gm"
+},
+"1497": {
+"value": 1.4641068066564422,
+"before": 1.1,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.1 ~ geo 1.949 within 2.6 -> gm"
+},
+"1498": {
+"value": 0.866376987732221,
+"before": 0.7150000000000001,
+"rule": "cawconf",
+"why": "r66 P_D3: cawconf: crop 1 vs full 0.65 >0.1dec, geo 0.6824~CaW 1.1 -> gm"
+},
+"1499": {
+"value": 2.4607255736421605,
+"before": 1.2429999999999999,
+"rule": "cawconf",
+"why": "r66 P_D3: cawconf: crop 2.13 vs full 1.13 >0.1dec, geo 2.843~CaW 2.13 -> gm"
+},
+"1557": {
+"value": 1.1971968510639472,
+"before": 1.5576,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.558 ~ geo 0.9202 within 2.6 -> gm"
+},
+"1559": {
+"value": 0.3306634276228225,
+"before": 0.35,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 0.35 ~ geo 0.3124 within 2.6 -> gm"
+},
+"1574": {
+"value": 1.1719183360439358,
+"before": 1.5576,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 1.558 ~ geo 0.8817 within 2.6 -> gm"
+},
+"1576": {
+"value": 0.32305779725418615,
+"before": 0.396,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 0.396 ~ geo 0.2636 within 2.6 -> gm"
+},
+"1607": {
+"value": 0.628220765762744,
+"before": 0.5565000000000001,
+"rule": "cawconf",
+"why": "r66 P_D3: cawconf: crop 0.71 vs full 0.53 >0.1dec, geo 0.5559~CaW 0.71 -> gm"
+},
+"1613": {
+"value": 0.6811060991420468,
+"before": 0.781,
+"rule": "dimgm",
+"why": "r66 P_D3: dimgm: sim D3 width CaW 0.781 ~ geo 0.594 within 2.6 -> gm"
+},
+"1636": {
+"value": 1.5225001687868966,
+"before": 3.443,
+"rule": "cawconf",
+"why": "r66 P_D3: cawconf: crop 2.11 vs full 3.13 >0.1dec, geo 1.099~CaW 2.11 -> gm"
+}
+}

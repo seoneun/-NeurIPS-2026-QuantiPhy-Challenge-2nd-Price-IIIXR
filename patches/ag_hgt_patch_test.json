@@ -1,0 +1,14 @@
+{
+ "3119": {
+  "value": 3.899578576954856,
+  "why": "hgt_A: support obj2 bottom y256 - target bottom y115 * mpp 0.02766 (n5)"
+ },
+ "3203": {
+  "value": 0.7276806632688834,
+  "why": "hgt_B: axisx+ floor=685 (impact t=2.70s) lead(t)=336 fit_g=9.1 * mpp 0.00209 (n5)"
+ },
+ "3211": {
+  "value": 0.8497722898785913,
+  "why": "hgt_B: axisx+ floor=652 (impact t=1.77s) lead(t)=249 fit_g=9.8 * mpp 0.00211 (n5)"
+ }
+}

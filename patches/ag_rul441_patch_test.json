@@ -1,0 +1,130 @@
+{
+ "226": {
+  "value": 0.7372213963866674,
+  "why": "prior speed px 226.9->293.2 on uncut run 0.54-1.50s (border-cut 46%); g 0.991->0.767; agree_wgm w0.70"
+ },
+ "227": {
+  "value": 1.2640739054016747,
+  "why": "prior speed px 226.9->293.2 on uncut run 0.54-1.50s (border-cut 46%); g 1.63->1.26; agree_wgm w0.70"
+ },
+ "228": {
+  "value": 0.6847760879194429,
+  "why": "prior speed px 226.9->293.2 on uncut run 0.54-1.50s (border-cut 46%); g 0.845->0.654; agree_wgm w0.70"
+ },
+ "229": {
+  "value": 4.450104076399029,
+  "why": "prior speed px 226.9->293.2 on uncut run 0.54-1.50s (border-cut 46%); g 5.45->4.22; agree_wgm w0.70"
+ },
+ "352": {
+  "value": 3.9387734875831675,
+  "why": "prior speed px 467.2->641.5 on uncut run 0.62-1.25s (border-cut 56%); g 5.96->4.34; agree_wgm w0.70"
+ },
+ "354": {
+  "value": 3.850082885767748,
+  "why": "prior speed px 466.7->640.9 on uncut run 0.62-1.25s (border-cut 56%); g 6.06->4.41; entered 2x band -> gm w0.70"
+ },
+ "356": {
+  "value": 4.325784559006202,
+  "why": "prior speed px 462.3->622.8 on uncut run 0.58-1.25s (border-cut 54%); g 6.08->4.51; agree_wgm w0.70"
+ },
+ "359": {
+  "value": 1.2552415394651752,
+  "why": "prior speed px 462.3->622.8 on uncut run 0.58-1.25s (border-cut 54%); g 2.07->1.54; entered 2x band -> gm w0.70"
+ },
+ "416": {
+  "value": 48.40180400907408,
+  "why": "prior speed px 562.3->655.9 on uncut run 0.33-1.29s (border-cut 27%); g 54.9->47.1; agree_wgm w0.70"
+ },
+ "417": {
+  "value": 43.38392817791303,
+  "why": "prior speed px 562.3->655.9 on uncut run 0.33-1.29s (border-cut 27%); g 48.4->41.5; agree_wgm w0.70"
+ },
+ "418": {
+  "value": 1.3610062678497292,
+  "why": "prior speed px 562.3->655.9 on uncut run 0.33-1.29s (border-cut 27%); g 1.59->1.36; geo_cawinvalid"
+ },
+ "419": {
+  "value": 49.040039768204366,
+  "why": "prior speed px 563.5->652.7 on uncut run 0.38-1.29s (border-cut 30%); g 56.1->48.4; agree_wgm w0.70"
+ },
+ "420": {
+  "value": 43.219152250440516,
+  "why": "prior speed px 563.5->652.7 on uncut run 0.38-1.29s (border-cut 30%); g 48.3->41.7; agree_wgm w0.70"
+ },
+ "421": {
+  "value": 1.4128193254367343,
+  "why": "prior speed px 563.5->652.7 on uncut run 0.38-1.29s (border-cut 30%); g 1.64->1.41; geo_cawinvalid"
+ },
+ "636": {
+  "value": 3.25550531610598,
+  "why": "prior speed px 440.5->528.4 on uncut run 0.38-1.33s (border-cut 43%); g 3.8->3.17; agree_wgm w0.70"
+ },
+ "637": {
+  "value": 2.955002451129394,
+  "why": "prior speed px 440.5->528.4 on uncut run 0.38-1.33s (border-cut 43%); g 3.71->3.09; agree_wgm w0.70"
+ },
+ "640": {
+  "value": 3.2584416836053474,
+  "why": "prior speed px 441.7->527.8 on uncut run 0.38-1.33s (border-cut 44%); g 3.79->3.17; agree_wgm w0.70"
+ },
+ "641": {
+  "value": 3.1324882788909285,
+  "why": "prior speed px 441.7->527.8 on uncut run 0.38-1.33s (border-cut 44%); g 3.7->3.1; agree_wgm w0.70"
+ },
+ "643": {
+  "value": 0.18125640634020407,
+  "why": "prior speed px 441.7->527.8 on uncut run 0.38-1.33s (border-cut 44%); g 0.217->0.181; dis_geo"
+ },
+ "644": {
+  "value": 0.9113848637528742,
+  "why": "prior speed px 441.7->527.8 on uncut run 0.38-1.33s (border-cut 44%); g 1.09->0.911; dis_geo"
+ },
+ "645": {
+  "value": 1.3911237462863884,
+  "why": "prior speed px 441.7->527.8 on uncut run 0.38-1.33s (border-cut 44%); g 1.82->1.53; agree_wgm w0.70"
+ },
+ "758": {
+  "value": 0.5502854086884171,
+  "why": "prior speed px 121.1->142.0 on uncut run 0.92-2.04s (border-cut 39%); g 0.565->0.482; agree_wgm w0.70"
+ },
+ "759": {
+  "value": 0.6803908754136265,
+  "why": "prior speed px 121.1->142.0 on uncut run 0.92-2.04s (border-cut 39%); g 0.765->0.652; agree_wgm w0.70"
+ },
+ "999": {
+  "value": 15.390396180786565,
+  "why": "prior speed px 294.3->347.3 on uncut run 0.52-2.20s (border-cut 35%); g 17.6->14.9; agree_wgm w0.70"
+ },
+ "1000": {
+  "value": 4.736344413858427,
+  "why": "prior speed px 294.3->347.3 on uncut run 0.52-2.20s (border-cut 35%); g 5.59->4.74; dis_geo"
+ },
+ "1005": {
+  "value": 15.298654046047858,
+  "why": "prior speed px 293.5->347.2 on uncut run 0.52-2.20s (border-cut 35%); g 17.5->14.8; agree_wgm w0.70"
+ },
+ "1006": {
+  "value": 4.641635181085947,
+  "why": "prior speed px 293.5->347.2 on uncut run 0.52-2.20s (border-cut 35%); g 5.49->4.64; dis_geo"
+ },
+ "1009": {
+  "value": 0.3125927402241579,
+  "why": "prior speed px 190.2->204.2 on uncut run 0.67-2.96s (border-cut 22%); g 0.305->0.284; agree_wgm w0.70"
+ },
+ "1033": {
+  "value": 11.704424829276684,
+  "why": "prior speed px 249.5->278.2 on uncut run 0.00-1.96s (border-cut 20%); g 10.7->9.56; agree_wgm w0.70"
+ },
+ "1034": {
+  "value": 3.31966509797723,
+  "why": "prior speed px 249.5->278.2 on uncut run 0.00-1.96s (border-cut 20%); g 3.58->3.21; agree_wgm w0.70"
+ },
+ "1966": {
+  "value": 0.5315835286071368,
+  "why": "prior speed px 121.6->142.1 on uncut run 0.92-2.04s (border-cut 39%); g 0.564->0.482; agree_wgm w0.70"
+ },
+ "1967": {
+  "value": 0.7153125975055691,
+  "why": "prior speed px 121.6->142.1 on uncut run 0.92-2.04s (border-cut 39%); g 0.764->0.653; agree_wgm w0.70"
+ }
+}

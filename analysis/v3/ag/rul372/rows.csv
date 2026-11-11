@@ -1,0 +1,17 @@
+id0,video,cat,question,old,new,kind,P,mra_if_right,mra_if_wrong
+237,simulation_0116,D2,What is the height of he middle yellow door in meters?,2.352,1.87018,two-route,0.8,0.3,-0.3
+251,simulation_0119,D2,What is the diameter of the moving chess piece in meters?,0.05076,0.03963,one-route,0.7,0.3,-0.3
+252,simulation_0119,D2,What is the side length of the chessboard in meters?,0.63513,0.40421,one-route,0.75,0.6,-0.4
+253,simulation_0119,D2,What is the length of the dark grey square tray placed next to the chessboard in meters?,0.38579,0.30117,one-route,0.7,0.3,-0.3
+254,simulation_0119,D2,What is the side length of the table in meters?,0.99494,0.77671,one-route,0.7,0.3,-0.3
+260,simulation_0120,D2,What is the length of the square tray placed next to the chessboard with two art sculptures on it in meters?,0.85854,0.31818,one-route,0.85,1.0,-0.7
+268,simulation_0123,D2,What is the length of the largest towel of the three stacked towels on the sink in meters?,0.39917,0.36903,one-route,0.65,0.1,-0.1
+270,simulation_0124,D2,What is the speed of the grey and red car at 1.0s in m/s?,27.80243,21.35427,two-route,0.85,0.4,-0.3
+302,simulation_0130,D2,What is the length of the white airplane in meters?,47.51117,34.74781,two-route,0.85,0.4,-0.3
+303,simulation_0130,D2,What is the width of the white airplane in meters?,47.51117,34.34841,two-route,0.85,0.4,-0.3
+306,simulation_0130,D2,What is the speed of the white airplane at 1.0s in m/s?,15.75958,11.155,one-route,0.85,0.5,-0.3
+431,simulation_0179,D2,What is the height of the entrance gate (including the frame) in meters?,1.90512,4.12398,one-route,0.75,0.6,-1.0
+1418,simulation_0180,D3,What is the height of the trolley in meters?,0.756,1.216,two-route,0.85,0.4,-0.7
+1419,simulation_0180,D3,What is the height of the entrance gate (including the frame) in meters?,2.2575,4.12398,one-route,0.75,0.5,-0.9
+1835,simulation_0123_segmented,D2,What is the length of the bottom towel of the three stacked towels on the sink in meters?,0.46598,0.36903,one-route,0.85,0.3,-0.3
+1836,simulation_0123_segmented,D2,What is the width of the bottom towel of the three stacked towels on the sink in meters?,0.30476,0.18794,two-route,0.9,0.7,-0.4

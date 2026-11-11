@@ -1,0 +1,10 @@
+split,video,phrase,det,frame,k,idx,score,x0,y0,x1,y1
+test,internet_0054,canopy,owlv2,23,23,0,0.0666,194.1,109.0,582.3,155.9
+test,internet_0054,canopy,owlv2,23,23,1,0.0637,199.1,109.5,587.3,242.0
+test,internet_0054,canopy,owlv2,23,23,2,0.0628,249.1,141.5,547.3,156.8
+test,internet_0054,canopy,owlv2,70,70,0,0.1009,199.1,111.3,583.9,156.9
+test,internet_0054,canopy,owlv2,70,70,1,0.0737,200.8,110.4,588.9,242.8
+test,internet_0054,canopy,owlv2,70,70,2,0.0511,406.8,25.4,419.5,84.6
+test,internet_0054,canopy,owlv2,93,93,0,0.0737,408.5,22.7,421.2,85.6
+test,internet_0054,canopy,owlv2,93,93,1,0.0706,204.1,112.0,592.3,244.5
+test,internet_0054,canopy,owlv2,93,93,2,0.0619,202.4,111.6,590.6,159.9

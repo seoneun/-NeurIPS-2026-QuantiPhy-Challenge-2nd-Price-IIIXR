@@ -1,0 +1,8 @@
+step,input,output,table,line_end
+s37,pred_t019_id1.csv,pred_t022_id1.csv,steps/s37_rul309.csv,crlf
+s38,pred_t022_id1.csv,pred_t080_id1.csv,steps/s38_rul443_allowed2_vrest.csv,lf
+s39,pred_t080_id1.csv,pred_t081_id1.csv,steps/s39_segs2.csv,lf
+s40,pred_t081_id1.csv,pred_t082_id1.csv,steps/s40_r9n.csv,lf
+s41,pred_t082_id1.csv,pred_t083_id1.csv,steps/s41_s2simspd.csv,lf
+s42,pred_t083_id1.csv,pred_t024_id1.csv,steps/s42_r9qpg.csv,lf
+s46,pred_t025_id1.csv,pred_t026_id1.csv,steps/s46_rul410.csv,lf

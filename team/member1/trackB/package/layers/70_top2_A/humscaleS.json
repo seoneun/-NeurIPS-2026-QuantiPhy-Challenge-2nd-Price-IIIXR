@@ -1,0 +1,38 @@
+{
+"3144": {
+"value": 1.7207458534841085,
+"why": "humscaleS: own prior person 3.17 m tall at the row's m/px (r 1.86 vs 1.7 m) -> geo 1.688 (agree); was 1.8 dis_caw_routed"
+},
+"3135": {
+"value": 0.37226277372262767,
+"why": "humscaleS: own prior person 2.60 m tall at the row's m/px (r 1.53 vs 1.7 m) -> geo 0.3723 (geo); was 4.016 geo_route"
+},
+"3136": {
+"value": 0.9719734910783724,
+"why": "humscaleS: own prior person 2.60 m tall at the row's m/px (r 1.53 vs 1.7 m) -> geo 1.057 (agree); was 0.924 geo_route"
+},
+"3146": {
+"value": 2.9739514533695828,
+"why": "humscaleS: own prior person 3.17 m tall at the row's m/px (r 1.86 vs 1.7 m) -> geo 2.963 (agree); was 4.258 agree_wgm"
+},
+"3147": {
+"value": 2.9385714285714286,
+"why": "humscaleS: own prior person 3.17 m tall at the row's m/px (r 1.86 vs 1.7 m) -> geo 2.939 (geo); was 5.396 geo_route"
+},
+"3148": {
+"value": 1.0259167539370975,
+"why": "humscaleS: own prior person 3.17 m tall at the row's m/px (r 1.86 vs 1.7 m) -> geo 0.9957 (agree); was 1.543 agree_wgm"
+},
+"3149": {
+"value": 0.9128815332631809,
+"why": "humscaleS: own prior person 3.17 m tall at the row's m/px (r 1.86 vs 1.7 m) -> geo 0.966 (agree); was 0.8854 geo_route"
+},
+"3141": {
+"value": 0.96227074665656,
+"why": "humscaleS: own prior person 2.60 m tall at the row's m/px (r 1.53 vs 1.7 m) -> geo 0.7956 (agree); was 1.093 geo_route"
+},
+"3142": {
+"value": 0.8562639982364983,
+"why": "humscaleS: own prior person 2.60 m tall at the row's m/px (r 1.53 vs 1.7 m) -> geo 0.819 (agree); was 0.8821 geo_route"
+}
+}

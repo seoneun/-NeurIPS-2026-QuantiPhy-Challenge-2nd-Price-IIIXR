@@ -1,0 +1,126 @@
+{
+"2166": {
+"value": 1.5931729883361183,
+"why": "rmap5 R1 pred_t141 final value (p1 1.57543); last writer agree_gm; "
+},
+"2167": {
+"value": 1.2,
+"why": "rmap5 R1 pred_t141 final value (p1 1.13232); last writer caw_nogeo; "
+},
+"2200": {
+"value": 6.0,
+"why": "rmap5 R1 pred_t141 final value (p1 5.8836); last writer caw_nogeo; "
+},
+"2201": {
+"value": 6.5,
+"why": "rmap5 R1 pred_t141 final value (p1 6.3362); last writer caw_nogeo; "
+},
+"2202": {
+"value": 15.0,
+"why": "rmap5 R1 pred_t141 final value (p1 5.82212); last writer patch:rm5c_X08V2; C25g: answer = own geo 6.697 but own CaW 15 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"2228": {
+"value": 22.46865437566296,
+"why": "rmap5 R1 pred_t141 final value (p1 22.702); last writer agree_gm; "
+},
+"2232": {
+"value": 8.2,
+"why": "rmap5 R1 pred_t141 final value (p1 3.55949); last writer patch:rm5c_X08V2; C25g: answer = own geo 3.559 but own CaW 8.2 differs >2x (broken single-scale ruler) -> own CaW"
+},
+"140": {
+"value": 1.9314887961805691,
+"why": "rmap5 R1 pred_t141 final value (p1 2.08369); last writer patch:h5_wing_B1; wingspan re-measure, plain gm with own CaW when within 2x"
+},
+"144": {
+"value": 12.5,
+"why": "rmap5 R1 pred_t141 final value (p1 11.635); last writer caw_nogeo; "
+},
+"403": {
+"value": 0.3733333333333333,
+"why": "rmap5 R1 pred_t141 final value (p1 0.28); last writer patch:h_rgV4; "
+},
+"513": {
+"value": 0.0004,
+"why": "rmap5 R1 pred_t141 final value (p1 0.00037124); last writer caw_nogeo; "
+},
+"514": {
+"value": 0.00144,
+"why": "rmap5 R1 pred_t141 final value (p1 0.00134294); last writer caw_nogeo; "
+},
+"515": {
+"value": 0.006,
+"why": "rmap5 R1 pred_t141 final value (p1 0.0055644); last writer caw_nogeo; "
+},
+"516": {
+"value": 0.015,
+"why": "rmap5 R1 pred_t141 final value (p1 0.0138975); last writer caw_nogeo; "
+},
+"1091": {
+"value": 1.0049752659112587,
+"why": "rmap5 R1 pred_t141 final value (p1 2.33666); last writer patch:rv0259; "
+},
+"1094": {
+"value": 6.5,
+"why": "rmap5 R1 pred_t141 final value (p1 5.81409); last writer caw_nogeo; "
+},
+"1095": {
+"value": 3.075,
+"why": "rmap5 R1 pred_t141 final value (p1 2.65067); last writer caw_nogeo; "
+},
+"1097": {
+"value": 1.2,
+"why": "rmap5 R1 pred_t141 final value (p1 1.08736); last writer caw_nogeo; "
+},
+"1098": {
+"value": 2.1,
+"why": "rmap5 R1 pred_t141 final value (p1 1.91161); last writer caw_nogeo; "
+},
+"1128": {
+"value": 6.0,
+"why": "rmap5 R1 pred_t141 final value (p1 5.9895); last writer caw_nogeo; "
+},
+"1345": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 5.2163); last writer rul263_caw; "
+},
+"1346": {
+"value": 4.5,
+"why": "rmap5 R1 pred_t141 final value (p1 4.31287); last writer rul263_caw; "
+},
+"1549": {
+"value": 5.0565981026884605,
+"why": "rmap5 R1 pred_t141 final value (p1 4.77019); last writer rul263_degbg_gm; "
+},
+"1550": {
+"value": 2.218933048872003,
+"why": "rmap5 R1 pred_t141 final value (p1 2.02609); last writer rul263_degbg_gm; "
+},
+"2521": {
+"value": 102.38035265610203,
+"why": "rmap5 R1 pred_t141 final value (p1 93.6959); last writer patch:rm5c_rm5c_X16V1; ENDK3v: single-track end speed vs two agreeing own estimates -> equal-weight 3-way log-mean"
+},
+"2607": {
+"value": 43.0,
+"why": "rmap5 R1 pred_t141 final value (p1 42.9441); last writer caw_nogeo; "
+},
+"2718": {
+"value": 16.609072211359965,
+"why": "rmap5 R1 pred_t141 final value (p1 20.2073); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.602W) 15.7->12.5, gm own CaW 22 = 16.6"
+},
+"2915": {
+"value": 18.379241453055663,
+"why": "rmap5 R1 pred_t141 final value (p1 20.1083); last writer patch:cv_labfocal; "
+},
+"3048": {
+"value": 15.954047128850524,
+"why": "rmap5 R1 pred_t141 final value (p1 18.7347); last writer patch:rm5c_X09V1; SPHgV1: lab = phone camera (26mm-eq): geo at f 0.751W (was 0.554W) 15.7->11.6, gm own CaW 22 = 16"
+},
+"3049": {
+"value": 2.42,
+"why": "rmap5 R1 pred_t141 final value (p1 2.33699); last writer caw_nogeo; "
+},
+"3051": {
+"value": 0.64,
+"why": "rmap5 R1 pred_t141 final value (p1 0.595136); last writer caw_nogeo; "
+}
+}

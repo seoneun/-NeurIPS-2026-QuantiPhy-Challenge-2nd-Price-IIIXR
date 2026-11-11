@@ -1,0 +1,125 @@
+{
+ "model": "models/sam2.1-hiera-large (transformers Sam2Model, multimask_output=False)",
+ "frames": {
+  "simulation_0221|0": {
+   "box": [
+    599.0,
+    37.0,
+    717.0,
+    99.0
+   ],
+   "rows": 62,
+   "bottom_w": 77.0,
+   "top_w": 88.0,
+   "area": 5174
+  },
+  "simulation_0221|20": {
+   "box": [
+    600.0,
+    37.0,
+    718.0,
+    99.0
+   ],
+   "rows": 62,
+   "bottom_w": 76.0,
+   "top_w": 89.0,
+   "area": 5164
+  },
+  "simulation_0221|40": {
+   "box": [
+    600.0,
+    37.0,
+    717.0,
+    100.0
+   ],
+   "rows": 62,
+   "bottom_w": 76.0,
+   "top_w": 88.0,
+   "area": 5166
+  },
+  "simulation_0221|60": {
+   "box": [
+    600.0,
+    38.0,
+    717.0,
+    99.0
+   ],
+   "rows": 62,
+   "bottom_w": 76.0,
+   "top_w": 88.0,
+   "area": 5152
+  },
+  "simulation_0221|79": {
+   "box": [
+    600.0,
+    37.0,
+    717.0,
+    100.0
+   ],
+   "rows": 62,
+   "bottom_w": 76.0,
+   "top_w": 88.0,
+   "area": 5151
+  },
+  "simulation_0222|0": {
+   "box": [
+    599.0,
+    37.0,
+    717.0,
+    99.0
+   ],
+   "rows": 61,
+   "bottom_w": 75.0,
+   "top_w": 89.0,
+   "area": 5128
+  },
+  "simulation_0222|20": {
+   "box": [
+    600.0,
+    37.0,
+    718.0,
+    99.0
+   ],
+   "rows": 61,
+   "bottom_w": 75.0,
+   "top_w": 90.0,
+   "area": 5139
+  },
+  "simulation_0222|40": {
+   "box": [
+    600.0,
+    37.0,
+    717.0,
+    100.0
+   ],
+   "rows": 61,
+   "bottom_w": 76.0,
+   "top_w": 89.0,
+   "area": 5130
+  },
+  "simulation_0222|60": {
+   "box": [
+    600.0,
+    38.0,
+    717.0,
+    99.0
+   ],
+   "rows": 61,
+   "bottom_w": 75.0,
+   "top_w": 89.0,
+   "area": 5116
+  },
+  "simulation_0222|79": {
+   "box": [
+    600.0,
+    37.0,
+    717.0,
+    100.0
+   ],
+   "rows": 61,
+   "bottom_w": 75.0,
+   "top_w": 89.0,
+   "area": 5125
+  }
+ }
+}

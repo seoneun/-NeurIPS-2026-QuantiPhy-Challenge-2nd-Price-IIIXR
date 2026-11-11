@@ -1,0 +1,830 @@
+{
+"1057": {
+"value": 6.682077789823335,
+"why": "rmap6 S1 pred_t142 final value (rS5 6.68545); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1058": {
+"value": 3.858668213218228,
+"why": "rmap6 S1 pred_t142 final value (rS5 3.85984); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1059": {
+"value": 1.5901167793296562,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.59054); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1060": {
+"value": 11.281412064966673,
+"why": "rmap6 S1 pred_t142 final value (rS5 11.2848); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1061": {
+"value": 0.8373700758172751,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.837622); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1062": {
+"value": 1.7450392862453008,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.74556); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1065": {
+"value": 0.8930827764912623,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.908388); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1066": {
+"value": 3.8894826249363876,
+"why": "rmap6 S1 pred_t142 final value (rS5 3.96332); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1067": {
+"value": 1.748003434774353,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.77951); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1068": {
+"value": 15.22600043325203,
+"why": "rmap6 S1 pred_t142 final value (rS5 15.5168); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1071": {
+"value": 3.3038583195466376,
+"why": "rmap6 S1 pred_t142 final value (rS5 3.36378); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1152": {
+"value": 1.7041677454229291,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.72862); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 1.729 (rul263_degbg_gm) -> plain gm(own geo 1.679, own CaW 1.73) = 1.704"
+},
+"1294": {
+"value": 2.0119471840050487,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.02525); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1295": {
+"value": 5.197853765778612,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.23222); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1296": {
+"value": 4.761825597102443,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.7937); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1297": {
+"value": 1.6932632496919953,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.70458); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1298": {
+"value": 1.9230826647539805,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.93594); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1299": {
+"value": 0.6523442120852145,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.6568); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1301": {
+"value": 8.998133014259787,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.05955); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1303": {
+"value": 1.8578284545715429,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.86938); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1304": {
+"value": 4.980938962950542,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.04046); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1305": {
+"value": 5.165926884728897,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.01397); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1307": {
+"value": 2.568778349196109,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.50602); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1308": {
+"value": 2.3196808530499946,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.263); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1309": {
+"value": 5.076050298034643,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.96545); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1310": {
+"value": 1.838994561017019,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.79479); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1311": {
+"value": 1.9031915989533184,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.85807); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1312": {
+"value": 0.5693636353792106,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.555189); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1315": {
+"value": 1.999654749971242,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.95014); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1316": {
+"value": 5.48646493092756,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.47057); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1317": {
+"value": 4.95169586445885,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.64188); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1319": {
+"value": 2.547538386537409,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.38855); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1320": {
+"value": 2.4555786188319138,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.30235); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1321": {
+"value": 5.168969482061267,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.83586); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1322": {
+"value": 1.893621254025765,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.77398); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1323": {
+"value": 2.094221232613537,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.97044); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1326": {
+"value": 1.5012581211655365,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34505); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1327": {
+"value": 1.6777086579166502,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.57019); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1328": {
+"value": 5.388521364194779,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.32286); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1414": {
+"value": 37.79418092971523,
+"why": "rmap6 S1 pred_t142 final value (rS5 37.8004); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1518": {
+"value": 1.7629534640360762,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.64422); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1521": {
+"value": 6.00476131271257,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.90445); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1522": {
+"value": 4.1338031107483655,
+"why": "rmap6 S1 pred_t142 final value (rS5 3.89404); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1523": {
+"value": 9.90607107014023,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.63038); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1524": {
+"value": 4.745711148844889,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.41742); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1536": {
+"value": 9.534108399643506,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.44723); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1540": {
+"value": 2.1255732733321033,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.12637); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1543": {
+"value": 4.502309615842691,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.50365); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1633": {
+"value": 2.6058184625930867,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.38246); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 2.382 (rul263_degbg_gm) -> plain gm(own geo 2.102, own CaW 3.23) = 2.606"
+},
+"1655": {
+"value": 1.2689389138368765,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.33087); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 1.331 (rul263_degbg_gm) -> plain gm(own geo 1.61, own CaW 1) = 1.269"
+},
+"1657": {
+"value": 0.8459911855079092,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.826176); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 0.8262 (rul263_degbg_gm) -> plain gm(own geo 0.6627, own CaW 1.08) = 0.846"
+},
+"1712": {
+"value": 0.44792711652886685,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.463792); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"1729": {
+"value": 1.7735319916575294,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.81478); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 1.815 (rul263_degbg_gm) -> plain gm(own geo 1.85, own CaW 1.7) = 1.774"
+},
+"1735": {
+"value": 1.5958227315771705,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.60944); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 1.609 (rul263_degbg_gm) -> plain gm(own geo 1.455, own CaW 1.75) = 1.596"
+},
+"1764": {
+"value": 5.661000703344515,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.72356); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 5.724 (rul263_degbg_gm) -> plain gm(own geo 7.122, own CaW 4.5) = 5.661"
+},
+"1771": {
+"value": 1.9363577523207347,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.95288); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 1.953 (rul263_degbg_gm) -> plain gm(own geo 2.143, own CaW 1.75) = 1.936"
+},
+"2011": {
+"value": 10.77488051604352,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.5441); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2149": {
+"value": 127.72005970868491,
+"why": "rmap6 S1 pred_t142 final value (rS5 127.258); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2150": {
+"value": 16.032660673977567,
+"why": "rmap6 S1 pred_t142 final value (rS5 17.0872); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2151": {
+"value": 9.97505679415133,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.6311); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2152": {
+"value": 2.5839929065598373,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.63415); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2153": {
+"value": 34.26714195655682,
+"why": "rmap6 S1 pred_t142 final value (rS5 34.4135); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2155": {
+"value": 16.725977483965075,
+"why": "rmap6 S1 pred_t142 final value (rS5 16.9364); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2156": {
+"value": 8.999282368390006,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.11026); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2157": {
+"value": 2.6472434547745585,
+"why": "rmap6 S1 pred_t142 final value (rS5 2.65859); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2158": {
+"value": 34.40503180633341,
+"why": "rmap6 S1 pred_t142 final value (rS5 34.4389); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2175": {
+"value": 99.1960871263089,
+"why": "rmap6 S1 pred_t142 final value (rS5 99.6481); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2190": {
+"value": 32.70428405675252,
+"why": "rmap6 S1 pred_t142 final value (rS5 100); last writer patch:gap_PENDV1; PEND: own depth key 'ball' oscillates, fixed-T sine fit T=1.210s A=0.258m fitq=0.0014; L=g(T/K)^2/4pi^2 (g=9.8 own prior) = 0.3270 m"
+},
+"2191": {
+"value": 6.177458679459016,
+"why": "rmap6 S1 pred_t142 final value (rS5 6.22176); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2192": {
+"value": 1.4154221581427444,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34053); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> speed sqrt(2gL(cos th-cos th0)) = 1.4154 SI"
+},
+"2193": {
+"value": 0.8431990705567312,
+"why": "rmap6 S1 pred_t142 final value (rS5 0.388333); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> speed sqrt(2gL(cos th-cos th0)) = 0.8432 SI"
+},
+"2194": {
+"value": 7.150581237226875,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.8); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> accel hypot(g sin th, v^2/L) = 7.1506 SI"
+},
+"2195": {
+"value": 7.0927538269569865,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.63); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> accel hypot(g sin th, v^2/L) = 7.0928 SI"
+},
+"2196": {
+"value": 32.70428405675252,
+"why": "rmap6 S1 pred_t142 final value (rS5 87.4493); last writer patch:gap_PENDV1; PEND: own depth key 'ball' oscillates, fixed-T sine fit T=1.210s A=0.258m fitq=0.0014; L=g(T/K)^2/4pi^2 (g=9.8 own prior) = 0.3270 m"
+},
+"2198": {
+"value": 1.4154221581427444,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34053); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> speed sqrt(2gL(cos th-cos th0)) = 1.4154 SI"
+},
+"2199": {
+"value": 0.8431990705567312,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34053); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> speed sqrt(2gL(cos th-cos th0)) = 0.8432 SI"
+},
+"2200": {
+"value": 7.150581237226875,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.1); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> accel hypot(g sin th, v^2/L) = 7.1506 SI"
+},
+"2201": {
+"value": 7.0927538269569865,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.80665); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> accel hypot(g sin th, v^2/L) = 7.0928 SI"
+},
+"2202": {
+"value": 32.70428405675252,
+"why": "rmap6 S1 pred_t142 final value (rS5 46.2565); last writer patch:gap_PENDV1; PEND: own depth key 'ball' oscillates, fixed-T sine fit T=1.210s A=0.258m fitq=0.0014; L=g(T/K)^2/4pi^2 (g=9.8 own prior) = 0.3270 m"
+},
+"2204": {
+"value": 1.4154221581427444,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34053); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> speed sqrt(2gL(cos th-cos th0)) = 1.4154 SI"
+},
+"2205": {
+"value": 0.8431990705567312,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.34053); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> speed sqrt(2gL(cos th-cos th0)) = 0.8432 SI"
+},
+"2206": {
+"value": 7.150581237226875,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.8); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.3 x=+0.123m theta=22.1deg -> accel hypot(g sin th, v^2/L) = 7.1506 SI"
+},
+"2207": {
+"value": 7.0927538269569865,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.80665); last writer patch:gap_PENDV1; PEND: own depth key 'ball' T=1.210s A=0.258m L=0.3270m theta0=52.1deg; t=0.6 x=-0.225m theta=-43.5deg -> accel hypot(g sin th, v^2/L) = 7.0928 SI"
+},
+"2208": {
+"value": 12.52389969912106,
+"why": "rmap6 S1 pred_t142 final value (rS5 13.1843); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2209": {
+"value": 11.06375029455133,
+"why": "rmap6 S1 pred_t142 final value (rS5 11.6415); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2210": {
+"value": 8.206725706235202,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.63951); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2212": {
+"value": 45.92445679093162,
+"why": "rmap6 S1 pred_t142 final value (rS5 48.2925); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2213": {
+"value": 35.273709962122545,
+"why": "rmap6 S1 pred_t142 final value (rS5 37.1623); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2214": {
+"value": 7.716895389979196,
+"why": "rmap6 S1 pred_t142 final value (rS5 7.73971); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2216": {
+"value": 11.412476578681785,
+"why": "rmap6 S1 pred_t142 final value (rS5 12.2776); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2217": {
+"value": 10.351693937912515,
+"why": "rmap6 S1 pred_t142 final value (rS5 11.1312); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2218": {
+"value": 7.527713379891436,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.09846); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2220": {
+"value": 32.79358301071219,
+"why": "rmap6 S1 pred_t142 final value (rS5 35.2403); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2221": {
+"value": 28.714190306448373,
+"why": "rmap6 S1 pred_t142 final value (rS5 30.9145); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2224": {
+"value": 11.90906209034704,
+"why": "rmap6 S1 pred_t142 final value (rS5 12.832); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2225": {
+"value": 12.195588831799256,
+"why": "rmap6 S1 pred_t142 final value (rS5 13.1357); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2226": {
+"value": 7.924866587606435,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.53906); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2228": {
+"value": 50.69400729073013,
+"why": "rmap6 S1 pred_t142 final value (rS5 54.5456); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2254": {
+"value": 8.036552299169339,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.23546); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2256": {
+"value": 13.400814750497107,
+"why": "rmap6 S1 pred_t142 final value (rS5 13.7299); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2257": {
+"value": 16.021146516660465,
+"why": "rmap6 S1 pred_t142 final value (rS5 16.4091); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2258": {
+"value": 16.149562407985616,
+"why": "rmap6 S1 pred_t142 final value (rS5 16.5669); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2259": {
+"value": 14.444809245484215,
+"why": "rmap6 S1 pred_t142 final value (rS5 14.8181); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2268": {
+"value": 41.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 48.1989); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoulder breadth of the person'): own geo box = the person, not the part -> own CaW read 41"
+},
+"2273": {
+"value": 40.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 49.5669); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoulder breadth of the person'): own geo box = the person, not the part -> own CaW read 40"
+},
+"2278": {
+"value": 40.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 46.4656); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoulder breadth of the person'): own geo box = the person, not the part -> own CaW read 40"
+},
+"2282": {
+"value": 2.001978393302916,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.97259); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2283": {
+"value": 125.45418437240654,
+"why": "rmap6 S1 pred_t142 final value (rS5 120.29); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2286": {
+"value": 1.9630909904367895,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.9833); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2287": {
+"value": 98.50080707644261,
+"why": "rmap6 S1 pred_t142 final value (rS5 101.728); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2290": {
+"value": 1.9740161620770251,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.9556); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2291": {
+"value": 115.71776182018972,
+"why": "rmap6 S1 pred_t142 final value (rS5 114.422); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2292": {
+"value": 145.95255617690339,
+"why": "rmap6 S1 pred_t142 final value (rS5 152.696); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2293": {
+"value": 176.49358618172343,
+"why": "rmap6 S1 pred_t142 final value (rS5 183.931); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2300": {
+"value": 30.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 63.3461); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoe length of the left person'): own geo box = the person, not the part -> own CaW read 30"
+},
+"2307": {
+"value": 104.22020810175071,
+"why": "rmap6 S1 pred_t142 final value (rS5 114.707); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2308": {
+"value": 81.70782854450765,
+"why": "rmap6 S1 pred_t142 final value (rS5 90.0143); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2310": {
+"value": 37.26607204306235,
+"why": "rmap6 S1 pred_t142 final value (rS5 40.6608); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2319": {
+"value": 30.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 48.5021); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoe length of the left person'): own geo box = the person, not the part -> own CaW read 30"
+},
+"2326": {
+"value": 65.23419437802048,
+"why": "rmap6 S1 pred_t142 final value (rS5 65.5741); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2329": {
+"value": 23.828203831303394,
+"why": "rmap6 S1 pred_t142 final value (rS5 23.9483); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2338": {
+"value": 30.0,
+"why": "rmap6 S1 pred_t142 final value (rS5 49.2313); last writer patch:gap_PARTV1; PART: target is a body part of a person ('shoe length of the left person'): own geo box = the person, not the part -> own CaW read 30"
+},
+"2345": {
+"value": 70.1729683063685,
+"why": "rmap6 S1 pred_t142 final value (rS5 67.2343); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2348": {
+"value": 26.000457940165592,
+"why": "rmap6 S1 pred_t142 final value (rS5 24.9506); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2350": {
+"value": 11.548244132933005,
+"why": "rmap6 S1 pred_t142 final value (rS5 11.2668); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2351": {
+"value": 9.309653282118363,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.08746); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2356": {
+"value": 83.63510753015848,
+"why": "rmap6 S1 pred_t142 final value (rS5 82.9273); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2358": {
+"value": 9.38089834255972,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.39383); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2364": {
+"value": 45.90594080654571,
+"why": "rmap6 S1 pred_t142 final value (rS5 43.2104); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2366": {
+"value": 11.83322362161309,
+"why": "rmap6 S1 pred_t142 final value (rS5 11.1579); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2367": {
+"value": 9.300842987477777,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.74076); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2406": {
+"value": 86.36901813578288,
+"why": "rmap6 S1 pred_t142 final value (rS5 86.372); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2408": {
+"value": 22.970489247093575,
+"why": "rmap6 S1 pred_t142 final value (rS5 24.627); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2409": {
+"value": 18.711350899102204,
+"why": "rmap6 S1 pred_t142 final value (rS5 20.0607); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2413": {
+"value": 45.39329758850292,
+"why": "rmap6 S1 pred_t142 final value (rS5 48.5513); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2414": {
+"value": 23.699018875490697,
+"why": "rmap6 S1 pred_t142 final value (rS5 23.7028); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2415": {
+"value": 109.34351035622453,
+"why": "rmap6 S1 pred_t142 final value (rS5 109.343); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2417": {
+"value": 21.028716584464064,
+"why": "rmap6 S1 pred_t142 final value (rS5 21.0787); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2418": {
+"value": 17.552634733133388,
+"why": "rmap6 S1 pred_t142 final value (rS5 17.5944); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2420": {
+"value": 29.390920133645047,
+"why": "rmap6 S1 pred_t142 final value (rS5 29.4608); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2422": {
+"value": 45.104305016868445,
+"why": "rmap6 S1 pred_t142 final value (rS5 45.2093); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2423": {
+"value": 23.766663593303484,
+"why": "rmap6 S1 pred_t142 final value (rS5 23.7668); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2424": {
+"value": 86.36278908749057,
+"why": "rmap6 S1 pred_t142 final value (rS5 86.3629); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2426": {
+"value": 23.88232644199878,
+"why": "rmap6 S1 pred_t142 final value (rS5 24.175); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2427": {
+"value": 18.27030598650616,
+"why": "rmap6 S1 pred_t142 final value (rS5 18.4942); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2429": {
+"value": 29.20130749786418,
+"why": "rmap6 S1 pred_t142 final value (rS5 29.5593); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2431": {
+"value": 41.19781863020345,
+"why": "rmap6 S1 pred_t142 final value (rS5 41.6899); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2432": {
+"value": 23.767714172927338,
+"why": "rmap6 S1 pred_t142 final value (rS5 23.7682); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2435": {
+"value": 17.538379309311924,
+"why": "rmap6 S1 pred_t142 final value (rS5 18.2158); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2436": {
+"value": 9.499854521045659,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.86678); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2438": {
+"value": 38.31296268489991,
+"why": "rmap6 S1 pred_t142 final value (rS5 39.8455); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2440": {
+"value": 71.72440235915846,
+"why": "rmap6 S1 pred_t142 final value (rS5 74.4561); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2441": {
+"value": 41.54229265133399,
+"why": "rmap6 S1 pred_t142 final value (rS5 43.1315); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2445": {
+"value": 16.86244432295722,
+"why": "rmap6 S1 pred_t142 final value (rS5 17.3355); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2446": {
+"value": 10.200361143483503,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.486); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2447": {
+"value": 3.931926025652843,
+"why": "rmap6 S1 pred_t142 final value (rS5 4.04142); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2450": {
+"value": 67.52474035760021,
+"why": "rmap6 S1 pred_t142 final value (rS5 69.3589); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2451": {
+"value": 40.538929672612134,
+"why": "rmap6 S1 pred_t142 final value (rS5 41.6418); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2455": {
+"value": 24.912531231110588,
+"why": "rmap6 S1 pred_t142 final value (rS5 25.875); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2456": {
+"value": 13.860176461354238,
+"why": "rmap6 S1 pred_t142 final value (rS5 14.3956); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2457": {
+"value": 5.462621491139723,
+"why": "rmap6 S1 pred_t142 final value (rS5 5.67366); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2460": {
+"value": 70.93512431369439,
+"why": "rmap6 S1 pred_t142 final value (rS5 73.5778); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2461": {
+"value": 41.029157855305996,
+"why": "rmap6 S1 pred_t142 final value (rS5 42.5577); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2590": {
+"value": 25.96918847628276,
+"why": "rmap6 S1 pred_t142 final value (rS5 27.2375); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2591": {
+"value": 29.216043760432765,
+"why": "rmap6 S1 pred_t142 final value (rS5 30.6532); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2593": {
+"value": 20.049366725388168,
+"why": "rmap6 S1 pred_t142 final value (rS5 20.5772); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2595": {
+"value": 64.97847035323565,
+"why": "rmap6 S1 pred_t142 final value (rS5 65.2837); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2600": {
+"value": 17.534510183373406,
+"why": "rmap6 S1 pred_t142 final value (rS5 17.3766); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2602": {
+"value": 62.138803341714464,
+"why": "rmap6 S1 pred_t142 final value (rS5 61.9641); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2605": {
+"value": 31.655915861641773,
+"why": "rmap6 S1 pred_t142 final value (rS5 26.5451); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2607": {
+"value": 19.49320337259708,
+"why": "rmap6 S1 pred_t142 final value (rS5 17.7313); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2609": {
+"value": 63.53999401033404,
+"why": "rmap6 S1 pred_t142 final value (rS5 61.5312); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2698": {
+"value": 11.466442315432593,
+"why": "rmap6 S1 pred_t142 final value (rS5 12.6361); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 10.41; answer 12.64 -> gm 11.47"
+},
+"2700": {
+"value": 8.38417613678008,
+"why": "rmap6 S1 pred_t142 final value (rS5 9.2); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.641; answer 9.2 -> gm 8.384"
+},
+"2704": {
+"value": 20.912338598149717,
+"why": "rmap6 S1 pred_t142 final value (rS5 23.0559); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 18.97; answer 23.06 -> gm 20.91"
+},
+"2705": {
+"value": 11.520957889040035,
+"why": "rmap6 S1 pred_t142 final value (rS5 12.6962); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 10.45; answer 12.7 -> gm 11.52"
+},
+"2707": {
+"value": 8.970761456410322,
+"why": "rmap6 S1 pred_t142 final value (rS5 10); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 8.047; answer 10 -> gm 8.971"
+},
+"2711": {
+"value": 20.454857599173113,
+"why": "rmap6 S1 pred_t142 final value (rS5 22.3702); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 18.7; answer 22.37 -> gm 20.45"
+},
+"2714": {
+"value": 8.12277996689333,
+"why": "rmap6 S1 pred_t142 final value (rS5 10); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 6.598; answer 10 -> gm 8.123"
+},
+"2718": {
+"value": 18.574757838130328,
+"why": "rmap6 S1 pred_t142 final value (rS5 22.1498); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 15.58; answer 22.15 -> gm 18.57"
+},
+"2719": {
+"value": 10.146126063136824,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.9273); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 9.421; answer 10.93 -> gm 10.15"
+},
+"2721": {
+"value": 8.738766916773011,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.5); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.273; answer 10.5 -> gm 8.739"
+},
+"2725": {
+"value": 19.397315333210475,
+"why": "rmap6 S1 pred_t142 final value (rS5 21.4755); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 17.52; answer 21.48 -> gm 19.4"
+},
+"2728": {
+"value": 9.098494660652882,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.5); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.884; answer 10.5 -> gm 9.098"
+},
+"2732": {
+"value": 20.05775587748609,
+"why": "rmap6 S1 pred_t142 final value (rS5 21.3683); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 18.83; answer 21.37 -> gm 20.06"
+},
+"2735": {
+"value": 8.388963667559374,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.5); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 6.702; answer 10.5 -> gm 8.389"
+},
+"2739": {
+"value": 18.565760910807416,
+"why": "rmap6 S1 pred_t142 final value (rS5 21.3683); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 16.13; answer 21.37 -> gm 18.57"
+},
+"2740": {
+"value": 10.24585227846753,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.0079); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 10.49; answer 10.01 -> gm 10.25"
+},
+"2742": {
+"value": 8.921999076862997,
+"why": "rmap6 S1 pred_t142 final value (rS5 11); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.237; answer 11 -> gm 8.922"
+},
+"2745": {
+"value": 7.864429602523032,
+"why": "rmap6 S1 pred_t142 final value (rS5 6.82561); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 9.061; answer 6.826 -> gm 7.864"
+},
+"2746": {
+"value": 12.374718721226598,
+"why": "rmap6 S1 pred_t142 final value (rS5 12.2836); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 12.47; answer 12.28 -> gm 12.37"
+},
+"2750": {
+"value": 8.927344949191397,
+"why": "rmap6 S1 pred_t142 final value (rS5 10.5); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.59; answer 10.5 -> gm 8.927"
+},
+"2753": {
+"value": 8.337267280658006,
+"why": "rmap6 S1 pred_t142 final value (rS5 7.00399); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 9.924; answer 7.004 -> gm 8.337"
+},
+"2754": {
+"value": 12.76342749347568,
+"why": "rmap6 S1 pred_t142 final value (rS5 13.1243); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 12.41; answer 13.12 -> gm 12.76"
+},
+"2758": {
+"value": 8.931238422685054,
+"why": "rmap6 S1 pred_t142 final value (rS5 11); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 7.252; answer 11 -> gm 8.931"
+},
+"2761": {
+"value": 9.413590910615959,
+"why": "rmap6 S1 pred_t142 final value (rS5 8.49368); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 10.43; answer 8.494 -> gm 9.414"
+},
+"2762": {
+"value": 12.70249026006981,
+"why": "rmap6 S1 pred_t142 final value (rS5 13.124); last writer patch:rm6_ru; rm6_ru RU1: own prior object as ruler on own v3 boxes (px ratio x own depth-text distance ratio x prior size) = 12.29; answer 13.12 -> gm 12.7"
+},
+"2782": {
+"value": 1.453663923492471,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.48519); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2789": {
+"value": 1.132177795736527,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.13873); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2791": {
+"value": 42.1081690856318,
+"why": "rmap6 S1 pred_t142 final value (rS5 43.6587); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 43.66 (rul263_degbg_gm) -> plain gm(own geo 44.33, own CaW 40) = 42.11"
+},
+"2798": {
+"value": 1.246789517160768,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.19356); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2799": {
+"value": 36.97447469610693,
+"why": "rmap6 S1 pred_t142 final value (rS5 35.088); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2804": {
+"value": 1.3320866524551809,
+"why": "rmap6 S1 pred_t142 final value (rS5 1.25075); last writer patch:rm6_d3gpu; D3GPU V2: own 3D focal = gm(MoGe-2, UniDepthV2-L), own row re-measured in its fold sandbox; answer re-derived by its own fusion"
+},
+"2933": {
+"value": 29.175622062345834,
+"why": "rmap6 S1 pred_t142 final value (rS5 31.5775); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 31.58 (rul263_degbg_gm) -> plain gm(own geo 24.32, own CaW 35) = 29.18"
+},
+"2937": {
+"value": 26.80432405118431,
+"why": "rmap6 S1 pred_t142 final value (rS5 27.9962); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 28 (rul263_degbg_gm) -> plain gm(own geo 21.77, own CaW 33) = 26.8"
+},
+"2940": {
+"value": 38.07659297317242,
+"why": "rmap6 S1 pred_t142 final value (rS5 36.9727); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 36.97 (rul263_degbg_gm) -> plain gm(own geo 41.42, own CaW 35) = 38.08"
+},
+"2941": {
+"value": 28.670945140996654,
+"why": "rmap6 S1 pred_t142 final value (rS5 27.7886); last writer patch:rm6_ws; rm6_ws: own mixed-input base answer 27.79 (rul263_degbg_gm) -> plain gm(own geo 24.91, own CaW 33) = 28.67"
+}
+}

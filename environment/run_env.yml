@@ -1,0 +1,14 @@
+name: qp-trackb-run
+channels:
+  - defaults
+dependencies:
+  - python=3.13.9=h7e8bc2b_100_cp313
+  - numpy=2.3.5=py313h08c6c3d_0
+  - numpy-base=2.3.5=py313h00548fb_0
+  - scipy=1.16.3=py313h33bc11c_0
+  - mkl=2025.0.0=hacee8c2_941
+  - pandas=2.3.3=py313h23c847b_1
+  - pyarrow=21.0.0=py313h23c847b_0
+  - pip
+  - pip:
+      - opencv-python==4.13.0.92

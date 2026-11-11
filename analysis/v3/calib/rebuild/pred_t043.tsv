@@ -1,0 +1,4 @@
+name	pred_t043
+base	pred_t042
+block	claimA	S2+D2	rows:analysis/v3/calib/pred_t012_rows.csv#claimA
+block	rul345	S3	json:patches/ag_rul345_patch_test.json

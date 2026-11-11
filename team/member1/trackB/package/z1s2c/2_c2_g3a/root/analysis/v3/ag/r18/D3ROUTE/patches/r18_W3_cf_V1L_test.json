@@ -1,0 +1,30 @@
+{
+"2197": {
+"value": 7.0,
+"before": 3.0,
+"video_id": "captured_0010s",
+"cat": "D3",
+"question": "What is the ball's diameter in cm?"
+},
+"2349": {
+"value": 21.0,
+"before": 23.0,
+"video_id": "captured_0020",
+"cat": "D3",
+"question": "What is the height of the yellow toy in cm?"
+},
+"2357": {
+"value": 15.0,
+"before": 10.0,
+"video_id": "captured_0020s",
+"cat": "D3",
+"question": "What is the height of the yellow toy in cm?"
+},
+"2808": {
+"value": 11.0,
+"before": 10.0,
+"video_id": "captured_0053",
+"cat": "D3",
+"question": "What is the diameter of the rim of the white cup in cm? "
+}
+}

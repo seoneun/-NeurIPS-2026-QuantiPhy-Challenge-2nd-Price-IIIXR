@@ -1,0 +1,26 @@
+split,video,phrase,det,frame,k,idx,score,x0,y0,x1,y1
+test,internet_0048,wall pad,owlv2,0,0,0,0.1225,3.5,185.4,22.8,204.5
+test,internet_0048,wall pad,owlv2,0,0,1,0.1037,48.3,71.6,818.0,364.9
+test,internet_0048,wall pad,owlv2,27,27,0,0.0888,45.0,68.3,814.7,361.5
+test,internet_0048,wall pad,owlv2,27,27,1,0.0685,1.0,180.6,20.3,199.3
+test,internet_0048,wall pad,owlv2,54,54,0,0.1422,38.3,66.6,811.3,356.5
+test,internet_0048,wall pad,owlv2,54,54,1,0.1303,586.7,191.4,626.1,231.8
+test,internet_0048,wall pad,owlv2,54,54,2,0.0656,0.2,174.7,15.5,193.5
+test,internet_0048,wall pad,owlv2,54,54,3,0.055,422.3,68.3,517.3,351.5
+test,internet_0048,wall pad,owlv2,54,54,4,0.0503,518.3,69.1,614.6,355.7
+test,internet_0048,wall pad,owlv2,81,81,0,0.1931,36.7,58.3,799.7,354.9
+test,internet_0048,wall pad,owlv2,81,81,1,0.1385,0.0,170.7,10.5,189.1
+test,internet_0048,wall pad,owlv2,81,81,2,0.0876,29.8,62.5,128.5,352.4
+test,internet_0048,wall pad,owlv2,81,81,3,0.0792,1.7,349.0,844.7,374.0
+test,internet_0048,wall pad,owlv2,81,81,4,0.0792,328.0,64.1,421.7,347.4
+test,internet_0048,wall pad,owlv2,81,81,5,0.0726,128.9,60.8,227.6,350.7
+test,internet_0048,wall pad,owlv2,81,81,6,0.0706,513.8,64.1,612.5,350.7
+test,internet_0048,wall pad,owlv2,81,81,7,0.0601,708.5,61.6,810.9,351.5
+test,internet_0048,wall pad,owlv2,108,108,0,0.2254,28.3,56.6,804.7,349.9
+test,internet_0048,wall pad,owlv2,108,108,1,0.1624,223.2,60.0,416.5,346.5
+test,internet_0048,wall pad,owlv2,108,108,2,0.1052,514.4,62.5,611.8,349.0
+test,internet_0048,wall pad,owlv2,108,108,3,0.1037,127.2,58.3,227.6,348.2
+test,internet_0048,wall pad,owlv2,108,108,4,0.1023,0.1,167.5,8.1,185.7
+test,internet_0048,wall pad,owlv2,108,108,5,0.0995,417.8,60.0,515.2,346.5
+test,internet_0048,wall pad,owlv2,108,108,6,0.0953,27.7,56.6,126.4,346.5
+test,internet_0048,wall pad,owlv2,108,108,7,0.0927,0.0,345.5,843.0,370.9

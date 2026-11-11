@@ -1,0 +1,595 @@
+id,cat,tag,base_y1s,b17,video,q,rule,g_own,c_own,taint,own_files,keep
+1,S2,R4:agree_wgm,1.5278247951425394,1.5322937052842336,simulation_0007,What is the width of the wooden pier in meters?,agree_wgm,False,True,False,False,False
+2,S2,R4:agree_wgm,5.837732129469198,5.777048492903561,simulation_0007,What is the length of the pier in meters?,agree_wgm,False,True,False,False,False
+20,D2,R4:agree_wgm,5.078328519874662,5.077979461850847,simulation_0053,What is the length of the orange car in meters?,agree_wgm,False,True,False,False,False
+22,D2,R4:agree_geo_kind,8.307544561527353,8.347339452866533,simulation_0053,What is the distance between the two black lamps in meters?,agree_geo_kind,False,True,False,False,False
+24,D2,R2:rul276,11.856100746850062,11.86274084164081,simulation_0054,What is the speed of the green car at 2.0s in m/s?,rul276,True,True,False,False,False
+25,D2,R4:agree_wgm,5.07476681316097,5.077255903897948,simulation_0054,What is the length of the orange car in meters?,agree_wgm,False,True,False,False,False
+27,D2,R4:agree_geo_kind,8.775259360826663,8.780393800267051,simulation_0054,What is the distance between the two black lamps in meters?,agree_geo_kind,False,True,False,False,False
+28,D2,R4:dis_geo,2.021977402118824,2.004607647152909,simulation_0054,What is the width of the orange car in meters?,dis_geo,False,True,False,False,False
+35,D2,R4:dis_geo,2.015833880145468,2.018113325847645,simulation_0068,What is the width of the turning yellow car in meters?,dis_geo,False,True,False,False,False
+36,D2,R4:agree_wgm,2.1756988087262097,2.1710613930516103,simulation_0068,What is the width of the white car in meters?,agree_wgm,False,True,False,False,False
+39,D2,R4:dis_geo,2.178914464945822,2.172282493355271,simulation_0069,What is the width of the white car in meters?,dis_geo,False,True,False,False,False
+42,S2,R4:agree_wgm,2.026072172402047,2.0268702305319435,simulation_0070,What is the width of the turning yellow car in meters?,agree_wgm,False,True,False,False,False
+45,S2,R4:agree_wgm,2.027930748041156,2.0284583965520646,simulation_0071,What is the width of the turning yellow car in meters?,agree_wgm,False,True,False,False,False
+48,D2,R4:agree_wgm,2.185634419470492,2.229717919727141,simulation_0073,What is the width of the white car in meters?,agree_wgm,True,True,False,False,True
+50,D2,R4:agree_geo_kind,5.872224000626978,5.990664754456915,simulation_0073,What is the distance between the white car and the bicycle at 1.0s in ,agree_geo_kind,True,True,False,False,True
+51,D2,R4:agree_geo_kind,5.061539680365432,5.163629208152283,simulation_0073,What is the  distance between the white car and the bicycle at 2.0s in,agree_geo_kind,True,True,False,False,True
+54,D2,R4:dis_geo,11.997,4.286199760663655,simulation_0073,What is the speed of the white car at 1.0s in m/s?,dis_geo,True,True,False,False,True
+57,S2,R2:rul275,4.107600225058983,4.109270638205163,simulation_0075,What is the speed of the turing yellow car at 2.5s in m/s?,rul275,False,True,False,False,False
+58,S2,R4:agree_wgm,2.0471713655826447,2.0512067040794952,simulation_0075,What is the width of the turning yellow car in meters?,agree_wgm,False,True,False,False,False
+81,S2,R2:rul275,5.335493334901938,5.338443480698466,simulation_0080,What is the speed of the bike at 0.5s in m/s?,rul275,False,True,False,False,False
+88,S2,R4:agree_wgm,2.293015220421112,2.3084523535681614,simulation_0082,What is the width of the yellow car in meters?,agree_wgm,False,True,False,False,False
+90,S2,R4:agree_wgm,2.0,2.3504242145421284,simulation_0082,What is the width of the black and white car in meters?,agree_wgm,False,True,False,False,False
+118,D2,R4:agree_wgm,5.603470588455192,5.6079013110637055,simulation_0086,What is the length of the car in meters?,agree_wgm,False,True,False,False,False
+119,D2,R4:agree_wgm,2.38074916193433,2.3826316451151497,simulation_0086,What is the width of the car in meters?,agree_wgm,False,True,False,False,False
+150,S2,R4:agree_wgm,1.5,1.9220341468467248,simulation_0092,What is the height of the car in meters?,agree_wgm,True,True,False,False,True
+161,D2,R4:agree_wgm,2.085337107421417,2.085927287105924,simulation_0094,What is the height of the car in meters?,agree_wgm,False,True,False,False,False
+166,D2,R4:agree_wgm,1.8517865517433143,1.851124080047235,simulation_0095,What is the height of the car in meters?,agree_wgm,False,True,False,False,False
+171,D2,R4:agree_wgm,1.893301214134237,1.910494832615878,simulation_0096,What is the height of the car in meters?,agree_wgm,False,True,False,False,False
+176,D2,R4:agree_wgm,1.8980613397172128,1.89772945045171,simulation_0097,What is the height of the car in meters?,agree_wgm,False,True,False,False,False
+187,S2,R4:dis_geo,5.107376700112608,5.144960397824018,simulation_0100,What is the speed of the boat at 1.0s in m/s?,dis_geo,False,True,False,False,False
+203,D2,R4:dis_geo,4.879855101903153,4.900242847111473,simulation_0103,What is the speed of the boat at 1.0s in m/s?,dis_geo,False,True,False,True,False
+207,D2,R4:dis_geo,16.010064655560925,14.69718218928771,simulation_0103,What is the distance between the shark and the boat at 0.5s in meters?,dis_geo,True,True,False,True,True
+217,D2,R4:agree_geo_kind,7.042764944975432,7.042704993534003,simulation_0106,What is the distance between two viruses at 2.0s in meters?,agree_geo_kind,False,True,False,False,False
+239,D2,R4:agree_wgm,0.8338960014438382,0.8323714521597534,simulation_0116,What is the width of the middle yellow door in meters?,agree_wgm,False,True,False,False,False
+241,D2,R4:geo_cawinvalid,0.0658809234956138,0.065880255617007,simulation_0117,What is the diameter of the ball in meters?,geo_cawinvalid,False,True,False,False,False
+242,D2,R4:agree_wgm,2.270300966955761,2.279528774710972,simulation_0117,What is the height of the door in meters?,agree_wgm,False,True,False,False,False
+243,D2,R4:agree_wgm,1.1041352536449134,1.1056025119851578,simulation_0117,What is the width of the door in meters?,agree_wgm,False,True,False,False,False
+244,D2,R4:agree_wgm,0.2915413810025157,0.2919287531646203,simulation_0117,What is the length of the electronic lock in meters?,agree_wgm,False,False,False,False,False
+245,D2,R4:dis_geo,0.12960000000000002,0.0621125006733234,simulation_0117,What is the width of the electronic lock in meters?,dis_geo,False,False,False,False,False
+246,D2,R4:kin,0.25,0.2500733317085901,simulation_0118,What is the total displacement of the toy car in meters?,kin,True,False,False,False,False
+256,D2,R4:agree_gm,0.078013764160979,0.0559761854124888,simulation_0119,What is the distance moved by the chess piece in meters?,agree_gm,False,True,False,False,False
+265,D2,R4:agree_wgm,0.0773402455958524,0.0772734048983455,simulation_0123,What is the length of the blue rolling cup in meters?,agree_wgm,True,True,False,False,True
+266,D2,R2:rul062,0.044194426054772806,0.0474188271838312,simulation_0123,What is the diameter of the blue rolling cup in meters?,rul062,True,True,False,False,False
+267,D2,R4:dis_geo,0.1125006285585022,0.1124034007772238,simulation_0123,What is the length of the green toothbrush lying on the sink in meters,dis_geo,True,True,False,False,True
+268,D2,R2:rul062,0.044194426054772806,0.0441562313704831,simulation_0123,What is the diameter of the blue cup with the blue toothbrush in meter,rul062,True,True,False,False,False
+270,D2,R4:dis_geo,0.1878263107327844,0.1876639833245534,simulation_0123,What is the width of the largest towel of the three stacked towels on ,dis_geo,True,True,False,False,True
+272,D2,R4:agree_gm,5.423093544725325,4.866269930246438,simulation_0124,What is the length of the grey and red car in meters?,agree_gm,False,True,False,False,False
+273,D2,R4:agree_gm,2.198932343607728,2.0514807841366194,simulation_0124,What is the width of the grey and red car in meters?,agree_gm,False,True,False,False,False
+274,D2,R4:agree_wgm,4.881193537293106,4.851113205538692,simulation_0124,What is the length of the black car in meters?,agree_wgm,False,True,False,False,False
+275,D2,R4:agree_wgm,2.056252820008317,2.045091140747721,simulation_0124,What is the width of the black car in meters?,agree_wgm,False,True,False,False,False
+278,D2,R4:agree_wgm,1.3683985445360904,1.354810562667175,simulation_0125,What is the height of the potted plant in meters?,agree_wgm,False,False,False,False,False
+279,D2,R4:agree_wgm,8.367426186857616,8.12886337600305,simulation_0125,What is the height of the house in meters?,agree_wgm,False,True,False,False,False
+280,D2,R4:agree_wgm,7.03348867880785,6.895379132380697,simulation_0125,What is the width of the house in meters?,agree_wgm,False,True,False,False,False
+281,D2,R4:agree_wgm,1.8796392158883048,1.880557945194736,simulation_0125,What is the height of the person in meters?,agree_wgm,False,True,False,False,False
+285,S2,R4:dis_geo,0.4814576090998734,0.4445520544034415,simulation_0126,What is the horizontal distance between the two handles in meters?,dis_geo,False,True,False,False,False
+301,D2,R2:rul424,4.387411863639118,4.6339894600405,simulation_0130,What is the length of the car in meters?,rul424,True,True,False,False,False
+302,D2,R2:rul424,2.193705931819559,2.269530789614465,simulation_0130,What is the width of the car in meters?,rul424,True,True,False,False,False
+303,D2,R4:agree_gm,46.631724843034775,47.511173916903,simulation_0130,What is the length of the white airplane in meters?,agree_gm,True,True,False,False,True
+304,D2,R4:agree_gm,46.631724843034775,47.511173916903,simulation_0130,What is the width of the white airplane in meters?,agree_gm,True,True,False,False,True
+308,D2,R4:dis_geo,14.485313412923931,14.477351736350975,simulation_0131,What is the width of the hot air balloon in meters?,dis_geo,True,True,False,True,True
+309,D2,R4:dis_geo,19.597206636299248,19.586435269707184,simulation_0131,What is the height of the hot air balloon in meters?,dis_geo,True,True,False,True,True
+311,D2,R4:dis_geo,0.0974173155165486,0.0974095021377899,simulation_0132,What is the diameter of the apple in meters?,dis_geo,False,True,False,False,False
+315,D2,R4:agree_wgm,0.0951558691094172,0.0963445710573025,simulation_0133,What is the diameter of the apple in meters?,agree_wgm,False,True,False,False,False
+321,S2,R4:agree_wgm,0.2191633655822354,0.2690806451612904,simulation_0134,"What is the length of the toaster, in meters?",agree_wgm,False,True,False,False,False
+323,S2,R4:caw_nogeo,9.80665,9.8,simulation_0134,"What is the acceleration of the bread slice at time1.75 s, in m/s^2?",caw_nogeo,True,True,False,False,True
+332,D2,R4:agree_wgm,6.531275673329884,6.530315997962062,simulation_0137,What is the length of the house in meters?,agree_wgm,False,True,False,False,False
+333,D2,R4:agree_wgm,3.517893636542828,3.5175241438174294,simulation_0137,What is the height of the house in meters?,agree_wgm,False,True,False,False,False
+335,D2,R4:agree_wgm,1.7722267240364202,1.781364059718752,simulation_0142,What is the height of the man in meters?,agree_wgm,False,True,False,False,False
+337,D2,R4:agree_gm,0.486,1.09234562924774,simulation_0142,What is the side length of the floor tile in meters?,agree_gm,False,True,False,False,False
+364,D2,R4:agree_wgm,1.5747304981308612,1.681056744704894,simulation_0158,What is the length of the turtle in meters?,agree_wgm,False,True,False,False,False
+365,D2,R4:kin,2.6046444228727674,2.639,simulation_0158,What is the speed of the turtle at time 1s in m/s?,kin,False,True,False,False,False
+382,S2,R4:dis_geo,0.3734145026939902,0.3858239365598694,simulation_0163,What is the acceleration of the ball at time 0.5s in m/s^2?,dis_geo,False,True,False,False,False
+384,S2,R4:dis_geo,0.3570099835374491,0.3804230240070678,simulation_0163,What is the acceleration of the ball at time 1s in m/s^2?,dis_geo,False,True,False,False,False
+388,D2,R4:agree_wgm,1.859988238691204,1.82660635063649,simulation_0165,What is the length of the bike in meters?,agree_wgm,False,True,False,False,False
+389,D2,R4:agree_wgm,0.7489542892785022,0.7559075224707202,simulation_0166,What is the diameter of the bike's wheel in meters?,agree_wgm,True,True,False,False,True
+391,D2,R4:agree_wgm,1.807558874004161,1.87673591785834,simulation_0166,What is the length of the bike in meters?,agree_wgm,False,True,False,False,False
+392,D2,R4:agree_wgm,4.960799350119766,5.003139806112988,simulation_0166,What is the length of the police car in meters?,agree_wgm,False,True,False,False,False
+393,D2,R4:agree_wgm,0.7747802992536229,0.7819732991076416,simulation_0166,What is the diameter of the police car's tire in meters?,agree_wgm,True,True,False,False,True
+397,D2,R4:agree_wgm,4.721102551619564,4.7206524464682245,simulation_0167,What is the length of the police car in meters?,agree_wgm,False,True,False,False,False
+398,D2,R4:agree_wgm,1.9391893245550205,1.9397280804903176,simulation_0167,What is the width of the police car in meters?,agree_wgm,False,True,False,False,False
+424,D2,R4:kin,3.500666666666666,3.4722445491745586,simulation_0177,What is the displacement of the elephant in meters?,kin,True,True,False,True,True
+426,D2,R4:agree_wgm,3.050298789519928,3.1066746884315326,simulation_0178,What is the height of the big elephant in meters?,agree_wgm,False,True,False,False,False
+428,D2,R4:kin,5.6861250000000005,5.677566841695061,simulation_0178,What is the displacement of the big elephant in meters?,kin,False,False,False,False,False
+430,D2,R4:agree_wgm,1.2167707643199657,1.2155201517109349,simulation_0179,What is the length of the trolley in meters?,agree_wgm,False,True,False,False,False
+431,D2,R4:agree_wgm,1.2109384398832663,1.215909391614957,simulation_0179,What is the height of the trolley in meters?,agree_wgm,False,True,False,False,False
+442,D2,R2:rul276,2.1316398062523354,2.14690659779681,simulation_0183,What is the speed of the box at time 1s in m/s?,rul276,True,True,False,True,True
+443,D2,R2:rul276,2.9172966771434075,2.920317940533741,simulation_0183,What is the speed of the box at time 1.5s in m/s?,rul276,True,True,False,True,True
+447,D2,R2:rul276,3.292936460268331,3.30366993709112,simulation_0185,What is the speed of the box at time 1s in m/s?,rul276,True,True,False,True,True
+473,D2,R4:agree_wgm,1.052391729233828,1.141309741057078,simulation_0192,What is the height of the box in meters?,agree_wgm,False,True,False,False,False
+478,D2,R2:rul256,0.13810113657671186,0.1387338456454158,simulation_0193,What is the diameter of the model of Callisto(the outermost planet) in,rul256,True,True,False,False,False
+481,D2,R2:orbit,1.2416325541269513,1.2478009548302154,simulation_0193,What is the speed of the model of Europa at 1s in m/s?,orbit,False,True,False,False,False
+483,D2,R2:rul256,0.13810113657671186,0.1387338456454158,simulation_0193,What is the diameter of the model of Io in meters?,rul256,True,True,False,False,False
+500,S2,R1:rul312,0.01499985,0.0076244,simulation_0197,What is the diameter of the bottle's neck in meters?,rul312,True,True,False,False,False
+501,S2,R1:rul312,0.0269417134540075,0.0120976,simulation_0197,What is the diameter of the bottle's body in meters?,rul312,True,True,False,False,False
+531,D2,R2:rul424,2.639218216483556,2.3047588676722297,simulation_0203,What is the length of the table in meters?,rul424,False,True,False,False,False
+532,D2,R2:rul424,0.3987423549194349,0.421978770166399,simulation_0203,What is the length of the typewriter in meters?,rul424,False,True,False,False,False
+533,D2,R2:rul424,0.2342676843844953,0.2845653868909049,simulation_0203,What is the height of the typewriter in meters?,rul424,False,True,False,False,False
+534,D2,R2:rul424,0.0616406062921169,0.1663880359314087,simulation_0203,What is the width of the paper next to the magnifying glass in meters?,rul424,False,True,False,False,False
+535,D2,R2:rul424,0.1551403321924076,0.2397431125831715,simulation_0203,What is the length of the letter placed under the gun in meters?,rul424,False,False,False,False,False
+538,D2,R4:kin,3.260421802977584,3.2634000000000003,simulation_0203,What is the speed of the magnifying glass at time 0.333s in m/s?,kin,True,True,False,False,True
+539,D2,R4:agree_wgm,2.6450282860519567,2.647089309816099,simulation_0204,What is the length of the table in meters?,agree_wgm,False,True,False,False,False
+542,D2,R4:agree_wgm,0.2398667984421594,0.2130350939694842,simulation_0204,What is the length of the letter placed under the gun in meters?,agree_wgm,False,True,False,False,False
+545,D2,R4:kin,3.261547169514332,3.2634000000000003,simulation_0204,What is the speed of the magnifying glass at time 0.333s in m/s?,kin,False,True,False,False,False
+546,D2,R4:agree_wgm,2.678843745775043,2.6868012736612004,simulation_0207,What is the length of the table in meters?,agree_wgm,False,True,False,False,False
+550,D2,R4:agree_gm,0.2866547987806939,0.2866845510232138,simulation_0207,What is the length of the letter placed under the gun in meters?,agree_gm,False,True,False,False,False
+554,D2,R4:dis_geo,2.690743358757892,2.694731680511253,simulation_0208,What is the length of the table in meters?,dis_geo,False,True,False,False,False
+555,D2,R4:agree_wgm,0.4031372855862748,0.4038487772842802,simulation_0208,What is the length of the typewriter in meters?,agree_wgm,False,True,False,False,False
+556,D2,R4:agree_wgm,0.232140472426095,0.2356379720626432,simulation_0208,What is the height of the typewriter in meters?,agree_wgm,False,True,False,False,False
+561,D2,R4:agree_wgm,0.6844695193724238,0.6950864659509753,simulation_0210,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+562,D2,R4:agree_wgm,0.4799806105260017,0.4869781992666621,simulation_0210,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+563,D2,R4:agree_wgm,0.9989442691368992,1.013507776530665,simulation_0210,What is the length of the wooden bench in meters?,agree_wgm,False,True,False,False,False
+564,D2,R4:agree_wgm,0.4629254619286311,0.4696744053840904,simulation_0210,What is the height of the wooden bench in meters?,agree_wgm,False,True,False,False,False
+565,D2,R4:agree_wgm,0.2427292966019962,0.2521409965746169,simulation_0210,What is the height of the lampshade of the table lamp in meters?,agree_wgm,False,True,False,False,False
+567,D2,R4:agree_wgm,0.6287089394034284,0.6377684031005016,simulation_0210,What is the height of the table lamp in meters?,agree_wgm,False,True,False,False,False
+568,D2,R4:agree_wgm,0.4748983937830577,0.4746183464933966,simulation_0210,What is the height of the vase in meters?,agree_wgm,False,True,False,False,False
+571,D2,R4:agree_wgm,0.7181112526932331,0.7177618008147956,simulation_0213,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+572,D2,R4:agree_wgm,0.5050164834582234,0.5045652591521428,simulation_0213,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+573,D2,R4:agree_wgm,1.1339952236266762,1.060880801294249,simulation_0213,What is the length of the wooden bench in meters?,agree_wgm,False,True,False,False,False
+574,D2,R4:agree_wgm,0.5255099816806548,0.4916276884046519,simulation_0213,What is the height of the wooden bench in meters?,agree_wgm,False,True,False,False,False
+575,D2,R4:agree_wgm,0.2708209206647526,0.2535763866508205,simulation_0213,What is the height of the lampshade of the table lamp in meters?,agree_wgm,False,False,False,False,False
+577,D2,R4:agree_wgm,0.7080555542644612,0.662403622271531,simulation_0213,What is the height of the table lamp in meters?,agree_wgm,False,True,False,False,False
+578,D2,R4:agree_wgm,0.4972469990973276,0.4968027167036483,simulation_0213,What is the height of the vase in meters?,agree_wgm,False,True,False,False,False
+579,D2,R4:agree_wgm,1.336351310074068,1.335157301141055,simulation_0213,What is the height of the floor mirror in meters?,agree_wgm,False,True,False,False,False
+580,D2,R4:dis_geo,0.6273542480295348,0.6267937168498485,simulation_0213,What is the width of the floor mirror in meters?,dis_geo,False,True,False,False,False
+581,D2,R4:agree_gm,1.4481095913394582,1.1482613308195389,simulation_0213,What is the speed of the dog at time 1s in m/s?,agree_gm,False,True,False,False,False
+582,D2,R4:agree_gm,0.9638212719195256,1.0016067113254756,simulation_0213,What is the speed of the dog at time 1.5s in m/s?,agree_gm,False,True,False,False,False
+584,D2,R4:agree_wgm,0.6604556143556665,0.6649911364210292,simulation_0213,What is the height of the dog (including its tail) in meters?,agree_wgm,False,True,False,False,False
+585,D2,R4:agree_wgm,0.6829060402588494,0.6923245115166964,simulation_0214,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+586,D2,R4:agree_wgm,1.0303266879609467,1.0304366650854984,simulation_0214,What is the length of the wooden bench in meters?,agree_wgm,False,False,False,False,False
+587,D2,R4:dis_geo,0.4169415886069492,0.4186148951909837,simulation_0214,What is the width of the wooden bench in meters?,dis_geo,False,False,False,False,False
+588,D2,R4:agree_wgm,1.9892987425181203,1.9884207521571728,simulation_0214,What is the length of the TV stand in meters?,agree_wgm,False,True,False,False,False
+591,D2,R4:dis_geo,0.4785327840943255,0.4783508925637791,simulation_0214,What is the width of the floor mirror in meters?,dis_geo,False,True,False,False,False
+592,D2,R4:agree_gm,0.9804376449381385,1.013165372325891,simulation_0214,What is the speed of the dog at time 1s in m/s?,agree_gm,False,False,False,False,False
+593,D2,R4:agree_gm,0.9417254758239458,0.9243677155703044,simulation_0214,What is the speed of the dog at time 1.5s in m/s?,agree_gm,False,True,False,False,False
+594,D2,R4:agree_wgm,0.9053237183237696,0.9112171323641096,simulation_0214,What is the length of the dog (including its tail) in meters?,agree_wgm,False,False,False,False,False
+596,D2,R4:agree_wgm,3.151296738027765,3.155712286824339,simulation_0214,What is the length of the white sofa in meters?,agree_wgm,False,True,False,False,False
+598,D2,R4:agree_wgm,0.6892069144700356,0.6976917835200338,simulation_0215,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+599,D2,R4:agree_wgm,1.0505617746928726,1.0385139005654072,simulation_0215,What is the length of the wooden bench in meters?,agree_wgm,False,False,False,False,False
+600,D2,R4:dis_geo,0.4267906583506181,0.4218962604983979,simulation_0215,What is the width of the wooden bench in meters?,dis_geo,False,False,False,False,False
+601,D2,R4:agree_wgm,1.9828468452740096,2.004007531393623,simulation_0215,What is the length of the TV stand in meters?,agree_wgm,False,True,False,False,False
+602,D2,R4:dis_geo,0.5298295214092495,0.5354837938136806,simulation_0215,What is the width of the TV stand in meters?,dis_geo,False,True,False,False,False
+603,D2,R2:rul424,0.48433566817021545,0.5125726916226768,simulation_0215,What is the diameter of the lampshade of the table lamp in meters?,rul424,True,True,False,False,False
+605,D2,R4:dis_geo,0.4768380988575659,0.4819158353802275,simulation_0215,What is the width of the floor mirror in meters?,dis_geo,False,True,False,False,False
+607,D2,R4:agree_wgm,3.1533360711804823,3.1814715443068247,simulation_0215,What is the length of the white sofa in meters?,agree_wgm,False,True,False,False,False
+609,D2,R4:agree_wgm,0.6264537273925973,0.6261025596152532,simulation_0216,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+610,D2,R4:agree_wgm,0.4718899587374577,0.4722689050760098,simulation_0216,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+611,D2,R4:agree_wgm,0.9853648342632056,0.9975475852115718,simulation_0216,What is the length of the wooden bench in meters?,agree_wgm,False,True,False,False,False
+613,D2,R4:dis_geo,0.2356178492291911,0.2313153820780456,simulation_0216,What is the height of the lampshade of the table lamp in meters?,dis_geo,False,False,False,False,False
+615,D2,R4:agree_wgm,0.6231949813817913,0.6216600893347477,simulation_0216,What is the height of the table lamp in meters?,agree_wgm,False,True,False,False,False
+616,D2,R4:agree_wgm,0.4670747550768714,0.4674498346160505,simulation_0216,What is the height of the vase in meters?,agree_wgm,False,True,False,False,False
+617,D2,R4:agree_wgm,1.223375663795381,1.238501108209536,simulation_0216,What is the height of the floor mirror in meters?,agree_wgm,False,True,False,False,False
+618,D2,R4:agree_wgm,1.241999604449485,1.2573553095983208,simulation_0216,What is the length of the floor mirror in meters?,agree_wgm,False,True,False,False,False
+619,D2,R4:agree_wgm,0.8502505172340719,0.848156400952834,simulation_0216,What is the length of the TV in meters?,agree_wgm,False,False,False,False,False
+620,D2,R4:agree_wgm,0.4927588224879279,0.5397358915154398,simulation_0216,What is the height of the TV in meters?,agree_wgm,False,False,False,False,False
+623,D2,R4:agree_wgm,0.68907712174859,0.6834553627653972,simulation_0217,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+624,D2,R4:caw_nogeo,0.9333917391687376,1.0530000000000002,simulation_0217,What is the length of the TV in meters?,caw_nogeo,True,True,False,False,True
+625,D2,R4:agree_wgm,1.0262816102422705,1.020768759760283,simulation_0217,What is the length of the wooden bench in meters?,agree_wgm,False,False,False,False,False
+626,D2,R4:dis_geo,0.4169268926913302,0.4179525519459602,simulation_0217,What is the width of the wooden bench in meters?,dis_geo,False,False,False,False,False
+627,D2,R4:dis_geo,0.4249447798983055,0.530478316839649,simulation_0217,What is the width of the TV stand in meters?,dis_geo,False,True,False,False,False
+628,D2,R4:agree_wgm,0.5325506990171145,0.5319862160154764,simulation_0217,What is the diameter of the lampshade of the table lamp in meters?,agree_wgm,False,True,False,False,False
+629,D2,R2:rul424,0.2671200771437022,0.2642276910071247,simulation_0217,What is the diameter of the vase in meters?,rul424,True,True,False,False,False
+631,D2,R4:agree_gm,0.9930089499956206,1.075415563039436,simulation_0217,What is the speed of the dog at time 1s in m/s?,agree_gm,False,True,False,False,False
+633,D2,R4:agree_wgm,0.6841814094582503,0.91583185466751,simulation_0217,What is the length of the dog (including its tail) in meters?,agree_wgm,False,False,False,False,False
+659,S2,R2:rul275,1.119961674197465,1.0907079579749468,simulation_0221,What is the speed of the vacuum cleaner at time 0.5s in m/s?,rul275,True,True,False,False,False
+660,S2,R2:rul275,1.5508113523355291,2.021021723136767,simulation_0221,What is the acceleration of the vacuum cleaner at time 0.5s in m/s^2?,rul275,True,True,False,False,False
+664,S2,R2:rul275,0.740620823994757,0.626163475952823,simulation_0221,What is the acceleration of the vacuum cleaner at time 2s in m/s^2?,rul275,True,True,False,False,False
+675,S2,R2:rul275,1.1169756293946775,1.0848996144883791,simulation_0222,What is the speed of the vacuum cleaner at time 0.5s in m/s?,rul275,True,True,False,False,False
+676,S2,R2:rul275,2.107048048343672,2.027238117821405,simulation_0222,What is the acceleration of the vacuum cleaner at time 0.5s in m/s^2?,rul275,True,True,False,False,False
+680,S2,R2:rul275,0.9126559583704502,0.9508457743711016,simulation_0222,What is the acceleration of the vacuum cleaner at time 2s in m/s^2?,rul275,True,True,False,False,False
+681,S2,R4:agree_wgm,0.7910212963649205,1.1657155946430406,simulation_0223,What is the length(horizontal) of the chinese chess board in meters?,agree_wgm,False,True,False,False,False
+682,S2,R4:agree_wgm,0.7172765617370606,1.0570391436125104,simulation_0223,What is the width(vertical) of the chinese chess board in meters?,agree_wgm,False,True,False,False,False
+683,S2,R2:rul275,0.3798663672676435,0.2175127183191576,simulation_0223,What is the speed of the moving red general chess at time 0.5s in m/s?,rul275,False,False,False,False,False
+696,D2,R4:agree_wgm,0.8494094955298045,0.843661096216358,simulation_0225,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+697,D2,R4:agree_wgm,0.6057970060761044,0.6040292354795929,simulation_0225,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+698,D2,R4:agree_wgm,1.3061596343333493,1.3146518654555843,simulation_0225,What is the width of the beach chair in meters?,agree_wgm,False,True,False,False,False
+700,D2,R4:agree_wgm,0.8540874738042195,0.8514607653224757,simulation_0226,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+701,D2,R4:agree_wgm,1.5836205243453234,1.596488934979642,simulation_0226,What is the width of the beach chair in meters?,agree_wgm,False,True,False,False,False
+702,D2,R1:rul434,0.486,1.1121953,simulation_0226,What is the width of the pool tiles (horizontal side) in meters?,rul434,True,True,False,False,False
+703,D2,R4:agree_wgm,0.8434836587839787,0.846642914780423,simulation_0227,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+704,D2,R4:agree_wgm,0.6082646917232624,0.6075788942400703,simulation_0227,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+705,D2,R4:agree_wgm,1.3221980192740388,1.322377593346035,simulation_0227,What is the width of the beach chair in meters?,agree_wgm,False,True,False,False,False
+707,D2,R4:agree_wgm,1.3617675826407096,1.3757545639595583,simulation_0227,What is the length of the swimming ring in meters?,agree_wgm,False,False,False,False,False
+708,D2,R4:agree_wgm,1.0347380106072868,1.0543280811812985,simulation_0227,What is the height of the swimming ring in meters?,agree_wgm,False,True,False,False,False
+709,D2,R4:dis_geo,1.805766076624556,1.824602918052312,simulation_0227,What is the speed of the swimming ring at time 0.5s in m/s?,dis_geo,False,True,False,False,False
+710,D2,R4:agree_wgm,0.8502270735035323,0.8515620993379369,simulation_0228,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+711,D2,R4:dis_geo,0.7788222479441669,1.626481855571589,simulation_0228,What is the width of the beach chair in meters?,dis_geo,False,False,False,False,False
+720,S2,R2:rul275,5.956482655199356,5.965187905526321,simulation_0229,What is the speed of the paper airplane at time 1s in m/s?,rul275,False,True,False,False,False
+721,S2,R4:dis_geo,7.778691572630419,7.782101504892242,simulation_0229,What is the acceleration of the paper airplane at time 1s in m/s^2?,dis_geo,False,True,False,False,False
+722,S2,R2:rul275,5.199986277001207,5.19731736696686,simulation_0229,What is the speed of the paper airplane at time 1.25s in m/s?,rul275,False,True,False,False,False
+723,S2,R4:dis_geo,5.928562075196518,5.938635132527285,simulation_0229,What is the acceleration of the paper airplane at time 1.25s in m/s^2?,dis_geo,False,True,False,False,False
+726,S2,R4:agree_wgm,0.7738576236956914,0.7742998352553542,simulation_0230,What is the width of the orange chair next to the blackboard in meters,agree_wgm,False,True,False,False,False
+736,D2,R4:agree_wgm,1.4874497626372474,1.4872244348642305,simulation_0231,What is the height of the chalkboard in meters?,agree_wgm,False,True,False,False,False
+740,D2,R4:dis_geo,5.436755573509407,5.492375453905269,simulation_0231,What is the speed of the paper airplane at time 1s in m/s?,dis_geo,False,True,False,False,False
+741,D2,R4:dis_geo,7.098513112303569,7.168241275769242,simulation_0231,What is the acceleration of the paper airplane at time 1s in m/s^2?,dis_geo,False,True,False,False,False
+742,D2,R4:dis_geo,4.746416291440877,4.798454710728294,simulation_0231,What is the speed of the paper airplane at time 1.25s in m/s?,dis_geo,False,True,False,False,False
+743,D2,R4:dis_geo,5.459925929546642,5.492730792499374,simulation_0231,What is the acceleration of the paper airplane at time 1.25s in m/s^2?,dis_geo,False,True,False,False,False
+744,D2,R4:agree_wgm,0.6571658965803444,0.663636391894366,simulation_0231,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+745,D2,R4:agree_wgm,0.4815204501482416,0.4856243052617895,simulation_0231,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+747,D2,R4:agree_wgm,0.3686640946447475,0.3718061087160575,simulation_0231,What is the diameter of the clock in meters?,agree_wgm,False,True,False,False,False
+748,D2,R4:agree_wgm,0.6091533222975292,0.6046610253922061,simulation_0232,What is the width of the chair next to the blackboard in meters?,agree_wgm,False,True,False,False,False
+750,D2,R1:rul217,2.1870000000000003,2.6059326,simulation_0232,What is the ceiling height of the room in meters?,rul217,True,True,False,False,False
+755,D2,R4:agree_wgm,0.6701164075313171,0.6700202193431628,simulation_0232,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+756,D2,R4:agree_wgm,0.4659441725557688,0.4636027276249982,simulation_0232,What is the height of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+757,D2,R4:agree_wgm,0.3624010230989313,0.3605798992638875,simulation_0232,What is the diameter of the clock in meters?,agree_wgm,False,True,False,False,False
+758,D2,R4:agree_wgm,0.8718360876339101,0.8647139204542066,simulation_0233,What is the length of the black cat (including its tail) in meters?,agree_wgm,False,True,False,False,False
+761,S2,R4:agree_wgm,1.310470588235294,1.3127437986248212,simulation_0234,What is the length of the white basketball backboard in meters?,agree_wgm,False,True,False,False,False
+762,S2,R4:agree_wgm,0.7796470588235294,0.7809994751312227,simulation_0234,What is the height of the white basketball backboard in meters?,agree_wgm,False,True,False,False,False
+764,S2,R4:dis_geo,1.0028047365584989,1.0054456511108345,simulation_0234,What is the speed of the basketball at time 0.5s in m/s?,dis_geo,False,False,False,False,False
+765,S2,R4:dis_geo,2.0244437845787715,2.025450666942844,simulation_0234,What is the acceleration of the basketball at time 0.5s in m/s^2?,dis_geo,False,True,False,False,False
+766,S2,R4:dis_geo,0.9994648547993606,1.0017704059486,simulation_0234,What is the speed of the basketball at time 1.5s in m/s?,dis_geo,False,False,False,False,False
+767,S2,R4:dis_geo,1.868851343239636,1.872843532700016,simulation_0234,What is the acceleration of the basketball at time 1.5s in m/s^2?,dis_geo,False,True,False,False,False
+772,S2,R4:dis_geo,1.0089657887005763,1.0104431674730376,simulation_0235,What is the speed of the basketball at time 0.5s in m/s?,dis_geo,False,True,False,False,False
+773,S2,R4:dis_geo,2.0247194220784137,2.016275632600689,simulation_0235,What is the acceleration of the basketball at time 0.5s in m/s^2?,dis_geo,False,True,False,False,False
+774,S2,R4:dis_geo,1.0076677678004118,1.0073486827469162,simulation_0235,What is the speed of the basketball at time 1.5s in m/s?,dis_geo,False,True,False,False,False
+775,S2,R4:dis_geo,1.8584841192903767,1.856025272927574,simulation_0235,What is the acceleration of the basketball at time 1.5s in m/s^2?,dis_geo,False,True,False,False,False
+776,D2,R4:agree_wgm,1.7888282250941845,1.753076240998621,simulation_0236,What is the height of the brown horse in meters?,agree_wgm,False,True,False,False,False
+777,D2,R4:agree_wgm,2.095875623918009,2.059255365701819,simulation_0236,What is the length of the brown horse in meters?,agree_wgm,False,False,False,False,False
+778,D2,R4:agree_wgm,8.685710185471375,8.714567400906187,simulation_0236,What is the height of the house in meters?,agree_wgm,False,True,False,False,False
+779,D2,R4:agree_wgm,8.00199538953048,8.028581045732814,simulation_0236,What is the width of the house in meters?,agree_wgm,False,True,False,False,False
+780,D2,R4:agree_wgm,1.2481875338699415,1.244938200129455,simulation_0236,What is the height of each glass window in meters?,agree_wgm,False,True,False,False,False
+783,D2,R4:agree_wgm,9.972551893159112,9.96200439001667,simulation_0237,What is the width of the house in meters?,agree_wgm,False,True,False,False,False
+784,D2,R4:agree_wgm,11.126533287160592,11.114765271704956,simulation_0237,What is the length of the house in meters?,agree_wgm,False,True,False,False,False
+817,D2,R4:dis_geo,2.758968903778127,2.750208390636596,simulation_0243,What is the height of the antelope in meters?,dis_geo,False,True,False,False,False
+818,D2,R4:agree_wgm,3.018675395552368,3.2372987582342647,simulation_0243,What is the length of the antelope in meters?,agree_wgm,False,True,False,False,False
+820,D2,R4:agree_wgm,2.736677382090628,2.694143914866594,simulation_0244,What is the height of the antelope in meters?,agree_wgm,False,True,False,False,False
+821,D2,R4:agree_wgm,3.2299007029871203,3.175732814607677,simulation_0244,What is the length of the antelope in meters?,agree_wgm,False,True,False,False,False
+822,D2,R4:agree_wgm,6.53596760740599,6.536611465577965,simulation_0244,What is the height of the tree on the left in meters?,agree_wgm,False,True,False,False,False
+823,D2,R4:agree_geo_kind,1.3084190371764586,1.2871767858951877,simulation_0244,What is the speed of the rabbit in m/s?,agree_geo_kind,False,True,False,False,False
+824,D2,R4:agree_wgm,0.3739205960946172,0.3680524473861467,simulation_0244,What is the height of the rabbit in meters?,agree_wgm,False,True,False,False,False
+825,D2,R4:agree_wgm,0.4636615391573254,0.4563850347588219,simulation_0244,What is the length of the rabbit in meters?,agree_wgm,False,True,False,False,False
+826,D2,R4:agree_wgm,2.7450384861999253,2.727296155367468,simulation_0245,What is the height of the antelope in meters?,agree_wgm,False,True,False,False,False
+827,D2,R4:agree_wgm,3.147378609866643,2.9764667141689665,simulation_0245,What is the length of the antelope in meters?,agree_wgm,False,True,False,False,False
+828,D2,R4:dis_geo,1.310480860055012,1.3276293058716622,simulation_0245,What is the speed of the rabbit at 1s in m/s?,dis_geo,True,True,False,True,True
+831,D2,R4:agree_wgm,3.005187372567596,2.9942515124032694,simulation_0246,What is the length of the antelope in meters?,agree_wgm,False,True,False,False,False
+874,S2,R4:dis_geo,1.0536515702976257,1.0581495034429345,simulation_0255,What is the acceleration of the tennis ball at time 0.5s in m/s^2?,dis_geo,True,True,False,True,True
+875,S2,R4:dis_geo,1.0536515702976257,1.035603416926253,simulation_0255,What is the acceleration of the tennis ball at time 1s in m/s^2?,dis_geo,True,True,False,True,True
+876,S2,R4:dis_geo,1.053651570297626,1.0610961898944085,simulation_0255,What is the acceleration of the tennis ball at time 1.5s in m/s^2?,dis_geo,True,True,False,True,True
+880,S2,R4:dis_geo,1.0499841534803696,1.0737622009101058,simulation_0256,What is the acceleration of the tennis ball at time 0.5s in m/s^2?,dis_geo,True,True,False,True,True
+881,S2,R4:dis_geo,1.0499841534803696,1.0415497761539283,simulation_0256,What is the acceleration of the tennis ball at time 1s in m/s^2?,dis_geo,True,True,False,True,True
+910,D2,R4:agree_wgm,1.5850486696249366,1.5832527062510402,simulation_0260,What is the width (longer side) of the table in meters?,agree_wgm,False,True,False,False,False
+911,D2,R4:agree_wgm,0.7899657634401928,0.7811643308375176,simulation_0260,What is the width (longer side) of the AC in meters?,agree_wgm,False,True,False,False,False
+915,D2,R4:agree_wgm,0.0872058273561649,0.0871835190666872,simulation_0260,What is the height of the mug in meters?,agree_wgm,False,True,False,False,False
+916,D2,R4:agree_wgm,0.3456383662838518,0.3452467355040814,simulation_0260,What is the long side of the bag in meters?,agree_wgm,False,True,False,False,False
+920,D2,R4:kin,6.133004984863075,6.125,simulation_0261,What is the speed of the mug at time 0.625s in m/s?,kin,True,True,False,True,True
+925,D2,R4:agree_wgm,6.20211913598275,6.537003635547984,simulation_0263,What is the length of the spacecraft in meters?,agree_wgm,True,True,False,True,True
+933,D2,R4:agree_wgm,5.848374330043767,5.853445583075056,simulation_0265,What is the length of the spacecraft in meters?,agree_wgm,True,True,False,True,True
+942,D2,R4:geo_cawinvalid,1.5069136304685644,1.863376003524074,simulation_0267,What is the height of the spacecraft in meters?,geo_cawinvalid,True,True,False,True,True
+1028,D2,R4:agree_wgm,0.1614259957498225,0.1608524934348607,simulation_0295,What is the length of the butterfly's wings in meters?,agree_wgm,True,True,False,True,True
+1045,D3,R4:rul263_dimgm,1.051177475032743,1.2594382013912644,simulation_0009,What is the width of the boat in meters?,rul263_dimgm,False,True,False,False,False
+1048,D3,R4:caw_nogeo,7.764981635818093,6.6258,simulation_0009,What is the length of the pier from the shore-side edge to the water-s,caw_nogeo,True,True,False,False,True
+1054,S3,R4:dis_size_gm,2.577336235139978,3.3341361800628646,simulation_0010,What is the height of the house’s door in meters?,dis_size_gm,True,True,False,False,True
+1056,S3,R5:pred_t113_S3,1.3136048613668432,1.2458058522482118,simulation_0010,What is the diameter of the cart’s wheels in meters?,pred_t113_S3,True,True,False,False,True
+1066,D3,R1:rul220,0.9083880216894062,1.15,simulation_0013,What is the diameter of the cart’s wheels in meters?,rul220,False,True,True,False,False
+1068,D3,R4:rul263_caw,1.1,1.2100000000000002,simulation_0014,What is the diameter of the cart’s wheels in meters?,rul263_caw,False,True,True,False,False
+1071,D3,R4:rul263_caw,1.03,1.1865,simulation_0014,What is the height of the rectangular cargo box on the cart in meters?,rul263_caw,False,True,True,False,False
+1076,S3,R5:pred_t113_S3,1.6712024452205527,1.8192892435105208,simulation_0015,What is the height of the freestanding art display panel in meters?,pred_t113_S3,True,True,False,False,True
+1078,S3,R5:pred_t113_S3,0.6948159899308872,0.8860824276679357,simulation_0015,What is the width of the bench seat in the atrium in meters?,pred_t113_S3,True,True,False,False,True
+1082,S3,R4:agree_gm,1.2920462743199463,1.2920440906637627,simulation_0015,What is the speed of the human at 1.0s in m/s?,agree_gm,False,True,False,False,False
+1096,S3,R4:agree_gm,1.392516857368275,1.4010274413710329,simulation_0021,What is the walking speed of the person at 1.0s in m/s?,agree_gm,False,True,False,False,False
+1097,S3,R5:pred_t113_S3,1.0931810787448288,1.088566051339213,simulation_0021,What is the height of the fire hydrant in meters?,pred_t113_S3,False,True,False,False,False
+1098,S3,R5:pred_t113_S3,4.472814531422773,4.510041061700388,simulation_0021,What is the height of the streetlight in meters?,pred_t113_S3,True,True,False,False,True
+1122,D3,R3:pred_t059,4.072875170066544,4.254734482734164,simulation_0029,What is the speed of the boat at 1.0s in m/s?,pred_t059,True,True,False,True,True
+1136,D3,R4:rul263_dimgm,5.0776,4.683254572912097,simulation_0033,What is the length of the orange car in meters?,rul263_dimgm,True,True,False,False,True
+1148,S3,R5:pred_t113_S3,1.0455136752542191,0.8296637831037699,simulation_0035,What is the body length of the eagle in meters?,pred_t113_S3,True,True,False,True,True
+1149,S3,R4:dis_geo,9.65834104650684,9.89328291383312,simulation_0036,What is the height of the boat in meters?,dis_geo,False,True,False,False,False
+1170,S3,R5:pred_t113_S3,20.76138166054926,16.975511110079243,simulation_0043,What is the width of the rock in meters?,pred_t113_S3,True,True,False,True,True
+1171,S3,R5:pred_t113_S3,12.362317458003098,9.175368215445149,simulation_0044,What is the width of the rock in meters?,pred_t113_S3,True,True,False,True,True
+1176,D3,R2:rul197,2.385719929212631,2.424479331692812,simulation_0045,What is the height of the telephone booth in meters?,rul197,False,True,False,False,False
+1178,D3,R2:rul058,1.0414556083458009,1.0695116473223905,simulation_0045,What is the height of the moving bicycle (from the handlebar to the gr,rul058,False,True,False,False,False
+1181,D3,R4:rul263_unstable_gm,0.2,0.2704161601247033,simulation_0045,What is the height of the first step in front of the door of the neare,rul263_unstable_gm,True,True,False,False,True
+1184,S3,R5:pred_t113_S3,2.189438716172547,2.2923029727359587,simulation_0046,What is the height of the telephone booth in meters?,pred_t113_S3,True,True,False,False,True
+1185,S3,R5:pred_t113_S3,1.358654370739117,1.2499810103957518,simulation_0046,What is the width of the telephone booth in meters?,pred_t113_S3,True,True,False,False,True
+1187,S3,R2:rul058,0.9824184984999056,0.9537770845377384,simulation_0046,What is the height of the moving bicycle (from the handlebar to the gr,rul058,False,True,False,False,False
+1188,S3,R5:pred_t113_S3,1.6791511760279405,1.7123961321757355,simulation_0046,What is the length of the moving bicycle in meters?,pred_t113_S3,False,True,False,False,False
+1189,S3,R5:pred_t113_S3,0.1970903179241915,0.1830446777350069,simulation_0046,What is the height of the first step in front of the door of the neare,pred_t113_S3,True,True,False,False,True
+1195,S3,R5:pred_t113_S3,5.068478068155734,4.783049302426625,simulation_0048,What is the speed of the moving bicycle at 1.0s in m/s?,pred_t113_S3,False,True,False,False,False
+1205,D3,R2:rul194,5.103,6.405216613960783,simulation_0050,What is the distance between the left pillar of the near door and the ,rul194,False,True,False,False,False
+1228,D3,R4:dis_size_gm,3.9258602247498415,3.925865217079697,simulation_0056,What is the height of the streetlight in meters?,dis_size_gm,False,True,False,False,False
+1230,D3,R4:rul263_dimgm,1.8157705425380497,1.8105615397871893,simulation_0056,What is the width of the orange car in meters?,rul263_dimgm,False,True,False,False,False
+1233,D3,R2:rul112,4.871021265284426,4.968894121365359,simulation_0058,What is the speed of the yellow car at 2.5s in m/s?,rul112,False,True,False,False,False
+1245,D3,R2:rul112,4.332985143219868,4.650197947452831,simulation_0059,What is the speed of the yellow car at 2.5s in m/s?,rul112,True,True,False,False,False
+1253,D3,R4:agree_geo_kind,1.361982677476358,1.3259959688499263,simulation_0059,What is the speed of the walking pedestrian from the beginning to the ,agree_geo_kind,False,True,False,False,False
+1259,D3,R2:rul237,10.013244390436387,11.401358656352524,simulation_0060,What is the width of the lane in meters?,rul237,False,True,False,False,False
+1263,D3,R2:rul197,0.6675683098017999,0.6402754578811585,simulation_0060,What is the diameter of the bicycle wheel in meters?,rul197,False,True,False,False,False
+1267,D3,R4:rul263_caw,1.82,2.0130000000000003,simulation_0060,What is the width of the green car in meters?,rul263_caw,False,True,False,False,False
+1268,D3,R4:rul263_caw,1.83,2.0130000000000003,simulation_0060,What is the width of the purple car in meters?,rul263_caw,False,False,False,False,False
+1277,D3,R4:agree_geo_kind,1.4547248139972395,1.4909276986137057,simulation_0061,What is the average speed of the walking pedestrian from the beginning,agree_geo_kind,False,True,False,False,False
+1282,D3,R2:rul131,1.8690000000000002,2.04,simulation_0062,What is the height of the white car in meters?,rul131,False,True,False,False,False
+1290,D3,R4:agree_geo_kind,1.27385496965789,1.2948356598714286,simulation_0062,What is the average speed of the walking pedestrian from the beginning,agree_geo_kind,False,True,False,False,False
+1295,D3,R2:rul131,1.74,2.04,simulation_0063,What is the height of the white car in meters?,rul131,False,True,False,False,False
+1299,D3,R4:rul263_dimgm,1.9359360108038925,2.016925620182596,simulation_0063,What is the width of the turning yellow car in meters?,rul263_dimgm,False,True,False,False,False
+1301,D3,R4:dis_size_gm,6.3,2.889638039679866,simulation_0063,What is the height of the traffic light in meters?,dis_size_gm,False,True,False,False,False
+1302,D3,R4:rul263_caw,4.542570448999364,6.510000000000001,simulation_0063,What is the height of the streetlight in meters?,rul263_caw,False,False,False,False,False
+1303,D3,R4:agree_geo_kind,1.307080136073992,1.2175585805230205,simulation_0063,What is the average speed of the walking pedestrian from the beginning,agree_geo_kind,False,True,False,False,False
+1308,D3,R4:rul263_caw,2.0,1.869,simulation_0064,What is the height of the white car in meters?,rul263_caw,False,True,True,False,False
+1320,D3,R4:rul263_caw,1.74,1.827,simulation_0065,What is the height of the white car in meters?,rul263_caw,False,True,True,False,False
+1347,D3,R3:pred_t059,4.398522678648003,5.071549337864556,simulation_0067,What is the speed of the yellow car at 2.5s in m/s?,pred_t059,False,True,False,False,False
+1351,D3,R2:rul131,1.8690000000000002,2.04,simulation_0067,What is the height of the white car in meters?,rul131,False,True,False,False,False
+1356,D3,R4:agree_geo_kind,1.3037837112210593,1.2164644197999048,simulation_0067,What is the average speed of the walking pedestrian from the beginning,agree_geo_kind,False,True,False,False,False
+1363,S3,R4:agree_geo_kind,1.3815821164978397,1.3738804198350456,simulation_0074,What is the average speed of the walking pedestrian from the beginning,agree_geo_kind,False,True,False,False,False
+1365,S3,R4:agree_geo_kind,3.824319422046651,3.842035577094603,simulation_0074,What is the average speed of the turing yellow car from the beginning ,agree_geo_kind,False,True,False,False,False
+1366,S3,R5:pred_t113_S3,2.1729548095147786,2.147136746385032,simulation_0074,What is the width of the turning yellow car in meters?,pred_t113_S3,True,True,False,False,True
+1370,S3,R5:pred_t113_S3,4.372079841474582,4.52463395481485,simulation_0074,What is the length of the purple car in meters?,pred_t113_S3,False,False,False,False,False
+1372,S3,R4:dis_size_gm,4.940954440299559,2.412393044720576,simulation_0074,What is the side length of the square earthen platform in meters?,dis_size_gm,False,True,False,False,False
+1375,S3,R5:pred_t113_S3,4.860440650708519,4.052174021652276,simulation_0074,What is the acceleration of the white car at 2.0s in m/s^2?,pred_t113_S3,False,True,False,False,False
+1378,D3,R4:geo_cawinvalid,1.7102129880704768,1.7340687200326506,simulation_0109,What is the diameter of the red blood cell in meters?,geo_cawinvalid,False,True,False,False,False
+1379,D3,R4:agree_geo_kind,2.9029275556005336,2.9982527713704004,simulation_0110,What is the distance between two cells at 1s in meters?,agree_geo_kind,True,True,False,True,True
+1380,D3,R4:geo_cawinvalid,0.8354155346110892,0.8630044737608371,simulation_0110,What is the thickness of the red blood cell in meters?,geo_cawinvalid,False,True,False,False,False
+1381,D3,R2:rul267,1.5894552137603974,1.6417524016554847,simulation_0110,What is the diameter of the red blood cell in meters?,rul267,False,True,False,False,False
+1382,S3,R4:caw_nogeo,0.6,0.599994,simulation_0143,What is the side length of the floor tile in meters?,caw_nogeo,True,True,False,True,True
+1383,S3,R4:agree_gm,1.4164980579450357,1.417557555448965,simulation_0143,What is the speed of the man at time 1s in m/s?,agree_gm,False,True,False,False,False
+1384,S3,R4:agree_gm,1.4886393357026142,1.4894272821587935,simulation_0143,What is the speed of the man at time 2s in m/s?,agree_gm,False,True,False,False,False
+1385,S3,R4:dis_geo,3.808859152383517,3.868650924780511,simulation_0143,What is the acceleration of the man at time 2.5s in m/s^2?,dis_geo,False,True,False,False,False
+1386,S3,R4:dis_geo,3.953169565543192,3.891027498170041,simulation_0164,What is the speed of the ball at time 0.5s in m/s?,dis_geo,False,True,False,False,False
+1387,S3,R4:dis_geo,0.2380340594540591,0.0858681000356261,simulation_0164,What is the acceleration of the ball at time 0.5s in m/s^2?,dis_geo,False,True,False,False,False
+1388,S3,R5:pred_t113_S3,3.301381518527508,3.749718660610659,simulation_0164,What is the speed of the ball at time 1s in m/s?,pred_t113_S3,False,True,False,False,False
+1389,S3,R5:pred_t113_S3,1.5020895604483573,1.8415063585770168,simulation_0164,What is the acceleration of the ball at time 1s in m/s^2?,pred_t113_S3,False,True,False,False,False
+1394,D3,R4:rul263_dimgm,2.33957438738881,2.2631075955799123,simulation_0168,What is the width of the police car in meters?,rul263_dimgm,False,True,False,False,False
+1395,D3,R4:agree_geo_kind,4.797150142375274,4.701138024665887,simulation_0168,What is the average speed of the police car in m/s?,agree_geo_kind,False,True,False,False,False
+1397,D3,R4:rul263_caw,0.62,0.671,simulation_0168,What is the diameter of the police car's tire in meters?,rul263_caw,False,True,False,False,False
+1418,D3,R4:rul263_dimgm,1.078,1.2402672900555547,simulation_0180,What is the length of the trolley in meters?,rul263_dimgm,False,True,False,False,False
+1430,D3,R3:pred_t059,2.8440000000000003,1.7572324403483457,simulation_0184,What is the speed of the box at time 1s in m/s?,pred_t059,False,True,False,True,False
+1431,D3,R2:rul277,2.6655993315194326,2.2489531461120573,simulation_0184,What is the speed of the box at time 1.5s in m/s?,rul277,False,True,False,True,False
+1432,D3,R4:rul263_dimgm,0.9239123751940412,0.917130123880482,simulation_0184,What is the length of the box in meters?,rul263_dimgm,False,True,False,True,False
+1437,D3,R4:rul263_dimgm,0.49500000000000005,0.4565691972544338,simulation_0186,What is the length of the box in meters?,rul263_dimgm,True,True,False,True,True
+1471,D3,R4:rul263_dimgm,15.72123693772211,16.44398504947279,simulation_0303,What is the length of the plane in meters?,rul263_dimgm,True,True,False,True,True
+1476,D3,R4:rul263_dimgm,16.91714610956008,16.41834327644049,simulation_0305,What is the length of the plane in meters?,rul263_dimgm,True,True,False,True,True
+1482,D3,R4:rul263_dimgm,18.06756149220297,20.521652931555263,simulation_0307,What is the width of the plane in meters?,rul263_dimgm,True,True,False,True,True
+1490,S3,R5:pred_t113_S3,2.6937787905022588,2.4313857893395,simulation_0310,What is the length(from the fork tips to the rear bumper) of the forkl,pred_t113_S3,True,True,False,True,True
+1509,D3,R3:pred_t059,4.155692015329255,4.263245047713856,simulation_0141,What is the total distance the man walked in meters?,pred_t059,False,True,False,False,False
+1513,S3,R5:pred_t113_S3,1.23586609224483,1.088378050814552,simulation_0144,What is the diameter of the tire in meters?,pred_t113_S3,False,True,False,False,False
+1515,S3,R4:dis_geo,15.15326883847524,15.186688762070878,simulation_0144,What is the average speed of the rocket in m/s?,dis_geo,False,True,False,False,False
+1516,S3,R4:geo_cawinvalid,19.856948394713083,19.83873212146868,simulation_0144,What is the speed of the rocket at time 1s in m/s?,geo_cawinvalid,False,True,False,False,False
+1518,S3,R4:caw_nogeo,7.5,7.499925,simulation_0144,"What is the width of the road the vehicle is on, in meters?",caw_nogeo,True,True,False,False,True
+1519,S3,R2:rul212,1.7629534640360762,1.869,simulation_0149,What is the width of the car in meters?,rul212,False,True,False,False,False
+1520,S3,R5:pred_t113_S3,1.0,1.3644332119438942,simulation_0149,"What is the height, in meters, of the black-and-white collision warnin",pred_t113_S3,False,False,False,False,False
+1521,S3,R5:pred_t113_S3,1.898291690306316,1.3777850668033516,simulation_0149,"What is the width of the pillar, in meters, with the collision warning",pred_t113_S3,True,True,False,False,True
+1522,S3,R2:rul069,6.00476131271257,6.223258982242271,simulation_0149,What is the speed of the car at time 0.5s in m/s?,rul069,False,True,False,False,False
+1524,S3,R5:pred_t113_S3,9.90607107014023,12.178348556739348,simulation_0149,What is the speed of the car at time 1s in m/s?,pred_t113_S3,False,True,False,False,False
+1526,S3,R5:pred_t113_S3,1.420431100218117,1.6062767743099031,simulation_0150,What is the width of the car in meters?,pred_t113_S3,False,True,False,False,False
+1527,S3,R4:dis_size_gm,1.1,0.6742237760721755,simulation_0150,"What is the height, in meters, of the black-and-white collision warnin",dis_size_gm,False,False,False,False,False
+1528,S3,R5:pred_t113_S3,0.8058553502776873,0.8976944637668695,simulation_0150,"What is the width of the pillar, in meters, with the collision warning",pred_t113_S3,True,True,False,False,True
+1531,S3,R5:pred_t113_S3,9.335988452969652,11.346226287956917,simulation_0150,What is the speed of the car at time 1s in m/s?,pred_t113_S3,False,True,False,False,False
+1534,S3,R5:pred_t113_S3,1.470000949816027,1.679229457502902,simulation_0150,"What is the height, in meters, of the 'B1' lettering on the wall behin",pred_t113_S3,True,True,False,False,True
+1536,S3,R5:pred_t113_S3,1.81,1.3980634392570814,simulation_0151,"What is the width, in meters, of the blue car?",pred_t113_S3,False,True,False,False,False
+1539,S3,R2:rul079,3.514255233117655,3.462565235498221,simulation_0151,What is the speed of the blue car at time 1s in m/s?,rul079,False,False,False,False,False
+1540,S3,R4:dis_caw_routed,2.11,2.1,simulation_0151,What is the acceleration of the blue car at time 1s in m/s^2?,dis_caw_routed,False,False,False,False,False
+1546,D3,R4:rul263_unstable_gm,1.2292890766210962,1.4314295658266094,simulation_0159,How long is the turtle in meters?,rul263_unstable_gm,False,False,False,False,False
+1549,D3,R4:rul263_caw,3.52094666582915,2.783,simulation_0159,How long is the shark in meters?,rul263_caw,True,True,False,True,True
+1557,D3,R4:rul263_dimgm,2.6576,2.60244877320108,simulation_0202,What is the length of the table in meters?,rul263_dimgm,False,True,False,False,False
+1558,D3,R4:rul263_dimgm,1.1971968510639472,1.197184143281876,simulation_0202,What is the width of the table in meters?,rul263_dimgm,False,True,False,False,False
+1559,D3,R4:rul263_dimgm,0.43,0.436769820665841,simulation_0202,What is the length of the typewriter in meters?,rul263_dimgm,False,True,False,False,False
+1560,D3,R4:rul263_dimgm,0.3306634276228225,0.3522227752156877,simulation_0202,What is the width of the typewriter in meters?,rul263_dimgm,False,True,False,False,False
+1561,D3,R4:rul263_caw,0.37,0.3675,simulation_0202,What is the height of the typewriter in meters?,rul263_caw,False,True,False,False,False
+1562,D3,R4:rul263_dimgm,0.1696,0.1886930188612818,simulation_0202,What is the width of the paper next to the magnifying glass in meters?,rul263_dimgm,True,True,False,False,True
+1567,D3,R4:rul263_dimgm,1.1164,1.074613926169898,simulation_0205,What is the width of the table in meters?,rul263_dimgm,True,True,False,False,True
+1568,D3,R4:rul263_dimgm,0.4148198959588673,0.4373132638565859,simulation_0205,What is the length of the typewriter in meters?,rul263_dimgm,False,True,False,False,False
+1569,D3,R4:rul263_dimgm,0.33,0.3280754718637467,simulation_0205,What is the width of the typewriter in meters?,rul263_dimgm,False,False,False,False,False
+1570,D3,R4:rul263_unstable_gm,0.4620233287005728,0.3214845659332387,simulation_0205,What is the height of the typewriter in meters?,rul263_unstable_gm,False,False,False,False,False
+1574,D3,R2:rul197,2.6576,2.428970500494253,simulation_0206,What is the length of the table in meters?,rul197,True,True,False,False,False
+1576,D3,R4:rul263_dimgm,0.396,0.423619804521024,simulation_0206,What is the length of the typewriter in meters?,rul263_dimgm,True,True,False,False,True
+1582,D3,R4:rul263_dimgm,0.1491360685322552,0.1850729939331414,simulation_0206,What is the width of the paper next to the typewriter in meters?,rul263_dimgm,True,False,False,False,False
+1584,D3,R4:rul263_dimgm,1.9987203509378404,2.2386053689046803,simulation_0209,What is the length of the table in meters?,rul263_dimgm,False,True,False,False,False
+1585,D3,R4:rul263_caw,0.3968488242036711,0.363,simulation_0209,What is the length of the typewriter in meters?,rul263_caw,False,True,False,False,False
+1586,D3,R4:rul263_caw,0.25703794122851054,0.21,simulation_0209,What is the height of the typewriter in meters?,rul263_caw,False,True,False,False,False
+1587,D3,R4:dis_size_gm,0.5184199531244067,0.2596046877584703,simulation_0209,What is the length of the letter placed under the gun in meters?,dis_size_gm,True,True,False,False,True
+1591,D3,R4:rul263_dimgm,1.0650243518263978,1.2105417476069151,simulation_0209,What is the width of the table in meters?,rul263_dimgm,False,True,False,False,False
+1592,D3,R4:rul263_dimgm,0.2907001943597637,0.334396100301617,simulation_0209,What is the width of the typewriter in meters?,rul263_dimgm,False,True,False,False,False
+1594,D3,R4:rul263_caw,0.48693794356606657,0.483,simulation_0211,What is the height of the black cat (including its tail) in meters?,rul263_caw,False,True,False,False,False
+1595,D3,R2:rul197,1.0525663034972046,1.0568032709561532,simulation_0211,What is the length of the wooden bench in meters?,rul197,False,True,False,False,False
+1596,D3,R2:rul197,0.5261831476278234,0.5266382736144207,simulation_0211,What is the height of the wooden bench in meters?,rul197,False,True,False,False,False
+1601,D3,R4:rul263_caw,1.4326840310896904,1.3545,simulation_0211,What is the height of the floor mirror in meters?,rul263_caw,False,True,False,False,False
+1602,D3,R4:rul263_dimgm,1.2811030824954046,1.2701705688339706,simulation_0211,What is the length of the floor mirror in meters?,rul263_dimgm,False,True,False,False,False
+1607,D3,R4:rul263_dimgm,0.9680000000000001,1.014174715586188,simulation_0212,What is the length of the wooden bench in meters?,rul263_dimgm,False,True,False,False,False
+1614,D3,R4:rul263_dimgm,0.6811060991420468,0.6548841106203388,simulation_0212,What is the width of the floor mirror in meters?,rul263_dimgm,False,True,False,False,False
+1617,D3,R3:pred_t059,1.438553654442288,1.5699860890820971,simulation_0212,What is the speed of the dog at time 1s in m/s?,pred_t059,True,True,False,False,True
+1618,D3,R3:pred_t059,1.1253683266650536,1.2104539503878953,simulation_0212,What is the speed of the dog at time 1.5s in m/s?,pred_t059,True,True,False,False,True
+1619,D3,R4:rul263_dimgm,0.9460000000000001,0.8672428334033604,simulation_0212,What is the length of the dog (including its tail) in meters?,rul263_dimgm,True,True,False,False,True
+1621,D3,R4:rul263_dimgm,1.815,1.961752083526024,simulation_0242,What is the length of the brown horse in meters?,rul263_dimgm,False,False,False,False,False
+1623,D3,R4:rul263_unstable_gm,0.5235796845272261,0.9493626948808568,simulation_0242,What is the width of each glass window in meters?,rul263_unstable_gm,False,False,False,False,False
+1624,D3,R3:pred_t059,0.5402178727474025,1.7526461043378063,simulation_0242,What is the average speed of the white horse in m/s?,pred_t059,False,True,False,False,False
+1625,D3,R4:rul263_dimgm,2.321,2.500932629726485,simulation_0242,What is the length of the white horse in meters?,rul263_dimgm,False,True,False,False,False
+1626,D3,R3:pred_t059,0.557474935730797,1.6980930606276488,simulation_0242,What is the average speed of the rabbit in m/s?,pred_t059,False,True,False,False,False
+1627,D3,R4:rul263_dimgm,0.47300000000000003,0.4948015711568547,simulation_0242,What is the length of the rabbit in meters?,rul263_dimgm,False,True,False,False,False
+1629,D2,R4:agree_wgm,2.6686755659762387,2.697150813318995,simulation_0247,What is the length of the deer in meters?,agree_wgm,False,True,False,False,False
+1670,S3,R2:rul011,17.286258156372728,17.294843725799055,simulation_0022_segmented,What is the length of the rock in meters?,rul011,False,False,False,False,False
+1680,D3,R4:rul263_unstable_gm,8.248582277834945,12.641362247865588,simulation_0024_segmented,What is the length of the rock in meters?,rul263_unstable_gm,True,False,False,True,False
+1681,D3,R2:rul057,7.379206398042351,8.428368945331316,simulation_0024_segmented,What is the height of the rock in meters?,rul057,True,False,False,True,False
+1682,D3,R4:rul263_unstable_gm,5.441093150099884,8.332528990902322,simulation_0024_segmented,What is the width of the rock in meters?,rul263_unstable_gm,True,False,False,True,False
+1698,S3,R1:rul220,4.183619734737626,7.0010696,simulation_0028_segmented,What is the width of the rock in meters?,rul220,True,False,False,True,False
+1707,D3,R4:agree_geo_kind,4.020286632746912,4.026816286734291,simulation_0031_segmented,What is the average speed of the boat in m/s?,agree_geo_kind,False,True,False,False,False
+1711,D3,R4:caw_nogeo,1.8,1.6605,simulation_0032_segmented,What is the height of the person in meters?,caw_nogeo,True,True,False,False,True
+1731,D3,R4:rul263_unstable_gm,17.474506097327225,23.27744383971325,simulation_0037_segmented,What is the length of the rock in meters?,rul263_unstable_gm,True,False,False,True,False
+1732,D3,R4:rul263_unstable_gm,4.395555064429073,4.685183674137794,simulation_0037_segmented,What is the height of the rock in meters?,rul263_unstable_gm,True,False,False,True,False
+1749,S3,R4:dis_geo,6.756030012157628,6.75459095281467,simulation_0043_segmented,What is the height of the boat in meters?,dis_geo,False,False,False,False,False
+1756,S3,R2:rul058,1.15,1.134967152671414,simulation_0048_segmented,What is the height of the moving bicycle (from the handlebar to the gr,rul058,True,False,False,False,False
+1792,S2,R4:dis_geo,5.764722939425457,5.340328029652489,simulation_0100_segmented,What is the average speed of the boat in m/s?,dis_geo,True,False,False,False,False
+1819,D2,R4:agree_wgm,4.774594513727485,4.73822100702239,simulation_0115_segmented,What is the length of the boat in meters?,agree_wgm,False,False,False,False,False
+1820,D2,R4:agree_wgm,1.111082087979887,1.8562102914108327,simulation_0115_segmented,What is the width of the boat in meters?,agree_wgm,False,False,False,False,False
+1826,D2,R4:agree_wgm,1.8573395051354653,1.854465715564384,simulation_0116_segmented,What is the height of each door in meters?,agree_wgm,False,False,False,False,False
+1827,D2,R4:agree_wgm,0.8657090913767,0.8643694932846652,simulation_0116_segmented,What is the width of each door in meters?,agree_wgm,False,False,False,False,False
+1831,S2,R2:rul275,2.686207380508024,2.6877264721290177,simulation_0121_segmented,What is the speed of the right last ball at 2s in m/s?,rul275,False,False,False,False,False
+1832,D2,R4:agree_wgm,0.0773452112305128,0.0772954275735781,simulation_0123_segmented,What is the length of the rolling cup in meters?,agree_wgm,True,False,False,False,False
+1833,D2,R2:rul062,0.04419726356029301,0.052303725147932,simulation_0123_segmented,What is the diameter of the rolling cup in meters?,rul062,True,False,False,False,False
+1834,D2,R4:agree_wgm,0.11407047102167668,0.1139970489557805,simulation_0123_segmented,What is the length of the toothbrush lying on the sink in meters?,agree_wgm,True,False,False,False,False
+1836,D2,R4:agree_wgm,0.4662810631214196,0.4659809388330213,simulation_0123_segmented,What is the length of the bottom towel of the three stacked towels on ,agree_wgm,True,False,False,False,False
+1838,D2,R4:agree_geo_kind,21.363709340680728,21.380808077668256,simulation_0124_segmented,What is the average speed of the grey and red car in m/s?,agree_geo_kind,False,True,False,False,False
+1849,S2,R2:rul424,0.5519184075316041,1.1373603594567026,simulation_0145_segmented,What is the diameter of the tire in meters?,rul424,False,False,False,True,False
+1851,S2,R2:rul424,25.506198407743,9.899875212994102,simulation_0145_segmented,What is the speed of the rocket at time 1s in m/s?,rul424,False,False,False,False,False
+1852,S2,R2:rul424,6.221188132660456,10.776159554299868,simulation_0145_segmented,What is the acceleration of the rocket at time 1s in m/s^2?,rul424,False,True,False,False,False
+1943,S2,R2:disc,0.3637530852822154,1.2588289469347194,simulation_0224_segmented,What is the length of the chinese chess board in meters?,disc,False,False,False,False,False
+1964,D2,R4:caw_nogeo,1.91954882163653,0.9369,simulation_0227_segmented,What is the speed of the red general chess at time 1.5s in m/s?,caw_nogeo,True,True,False,False,True
+1977,D2,R4:dis_geo,2.7388259482003363,2.739954958753535,simulation_0243_segmented,What is the height of the deer in meters?,dis_geo,False,False,False,False,False
+1978,D2,R4:agree_wgm,3.2183581278721154,3.215479299950202,simulation_0243_segmented,What is the length of the deer in meters?,agree_wgm,False,False,False,False,False
+1980,D2,R4:agree_wgm,2.7169178884918166,2.712607457444297,simulation_0245_segmented,What is the height of the deer in meters?,agree_wgm,False,False,False,False,False
+1981,D2,R4:agree_wgm,3.1927852445545524,3.1963607393720834,simulation_0245_segmented,What is the length of the deer in meters?,agree_wgm,False,False,False,False,False
+2000,S2,R2:rul413,6.744562219923037,6.745552433988177,simulation_0255_segmented,What is the speed of the tennis ball at time 0.5s in m/s?,rul413,True,True,False,True,True
+2001,S2,R2:rul413,6.217761231232817,6.222084205198789,simulation_0255_segmented,What is the speed of the tennis ball at time 1s in m/s?,rul413,True,True,False,True,True
+2002,S2,R2:rul413,5.692693860504484,5.696867498264701,simulation_0255_segmented,What is the speed of the tennis ball at time 1.5s in m/s?,rul413,True,False,False,True,False
+2030,D2,R4:agree_geo_kind,4.527849559405468,4.532323069832342,internet_0005,What is the distance between the two black road signs in meters?,agree_geo_kind,False,True,False,False,False
+2031,D2,R4:agree_wgm,1.5923877643862816,1.6077000299970503,internet_0005,What is the height of the woman in yellow in meters?,agree_wgm,False,True,False,False,False
+2033,D2,R4:dis_size_gm,0.405,1.1143935506213667,internet_0005,What is the side length of the floor tiles in meters?,dis_size_gm,False,True,False,False,False
+2049,S2,R4:sruler_geo,2.9536453328788213,2.9507990221460285,internet_0009,What is the total displacement of the player on the right in meters?,sruler_geo,False,True,False,False,False
+2051,S2,R4:dis_geo,486.98055747944505,486.5241852015007,internet_0010,What is the velocity of the ball at 2.00s in cm/s?,dis_geo,False,True,False,False,False
+2063,S2,R4:sruler_geo,11.535099348086328,14.182940493059888,internet_0012,What is the average velocity of the white car on the second lane to th,sruler_geo,False,True,False,False,False
+2066,D2,R4:agree_wgm,20.033711767185196,17.099918219520507,internet_0013,What is the diameter of the center island planter in meters?,agree_wgm,False,False,False,False,False
+2067,D2,R4:dis_geo,2.113904718753957,5.575873550775713,internet_0013,What is the speed of the white car in the roundabout at 3.0s in m/s?,dis_geo,False,True,False,False,False
+2072,S2,R4:caw_nogeo,3.1421891177924333,1.1,internet_0014,What is he football's velocity at 7.00s in m/s?,caw_nogeo,True,True,False,False,True
+2078,S2,R4:sruler_geo,27.603080834113783,27.360928020045787,internet_0015,What is the average speed of the motorcycle in m/s?,sruler_geo,True,True,False,False,True
+2080,S2,R4:sruler_geo,3.2423397113168857,22.18545644800796,internet_0016,What is the distance between the two players in meters at the beginnin,sruler_geo,False,True,False,False,False
+2083,S2,R4:sruler_geo,4.5,25.10398851240786,internet_0016,What is the distance between the basket and the player in black at 0.5,sruler_geo,True,True,False,False,True
+2086,S2,R4:dis_geo,14.283947039251093,14.271704519980386,internet_0017,What is the width of the keyboard in cm?,dis_geo,False,True,False,False,False
+2089,S2,R4:sruler_geo,25.94754872433412,25.948564759885496,internet_0018,What is the distance between the two players in meters at the beginnin,sruler_geo,False,True,False,False,False
+2092,D2,R4:agree_wgm,22.632405766208187,22.63616385380454,internet_0019,What is the size of the ball in cm?,agree_wgm,False,True,False,False,False
+2093,D2,R4:agree_wgm,172.6385389579627,172.17389590723727,internet_0019,What is the height of the person standing in the middle in cm?,agree_wgm,False,True,False,False,False
+2095,D2,R4:agree_wgm,169.5117486064767,168.4288914339441,internet_0019,What is the height of the person on the right (the receiver) in cm?,agree_wgm,False,True,False,False,False
+2097,D2,R4:dis_geo,3.525382776929722,3.527424020834836,internet_0019,What is the velocity of the ball at 1.00s in m/s?,dis_geo,False,True,False,False,False
+2098,D2,R4:dis_geo,1.9434430912983047,1.944235083646276,internet_0019,What is the (average) horizontal velocity of the ball in m/s?,dis_geo,False,True,False,False,False
+2105,S2,R4:dis_geo,3000.0,125.14449277496789,internet_0021,What is the distance between the airplane and the roof top at 0s in me,dis_geo,True,True,False,False,True
+2132,S2,R4:dis_geo,33.0,66.41599047314989,internet_0026,What is the length of the toy truck in cm?,dis_geo,False,True,False,False,False
+2133,S2,R4:dis_geo,23.0,55.87912087912088,internet_0026,What is the height of the toy truck in cm?,dis_geo,True,True,False,False,True
+2138,S2,R4:dis_geo,24.15051017301362,24.369478319833508,internet_0027,What is the velocity of the orange ball at 1.00s in cm/s?,dis_geo,False,True,False,False,False
+2143,D3,R3:pred_t059,20.657102946732703,24.29883177583245,captured_0001,What is the displacement of the ball between 0s and 1.5s in cm?,pred_t059,False,True,False,False,False
+2144,D3,R2:rul019,108.30512453249844,113.72038075912336,captured_0001,What is the velocity of the ball at 1.5s in cm/s?,rul019,False,True,False,False,False
+2145,D3,R2:rul019,115.80155439371266,121.59163211339832,captured_0001,What is the velocity of the ball at the end of the slope in cm/s? ,rul019,False,True,False,False,False
+2164,D3,R3:pred_t059,4.0778309965377,3.321230243813015,captured_0008,What is the basketball's velocity at 1.2s in m/s? ,pred_t059,False,True,False,False,False
+2169,D3,R3:pred_t059,3.9612719319395056,3.321230243813015,captured_0008s,What is the basketball's velocity at 1.2s in m/s? ,pred_t059,False,True,False,False,False
+2174,D3,R3:pred_t059,3.996234810593652,3.321230243813015,captured_0008x,What is the basketball's velocity at 1.2s in m/s? ,pred_t059,False,False,False,False,False
+2240,D3,R3:pred_t059,130.85306598783447,145.1368576891167,captured_0014,What is the velocity of the rolling ball at 0.6s in cm/s? ,pred_t059,False,True,False,False,False
+2251,D3,R3:pred_t059,129.12644309337523,145.1368576891167,captured_0014s,What is the velocity of the rolling ball at 0.6s in cm/s? ,pred_t059,True,True,False,False,True
+2262,D3,R3:pred_t059,128.69422043291692,145.1368576891167,captured_0014x,What is the velocity of the rolling ball at 0.6s in cm/s? ,pred_t059,False,False,False,False,False
+2391,S3,R2:rul145,29.415917078510127,29.50355224717161,captured_0022,What is the acceleration of the ping pong ball at 1.2s in cm/s^2?,rul145,False,True,False,False,False
+2403,S3,R2:rul145,29.3235397035628,29.35903312874328,captured_0022x,What is the acceleration of the ping pong ball at 1.2s in cm/s^2?,rul145,False,False,False,False,False
+2480,S3,R2:rul210,267.3651439374256,258.9031569308702,captured_0028s,What is the velocity of the ping pong ball at 1.0s in cm/s?,rul210,True,True,False,True,True
+2615,S3,R2:rul281,13.332519525098157,13.399994535433702,captured_0035a,What is the displacement of the baskteball between 0.5s and 0.6s in cm,rul281,False,True,False,False,False
+2624,S3,R2:rul281,13.368635898422426,13.399994535433702,captured_0035as,What is the displacement of the baskteball between 0.5s and 0.6s in cm,rul281,False,True,False,False,False
+2633,S3,R2:rul281,13.729454187403938,13.399994535433702,captured_0035ax,What is the displacement of the baskteball between 0.5s and 0.6s in cm,rul281,False,True,False,False,False
+2800,D3,R2:rul197,35.08795906705289,40.453292670904005,captured_0052x,What is the height of the trashbin in cm?,rul197,False,False,False,False,False
+2814,D3,R3:pred_t059,0.9961999999999999,0.805437299530582,captured_0053,What is the displacement of the trashbin between 0.4s and 1.4s in mete,pred_t059,False,True,False,False,False
+2815,D3,R1:rul008,13.949208471906005,11.3887342,captured_0053s,What is the width of the book in cm?,rul008,True,True,False,False,False
+2816,D3,R1:rul008,17.978443609660747,20.7560128,captured_0053s,What is the length of the book in cm?,rul008,True,True,False,False,False
+2822,D3,R3:pred_t059,0.9961999999999999,0.805437299530582,captured_0053s,What is the displacement of the trashbin between 0.4s and 1.4s in mete,pred_t059,False,True,False,False,False
+2823,D3,R1:rul008,16.85258688538639,11.7627841,captured_0053x,What is the width of the book in cm?,rul008,True,True,False,False,False
+2824,D3,R1:rul008,21.35022180534984,21.3602272,captured_0053x,What is the length of the book in cm?,rul008,True,False,False,False,False
+2830,D3,R3:pred_t059,0.9961999999999999,0.805437299530582,captured_0053x,What is the displacement of the trashbin between 0.4s and 1.4s in mete,pred_t059,False,True,False,False,False
+2831,D3,R3:pred_t059,1.188455710253101,1.0863664529296329,captured_0054a,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2832,D3,R3:pred_t059,0.2512709533174434,0.3573165355470705,captured_0054a,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,True,True,False,False,True
+2836,D3,R3:pred_t059,0.3638475839679811,0.4182689766063466,captured_0054a,What is the soccer ball's velocity at 0.5s in m/s? ,pred_t059,True,True,False,False,True
+2837,D3,R3:pred_t059,2.859837903963865,2.5521672569289167,captured_0054a,What is the velocity of the green ball at 1.0s in m/s? ,pred_t059,False,True,False,False,False
+2838,D3,R3:pred_t059,2.225425977245433,2.206407474571648,captured_0054a,What is the velocity of the white ball at 1.0s in m/s? ,pred_t059,False,True,False,False,False
+2842,D3,R3:pred_t059,2.952792466378072,0.2284829058667641,captured_0054a,What is the distance between the green ball and the pink ball at 1.0s ,pred_t059,False,True,False,False,False
+2843,D3,R3:pred_t059,1.1889395318247455,1.0863664529296329,captured_0054as,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2844,D3,R3:pred_t059,0.2520893303720055,0.3573165355470705,captured_0054as,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,False,True,False,False,False
+2848,D3,R3:pred_t059,0.3639156951837223,0.418299100403984,captured_0054as,What is the soccer ball's velocity at 0.5s in m/s? ,pred_t059,False,True,False,False,False
+2849,D3,R3:pred_t059,2.863180787498409,2.5521672569289167,captured_0054as,What is the velocity of the green ball at 1.0s in m/s? ,pred_t059,True,True,False,False,True
+2850,D3,R3:pred_t059,1.4326383827474758,2.206407474571648,captured_0054as,What is the velocity of the white ball at 1.0s in m/s? ,pred_t059,False,True,False,False,False
+2851,D3,R2:rul082,3.937379768089517,4.089716494845338,captured_0054as,What is the velocity of the green ball at 1.5s in m/s? ,rul082,False,True,False,False,False
+2852,D3,R3:pred_t059,3.901913024025956,5.214825335221722,captured_0054as,What is the velocity of the white ball at 1.5s in m/s? ,pred_t059,False,True,False,False,False
+2855,D3,R3:pred_t059,1.1885367563951776,1.0863664529296329,captured_0054ax,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2856,D3,R3:pred_t059,0.2532758127827124,0.3573165355470705,captured_0054ax,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,False,False,False,False,False
+2859,D3,R3:pred_t059,0.3638593789436519,0.4347192712130768,captured_0054ax,What is the soccer ball's velocity at 0.5s in m/s? ,pred_t059,False,False,False,False,False
+2860,D3,R3:pred_t059,2.9504290937551056,2.5521672569289167,captured_0054ax,What is the velocity of the green ball at 1.0s in m/s? ,pred_t059,False,False,False,False,False
+2861,D3,R3:pred_t059,1.3380880955930017,2.206407474571648,captured_0054ax,What is the velocity of the white ball at 1.0s in m/s? ,pred_t059,False,False,False,False,False
+2866,D3,R3:pred_t059,1.105,1.0863664529296329,captured_0054b,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2867,D3,R3:pred_t059,0.6230307433900775,0.3573165355470705,captured_0054b,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,False,False,False,False,False
+2878,D3,R3:pred_t059,1.105,1.0863664529296329,captured_0054bs,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2879,D3,R3:pred_t059,0.4421283370252811,0.3573165355470705,captured_0054bs,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,False,True,False,False,False
+2884,D3,R3:pred_t059,2.9724749969656825,2.5521672569289167,captured_0054bs,What is the velocity of the green ball at 1.0s in m/s? ,pred_t059,True,True,False,False,True
+2885,D3,R3:pred_t059,2.165503988801328,2.206407474571648,captured_0054bs,What is the velocity of the white ball at 1.0s in m/s? ,pred_t059,False,False,False,False,False
+2890,D3,R3:pred_t059,1.105,1.0863664529296329,captured_0054bx,What is the orange ball's displacement between 0.5s and 1.0s in meters,pred_t059,False,True,False,False,False
+2891,D3,R3:pred_t059,0.4516048532893578,0.3573165355470705,captured_0054bx,What is the soccer ball's displacement between 1.0s and 1.4s in meters,pred_t059,False,False,False,False,False
+2896,D3,R3:pred_t059,2.6739774844788107,2.5521672569289167,captured_0054bx,What is the velocity of the green ball at 1.0s in m/s? ,pred_t059,False,False,False,False,False
+2897,D3,R3:pred_t059,1.8098467567750247,2.206407474571648,captured_0054bx,What is the velocity of the white ball at 1.0s in m/s? ,pred_t059,True,False,False,False,False
+2906,D3,R3:pred_t059,3.0917012374263937,2.787840633318614,captured_0061,What is the velocity of the soccer ball at 0.9s in m/s?,pred_t059,False,True,False,False,False
+2961,S2,R2:rul153,5.05595398473958,3.796970110081183,internet_0008_segmented,What is the average speed of the sailboat in m/s? ,rul153,False,True,False,False,False
+2962,S2,R2:rul153,31.77090777965578,27.27314419202116,internet_0008_segmented,What is the average speed of the speedboat in m/s? ,rul153,True,False,False,True,False
+2963,S2,R2:rul153,3.9214580957655247,4.980242361142649,internet_0008_segmented,What is the length of the speedboat in meters? ,rul153,True,False,False,True,False
+2998,D2,R4:agree_gm,1.5673935247233062,1.8019250005797127,internet_0029,What is the velocity of the ball at 0.20s in m/s? ,agree_gm,False,True,False,False,False
+2999,D2,R4:agree_gm,2.920145524470478,3.862650639143386,internet_0029,What is the velocity of the ball at 0.40s in m/s? ,agree_gm,False,True,False,False,False
+3040,S2,R1:rul414,9.9999,3.796707,internet_0037,What is the width of the swimming pool in meters?,rul414,True,True,False,True,True
+3046,S2,R4:dis_geo,0.6578953233700024,0.6123582847395487,internet_0039,What is the speed of the swimming man between 0s to 1s in m/s?,dis_geo,False,True,False,False,False
+3047,S2,R4:dis_geo,0.6106855308315964,0.6207441856129015,internet_0039,What is the speed of the swimming man between 1 to 2.33s in m/s?,dis_geo,False,True,False,False,False
+3048,S2,R4:dis_geo,0.6305198031182886,0.6162659303885838,internet_0039,What is the speed of the swimming man between 0s to 2.33s in m/s?,dis_geo,False,True,False,False,False
+3049,S2,R4:dis_geo,0.0963393073664268,0.0633020669918246,internet_0039,What is the acceleration of the swimming man between 0s to 2.33s in m/,dis_geo,False,True,False,False,False
+3051,S2,R4:dis_geo,5.4,11.795415011011,internet_0040,What's the length of the credit card in cm?,dis_geo,True,True,False,True,True
+3075,D2,R4:agree_wgm,16.503002570756067,16.480781348812673,internet_0044,What is the height of the kettle in cm? ,agree_wgm,False,True,False,False,False
+3076,D2,R4:agree_wgm,10.669573020856774,10.739820045117916,internet_0044,What is the height of the white cylinder in cm? ,agree_wgm,False,True,False,False,False
+3077,D2,R4:agree_wgm,28.437061010050215,28.3987706297747,internet_0044,What is the height of the green bottle in cm? ,agree_wgm,False,True,False,False,False
+3078,D2,R4:agree_wgm,21.28039219026873,21.251738233761422,internet_0044,What is the height of the plastic bottle in cm? ,agree_wgm,False,True,False,False,False
+3079,D2,R4:agree_wgm,10.274122598716724,9.34867370359541,internet_0044,What is the height of the plate in cm? ,agree_wgm,False,False,False,False,False
+3080,D2,R4:agree_geo_kind,53.355850966874215,53.25930123587816,internet_0044,What is the distance between the kettle and the plate in cm? ,agree_geo_kind,False,True,False,False,False
+3081,D2,R4:agree_geo_kind,22.1784340329502,22.134862526617983,internet_0044,What is the distance between the cylinder and the plastic bottle in cm,agree_geo_kind,False,True,False,False,False
+3082,D2,R4:dis_geo,0.9426710493662064,0.9396590132015,internet_0044,What is the velocity of the white ball at 1.50s in m/s? ,dis_geo,False,True,False,False,False
+3083,D2,R4:dis_geo,0.4341293649424249,0.4324855987424487,internet_0044,What is the velocity of the white ball at 2.50s in m/s? ,dis_geo,False,True,False,False,False
+3084,D2,R4:dis_geo,10.2131648654836,14.50126020267156,internet_0045,What is the diameter of the rolling cylinder in cm? ,dis_geo,False,True,False,False,False
+3085,D2,R4:agree_wgm,34.437358951885884,34.36942725057757,internet_0045,What is the height of the green bottle in cm? ,agree_wgm,False,True,False,False,False
+3086,D2,R4:agree_wgm,26.56016966540396,26.58050035184122,internet_0045,What is the height of the plastic bottle in cm? ,agree_wgm,False,True,False,False,False
+3087,D2,R4:agree_wgm,11.163366470002547,11.17191155484745,internet_0045,What is the height of the plate in cm? ,agree_wgm,False,True,False,False,False
+3096,D2,R4:agree_wgm,26.9283629263788,27.115333380797,internet_0047,What is the diameter of the rolling ball in cm? ,agree_wgm,False,True,False,False,False
+3098,D2,R4:dis_geo,0.6333501751810625,0.6821965321606003,internet_0047,What is distance between the ball and the white line in meters? ,dis_geo,False,True,False,False,False
+3099,D2,R4:agree_gm,0.5894844410064202,0.5894104131015973,internet_0047,What is displacement of the ball between 0.10s and 0.30s in meters? ,agree_gm,False,True,False,False,False
+3105,D2,R4:agree_gm,1.2778163558988471,1.303820611290475,internet_0048,What is the distance between the ball and the floor at 1.50s in meters,agree_gm,False,True,False,False,False
+3110,D2,R4:agree_wgm,1.6815566608293528,1.6806817180307505,internet_0049,What is the height of the person riding scooter in meters?,agree_wgm,False,True,False,False,False
+3111,D2,R4:agree_wgm,0.9312709072684784,0.9568624545750162,internet_0049,What is the height of the gray table in meters?,agree_wgm,False,True,False,False,False
+3112,D2,R4:agree_wgm,0.6804013932690252,0.6852699204045147,internet_0049,What is the height of the gray chairs in meters?,agree_wgm,False,True,False,False,False
+3113,D2,R4:agree_wgm,0.9893903209475188,0.9486840670201168,internet_0049,What is the height of the brown table in meters?,agree_wgm,False,True,False,False,False
+3114,D2,R4:dis_geo,2.0742185733646346,3.03687278515575,internet_0049,What is the length of the brown table in meters?,dis_geo,False,True,False,False,False
+3115,D2,R4:dis_size_gm,3.4276437221681855,3.3943732665512893,internet_0049,What is the height of the canopy in meters?,dis_size_gm,False,True,False,False,False
+3117,D2,R4:agree_wgm,1.8060436900070422,1.8057018065352632,internet_0050,What is the height of the person riding scooter in meters?,agree_wgm,False,True,False,False,False
+3118,D2,R4:agree_wgm,3.7126000370740604,3.7118972431178414,internet_0050,What is the height of the right basketball stand in meters?,agree_wgm,False,True,False,False,False
+3119,D2,R4:agree_wgm,3.7251512259285873,3.675809299988075,internet_0050,What is the height of the left basketball stand in meters?,agree_wgm,False,True,False,False,False
+3121,D2,R4:agree_geo_kind,18.0993220938496,18.19316411011204,internet_0050,What is the distance between the two basketball stands in meters?,agree_geo_kind,False,True,False,False,False
+3122,D2,R4:agree_wgm,1.0892811731608412,1.08907497259588,internet_0050,What is the width of the left basketball backboard in meters?,agree_wgm,False,True,False,False,False
+3123,D2,R4:dis_geo,1.1342267260721055,1.1339200117386468,internet_0050,What is the height of the left basketball backboard in meters?,dis_geo,False,True,False,False,False
+3127,D2,R4:agree_wgm,3.091872467784425,3.0851750017923463,internet_0051,What is the height of the tree in the middle of the video in meters?,agree_wgm,False,True,False,False,False
+3129,D2,R4:agree_wgm,1.8035628832975874,1.80857621187425,internet_0052,What is the height of the person riding scooter in meters?,agree_wgm,False,True,False,False,False
+3130,D2,R4:caw_nogeo,5.379725980949224,5.4,internet_0052,What is the distance between the two closest tall trees in meters? ,caw_nogeo,True,True,False,False,True
+3131,D2,R4:dis_geo,1.1,0.394044489465026,internet_0052,What is the height of the no-parking sign in meters?,dis_geo,False,True,False,False,False
+3132,D2,R4:agree_wgm,0.30802225222171076,0.3084369718079366,internet_0052,What is the width of the no-parking sign in meters?,agree_wgm,False,True,False,False,False
+3133,D2,R4:agree_wgm,1.0843662848298088,1.0837526985425143,internet_0052,What is the height of the scooter in meters?,agree_wgm,True,True,False,False,True
+3140,D2,R4:agree_gm,0.5447611498559296,0.6175215015682861,internet_0053,What is the width of the sign on the ground in meters?,agree_gm,True,False,False,False,False
+3152,D2,R4:agree_wgm,1.399738527664111,1.4009854340493564,internet_0055,What is the height of the DO NOT ENTER sign in meters?,agree_wgm,False,True,False,False,False
+3153,D2,R4:agree_wgm,1.0126976627527289,1.0135997877975516,internet_0055,What is the width of the DO NOT ENTER sign in meters?,agree_wgm,False,True,False,False,False
+3155,D2,R4:dis_geo,0.98082389034728,0.4717867409857562,internet_0055,What is the height of the Bicycle sign in meters?,dis_geo,False,True,False,False,False
+3156,D2,R4:agree_wgm,0.8706226262757035,0.5194290387366824,internet_0055,What is the width of the Bicycle sign in meters?,agree_wgm,False,True,False,False,False
+3158,D2,R4:agree_wgm,0.7096632873853955,0.708983055660512,internet_0055,What is the width of the YIELD sign in meters?,agree_wgm,False,True,False,False,False
+3159,D2,R4:agree_wgm,1.7561935328771319,1.7600124593667512,internet_0056,What is the height of the person riding scooter in meters?,agree_wgm,False,True,False,False,False
+3162,D2,R4:agree_wgm,1.4869372708236503,1.71053732505831,internet_0057,What is the height of the person in meters? ,agree_wgm,False,True,False,False,False
+3166,D2,R4:dis_geo,1.5747080360085766,1.6531369324466592,internet_0057,What is the distance between the basket and the ball at 3.00s in meter,dis_geo,True,True,False,False,True
+3168,D2,R4:agree_gm,2.04182675713017,2.1484390955572223,internet_0057,What is the distance between the ball and the floor at 4.00s in meters,agree_gm,False,True,False,False,False
+3169,D2,R4:agree_geo_kind,1.1893778099438534,1.4528941854206086,internet_0057,What is the person's average walking speed from 3.50s to 5.00s in m/s?,agree_geo_kind,False,True,False,False,False
+3171,D2,R4:agree_wgm,1.9342057162017614,1.6495886668876825,internet_0058,What is the height of the person in meters? ,agree_wgm,False,True,False,False,False
+3174,D2,R4:agree_gm,2.7572962437715423,2.8455915729219936,internet_0058,What is the distance between the ball and the floor at 1.00s in meters,agree_gm,False,True,False,False,False
+3175,D2,R4:dis_geo,3.05,1.135937788596057,internet_0058,What is the distance between the ball and the basket at 1.00s in meter,dis_geo,False,True,False,False,False
+3177,D2,R4:agree_gm,2.391825757275184,2.473951557517432,internet_0058,What is the distance between the ball and the floor at 2.00s in meters,agree_gm,False,True,False,False,False
+3178,D2,R4:dis_geo,2.80163492703368,4.156192978440563,internet_0058,What is the distance between the ball and the floor at 1.40s in meters,dis_geo,False,True,False,False,False
+3179,D2,R4:agree_geo_kind,2.698276777277548,2.7970033125175964,internet_0058, What is the average speed of the ball between 1.40s and 2.00s in m/s?,agree_geo_kind,False,True,False,False,False
+3180,D2,R4:agree_wgm,24.764701135832706,25.007368697389783,internet_0059,What is the diameter of the ball in cm? ,agree_wgm,False,True,False,False,False
+3181,D2,R4:agree_wgm,71.13480088968241,71.17674508397594,internet_0059,What is the length of the billboard in the middle in cm?,agree_wgm,False,True,False,False,False
+3182,D2,R4:agree_wgm,87.9728934664162,87.65547899513054,internet_0059,What is the height of the billboard on the left in cm?,agree_wgm,False,True,False,False,False
+3183,D2,R4:agree_wgm,40.40812159909907,40.262325296992415,internet_0059,What is the height of the billboard on the right in cm?,agree_wgm,False,True,False,False,False
+3184,D2,R4:agree_geo_kind,195.3944246258788,195.4189016254169,internet_0059,What is distance between the left edge of the left billboard and the r,agree_geo_kind,False,True,False,False,False
+3185,D2,R4:dis_geo,3.201455741205741,3.1953620009514903,internet_0059,What is velocity of the ball at 2.50s in m/s?,dis_geo,False,True,False,False,False
+3186,D2,R4:dis_geo,4.5237687058135965,4.516419205688883,internet_0059,What is velocity of the ball at 3.00s in m/s? ,dis_geo,False,True,False,False,False
+3187,D2,R4:dis_geo,3.916762777376525,3.908772321340774,internet_0059,What is the average velocity of the ball between 2.50s and 3.20s in m/,dis_geo,False,True,False,False,False
+3195,D2,R4:agree_wgm,7.406686823381034,7.713746950466402,internet_0061,What is the width of the acorn in cm? ,agree_wgm,False,True,False,False,False
+3196,D2,R4:dis_geo,9.89903797365741,8.61589368835017,internet_0061,What is the height of the acorn in cm? ,dis_geo,False,True,False,False,False
+3197,D2,R4:dis_geo,1.8975821876207088,2.184531101028594,internet_0061,What is the velocity of the acorn at 1.40s in m/s? ,dis_geo,False,True,False,False,False
+3201,D2,R4:dis_geo,8.91,22.035896527814256,internet_0062,What is the length of the longer side of the wallet in cm? ,dis_geo,False,True,False,False,False
+3203,D2,R4:dis_geo,2.913816570441737,2.917686476361215,internet_0062,What is the velocity of the wallet at 2.50s in m/s? ,dis_geo,False,True,False,False,False
+3207,D2,R4:agree_wgm,24.57965015768042,25.04354938354724,internet_0063,What is the height of the water bottle in cm?,agree_wgm,False,True,False,False,False
+3208,D2,R4:agree_wgm,7.830573550040812,7.942769259992114,internet_0063,What is the diameter of the water bottle in cm? ,agree_wgm,False,True,False,False,False
+3213,D2,R4:agree_wgm,1.7650363425038393,1.7654138570871345,internet_0064,What is the height of the person in meters? ,agree_wgm,False,True,False,False,False
+3214,D2,R4:dis_geo,2.7527074195662564,2.757563340394362,internet_0064,What is the velocity of the ball at 3.0s in m/s? ,dis_geo,False,True,False,False,False
+3216,D2,R4:dis_geo,0.8306348532906854,0.8323803328915578,internet_0064,What is the velocity of the person at 4.4s in m/s? ,dis_geo,False,True,False,False,False
+3217,D2,R4:agree_gm,1.900372341037576,2.0453982450882355,internet_0064,What is the distance between the bottom of the ball and the floor at 3,agree_gm,False,True,False,False,False
+3218,D2,R4:dis_geo,1.0406295778986911,1.0400383029599378,internet_0064,What is the displacement of the ball between 3.50s and 3.70s in meters,dis_geo,False,True,False,False,False
+3220,D2,R4:agree_wgm,24.277564202700006,23.99615052563646,internet_0064,What is the diameter of the ball in cm? ,agree_wgm,False,True,False,False,False
+3244,D2,R4:dis_geo,0.4246128090119428,0.4134448999544197,internet_0068,What is the velocity of the acorn at 2.00s in m/s? ,dis_geo,True,True,False,True,True
+3245,D2,R4:dis_geo,0.5219460703305542,0.5226711989337118,internet_0068,What is the velocity of the acorn at 2.10s in m/s? ,dis_geo,True,True,False,True,True
+3246,D2,R4:dis_geo,0.6998346118117657,0.6827477585480318,internet_0068,What is the velocity of the acorn at 2.30s in m/s? ,dis_geo,True,True,False,True,True
+3247,D2,R2:rul046,4.807334933185229,4.980414335670194,internet_0068,What is the displacement of the acorn between 2.00s and 2.10s in cm?,rul046,True,True,False,True,True
+3248,D2,R2:rul046,5.695383325429965,5.787909440849961,internet_0068,What is the displacement of the acorn between 2.10s and 2.20s in cm?,rul046,True,True,False,True,True
+3249,D2,R2:rul046,6.590839173204238,6.55866675151612,internet_0068,What is the displacement of the acorn between 2.20s and 2.30s in cm?,rul046,True,True,False,True,True
+3250,D2,R2:rul046,7.395175028481949,7.096098908155354,internet_0068,What is the displacement of the acorn between 2.30s and 2.40s in cm?,rul046,True,True,False,True,True
+3259,D2,R4:agree_wgm,4.445845464523489,4.422375118767978,internet_0070,What is the length of the speedboat in meters?,agree_wgm,False,True,False,False,False
+3260,D2,R4:agree_wgm,1.7924955653548809,1.7904701985417175,internet_0070,What is the height of the speedboat in meters?,agree_wgm,False,True,False,False,False
+3261,D2,R4:agree_gm,31.2247828156154,31.17285323123071,internet_0070,What is the displacement of the speedboat between 1.00s and 4.00s in m,agree_gm,False,True,False,False,False
+3262,D2,R4:dis_geo,9.687072139672264,9.678987799350596,internet_0070,What is the displacement of the speedboat between 2.00s and 3.00s in m,dis_geo,False,True,False,False,False
+3263,D2,R4:agree_gm,11.23909951226382,11.244858463184183,internet_0070,What is the velocity of the speed boat at 2.00s in m/s?,agree_gm,False,True,False,True,False
+3265,S2,R4:dis_geo,30.0,13.793968046073935,internet_0071,What is the length of the toilet paper holder in cm?,dis_geo,True,True,False,False,True
+3266,S2,R1:rul434,24.99975,25.057615,internet_0071,What is the length of a wall tile in cm?,rul434,True,True,False,False,False
+3267,S2,R1:rul434,19.9998,17.0832448,internet_0071,What is the height of a wall tile in cm? ,rul434,True,True,False,False,False
+3286,S2,R4:sruler_geo,4.6,0.5353640443427117,internet_0074,What is the distance between the ball and the nearest player at 2.00s ,sruler_geo,False,True,False,False,False

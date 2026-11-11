@@ -1,0 +1,242 @@
+{
+"285": {
+"value": 0.3422469938647874,
+"why": "xground flag on measured tracks (own row): dis_caw_routed -> dis_geo"
+},
+"300": {
+"value": 4.6339894600405,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"301": {
+"value": 2.269530789614465,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"304": {
+"value": 33.804994142342,
+"why": "xground flag on measured tracks (own row): dis_size_gm -> dis_geo"
+},
+"305": {
+"value": 30.111951326254587,
+"why": "xground flag on measured tracks (own row): dis_size_gm -> dis_geo"
+},
+"338": {
+"value": 1.1373603594567026,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"339": {
+"value": 11.514588720164124,
+"why": "xground flag on measured tracks (own row): geo_cawinvalid -> geo_cawinvalid"
+},
+"340": {
+"value": 9.899875212994102,
+"why": "xground flag on measured tracks (own row): geo_cawinvalid -> geo_cawinvalid"
+},
+"341": {
+"value": 10.776159554299868,
+"why": "xground flag on measured tracks (own row): dis_caw_routed -> dis_geo"
+},
+"371": {
+"value": 2.4657547013903405,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"372": {
+"value": 1.5729130183986368,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"373": {
+"value": 0.1210153097786795,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"530": {
+"value": 2.3047588676722297,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"531": {
+"value": 0.421978770166399,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"532": {
+"value": 0.2845653868909049,
+"why": "xground flag on measured tracks (own row): mo_guard:agree_gm -> agree_wgm"
+},
+"533": {
+"value": 0.1663880359314087,
+"why": "xground flag on measured tracks (own row): agree_gm -> mo_guard:agree_gm"
+},
+"534": {
+"value": 0.2397431125831715,
+"why": "xground flag on measured tracks (own row): agree_gm -> mo_guard:agree_gm"
+},
+"602": {
+"value": 0.5125726916226768,
+"why": "xground flag on measured tracks (own row): caw_c1 -> agree_gm"
+},
+"603": {
+"value": 0.2619964613784161,
+"why": "xground flag on measured tracks (cross-row): caw_c1 -> agree_wgm"
+},
+"628": {
+"value": 0.2642276910071247,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"634": {
+"value": 2.7223455413747573,
+"why": "xground flag on measured tracks (own row): mo_guard:agree_wgm -> agree_gm"
+},
+"635": {
+"value": 1.99474874669644,
+"why": "xground flag on measured tracks (own row): mo_guard:agree_wgm -> agree_gm"
+},
+"684": {
+"value": 0.6899623078621661,
+"why": "xground flag on measured tracks (own row): dis_caw_routed -> dis_geo"
+},
+"1022": {
+"value": 1.3548287235917842,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"1023": {
+"value": 1.2407934461318306,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"1848": {
+"value": 1.1373603594567026,
+"why": "xground flag on measured tracks (cross-row): var_ans_plain -> var_ans_plain"
+},
+"1850": {
+"value": 9.899875212994102,
+"why": "xground flag on measured tracks (cross-row): var_ans_plain -> var_ans_plain"
+},
+"1851": {
+"value": 10.776159554299868,
+"why": "xground flag on measured tracks (cross-row): var_ans_plain -> var_ans_plain"
+},
+"2213": {
+"value": 29.562270994189326,
+"why": "xground flag on measured tracks (cross-row): dis_size_gm -> dis_size_gm"
+},
+"2221": {
+"value": 29.562270994189326,
+"why": "xground flag on measured tracks (cross-row): rul263_unstable_gm -> rul263_unstable_gm"
+},
+"2229": {
+"value": 29.562270994189326,
+"why": "xground flag on measured tracks (own row): rul263_unstable_gm -> rul263_unstable_gm"
+},
+"2680": {
+"value": 12.460492646840862,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"2681": {
+"value": 11.623897154374127,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"2682": {
+"value": 10.095739896930978,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"2683": {
+"value": 5.354414200026594,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_wgm"
+},
+"2684": {
+"value": 53.76241450560663,
+"why": "xground flag on measured tracks (own row): agree_gm -> dis_geo"
+},
+"2685": {
+"value": 104.851352796452,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_gm"
+},
+"2686": {
+"value": 12.460492646840862,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2687": {
+"value": 11.623897154374127,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2688": {
+"value": 10.095739896930978,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2689": {
+"value": 5.354414200026594,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2690": {
+"value": 53.76241450560663,
+"why": "xground flag on measured tracks (cross-row): dis_geo -> dis_geo"
+},
+"2691": {
+"value": 104.851352796452,
+"why": "xground flag on measured tracks (cross-row): agree_gm -> agree_gm"
+},
+"2692": {
+"value": 12.460492646840862,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2693": {
+"value": 11.623897154374127,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2694": {
+"value": 10.095739896930978,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2695": {
+"value": 5.354414200026594,
+"why": "xground flag on measured tracks (cross-row): agree_wgm -> agree_wgm"
+},
+"2696": {
+"value": 53.76241450560663,
+"why": "xground flag on measured tracks (cross-row): dis_geo -> dis_geo"
+},
+"2697": {
+"value": 104.851352796452,
+"why": "xground flag on measured tracks (cross-row): agree_gm -> agree_gm"
+},
+"2923": {
+"value": 76.32747656714308,
+"why": "xground flag on measured tracks (cross-row): rul263_caw -> rul263_caw"
+},
+"2928": {
+"value": 15.277539095351369,
+"why": "xground flag on measured tracks (cross-row): rul263_caw -> rul263_caw"
+},
+"2929": {
+"value": 33.5645583359331,
+"why": "xground flag on measured tracks (cross-row): rul263_caw -> rul263_caw"
+},
+"2931": {
+"value": 76.32747656714308,
+"why": "xground flag on measured tracks (cross-row): rul263_caw -> rul263_caw"
+},
+"2936": {
+"value": 15.277539095351369,
+"why": "xground flag on measured tracks (cross-row): rul263_caw -> rul263_caw"
+},
+"2937": {
+"value": 33.5645583359331,
+"why": "xground flag on measured tracks (own row): dis_size_gm -> rul263_caw"
+},
+"2939": {
+"value": 76.32747656714308,
+"why": "xground flag on measured tracks (own row): dis_size_gm -> rul263_caw"
+},
+"2944": {
+"value": 15.277539095351369,
+"why": "xground flag on measured tracks (own row): rul263_unstable_gm -> rul263_unstable_gm"
+},
+"2945": {
+"value": 33.5645583359331,
+"why": "xground flag on measured tracks (cross-row): rul263_unstable_gm -> rul263_unstable_gm"
+},
+"3007": {
+"value": 9.821310562975974,
+"why": "xground flag on measured tracks (own row): agree_gm -> agree_gm"
+},
+"3009": {
+"value": 1.9793052224573893,
+"why": "xground flag on measured tracks (own row): dis_caw_routed -> dis_geo"
+}
+}

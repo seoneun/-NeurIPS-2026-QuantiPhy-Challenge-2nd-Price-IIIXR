@@ -1,0 +1,148 @@
+id0,cat,block,writer,old,new,video,question
+6,D2,claimA,pred_t156_rows.csv#claimA,3.8570469916011976,3.7,simulation_0012,How wide is the bird's wingspan when it spreads its wings in meters?
+46,D2,claimA,pred_t156_rows.csv#claimA,0.99,1.3,simulation_0072,What is the speed of the walking pedestrian at 1.0s in m/s?
+47,D2,claimA,pred_t156_rows.csv#claimA,2.229717919727141,2.2,simulation_0073,What is the width of the white car in meters?
+62,S2,claimA,pred_t156_rows.csv#claimA,2.207547487589636,2.2,simulation_0075,What is the width of the white car in meters?
+87,S2,claimA,pred_t156_rows.csv#claimA,2.3084523535681614,2.2,simulation_0082,What is the width of the yellow car in meters?
+89,S2,claimA,pred_t156_rows.csv#claimA,2.3504242145421284,2.2,simulation_0082,What is the width of the black and white car in meters?
+125,D2,claimA,pred_t156_rows.csv#claimA,2.276307259319526,2.2,simulation_0087,What is the width of the car in meters?
+235,D2,claimA,pred_t156_rows.csv#claimA,0.321954995646697,0.3,simulation_0116,What is the length of the football in meters?
+461,D2,claimA,pred_t156_rows.csv#claimA,2.9792000000000005,2.6,simulation_0190,What is the width of the truck in meters?
+473,D2,claimA,pred_t156_rows.csv#claimA,2.829982317110918,2.6,simulation_0192,What is the width of the truck in meters?
+588,D2,grwidth,pred_t156_rows.csv#grwidth,0.53131890543471,1.988565325065405,simulation_0214,What is the width of the TV stand in meters?
+590,D2,grwidth,pred_t156_rows.csv#grwidth,0.4783508925637791,0.9717954779807655,simulation_0214,What is the width of the floor mirror in meters?
+601,D2,grwidth,pred_t156_rows.csv#grwidth,0.5354837938136806,1.9823070696215035,simulation_0215,What is the width of the TV stand in meters?
+604,D2,grwidth,pred_t156_rows.csv#grwidth,0.4819158353802275,0.9688494159126338,simulation_0215,What is the width of the floor mirror in meters?
+625,D2,grwidth,pred_t156_rows.csv#grwidth,0.4179525519459602,1.0216002148605843,simulation_0217,What is the width of the wooden bench in meters?
+626,D2,grwidth,pred_t156_rows.csv#grwidth,0.530478316839649,1.9776252243587495,simulation_0217,What is the width of the TV stand in meters?
+651,S2,grwidth,pred_t156_rows.csv#grwidth,0.4298888888888889,1.5654444444444424,simulation_0221,What is the width of the TV stand in meters?
+667,S2,grwidth,pred_t156_rows.csv#grwidth,0.4298888270060221,1.5654441969129753,simulation_0222,What is the width of the TV stand in meters?
+696,D2,claimA,pred_t156_rows.csv#claimA,0.6040292354795929,0.6,simulation_0225,What is the height of the black cat (including its tail) in meters?
+703,D2,claimA,pred_t156_rows.csv#claimA,0.6075788942400703,0.6,simulation_0227,What is the height of the black cat (including its tail) in meters?
+1556,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,2.60244877320108,2.5095,simulation_0202,What is the length of the table in meters?
+1557,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,1.197184143281876,1.0803,simulation_0202,What is the width of the table in meters?
+1565,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,2.575799841897791,2.5095,simulation_0205,What is the length of the table in meters?
+1566,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,1.074613926169898,1.0803,simulation_0205,What is the width of the table in meters?
+1573,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,2.428970500494253,2.5095,simulation_0206,What is the length of the table in meters?
+1574,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,1.1719183360439358,1.0803,simulation_0206,What is the width of the table in meters?
+1583,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,2.2386053689046803,2.5095,simulation_0209,What is the length of the table in meters?
+1590,D3,w1_deskcorner,pred_t156_rows.csv#w1_deskcorner,1.2105417476069151,1.0803,simulation_0209,What is the width of the table in meters?
+1649,D2,claimA,pred_t156_rows.csv#claimA,3.8570469916011976,3.7,simulation_0012_segmented,How wide is the bird's wingspan when it spreads its wings in meters?
+1823,D2,claimA,pred_t156_rows.csv#claimA,0.321954995646697,0.3,simulation_0116_segmented,What is the length of the football in meters?
+1920,D2,claimA,pred_t156_rows.csv#claimA,2.829982317110918,2.6,simulation_0192_segmented,What is the width of the truck in meters?
+1950,D2,claimA,pred_t156_rows.csv#claimA,0.6040292354795929,0.6,simulation_0225_segmented,What is the height of the black cat (including its tail) in meters?
+1954,D2,claimA,pred_t156_rows.csv#claimA,0.6075788942400703,0.6,simulation_0227_segmented,What is the height of the black cat (including its tail) in meters?
+1977,D2,claimA,pred_t156_rows.csv#claimA,3.215479299950202,3.2,simulation_0243_segmented,What is the length of the deer in meters?
+2018,S2,claimA,pred_t156_rows.csv#claimA,6.276923076923077,6.2,internet_0002,What is the length of the red car in meters?
+2019,S2,claimA,pred_t156_rows.csv#claimA,2.426373626373626,2.2,internet_0002,What is the width of the red car in meters?
+2033,S2,claimA,pred_t156_rows.csv#claimA,3.2572504771821817,2.7,internet_0006,What is the length of the motor cycle in meters?
+2035,S2,claimA,pred_t156_rows.csv#claimA,7.817401145237237,6.2,internet_0006,What is the length of the white car in meters?
+2037,S2,claimA,pred_t156_rows.csv#claimA,6.7316509861765095,6.2,internet_0006,What is the length of the black car in meters?
+2039,S2,claimA,pred_t156_rows.csv#claimA,6.540035507695132,6.2,internet_0007,What is the length of the white car in meters?
+2047,S2,claimA,pred_t156_rows.csv#claimA,28.0,17.980229429639895,internet_0009,What is the average velocity of the tennis ball flying across the net in m/s?
+2071,S2,claimA,pred_t156_rows.csv#claimA,1.1,2.548072406003153,internet_0014,What is he football's velocity at 7.00s in m/s?
+2080,S2,claimA,pred_t156_rows.csv#claimA,6.0,2.0696440919073593,internet_0016,What is the velocity of the basketball at 0s in m/s?
+2087,S2,claimA,pred_t156_rows.csv#claimA,13.0,61.661326696498676,internet_0017,What is moving speed of the user's (middle) fingertip at 0.4s in cm/s?
+2089,S2,claimA,pred_t156_rows.csv#claimA,4.0,2.967142270682096,internet_0018,What is the distance between the benches and the court in meters?
+2114,S2,claimA,pred_t156_rows.csv#claimA,103.0,50.15365934789841,internet_0022,What is average velocity of the man's moving hand from 0.40s to 1.00s in cm/s?
+2162,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,28.17932119187996,39.77932119187996,captured_0008,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? 
+2167,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,28.17932119187996,39.77932119187996,captured_0008s,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? 
+2172,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,28.17932119187996,39.77932119187996,captured_0008x,What is the maximum rebounce height (with respect to the desk) of the basketball in cm? 
+2177,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,66.84667557521959,78.44667557521959,captured_0009,What is the maximum rebounce height of the basketball in cm? 
+2182,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,66.84667557521959,78.44667557521959,captured_0009s,What is the maximum rebounce height of the basketball in cm? 
+2187,D3,w1_labradius,pred_t156_rows.csv#w1_labradius,66.84667557521959,78.44667557521959,captured_0009x,What is the maximum rebounce height of the basketball in cm? 
+2388,S3,rul345,ag_rul345_patch_test.json,40.115200559093104,42.54392971119785,captured_0022,What is the velocity of the ping pong ball at 0.8s in cm/s?
+2389,S3,rul345,ag_rul345_patch_test.json,45.02576383394451,47.366034057122874,captured_0022,What is the velocity of the ping pong ball at 1.2s in cm/s?
+2391,S3,rul345,ag_rul345_patch_test.json,40.37778233848247,46.46769427985018,captured_0022,What is the displacement of the ping pong ball between 0.6s and 1.6s in cm?
+2394,S3,rul345,ag_rul345_patch_test.json,40.115200559093104,42.14692390696988,captured_0022s,What is the velocity of the ping pong ball at 0.8s in cm/s?
+2395,S3,rul345,ag_rul345_patch_test.json,45.02576383394451,47.023414008061316,captured_0022s,What is the velocity of the ping pong ball at 1.2s in cm/s?
+2397,S3,rul345,ag_rul345_patch_test.json,40.37778233848247,46.06488496827946,captured_0022s,What is the displacement of the ping pong ball between 0.6s and 1.6s in cm?
+2400,S3,rul345,ag_rul345_patch_test.json,40.115200559093104,42.271966108233684,captured_0022x,What is the velocity of the ping pong ball at 0.8s in cm/s?
+2401,S3,rul345,ag_rul345_patch_test.json,45.02576383394451,47.097774380805355,captured_0022x,What is the velocity of the ping pong ball at 1.2s in cm/s?
+2403,S3,rul345,ag_rul345_patch_test.json,40.37778233848247,46.04913867209327,captured_0022x,What is the displacement of the ping pong ball between 0.6s and 1.6s in cm?
+2496,S3,rul345,ag_rul345_patch_test.json,87.0947300130568,76.92854892510667,captured_0029,What is the distance travelled by the tennis ball when it hits the whiteboard in cm?
+2501,S3,rul345,ag_rul345_patch_test.json,87.0947300130568,88.27409648093469,captured_0029s,What is the distance travelled by the tennis ball when it hits the whiteboard in cm?
+2506,S3,rul345,ag_rul345_patch_test.json,87.0947300130568,83.18103291815963,captured_0029x,What is the distance travelled by the tennis ball when it hits the whiteboard in cm?
+2507,S3,rul345,ag_rul345_patch_test.json,162.72125633027488,211.2605069488398,captured_0030,What is the velocity of the red ball at 0.2s in cm/s?
+2509,S3,rul345,ag_rul345_patch_test.json,149.36618894512486,211.50779313034408,captured_0030,What is the velocity of the red ball at 0.6s in cm/s?
+2510,S3,rul345,ag_rul345_patch_test.json,140.28765227324683,199.00396239132007,captured_0030,What is the velocity of the red ball at 0.8s in cm/s?
+2511,S3,rul345,ag_rul345_patch_test.json,162.72125633027488,203.1751211055786,captured_0030s,What is the velocity of the red ball at 0.2s in cm/s?
+2513,S3,rul345,ag_rul345_patch_test.json,149.36618894512486,212.0767178115327,captured_0030s,What is the velocity of the red ball at 0.6s in cm/s?
+2514,S3,rul345,ag_rul345_patch_test.json,140.28765227324683,197.07009294287047,captured_0030s,What is the velocity of the red ball at 0.8s in cm/s?
+2515,S3,rul345,ag_rul345_patch_test.json,162.72125633027488,204.3918748943649,captured_0030x,What is the velocity of the red ball at 0.2s in cm/s?
+2517,S3,rul345,ag_rul345_patch_test.json,149.36618894512486,179.8635483350903,captured_0030x,What is the velocity of the red ball at 0.6s in cm/s?
+2518,S3,rul345,ag_rul345_patch_test.json,140.28765227324683,154.34857001223762,captured_0030x,What is the velocity of the red ball at 0.8s in cm/s?
+2539,S3,rul345,ag_rul345_patch_test.json,117.13599611193574,119.33586400968163,captured_0032,What is the velocity of the tennis ball at 1.5s in cm/s?
+2545,S3,rul345,ag_rul345_patch_test.json,117.13599611193574,118.7554262723176,captured_0032s,What is the velocity of the tennis ball at 1.5s in cm/s?
+2551,S3,rul345,ag_rul345_patch_test.json,117.13599611193574,120.84717165327416,captured_0032x,What is the velocity of the tennis ball at 1.5s in cm/s?
+2554,S3,rul345,ag_rul345_patch_test.json,239.5744560811944,440.71764799339826,captured_0033,What is the velocity of the ping pong ball at 0.5s in cm/s?
+2556,S3,rul345,ag_rul345_patch_test.json,157.21602479599892,158.55810524303837,captured_0033,What is the velocity of the ping pong ball at 1.5s in cm/s?
+2557,S3,rul345,ag_rul345_patch_test.json,239.5744560811944,307.71736993388623,captured_0033s,What is the velocity of the ping pong ball at 0.5s in cm/s?
+2559,S3,rul345,ag_rul345_patch_test.json,157.21602479599892,158.56070911159443,captured_0033s,What is the velocity of the ping pong ball at 1.5s in cm/s?
+2560,S3,rul345,ag_rul345_patch_test.json,239.5744560811944,304.8115706299115,captured_0033x,What is the velocity of the ping pong ball at 0.5s in cm/s?
+2562,S3,rul345,ag_rul345_patch_test.json,157.21602479599892,158.55619928027613,captured_0033x,What is the velocity of the ping pong ball at 1.5s in cm/s?
+2611,S3,rul345,ag_rul345_patch_test.json,143.76362764799805,239.88384867947255,captured_0035a,What is the velocity of the soccor ball at 0.6s in cm/s?
+2612,S3,rul345,ag_rul345_patch_test.json,129.75361938244828,168.6239809193877,captured_0035a,What is the velocity of the baskteball at 0.6s in cm/s?
+2613,S3,rul345,ag_rul345_patch_test.json,22.55728281252534,24.4705780666723,captured_0035a,What is the displacement of the soccor ball ball between 0.5s and 0.6s in cm?
+2616,S3,rul345,ag_rul345_patch_test.json,56.14144061014699,68.75856659022595,captured_0035a,What is the velocity of the soccor ball at 1.5s in cm/s?
+2617,S3,rul345,ag_rul345_patch_test.json,45.57264183027042,58.070927986556946,captured_0035a,What is the velocity of the baskteball at 1.5s in cm/s?
+2618,S3,rul345,ag_rul345_patch_test.json,54.99695277727941,67.50345356499761,captured_0035a,What is the velocity of the soccer ball at 1.6s in cm/s?
+2619,S3,rul345,ag_rul345_patch_test.json,43.737746110720494,55.659032727606935,captured_0035a,What is the velocity of the basketball at 1.6s in cm/s?
+2620,S3,rul345,ag_rul345_patch_test.json,143.76362764799805,241.04451795954515,captured_0035as,What is the velocity of the soccor ball at 0.6s in cm/s?
+2621,S3,rul345,ag_rul345_patch_test.json,129.75361938244828,171.21395225402082,captured_0035as,What is the velocity of the baskteball at 0.6s in cm/s?
+2622,S3,rul345,ag_rul345_patch_test.json,22.55728281252534,24.28711720504818,captured_0035as,What is the displacement of the soccor ball ball between 0.5s and 0.6s in cm?
+2625,S3,rul345,ag_rul345_patch_test.json,56.14144061014699,70.35045822399537,captured_0035as,What is the velocity of the soccor ball at 1.5s in cm/s?
+2626,S3,rul345,ag_rul345_patch_test.json,45.57264183027042,58.08896924409708,captured_0035as,What is the velocity of the baskteball at 1.5s in cm/s?
+2627,S3,rul345,ag_rul345_patch_test.json,54.99695277727941,67.92213844938883,captured_0035as,What is the velocity of the soccer ball at 1.6s in cm/s?
+2628,S3,rul345,ag_rul345_patch_test.json,43.737746110720494,55.633880263193774,captured_0035as,What is the velocity of the basketball at 1.6s in cm/s?
+2629,S3,rul345,ag_rul345_patch_test.json,143.76362764799805,240.96107930783452,captured_0035ax,What is the velocity of the soccor ball at 0.6s in cm/s?
+2630,S3,rul345,ag_rul345_patch_test.json,129.75361938244828,171.25534520805405,captured_0035ax,What is the velocity of the baskteball at 0.6s in cm/s?
+2631,S3,rul345,ag_rul345_patch_test.json,22.55728281252534,24.364309117369796,captured_0035ax,What is the displacement of the soccor ball ball between 0.5s and 0.6s in cm?
+2634,S3,rul345,ag_rul345_patch_test.json,56.14144061014699,68.89624018488973,captured_0035ax,What is the velocity of the soccor ball at 1.5s in cm/s?
+2635,S3,rul345,ag_rul345_patch_test.json,45.57264183027042,58.131350865501865,captured_0035ax,What is the velocity of the baskteball at 1.5s in cm/s?
+2636,S3,rul345,ag_rul345_patch_test.json,54.99695277727941,67.96020255253059,captured_0035ax,What is the velocity of the soccer ball at 1.6s in cm/s?
+2637,S3,rul345,ag_rul345_patch_test.json,43.737746110720494,55.713638015402736,captured_0035ax,What is the velocity of the basketball at 1.6s in cm/s?
+2642,S3,rul345,ag_rul345_patch_test.json,90.39070862553667,98.17223308734626,captured_0035b,What is the displacement of the soccor ball ball between 0.4s and 0.9s in cm?
+2643,S3,rul345,ag_rul345_patch_test.json,73.45361208092437,106.3076259450265,captured_0035b,What is the displacement of the baskteball between 0.4s and 0.9s in cm?
+2651,S3,rul345,ag_rul345_patch_test.json,90.39070862553667,98.0574158227904,captured_0035bs,What is the displacement of the soccor ball ball between 0.4s and 0.9s in cm?
+2652,S3,rul345,ag_rul345_patch_test.json,73.45361208092437,106.01578875160834,captured_0035bs,What is the displacement of the baskteball between 0.4s and 0.9s in cm?
+2660,S3,rul345,ag_rul345_patch_test.json,90.39070862553667,97.87459501881891,captured_0035bx,What is the displacement of the soccor ball ball between 0.4s and 0.9s in cm?
+2661,S3,rul345,ag_rul345_patch_test.json,73.45361208092437,105.97885520421039,captured_0035bx,What is the displacement of the baskteball between 0.4s and 0.9s in cm?
+2665,S3,rul345,ag_rul345_patch_test.json,91.66624388807648,87.95133088070739,captured_0036,What is the ping pong ball's velocity at 0.9s in cm/s? 
+2666,S3,rul345,ag_rul345_patch_test.json,86.92731561729,98.00132238588078,captured_0036,What is the ping pong ball's velocity at 1.4s in cm/s? 
+2670,S3,rul345,ag_rul345_patch_test.json,91.66624388807648,86.0248765849374,captured_0036s,What is the ping pong ball's velocity at 0.9s in cm/s? 
+2671,S3,rul345,ag_rul345_patch_test.json,86.92731561729,99.72545092807546,captured_0036s,What is the ping pong ball's velocity at 1.4s in cm/s? 
+2675,S3,rul345,ag_rul345_patch_test.json,91.66624388807648,85.92290252430837,captured_0036x,What is the ping pong ball's velocity at 0.9s in cm/s? 
+2676,S3,rul345,ag_rul345_patch_test.json,86.92731561729,100.63044358642512,captured_0036x,What is the ping pong ball's velocity at 1.4s in cm/s? 
+2699,S3,rul345,ag_rul345_patch_test.json,38.71153766746836,49.83682872623441,captured_0038,What is the velocity of the white ball at 1.4s in cm/s? 
+2702,S3,rul345,ag_rul345_patch_test.json,23.196562295342307,22.74809895646266,captured_0038,What is the displacement of the white ball between 0.9s and 1.4s in cm?
+2706,S3,rul345,ag_rul345_patch_test.json,38.71153766746836,51.12754189850339,captured_0038s,What is the velocity of the white ball at 1.4s in cm/s? 
+2709,S3,rul345,ag_rul345_patch_test.json,23.196562295342307,21.84395089221006,captured_0038s,What is the displacement of the white ball between 0.9s and 1.4s in cm?
+2713,S3,rul345,ag_rul345_patch_test.json,38.71153766746836,49.61287634087928,captured_0038x,What is the velocity of the white ball at 1.4s in cm/s? 
+2716,S3,rul345,ag_rul345_patch_test.json,23.196562295342307,20.965324099870625,captured_0038x,What is the displacement of the white ball between 0.9s and 1.4s in cm?
+2720,S3,rul345,ag_rul345_patch_test.json,77.485415962125,57.07647438337293,captured_0039,What is the velocity of the white ball at 1.0s in cm/s? 
+2723,S3,rul345,ag_rul345_patch_test.json,28.091081386910773,28.497759810865436,captured_0039,What is the displacement of the white ball between 1.0s and 1.5s in cm?
+2727,S3,rul345,ag_rul345_patch_test.json,77.485415962125,57.04112452094332,captured_0039s,What is the velocity of the white ball at 1.0s in cm/s? 
+2730,S3,rul345,ag_rul345_patch_test.json,28.091081386910773,28.503120260151803,captured_0039s,What is the displacement of the white ball between 1.0s and 1.5s in cm?
+2734,S3,rul345,ag_rul345_patch_test.json,77.485415962125,57.11078820503872,captured_0039x,What is the velocity of the white ball at 1.0s in cm/s? 
+2737,S3,rul345,ag_rul345_patch_test.json,28.091081386910773,28.49534784876971,captured_0039x,What is the displacement of the white ball between 1.0s and 1.5s in cm?
+2741,S3,rul345,ag_rul345_patch_test.json,120.05805688859768,123.2268061431243,captured_0040,What is the velocity of the white ball at 1.5s in cm/s? 
+2744,S3,rul345,ag_rul345_patch_test.json,37.53197857824217,48.27355352156069,captured_0040,What is the distance travelled by the white ball between 1.5s and 1.9s in cm?
+2747,S3,rul345,ag_rul345_patch_test.json,160.59937939456475,237.83949767292341,captured_0040,What is the velocity of the white ball at 1.4s in cm/s? 
+2749,S3,rul345,ag_rul345_patch_test.json,120.05805688859768,124.04747630923502,captured_0040s,What is the velocity of the white ball at 1.5s in cm/s? 
+2752,S3,rul345,ag_rul345_patch_test.json,37.53197857824217,49.28390205365908,captured_0040s,What is the distance travelled by the white ball between 1.5s and 1.9s in cm?
+2755,S3,rul345,ag_rul345_patch_test.json,160.59937939456475,235.4308572960416,captured_0040s,What is the velocity of the white ball at 1.4s in cm/s? 
+2757,S3,rul345,ag_rul345_patch_test.json,120.05805688859768,119.62213906384409,captured_0040x,What is the velocity of the white ball at 1.5s in cm/s? 
+2760,S3,rul345,ag_rul345_patch_test.json,37.53197857824217,47.97952431000552,captured_0040x,What is the distance travelled by the white ball between 1.5s and 1.9s in cm?
+2763,S3,rul345,ag_rul345_patch_test.json,160.59937939456475,225.78618469697705,captured_0040x,What is the velocity of the white ball at 1.4s in cm/s? 
+2949,S2,claimA,pred_t156_rows.csv#claimA,6.276923076923077,6.2,internet_0002_segmented,What is the length of the red car in meters? 
+2950,S2,claimA,pred_t156_rows.csv#claimA,2.426373626373626,2.2,internet_0002_segmented,What is the width of the red car in meters? 
+2969,S2,claimA,pred_t156_rows.csv#claimA,13.0,61.661326696498676,internet_0017_segmented,What is moving speed of the user's (middle) fingertip at 0.4s in cm/s? 
+3050,S2,claimA,pred_t156_rows.csv#claimA,11.795415011011,9.5,internet_0040,What's the length of the credit card in cm?
+3055,S2,claimA,pred_t156_rows.csv#claimA,210.0,203.82150966381207,internet_0041,What is the distance between the pillars of the arches on the ground in cm?
+3057,S2,claimA,pred_t156_rows.csv#claimA,132.0,114.63840645757217,internet_0041,What is the distance between the pillars of the arches on the second floor in cm?
+3100,D2,claimA,pred_t156_rows.csv#claimA,37.017,5.588027540347929,internet_0047,What is width of the lines on the floor in cm? 
+3122,D2,claimA,pred_t156_rows.csv#claimA,1.1339200117386468,1.1,internet_0050,What is the height of the left basketball backboard in meters?
+3162,D2,claimA,pred_t156_rows.csv#claimA,2.745,3.058557042749769,internet_0057,What is the distance between the basket and the floor in meters? 
+3171,D2,claimA,pred_t156_rows.csv#claimA,2.745,3.0654946668993333,internet_0058,What is the distance between the basket and the floor in meters? 
+3280,S2,claimA,pred_t156_rows.csv#claimA,0.4514648165123825,0.4493351549125003,internet_0073,What is the displacement of the blue bag between 2.00s and 3.50s in meters? 

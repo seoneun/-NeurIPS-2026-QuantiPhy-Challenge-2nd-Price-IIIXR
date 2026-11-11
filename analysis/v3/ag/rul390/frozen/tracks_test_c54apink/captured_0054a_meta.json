@@ -1,0 +1,78 @@
+{
+ "split": "test",
+ "video": "captured_0054a",
+ "video_file": "@QP_ROOT@/data/test/captured_0054a.mp4",
+ "phrase": "pink ball",
+ "det": "owlv2",
+ "obj": "pink ball",
+ "keys": [],
+ "picks": [
+  {
+   "frame": 0,
+   "k": 0,
+   "idx": 0,
+   "score": 0.2598,
+   "box": [
+    413.5,
+    252.8,
+    422.9,
+    263.7
+   ]
+  },
+  {
+   "frame": 24,
+   "k": 24,
+   "idx": 0,
+   "score": 0.2728,
+   "box": [
+    372.9,
+    174.2,
+    386.8,
+    187.3
+   ]
+  }
+ ],
+ "base": null,
+ "tag": "c54apink",
+ "models": {
+  "owlv2": "@QP_ROOT@/models/owlv2-base-patch16-ensemble",
+  "gdino": "@QP_ROOT@/models/grounding-dino-base",
+  "sam2": "@QP_ROOT@/models/sam2.1-hiera-large"
+ },
+ "n_frames": 49,
+ "n_mask": 45,
+ "changes": {
+  "M": [
+   {
+    "list": "queries",
+    "key": "pink ball|",
+    "old_obj": 4,
+    "new_obj": "6"
+   },
+   {
+    "list": "queries_d",
+    "key": "pink ball|",
+    "old_obj": 3,
+    "new_obj": "6"
+   }
+  ],
+  "V": [
+   {
+    "list": "queries",
+    "key": "pink ball|",
+    "old_obj": null,
+    "new_obj": "3"
+   },
+   {
+    "list": "queries_d",
+    "key": "pink ball|",
+    "old_obj": null,
+    "new_obj": "3"
+   }
+  ]
+ },
+ "t_decode": 0.2,
+ "t_load": 3.0,
+ "t_sam": 4.8,
+ "t_total": 8.2
+}

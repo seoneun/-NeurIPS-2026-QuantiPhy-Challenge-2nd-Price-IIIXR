@@ -1,0 +1,10 @@
+{
+ "3021": {
+  "value": 0.7019297470962321,
+  "why": "rul425: 'plate|' static in the build track (_v3ntmv obj 0); same-key v3nt obj 0 moves (169.4px, size 64.0px, 447.2px away); 2D geo 0.8798 (avgspeed, mpp 0.004878, drift 2.8px from 3 static tracks) -> agree_gm with CaW 0.56"
+ },
+ "3022": {
+  "value": 0.41194092251963066,
+  "why": "rul425: 'plate|' static in the build track (_v3ntmv obj 0); same-key v3nt obj 0 moves (169.4px, size 64.0px, 447.2px away); 2D geo 0.3085 (avgspeed, mpp 0.004878, drift 4.9px from 3 static tracks) -> agree_gm with CaW 0.55"
+ }
+}

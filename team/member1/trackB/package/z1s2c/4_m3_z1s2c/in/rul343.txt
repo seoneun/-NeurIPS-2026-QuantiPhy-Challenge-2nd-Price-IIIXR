@@ -1,0 +1,329 @@
+@@r1_G.json
+{
+"rul434": {
+"701": [
+1.1121860698274808,
+"horizontal pitch 64.1 px (grid, 5 frames 64-64, perp 118 px, lattice 9/10) / 57.6 px/m [prior black cat 2.50 px/frame x 24 fps = 60.0 px/s / 1.041 m/s]; grout at [[192, 255, 319, 449, 529, 577, 641, 705, 770, 834]]"
+],
+"3265": [
+25.05761497988838,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1400.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.08324492305478,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1400.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"499": [
+0.007624444444444444,
+"macro scene: VLM part track 146px x 0.0522 mm/px (prior 1.88 mm / 36px)"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {
+"2814": [
+11.388734211743726,
+"width = short side of the segmented target 29.5px (raw 28.2) x Z 2.08 m / f 539px; f from prior trash bin 197px/s (v2sc obj 1) at Z 2.73 m / 0.9962 m/s; elev 53deg (pitch 36 from 2 depth pairs), stretch x1.25; 48 static frames"
+],
+"2815": [
+20.756012753109374,
+"length = long side of the segmented target 53.7px (raw 46.1) x Z 2.08 m / f 539px; f from prior trash bin 197px/s (v2sc obj 1) at Z 2.73 m / 0.9962 m/s; elev 53deg (pitch 36 from 2 depth pairs), stretch x1.25; 48 static frames"
+],
+"2822": [
+11.762784126856701,
+"width = short side of the segmented target 29.7px (raw 28.7) x Z 2.08 m / f 526px; f from prior trash bin 192px/s (v2sc obj 3) at Z 2.73 m / 0.9962 m/s; elev 54deg (pitch 36 from 2 depth pairs), stretch x1.24; 48 static frames"
+],
+"2823": [
+21.360227168271948,
+"length = long side of the segmented target 53.9px (raw 48.1) x Z 2.08 m / f 526px; f from prior trash bin 192px/s (v2sc obj 3) at Z 2.73 m / 0.9962 m/s; elev 54deg (pitch 36 from 2 depth pairs), stretch x1.24; 48 static frames"
+]
+},
+"rul414": {
+"3039": [
+3.7967073170731704,
+"scene box 382 px on the uncut axis x 1.63 m / prior box 164 px (prior swimming woman); CaW 10 replaced"
+]
+},
+"rul220": {
+"1065": [
+1.15,
+"target box cut by the border on the x axis in 100% of frames: geo 0.785 is a lower bound; CaW 1.15 (max of crop / full read) >= 1.3x geo answers"
+],
+"1080": [
+2.225447825869723,
+"target box cut by the border on the y axis in 100% of frames: geo 2.23 is a lower bound; CaW 2.1 lies below the bound, the fused 2.16 rises to the bound"
+],
+"1689": [
+19.05366342360586,
+"target box cut by the border on the x axis in 64% of frames: geo 19.1 is a lower bound; CaW 7.7 lies below the bound, the fused 12.1 rises to the bound"
+],
+"1691": [
+8.269380254406569,
+"target box cut by the border on the x axis in 64% of frames: geo 8.27 is a lower bound; CaW 7.35 lies below the bound, the fused 7.8 rises to the bound"
+],
+"1697": [
+7.00106963395445,
+"target box cut by the border on the x axis in 65% of frames: geo 7 is a lower bound; CaW 4.12 lies below the bound, the fused 5.37 rises to the bound"
+]
+}
+}
+@@r1_test_00.json
+{
+"rul434": {
+"701": [
+1.1122068858918204,
+"horizontal pitch 64.1 px (grid, 5 frames 64-64, perp 22 px, lattice 10/14) / 57.6 px/m [prior black cat 2.50 px/frame x 24 fps = 60.0 px/s / 1.041 m/s]; grout at [[10, 61, 103, 146, 190, 255, 319, 449, 529, 577, 641, 705, 770, 834]]"
+],
+"3265": [
+25.05761497988838,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1400.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.08324492305478,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1400.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {},
+"rul414": {},
+"rul220": {
+"1431": [
+1.141285840066524,
+"target box cut by the border on the x axis in 100% of frames: geo 1.14 is a lower bound; CaW 0.67 lies below the bound, the fused 0.917 rises to the bound"
+],
+"1689": [
+19.05366342360586,
+"target box cut by the border on the x axis in 64% of frames: geo 19.1 is a lower bound; CaW 7.7 lies below the bound, the fused 12.1 rises to the bound"
+],
+"1691": [
+8.269380254406569,
+"target box cut by the border on the x axis in 64% of frames: geo 8.27 is a lower bound; CaW 7.35 lies below the bound, the fused 7.8 rises to the bound"
+]
+}
+}
+@@r1_test_01.json
+{
+"rul434": {
+"701": [
+1.1122068858918204,
+"horizontal pitch 64.1 px (grid, 5 frames 64-64, perp 22 px, lattice 10/14) / 57.6 px/m [prior black cat 2.50 px/frame x 24 fps = 60.0 px/s / 1.041 m/s]; grout at [[10, 61, 103, 146, 190, 255, 319, 449, 529, 577, 641, 705, 770, 834]]"
+],
+"3265": [
+25.147427219959667,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.144475191596197,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {},
+"rul414": {},
+"rul220": {
+"1431": [
+1.141285840066524,
+"target box cut by the border on the x axis in 100% of frames: geo 1.14 is a lower bound; CaW 0.67 lies below the bound, the fused 0.917 rises to the bound"
+],
+"1689": [
+19.05366342360586,
+"target box cut by the border on the x axis in 64% of frames: geo 19.1 is a lower bound; CaW 7.7 lies below the bound, the fused 12.1 rises to the bound"
+],
+"1691": [
+8.269380254406569,
+"target box cut by the border on the x axis in 64% of frames: geo 8.27 is a lower bound; CaW 7.35 lies below the bound, the fused 7.8 rises to the bound"
+]
+}
+}
+@@r1_test_02.json
+{
+"rul434": {
+"701": [
+1.1121860698274808,
+"horizontal pitch 64.1 px (grid, 5 frames 64-64, perp 118 px, lattice 9/10) / 57.6 px/m [prior black cat 2.50 px/frame x 24 fps = 60.0 px/s / 1.041 m/s]; grout at [[192, 255, 319, 449, 529, 577, 641, 705, 770, 834]]"
+],
+"3265": [
+25.147427219959667,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.144475191596197,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {},
+"rul414": {},
+"rul220": {
+"1065": [
+1.15,
+"target box cut by the border on the x axis in 100% of frames: geo 0.785 is a lower bound; CaW 1.15 (max of crop / full read) >= 1.3x geo answers"
+],
+"1431": [
+1.141285840066524,
+"target box cut by the border on the x axis in 100% of frames: geo 1.14 is a lower bound; CaW 0.67 lies below the bound, the fused 0.917 rises to the bound"
+],
+"1689": [
+19.05366342360586,
+"target box cut by the border on the x axis in 64% of frames: geo 19.1 is a lower bound; CaW 7.7 lies below the bound, the fused 12.1 rises to the bound"
+],
+"1691": [
+8.269380254406569,
+"target box cut by the border on the x axis in 64% of frames: geo 8.27 is a lower bound; CaW 7.35 lies below the bound, the fused 7.8 rises to the bound"
+],
+"1697": [
+7.00106963395445,
+"target box cut by the border on the x axis in 65% of frames: geo 7 is a lower bound; CaW 4.12 lies below the bound, the fused 5.37 rises to the bound"
+]
+}
+}
+@@r1_test_03.json
+{
+"rul434": {
+"3265": [
+25.147427219959667,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.144475191596197,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"499": [
+0.007624444444444444,
+"macro scene: VLM part track 146px x 0.0522 mm/px (prior 1.88 mm / 36px)"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {},
+"rul414": {},
+"rul220": {
+"1431": [
+1.141285840066524,
+"target box cut by the border on the x axis in 100% of frames: geo 1.14 is a lower bound; CaW 0.67 lies below the bound, the fused 0.917 rises to the bound"
+],
+"1697": [
+7.00106963395445,
+"target box cut by the border on the x axis in 65% of frames: geo 7 is a lower bound; CaW 4.12 lies below the bound, the fused 5.37 rises to the bound"
+]
+}
+}
+@@r1_test_04.json
+{
+"rul434": {
+"3265": [
+25.147427219959667,
+"horizontal pitch 350.8 px (running bond 1/2, 5 frames 351-351, perp 238 px, lattice 5/5) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[58, 402, 764], [221, 579], [56, 400, 774]]"
+],
+"3266": [
+17.144475191596197,
+"vertical pitch 239.2 px (grid, 5 frames 238-239, perp 181 px, lattice 2/2) / 1395.0 px/m [prior toilet paper width 140 px / 0.1 m]; grout at [[152, 390]]"
+]
+},
+"rul312": {
+"497": [
+0.001049563506448,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.00047 is a real-world size"
+],
+"500": [
+0.0120975987306309,
+"macro scene (size prior 1.88 mm): geo vlm_2d_ratio alone, CaW 0.06 is a real-world size"
+]
+},
+"rul217": {
+"749": [
+2.6059325874126498,
+"wall-ceiling edge y=77, wall-floor edge y=423 in band x492-634 (median frame): 346px / (94.8px/s / 0.714m/s = 132.8px/m)"
+]
+},
+"rul008": {},
+"rul414": {
+"3039": [
+3.7967073170731704,
+"scene box 382 px on the uncut axis x 1.63 m / prior box 164 px (prior swimming woman); CaW 10 replaced"
+]
+},
+"rul220": {
+"1431": [
+1.141285840066524,
+"target box cut by the border on the x axis in 100% of frames: geo 1.14 is a lower bound; CaW 0.67 lies below the bound, the fused 0.917 rises to the bound"
+],
+"1697": [
+7.00106963395445,
+"target box cut by the border on the x axis in 65% of frames: geo 7 is a lower bound; CaW 4.12 lies below the bound, the fused 5.37 rises to the bound"
+]
+}
+}

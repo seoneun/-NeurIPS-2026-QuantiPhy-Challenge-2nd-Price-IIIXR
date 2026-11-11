@@ -1,0 +1,12 @@
+name	pred_t007
+base	pred_t006
+block	claimC	D2+D3	rows:analysis/v3/calib/pred_t153_rows.csv#claimC
+block	r2_d2sim_farmfront	D2+D3	rows:analysis/v3/calib/pred_t153_rows.csv#r2_d2sim_farmfront
+block	r2_simsize_animlink	S3	rows:analysis/v3/calib/pred_t153_rows.csv#r2_simsize_animlink
+block	r2_strictport_tspendaq	D3	rows:analysis/v3/calib/pred_t153_rows.csv#r2_strictport_tspendaq
+block	rul348	D2+D3	json:patches/ag_rul348_patch_test.json
+block	rul344	D2	json:patches/ag_rul344_patch_test.json
+block	claimC_S3	S3	rows:analysis/v3/calib/claimC/claimC_sel_rows.csv#claimC
+block	rul347	S3	json:patches/ag_rul347_patch_test.json
+block	w1_labradius	D3	rows:analysis/v3/calib/pred_t012_rows.csv#w1_labradius
+block	w1_deskcorner	D3	rows:analysis/v3/calib/pred_t012_rows.csv#w1_deskcorner

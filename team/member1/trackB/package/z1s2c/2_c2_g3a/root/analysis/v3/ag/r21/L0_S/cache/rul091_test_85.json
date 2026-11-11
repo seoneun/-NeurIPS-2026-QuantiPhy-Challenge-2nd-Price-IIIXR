@@ -1,0 +1,1 @@
+{"meas": 4.7152, "val": 4.7152, "how": "agree_geo_kind", "got": {"dir": "tracks_test_v3nt", "qk": "queries", "obj": 0, "iou": 0.0, "pres": 1.0, "fk": 12, "dpx": 457.5, "meas": 4.7152, "val": 4.7152, "how": "agree_geo_kind"}, "ie12": 0.395, "mode": "vlm_2d_ratio"}

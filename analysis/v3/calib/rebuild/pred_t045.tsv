@@ -1,0 +1,6 @@
+name	pred_t045
+base	pred_t007
+block	r4_S2	S2	json:patches/ag_rul359_patch_test.json
+block	r4_D2	D2	json:patches/ag_rul357_patch_test.json
+block	r4_S3	S3	json:patches/ag_rul360_patch_test.json
+block	r4_D3	D3	json:patches/ag_rul358_patch_test.json

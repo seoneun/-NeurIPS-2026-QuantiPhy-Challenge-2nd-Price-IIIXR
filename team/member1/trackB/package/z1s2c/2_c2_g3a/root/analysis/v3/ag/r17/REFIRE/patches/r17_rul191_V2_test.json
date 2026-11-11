@@ -1,0 +1,58 @@
+{
+ "89": {
+  "value": 2.0,
+  "before": 2.3347064062469496,
+  "video_id": "simulation_0082",
+  "cat": "S2",
+  "sub_id": 90
+ },
+ "94": {
+  "value": 2.02,
+  "before": 2.31525,
+  "video_id": "simulation_0083",
+  "cat": "S2",
+  "sub_id": 95
+ },
+ "96": {
+  "value": 2.0,
+  "before": 2.31525,
+  "video_id": "simulation_0083",
+  "cat": "S2",
+  "sub_id": 97
+ },
+ "102": {
+  "value": 1.8,
+  "before": 2.5301077093925106,
+  "video_id": "simulation_0084",
+  "cat": "D2",
+  "sub_id": 103
+ },
+ "104": {
+  "value": 1.7,
+  "before": 2.582818286671521,
+  "video_id": "simulation_0084",
+  "cat": "D2",
+  "sub_id": 105
+ },
+ "118": {
+  "value": 1.8,
+  "before": 2.38074916193433,
+  "video_id": "simulation_0086",
+  "cat": "D2",
+  "sub_id": 119
+ },
+ "1308": {
+  "value": 2.01,
+  "before": 2.3196808530499946,
+  "video_id": "simulation_0064",
+  "cat": "D3",
+  "sub_id": 1309
+ },
+ "1320": {
+  "value": 2.0,
+  "before": 2.4555786188319138,
+  "video_id": "simulation_0065",
+  "cat": "D3",
+  "sub_id": 1321
+ }
+}

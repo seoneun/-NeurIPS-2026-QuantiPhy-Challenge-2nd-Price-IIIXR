@@ -1,0 +1,26 @@
+{
+ "504": {
+  "value": 0.008147999999999982,
+  "why": "rul315: free fall of 'droplet' a=21429 px/s^2 -> mpp=g/a=0.000453 m/px; target ext_height 18.0 px -> geo 0.008148 vs CaW 0.1 -> dis_geo(strong 2d_ratio) 0.008148 (was 0.081 caw_nogeo)"
+ },
+ "505": {
+  "value": 0.004979333333333323,
+  "why": "rul315: free fall of 'droplet' a=21429 px/s^2 -> mpp=g/a=0.000453 m/px; target box_width 11.0 px -> geo 0.004979 vs CaW 0.0004 -> dis_geo(strong 2d_ratio) 0.004979 (was 0.000324 caw_nogeo)"
+ },
+ "507": {
+  "value": 0.045317441272168385,
+  "why": "rul315: free fall of 'droplet' a=21429 px/s^2 -> mpp=g/a=0.000453 m/px; target ext_diameter 79.2 px -> geo 0.03586 vs CaW 0.07 -> agree_wgm 0.04532 (was 0.0567 caw_nogeo)"
+ },
+ "508": {
+  "value": 0.02399133333333328,
+  "why": "rul315: free fall of 'droplet' a=21429 px/s^2 -> mpp=g/a=0.000453 m/px; target box_width 53.0 px -> geo 0.02399 vs CaW 0.11 -> dis_geo(strong 2d_ratio) 0.02399 (was 0.0891 caw_nogeo)"
+ },
+ "509": {
+  "value": 0.03983466666666658,
+  "why": "rul315: free fall of 'droplet' a=21429 px/s^2 -> mpp=g/a=0.000453 m/px; target box_height 88.0 px -> geo 0.03983 vs CaW 0.13 -> dis_geo(strong 2d_ratio) 0.03983 (was 0.1053 caw_nogeo)"
+ },
+ "2996": {
+  "value": 7.7817236460575145,
+  "why": "rul315: free fall of 'ball' a=4218 px/s^2 -> mpp=g/a=0.00232 m/px; target ext_diameter 33.0 px -> geo 7.667 vs CaW 8 -> agree_wgm 7.782 (was 6.48 caw_nogeo)"
+ }
+}

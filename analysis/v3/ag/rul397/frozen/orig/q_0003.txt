@@ -1,0 +1,16 @@
+M v2sc: @QP_ROOT@/geo/out/tracks_test/internet_0003.json | 37 frames stride 1 911x480 fps 24.0
+   key 'pizza|'                                 obj None frames  37 med box 339x318 gd 0.00 owl 0.00 roles ['target']
+   key 'monopoly money|'                        obj None frames  37 med box 78x115 gd 0.00 owl 0.00 roles ['prior', 'prior', 'prior', 'prior']
+   key 'wine glass|'                            obj None frames  37 med box 141x157 gd 0.00 owl 0.00 roles ['target']
+   key 'pizza cutter|'                          obj None frames  37 med box 61x49 gd 0.00 owl 0.00 roles ['target']
+   key 'pepperoni|'                             obj None frames  37 med box 295x283 gd 0.00 owl 0.00 roles ['target']
+V v3ntmv: @QP_ROOT@/geo/out/tracks_test_v3ntmv/internet_0003.json | 37 frames stride 1 910x480 fps 24.0
+   key 'pizza|'                                 obj 0    frames  37 med box 338x318 gd 1.00 owl 1.00 roles ['target']
+   key 'monopoly money|'                        obj 1    frames  37 med box 153x174 gd 1.00 owl 1.00 roles ['prior']
+   key 'wine glass|'                            obj 2    frames  37 med box 141x157 gd 1.00 owl 1.00 roles ['target']
+   key 'pizza cutter|'                          obj 3    frames  37 med box 56x42 gd 0.50 owl 0.50 roles ['target']
+   key 'pepperoni|'                             obj 4    frames  37 med box 345x327 gd 1.00 owl 1.00 roles ['target']
+row 2021: What is the diameter of the pizza in cm? | target 'pizza|' target2 None prior 'monopoly money|'
+row 2022: What is the diameter of the wine glass in cm? | target 'wine glass|' target2 None prior 'monopoly money|'
+row 2023: What is the velocity of the pizza cutter in cm/s at 0.2s? | target 'pizza cutter|' target2 None prior 'monopoly money|'
+row 2024: What is the diameter of a pepperoni on the pizza in cm? | target 'pepperoni|' target2 None prior 'monopoly money|'

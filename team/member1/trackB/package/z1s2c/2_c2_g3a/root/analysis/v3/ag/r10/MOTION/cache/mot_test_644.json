@@ -1,0 +1,1 @@
+{"id": 644, "split": "test", "video": "simulation_0219", "tv": "v2", "kind": "speed", "g_box": 1.088899663921711, "g_pt": 1.075722975130704, "mode_box": "2d_ratio", "mode_pt": "2d_ratio", "J": 1.0, "kept_target": 150, "single_row_same": true, "n_obj_sub": 8}

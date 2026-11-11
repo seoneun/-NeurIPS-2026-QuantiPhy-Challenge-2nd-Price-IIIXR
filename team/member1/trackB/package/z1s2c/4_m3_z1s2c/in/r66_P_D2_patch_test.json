@@ -1,0 +1,2194 @@
+{
+"6": {
+"value": 3.8570469916011976,
+"before": 4.052740815497694,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0012",
+"question": "How wide is the bird's wingspan when it spreads its wings in meters?",
+"unit": "r66_D2_ALL"
+},
+"7": {
+"value": 1.75,
+"before": 1.4580000000000002,
+"why": "r66 D2 P_rul051: old own-row patch value (same base)",
+"video_id": "simulation_0020",
+"question": "What is the height of the person in meters?",
+"unit": "r66_D2_ALL"
+},
+"9": {
+"value": 0.30873425742792004,
+"before": 0.11347243060663,
+"why": "r66 D2 DISGM_PRESCALE: dis_size_gm formula on own m3 inputs g 0.11347243060663 c 0.75",
+"video_id": "simulation_0020",
+"question": "What is the diameter of the ball in meters?",
+"unit": "r66_D2_ALL"
+},
+"67": {
+"value": 0.6522236645984509,
+"before": 0.6523019550115661,
+"why": "r66 D2 P_rul417: old own-row patch value (same base)",
+"video_id": "simulation_0076",
+"question": "What is the distance between the person in the black shirt and the person in the white shirt at 1.0s in meters?",
+"unit": "r66_D2_ALL"
+},
+"68": {
+"value": 0.8305864693868437,
+"before": 0.8024227693847391,
+"why": "r66 D2 P_rul417: old own-row patch value (same base)",
+"video_id": "simulation_0076",
+"question": "What is the distance between the person in the black shirt and the person in the white shirt at 2.0s in meters?",
+"unit": "r66_D2_ALL"
+},
+"70": {
+"value": 2.1392140585282977,
+"before": 2.062283003233575,
+"why": "r66 D2 P_rul417: old own-row patch value (same base)",
+"video_id": "simulation_0077",
+"question": "What is the distance between the person in the black shirt and the person in the white shirt at 1.0s in meters?",
+"unit": "r66_D2_ALL"
+},
+"71": {
+"value": 4.045943864550837,
+"before": 4.100235254418366,
+"why": "r66 D2 P_rul417: old own-row patch value (same base)",
+"video_id": "simulation_0077",
+"question": "What is the distance between the person in the black shirt and the person in the white shirt at 2.0s in meters?",
+"unit": "r66_D2_ALL"
+},
+"102": {
+"value": 2.3971381565346594,
+"before": 1.8,
+"why": "r66 D2 P_rul271: old own-row patch value (same base)",
+"video_id": "simulation_0084",
+"question": "What is the width of the yellow car in meters?",
+"unit": "r66_D2_ALL"
+},
+"104": {
+"value": 2.3563835906607657,
+"before": 1.7,
+"why": "r66 D2 P_rul271: old own-row patch value (same base)",
+"video_id": "simulation_0084",
+"question": "What is the width of the black and white car in meters?",
+"unit": "r66_D2_ALL"
+},
+"118": {
+"value": 2.38074916193433,
+"before": 1.8,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 2.38074916193433 c 1.8",
+"video_id": "simulation_0086",
+"question": "What is the width of the car in meters?",
+"unit": "r66_D2_ALL"
+},
+"132": {
+"value": 2.1849607481115423,
+"before": 2.1369964566513704,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0088",
+"question": "What is the width (wingspan) of the big bird in meters?",
+"unit": "r66_D2_ALL"
+},
+"134": {
+"value": 0.8720269504394385,
+"before": 1.0545655884523542,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0088",
+"question": "What is the width (wingspan) of the small bird in meters?",
+"unit": "r66_D2_ALL"
+},
+"160": {
+"value": 2.085337107421417,
+"before": 1.45,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 2.085337107421417 c 1.45",
+"video_id": "simulation_0094",
+"question": "What is the height of the car in meters?",
+"unit": "r66_D2_ALL"
+},
+"181": {
+"value": 1.2214288616156403,
+"before": 0.9663232050442636,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.2214288616156403 c 0.8",
+"video_id": "simulation_0098",
+"question": "What is the height of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"190": {
+"value": 1.992664939013332,
+"before": 2.006753053416201,
+"why": "r66 D2 P_rul059: old own-row patch value (same base)",
+"video_id": "simulation_0101",
+"question": "What is the speed of the shark at 0.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"194": {
+"value": 1.2037612091380805,
+"before": 0.9593089401912662,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.2037612091380805 c 0.8",
+"video_id": "simulation_0101",
+"question": "What is the height of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"195": {
+"value": 1.9875215152547252,
+"before": 1.9860567117428467,
+"why": "r66 D2 P_rul059: old own-row patch value (same base)",
+"video_id": "simulation_0102",
+"question": "What is the speed of the shark at 0.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"201": {
+"value": 1.9903289257521912,
+"before": 2.006037760952921,
+"why": "r66 D2 P_rul059: old own-row patch value (same base)",
+"video_id": "simulation_0103",
+"question": "What is the speed of the shark at 0.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"205": {
+"value": 1.1803802882204544,
+"before": 0.9516971512840088,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.1803802882204544 c 0.8",
+"video_id": "simulation_0103",
+"question": "What is the height of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"209": {
+"value": 0.1,
+"before": 0.09000000000000001,
+"why": "r66 D2 P_rul248: old own-row patch value (same base)",
+"video_id": "simulation_0104",
+"question": "What is the extension of the charging post at 0.5s in meters?",
+"unit": "r66_D2_ALL"
+},
+"213": {
+"value": 9.8,
+"before": 10.026172585460202,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 9.63570910649783 c 9.8",
+"video_id": "simulation_0105",
+"question": "What is the velocity of the ice cube at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"214": {
+"value": 1.940492947528483,
+"before": 2.4786684515538413,
+"why": "r66 D2 P_rul276: old own-row patch value (same base)",
+"video_id": "simulation_0106",
+"question": "What is the velocity of the left virus at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"217": {
+"value": 1.8287501794983332,
+"before": 2.260014659423609,
+"why": "r66 D2 P_rul017: old own-row patch value (same base)",
+"video_id": "simulation_0107",
+"question": "What is the velocity of the left virus at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"223": {
+"value": 4.015185034062977,
+"before": 4.033409208351807,
+"why": "r66 D2 P_rul175: old own-row patch value (same base)",
+"video_id": "simulation_0111",
+"question": "What is the length of the boat in meters?",
+"unit": "r66_D2_ALL"
+},
+"224": {
+"value": 1.5112831367839676,
+"before": 1.591969041109616,
+"why": "r66 D2 P_rul175: old own-row patch value (same base)",
+"video_id": "simulation_0111",
+"question": "What is the width of the boat in meters?",
+"unit": "r66_D2_ALL"
+},
+"225": {
+"value": 6.9079045754353565,
+"before": 6.45184462472905,
+"why": "r66 D2 P_rul175: old own-row patch value (same base)",
+"video_id": "simulation_0111",
+"question": "What is the width of the bridge in meters?",
+"unit": "r66_D2_ALL"
+},
+"226": {
+"value": 0.7372213963866674,
+"before": 0.6834216812443844,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0112",
+"question": "What is the thickness of the bridge in meters?",
+"unit": "r66_D2_ALL"
+},
+"227": {
+"value": 1.2640739054016747,
+"before": 1.2040383258973013,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0112",
+"question": "What is the height of the car in meters?",
+"unit": "r66_D2_ALL"
+},
+"228": {
+"value": 0.6847760879194429,
+"before": 0.6810501878387579,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0112",
+"question": "What is the diameter of the wheel in meters?",
+"unit": "r66_D2_ALL"
+},
+"229": {
+"value": 4.450104076399029,
+"before": 4.390495328569073,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0112",
+"question": "What is the length of the car in meters?",
+"unit": "r66_D2_ALL"
+},
+"234": {
+"value": 27.0,
+"before": 27.040879490905287,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 26.85157162867052 c 27.0",
+"video_id": "simulation_0114",
+"question": "What is the speed of the plane at 1.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"237": {
+"value": 2.3520000000000003,
+"before": 1.526187021510421,
+"why": "r66 D2 DISGM_PRESCALE: phys_bound_final formula on own m3 inputs g 1.526187021510421 c 2.1",
+"video_id": "simulation_0116",
+"question": "What is the height of he middle yellow door in meters?",
+"unit": "r66_D2_ALL"
+},
+"239": {
+"value": 4.9,
+"before": 4.901963237623743,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 4.857691801753131 c 4.9",
+"video_id": "simulation_0116",
+"question": "What is the speed of the football at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"248": {
+"value": 0.1709931840097663,
+"before": 0.2349,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.1709931840097663 c 0.29 (own old geo; m3-era row has none)",
+"video_id": "simulation_0118",
+"question": "What is the length of the book in meters?",
+"unit": "r66_D2_ALL"
+},
+"251": {
+"value": 0.0507624941153597,
+"before": 0.032400000000000005,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.0507624941153597 c 0.04 (own old geo; m3-era row has none)",
+"video_id": "simulation_0119",
+"question": "What is the diameter of the moving chess piece in meters?",
+"unit": "r66_D2_ALL"
+},
+"257": {
+"value": 1.2320000000000002,
+"before": 0.8585371062900621,
+"why": "r66 D2 P_rul250: old own-row patch value (same base)",
+"video_id": "simulation_0120",
+"question": "What is the length of the TV in meters?",
+"unit": "r66_D2_ALL"
+},
+"268": {
+"value": 0.399168,
+"before": 0.44,
+"why": "r66 D2 P_rul005: old own-row patch value (same base)",
+"video_id": "simulation_0123",
+"question": "What is the length of the largest towel of the three stacked towels on the sink in meters?",
+"unit": "r66_D2_ALL"
+},
+"270": {
+"value": 27.802425771923463,
+"before": 24.07012788899842,
+"why": "r66 D2 P_rul276: old own-row patch value (same base)",
+"video_id": "simulation_0124",
+"question": "What is the speed of the grey and red car at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"289": {
+"value": 2.24,
+"before": 1.75,
+"why": "r66 D2 DISGM_PRESCALE: phys_bound formula on own m3 inputs g 3.7083467951907134 c 2.0",
+"video_id": "simulation_0127",
+"question": "What is the length of the bike in meters?",
+"unit": "r66_D2_ALL"
+},
+"305": {
+"value": 30.111951326254587,
+"before": 5.13,
+"why": "r66 D2 P_rul424: old own-row patch value (same base)",
+"video_id": "simulation_0130",
+"question": "What is the width of the helicopter in meters?",
+"unit": "r66_D2_ALL"
+},
+"312": {
+"value": 0.6662517406519671,
+"before": 0.6673438269071323,
+"why": "r66 D2 P_rul016: old own-row patch value (same base)",
+"video_id": "simulation_0132",
+"question": "What is the horizontal speed of the apple while it is in the air, in m/s?",
+"unit": "r66_D2_ALL"
+},
+"313": {
+"value": 0.2996738752982082,
+"before": 0.2995865283751415,
+"why": "r66 D2 P_rul016: old own-row patch value (same base)",
+"video_id": "simulation_0132",
+"question": "What is the horizontal distance of the apple during its parabolic motion, in meters?",
+"unit": "r66_D2_ALL"
+},
+"316": {
+"value": 0.6621929882292839,
+"before": 0.6627148761963192,
+"why": "r66 D2 P_rul016: old own-row patch value (same base)",
+"video_id": "simulation_0133",
+"question": "What is the horizontal speed of the apple when it leaves the table, in m/s?",
+"unit": "r66_D2_ALL"
+},
+"317": {
+"value": 0.2971780655875541,
+"before": 0.2972849348038706,
+"why": "r66 D2 P_rul016: old own-row patch value (same base)",
+"video_id": "simulation_0133",
+"question": "What is the horizontal displacement of the apple during its parabolic motion, in meters?",
+"unit": "r66_D2_ALL"
+},
+"318": {
+"value": 0.8411094862593356,
+"before": 0.8402652662451698,
+"why": "r66 D2 P_rul144: old own-row patch value (same base)",
+"video_id": "simulation_0133",
+"question": "What is the speed of the apple at time 1.2s, in m/s?",
+"unit": "r66_D2_ALL"
+},
+"352": {
+"value": 3.938773487583168,
+"before": 4.427471864122256,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0154",
+"question": "What is the length of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"354": {
+"value": 3.850082885767748,
+"before": 4.448777676685063,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0155",
+"question": "What is the length of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"356": {
+"value": 4.325784559006202,
+"before": 3.990704468108728,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0156",
+"question": "What is the length of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"358": {
+"value": 3.4767775922468807,
+"before": 2.2763583549919875,
+"why": "r66 D2 P_rul276: old own-row patch value (same base)",
+"video_id": "simulation_0156",
+"question": "What is the speed of the turtle at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"359": {
+"value": 1.2552415394651752,
+"before": 1.5418881306827534,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0156",
+"question": "What is the length of the turtle in meters?",
+"unit": "r66_D2_ALL"
+},
+"365": {
+"value": 3.9585,
+"before": 3.8178963189607447,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.682286801145385 c 3.9585",
+"video_id": "simulation_0158",
+"question": "What is the speed of the turtle at time 1.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"366": {
+"value": 4.420548926357018,
+"before": 4.036042430633699,
+"why": "r66 D2 P_rul202: old own-row patch value (same base)",
+"video_id": "simulation_0158",
+"question": "How long is the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"367": {
+"value": 4.26249906289398,
+"before": 3.798416187074904,
+"why": "r66 D2 P_rul202: old own-row patch value (same base)",
+"video_id": "simulation_0158",
+"question": "What is the length of the shark in meters?",
+"unit": "r66_D2_ALL"
+},
+"393": {
+"value": 7.065858147552254,
+"before": 6.995929043549739,
+"why": "r66 D2 P_rul127: old own-row patch value (same base)",
+"video_id": "simulation_0166",
+"question": "What is the speed of the police car at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"398": {
+"value": 6.925619451201987,
+"before": 8.701266363748546,
+"why": "r66 D2 P_rul276: old own-row patch value (same base)",
+"video_id": "simulation_0167",
+"question": "What is the speed of the police car at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"416": {
+"value": 48.40180400907408,
+"before": 46.72041043092726,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0173",
+"question": "What is the length of the airplane in meters?",
+"unit": "r66_D2_ALL"
+},
+"417": {
+"value": 43.38392817791303,
+"before": 42.31240975461753,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0173",
+"question": "What is the height of the stone cliff on the beach in meters?",
+"unit": "r66_D2_ALL"
+},
+"418": {
+"value": 1.3610062678497292,
+"before": 1.4957071289150032,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0173",
+"question": "What is the diameter of the rear wheels on an aircraft landing gear in meters?",
+"unit": "r66_D2_ALL"
+},
+"419": {
+"value": 49.040039768204366,
+"before": 46.6909217966131,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0175",
+"question": "What is the length of the airplane in meters?",
+"unit": "r66_D2_ALL"
+},
+"420": {
+"value": 43.21915225044052,
+"before": 41.82169271970955,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0175",
+"question": "What is the height of the stone cliff on the beach in meters?",
+"unit": "r66_D2_ALL"
+},
+"421": {
+"value": 1.4128193254367345,
+"before": 1.4107131314415835,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0175",
+"question": "What is the diameter of the rear wheels on an aircraft landing gear in meters?",
+"unit": "r66_D2_ALL"
+},
+"431": {
+"value": 1.9051200000000004,
+"before": 2.1,
+"why": "r66 D2 P_rul005: old own-row patch value (same base)",
+"video_id": "simulation_0179",
+"question": "What is the height of the entrance gate (including the frame) in meters?",
+"unit": "r66_D2_ALL"
+},
+"439": {
+"value": 0.553049478495843,
+"before": 0.5315421138740088,
+"why": "r66 D2 P_rul247: old own-row patch value (same base)",
+"video_id": "simulation_0181",
+"question": "What is the height of the box in meters?",
+"unit": "r66_D2_ALL"
+},
+"444": {
+"value": 0.9522504585093972,
+"before": 0.9309836214330489,
+"why": "r66 D2 P_rul041: old own-row patch value (same base)",
+"video_id": "simulation_0183",
+"question": "What is the height of the box in meters?",
+"unit": "r66_D2_ALL"
+},
+"450": {
+"value": 9.408,
+"before": 8.4,
+"why": "r66 D2 P_rul001: old own-row patch value (same base)",
+"video_id": "simulation_0187",
+"question": "What is the length of the truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"451": {
+"value": 3.4720000000000004,
+"before": 3.1,
+"why": "r66 D2 P_rul001: old own-row patch value (same base)",
+"video_id": "simulation_0187",
+"question": "What is the height of the truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"452": {
+"value": 0.8960000000000001,
+"before": 0.8,
+"why": "r66 D2 P_rul001: old own-row patch value (same base)",
+"video_id": "simulation_0187",
+"question": "What is the diameter of the truck's tire in meters?",
+"unit": "r66_D2_ALL"
+},
+"468": {
+"value": 3.8755647863631664,
+"before": 3.0,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 3.8755647863631664 c 3.0",
+"video_id": "simulation_0191",
+"question": "What is the height of the truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"469": {
+"value": 0.8802544625178169,
+"before": 0.9023499198365212,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.8802544625178169 c 0.9",
+"video_id": "simulation_0191",
+"question": "What is the diameter of the truck's tire in meters?",
+"unit": "r66_D2_ALL"
+},
+"473": {
+"value": 2.829982317110918,
+"before": 1.4673982385019575,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 2.829982317110918 c 2.4",
+"video_id": "simulation_0192",
+"question": "What is the width of the truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"535": {
+"value": 1.225,
+"before": 1.2385766064368673,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.252303681642993 c 1.225",
+"video_id": "simulation_0203",
+"question": "What is the speed of the magnifying glass at time 0.125s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"536": {
+"value": 2.45,
+"before": 2.4640547125099683,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 2.478190051527584 c 2.45",
+"video_id": "simulation_0203",
+"question": "What is the speed of the magnifying glass at time 0.25s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"538": {
+"value": 2.6450282860519567,
+"before": 1.8685388242122731,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 2.6450282860519567 c 1.2",
+"video_id": "simulation_0204",
+"question": "What is the length of the table in meters?",
+"unit": "r66_D2_ALL"
+},
+"542": {
+"value": 1.225,
+"before": 1.239450097718734,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.254070648763248 c 1.225",
+"video_id": "simulation_0204",
+"question": "What is the speed of the magnifying glass at time 0.125s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"543": {
+"value": 2.45,
+"before": 2.465132235877676,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 2.480357934842149 c 2.45",
+"video_id": "simulation_0204",
+"question": "What is the speed of the magnifying glass at time 0.25s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"548": {
+"value": 0.1873907099580096,
+"before": 0.2022648149834835,
+"why": "r66 D2 P_rul291: old own-row patch value (same base)",
+"video_id": "simulation_0207",
+"question": "What is the width of the paper next to the typewriter in meters?",
+"unit": "r66_D2_ALL"
+},
+"565": {
+"value": 0.4732508618612488,
+"before": 0.4234438041674674,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0210",
+"question": "What is the diameter of the lampshade of the table lamp in meters?",
+"unit": "r66_D2_ALL"
+},
+"575": {
+"value": 0.4883482295588528,
+"before": 0.4501313856173013,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0213",
+"question": "What is the diameter of the lampshade of the table lamp in meters?",
+"unit": "r66_D2_ALL"
+},
+"588": {
+"value": 0.53131890543471,
+"before": 0.5315535101465423,
+"why": "r66 D2 P_rul073: old own-row patch value (same base)",
+"video_id": "simulation_0214",
+"question": "What is the width of the TV stand in meters?",
+"unit": "r66_D2_ALL"
+},
+"589": {
+"value": 0.5048148160067081,
+"before": 0.5315535101465423,
+"why": "r66 D2 P_rul271: old own-row patch value (same base)",
+"video_id": "simulation_0214",
+"question": "What is the diameter of the lampshade of the table lamp in meters?",
+"unit": "r66_D2_ALL"
+},
+"594": {
+"value": 1.5517497899970107,
+"before": 1.3718129948108844,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0214",
+"question": "What is the diameter of the white fur carpet in meters?",
+"unit": "r66_D2_ALL"
+},
+"605": {
+"value": 1.7123971167003829,
+"before": 1.6448938426414106,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0215",
+"question": "What is the diameter of the white fur carpet in meters?",
+"unit": "r66_D2_ALL"
+},
+"611": {
+"value": 0.4712050952959362,
+"before": 0.452220576111133,
+"why": "r66 D2 P_rul271: old own-row patch value (same base)",
+"video_id": "simulation_0216",
+"question": "What is the height of the wooden bench in meters?",
+"unit": "r66_D2_ALL"
+},
+"613": {
+"value": 0.4576431668572801,
+"before": 0.3976542965233513,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0216",
+"question": "What is the diameter of the lampshade of the table lamp in meters?",
+"unit": "r66_D2_ALL"
+},
+"621": {
+"value": 0.4648220915229092,
+"before": 0.4586851349600319,
+"why": "r66 D2 P_rul271: old own-row patch value (same base)",
+"video_id": "simulation_0216",
+"question": "What is the height of the TV stand in meters?",
+"unit": "r66_D2_ALL"
+},
+"633": {
+"value": 1.5562424280331992,
+"before": 1.3762365779058907,
+"why": "r66 D2 P_rul267: old own-row patch value (same base)",
+"video_id": "simulation_0217",
+"question": "What is the diameter of the white fur carpet in meters?",
+"unit": "r66_D2_ALL"
+},
+"636": {
+"value": 3.25550531610598,
+"before": 3.138993641631564,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0218",
+"question": "What is the length of the big robot in meters?",
+"unit": "r66_D2_ALL"
+},
+"637": {
+"value": 2.955002451129394,
+"before": 2.7104729992210403,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0218",
+"question": "What is the height of the big robot in meters?",
+"unit": "r66_D2_ALL"
+},
+"639": {
+"value": 0.6075517567623874,
+"before": 0.35859833119705,
+"why": "r66 D2 P_rul090: old own-row patch value (same base)",
+"video_id": "simulation_0218",
+"question": "What is the outer diameter of the robot's tires in meters?",
+"unit": "r66_D2_ALL"
+},
+"640": {
+"value": 3.258441683605348,
+"before": 3.1215046781884785,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0219",
+"question": "What is the length of the big robot in meters?",
+"unit": "r66_D2_ALL"
+},
+"641": {
+"value": 3.1324882788909285,
+"before": 2.968721150190229,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0219",
+"question": "What is the height of the big robot in meters?",
+"unit": "r66_D2_ALL"
+},
+"643": {
+"value": 0.181256406340204,
+"before": 0.7695,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0219",
+"question": "What is the outer diameter of the robot's tires in meters?",
+"unit": "r66_D2_ALL"
+},
+"644": {
+"value": 0.9113848637528742,
+"before": 0.9012463792658474,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0219",
+"question": "What is the speed of the small robot at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"645": {
+"value": 1.3911237462863884,
+"before": 1.2297484458501566,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0219",
+"question": "What is the height of the small robot in meters?",
+"unit": "r66_D2_ALL"
+},
+"700": {
+"value": 1.5836205243453234,
+"before": 0.7566410222009566,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.5836205243453234 c 0.75",
+"video_id": "simulation_0226",
+"question": "What is the width of the beach chair in meters?",
+"unit": "r66_D2_ALL"
+},
+"711": {
+"value": 0.9470724784378388,
+"before": 0.8255629042622561,
+"why": "r66 D2 P_rul160: old own-row patch value (same base)",
+"video_id": "simulation_0228",
+"question": "What is the width of the paving stones in meters?",
+"unit": "r66_D2_ALL"
+},
+"748": {
+"value": 2.3520000000000003,
+"before": 2.1,
+"why": "r66 D2 P_rul096: old own-row patch value (same base)",
+"video_id": "simulation_0232",
+"question": "What is the length of the teacher's table in meters?",
+"unit": "r66_D2_ALL"
+},
+"757": {
+"value": 0.8718360876339101,
+"before": 0.5800801129898182,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.8718360876339101 c 0.45",
+"video_id": "simulation_0233",
+"question": "What is the length of the black cat (including its tail) in meters?",
+"unit": "r66_D2_ALL"
+},
+"758": {
+"value": 0.5502854086884171,
+"before": 0.5696588839895308,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0233",
+"question": "What is the width of the chair in meters?",
+"unit": "r66_D2_ALL"
+},
+"759": {
+"value": 0.6803908754136265,
+"before": 0.662904449924611,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0233",
+"question": "What is the length of the chair in meters?",
+"unit": "r66_D2_ALL"
+},
+"784": {
+"value": 1.7554366543288344,
+"before": 1.7993085042890853,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the height of the brown horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"785": {
+"value": 2.1846415148268767,
+"before": 2.120527789519916,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the length of the brown horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"786": {
+"value": 9.07601035892634,
+"before": 8.797044187650593,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the height of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"787": {
+"value": 8.253967566373106,
+"before": 8.104565490663521,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the width of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"788": {
+"value": 1.2755868377151232,
+"before": 1.27843495138729,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the height of each glass window in meters?",
+"unit": "r66_D2_ALL"
+},
+"789": {
+"value": 0.8598951481272331,
+"before": 0.7305342579355943,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the width of each glass window in meters?",
+"unit": "r66_D2_ALL"
+},
+"790": {
+"value": 1.6562303866596466,
+"before": 1.632825940639854,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the speed of the horse in the front in m/s?",
+"unit": "r66_D2_ALL"
+},
+"791": {
+"value": 1.8756963002314333,
+"before": 1.923551936075203,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the height of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"792": {
+"value": 2.654916912067599,
+"before": 2.591002972907684,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0238",
+"question": "What is the length of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"793": {
+"value": 2.228916457963666,
+"before": 2.101313014857252,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239",
+"question": "What is the length of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"794": {
+"value": 10.568351755455982,
+"before": 10.230006653741814,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239",
+"question": "What is the width of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"795": {
+"value": 11.412410703892965,
+"before": 11.407548571502344,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239",
+"question": "What is the length of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"796": {
+"value": 1.4386501846235455,
+"before": 1.4589847852599804,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239",
+"question": "What is the speed of the horse in the front at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"797": {
+"value": 2.488142885725257,
+"before": 2.4624873683784485,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239",
+"question": "What is the length of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"798": {
+"value": 1.7762822645089715,
+"before": 1.8112291868755483,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the height of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"799": {
+"value": 2.277962397360095,
+"before": 2.136668810386449,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the length of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"800": {
+"value": 9.230660190966017,
+"before": 9.00364653765671,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the height of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"801": {
+"value": 8.394667593764643,
+"before": 8.294904681922802,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the width of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"802": {
+"value": 1.3016014302987435,
+"before": 1.2744452053238,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the height of each glass window in meters?",
+"unit": "r66_D2_ALL"
+},
+"803": {
+"value": 0.8722387100140622,
+"before": 0.7282544030421714,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the width of each glass window in meters?",
+"unit": "r66_D2_ALL"
+},
+"804": {
+"value": 1.7080921474976698,
+"before": 1.6891562680120975,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the speed of the horse in the front at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"805": {
+"value": 1.9368616069995763,
+"before": 1.9687273770386395,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the height of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"806": {
+"value": 2.717170847007242,
+"before": 2.686531719233128,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the length of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"807": {
+"value": 1.387364966900347,
+"before": 1.3721103350406223,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the speed of the rabbit at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"808": {
+"value": 0.5193474477726231,
+"before": 0.531158319896571,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0240",
+"question": "What is the length of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"809": {
+"value": 2.185837376906959,
+"before": 2.0412877093314328,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the length of the brown horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"810": {
+"value": 10.665034760132304,
+"before": 10.02470536391121,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the width of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"811": {
+"value": 11.507220417061278,
+"before": 11.179997804778528,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the length of the house in meters?",
+"unit": "r66_D2_ALL"
+},
+"812": {
+"value": 1.3862654232444185,
+"before": 1.3556553339940125,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the speed of the white horse at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"813": {
+"value": 2.461472307374601,
+"before": 2.353853501310873,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the length of the white horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"814": {
+"value": 0.5040000000000001,
+"before": 0.3001889983222268,
+"why": "r66 D2 DISGM_PRESCALE: phys_bound formula on own m3 inputs g 0.1820473428559634 c 0.45",
+"video_id": "simulation_0241",
+"question": "What is the length of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"815": {
+"value": 2.203927921416752,
+"before": 2.358,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0241",
+"question": "What is the speed of the rabbit at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"831": {
+"value": 1.3549182967625824,
+"before": 1.191959409083301,
+"why": "r66 D2 P_rul143: old own-row patch value (same base)",
+"video_id": "simulation_0246",
+"question": "What is the speed of the rabbit at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"832": {
+"value": 0.42864,
+"before": 0.4286394583549149,
+"why": "r66 D2 P_rul251: old own-row patch value (same base)",
+"video_id": "simulation_0246",
+"question": "What is the length of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"833": {
+"value": 1.8192423344303688,
+"before": 1.899566689976992,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the height of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"834": {
+"value": 2.0947227451982675,
+"before": 2.1727920357956,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the length of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"835": {
+"value": 1.327774102433987,
+"before": 1.3267892174919866,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the speed of the horse in the front at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"836": {
+"value": 1.9602530242442489,
+"before": 2.055695459016196,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the height of the horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"837": {
+"value": 2.6449711279392707,
+"before": 2.654189073666481,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the length of horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"838": {
+"value": 2.1262004091211684,
+"before": 1.7227643199493754,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the speed of the rabbit at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"839": {
+"value": 0.4941154671006572,
+"before": 0.4905359170458599,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the length of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"840": {
+"value": 0.3510613817052151,
+"before": 0.3111531767746331,
+"why": "r66 D2 P_rul063: old own-row patch value (same base)",
+"video_id": "simulation_0248",
+"question": "What is the height of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"841": {
+"value": 2.196895067659166,
+"before": 2.0200404686464744,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0249",
+"question": "What is the length of the horse at the back in meters?",
+"unit": "r66_D2_ALL"
+},
+"842": {
+"value": 1.2902414818899108,
+"before": 1.3407031150668562,
+"why": "r66 D2 P_rul089: old own-row patch value (same base)",
+"video_id": "simulation_0249",
+"question": "What is the speed of the horse in the front at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"843": {
+"value": 2.3413645863531984,
+"before": 2.3053466335674644,
+"why": "r66 D2 P_rul089: old own-row patch value (same base)",
+"video_id": "simulation_0249",
+"question": "What is the length of horse in the front in meters?",
+"unit": "r66_D2_ALL"
+},
+"844": {
+"value": 0.5061477311210846,
+"before": 0.2823312487000398,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0249",
+"question": "What is the length of the rabbit in meters?",
+"unit": "r66_D2_ALL"
+},
+"845": {
+"value": 2.31793548453004,
+"before": 2.3201770059611464,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0249",
+"question": "What is the speed of the rabbit at 1s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"886": {
+"value": 0.0952521800458781,
+"before": 0.10844822506156741,
+"why": "r66 D2 P_rul022: old own-row patch value (same base)",
+"video_id": "simulation_0257",
+"question": "What is the width of the phone placed to the right of the plant, in meters?",
+"unit": "r66_D2_ALL"
+},
+"887": {
+"value": 1.96,
+"before": 1.9726109882071061,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.985406563687476 c 1.96",
+"video_id": "simulation_0257",
+"question": "What is the speed of the plant at time 0.2s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"888": {
+"value": 3.92,
+"before": 3.9319045185725527,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.946862811826756 c 3.92",
+"video_id": "simulation_0257",
+"question": "What is the speed of the plant at time 0.4s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"889": {
+"value": 0.1226368115180586,
+"before": 0.1215,
+"why": "r66 D2 P_rul214: old own-row patch value (same base)",
+"video_id": "simulation_0258",
+"question": "What is the height of the plant in meters?",
+"unit": "r66_D2_ALL"
+},
+"890": {
+"value": 0.0751989376965812,
+"before": 0.08100000000000002,
+"why": "r66 D2 PSIM: agree_gm formula on own m3 inputs g 0.0751989376965812 c 0.1 (own old geo; m3-era row has none)",
+"video_id": "simulation_0258",
+"question": "What is the diameter (width) of the plant in meters?",
+"unit": "r66_D2_ALL"
+},
+"891": {
+"value": 1.6257291964032845,
+"before": 0.972,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.6257291964032845 c 1.2 (own old geo; m3-era row has none)",
+"video_id": "simulation_0258",
+"question": "What is the width (longer side) of the table in meters?",
+"unit": "r66_D2_ALL"
+},
+"892": {
+"value": 0.8021220020968666,
+"before": 0.6480000000000001,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.8021220020968666 c 0.8 (own old geo; m3-era row has none)",
+"video_id": "simulation_0258",
+"question": "What is the width (longer side) of the AC in meters?",
+"unit": "r66_D2_ALL"
+},
+"893": {
+"value": 0.0787798394916544,
+"before": 0.13770000000000002,
+"why": "r66 D2 P_rul022: old own-row patch value (same base)",
+"video_id": "simulation_0258",
+"question": "What is the width of the phone placed to the right of the plant, in meters?",
+"unit": "r66_D2_ALL"
+},
+"901": {
+"value": 0.0750521943858648,
+"before": 0.07357260788912932,
+"why": "r66 D2 P_rul022: old own-row patch value (same base)",
+"video_id": "simulation_0259",
+"question": "What is the width of the iPhone placed to the right of the plant, in meters?",
+"unit": "r66_D2_ALL"
+},
+"908": {
+"value": 0.10124080612635779,
+"before": 0.0703962968757882,
+"why": "r66 D2 DISGM_PRESCALE: dis_size_gm formula on own m3 inputs g 0.0703962968757882 c 0.13",
+"video_id": "simulation_0260",
+"question": "What is the diameter (width) of the plant in meters?",
+"unit": "r66_D2_ALL"
+},
+"911": {
+"value": 0.0804849539183348,
+"before": 0.08309593678442678,
+"why": "r66 D2 P_rul022: old own-row patch value (same base)",
+"video_id": "simulation_0260",
+"question": "What is the width of the iphone placed to the right of the plant, in meters?",
+"unit": "r66_D2_ALL"
+},
+"917": {
+"value": 1.96,
+"before": 1.9620637234491785,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.9988353541597648 c 1.96",
+"video_id": "simulation_0261",
+"question": "What is the speed of the mug at time 0.2s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"918": {
+"value": 3.92,
+"before": 3.915736279824961,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.9652518991673262 c 3.92",
+"video_id": "simulation_0261",
+"question": "What is the speed of the mug at time 0.4s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"920": {
+"value": 0.2485324464230006,
+"before": 0.1,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.2485324464230006 c 0.28",
+"video_id": "simulation_0262",
+"question": "What is the height of the red cup in meters?",
+"unit": "r66_D2_ALL"
+},
+"923": {
+"value": 6.125,
+"before": 6.129400754496594,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 6.217858946540559 c 6.125",
+"video_id": "simulation_0262",
+"question": "What is the speed of the red cup at time 0.625s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"929": {
+"value": 1.891550619774821,
+"before": 2.13582429795308,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 1.891550619774821 c 3.0",
+"video_id": "simulation_0264",
+"question": "What is the height of the spacecraft in meters?",
+"unit": "r66_D2_ALL"
+},
+"930": {
+"value": 2.0,
+"before": 1.9976123352849813,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.9683450682432853 c 2.0",
+"video_id": "simulation_0264",
+"question": "What is the speed of the spacecraft at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"931": {
+"value": 4.0,
+"before": 4.000548991639068,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.951801173641519 c 4.0",
+"video_id": "simulation_0264",
+"question": "What is the speed of the spacecraft at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"934": {
+"value": 2.0,
+"before": 1.9897965088021206,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.998543375878068 c 2.0",
+"video_id": "simulation_0265",
+"question": "What is the speed of the spacecraft at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"935": {
+"value": 4.0,
+"before": 3.9940818490135324,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.9944578836031 c 4.0",
+"video_id": "simulation_0265",
+"question": "What is the speed of the spacecraft at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"938": {
+"value": 2.0,
+"before": 1.9966141105903512,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.9683527360393247 c 2.0",
+"video_id": "simulation_0266",
+"question": "What is the speed of the spacecraft at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"939": {
+"value": 4.0,
+"before": 3.997303961450404,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.914241128498839 c 4.0",
+"video_id": "simulation_0266",
+"question": "What is the speed of the spacecraft at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"942": {
+"value": 2.0,
+"before": 1.9959904942405073,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 1.953920832209895 c 2.0",
+"video_id": "simulation_0267",
+"question": "What is the speed of the spacecraft at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"943": {
+"value": 4.0,
+"before": 4.003212262038946,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.919949390700532 c 4.0",
+"video_id": "simulation_0267",
+"question": "What is the speed of the spacecraft at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"946": {
+"value": 2.0,
+"before": 1.9931108164753568,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 2.000274553474781 c 2.0",
+"video_id": "simulation_0268",
+"question": "What is the speed of the spacecraft at 0.5s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"947": {
+"value": 4.0,
+"before": 4.009546139234029,
+"why": "r66 D2 KIN: kin formula on own m3 inputs g 3.98064587402271 c 4.0",
+"video_id": "simulation_0268",
+"question": "What is the speed of the spacecraft at 1.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"949": {
+"value": 4.386539198113103,
+"before": 5.317138922158247,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0269",
+"question": "What is the width (wing span) of the phoenix in meters?",
+"unit": "r66_D2_ALL"
+},
+"957": {
+"value": 3.75135827535068,
+"before": 4.252361639907349,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0271",
+"question": "What is the width (wing span) of the phoenix in meters?",
+"unit": "r66_D2_ALL"
+},
+"961": {
+"value": 4.103596303092303,
+"before": 4.3487374170009145,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0272",
+"question": "What is the width (wing span) of the phoenix in meters?",
+"unit": "r66_D2_ALL"
+},
+"983": {
+"value": 5.344481504986443,
+"before": 5.357764626908059,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 5.344481504986443 c 6.1 (own old geo; m3-era row has none)",
+"video_id": "simulation_0279",
+"question": "What is the height of the whale in meters?",
+"unit": "r66_D2_ALL"
+},
+"992": {
+"value": 1.634114433795817,
+"before": 1.3913767064087685,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0282",
+"question": "What is the width (wing span) of the dragon in meters?",
+"unit": "r66_D2_ALL"
+},
+"999": {
+"value": 15.390396180786563,
+"before": 14.81023755331498,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0285",
+"question": "What is the length of the plane in meters?",
+"unit": "r66_D2_ALL"
+},
+"1000": {
+"value": 4.736344413858427,
+"before": 4.708348930636175,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0285",
+"question": "What is the height of the plane in meters?",
+"unit": "r66_D2_ALL"
+},
+"1005": {
+"value": 15.298654046047858,
+"before": 14.810915246726994,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0287",
+"question": "What is the length of the plane in meters?",
+"unit": "r66_D2_ALL"
+},
+"1006": {
+"value": 4.641635181085947,
+"before": 4.654204978307144,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0287",
+"question": "What is the height of the plane in meters?",
+"unit": "r66_D2_ALL"
+},
+"1008": {
+"value": 0.8653226703552634,
+"before": 0.8055017077977374,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.8653226703552634 c 0.67",
+"video_id": "simulation_0288",
+"question": "What is the length of the fish in meters?",
+"unit": "r66_D2_ALL"
+},
+"1009": {
+"value": 0.3125927402241579,
+"before": 0.3181422247954311,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0288",
+"question": "What is the width of the fish in meters?",
+"unit": "r66_D2_ALL"
+},
+"1017": {
+"value": 0.382312841024583,
+"before": 0.3155478853641783,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.382312841024583 c 0.29",
+"video_id": "simulation_0291",
+"question": "What is the height of the fish in meters?",
+"unit": "r66_D2_ALL"
+},
+"1019": {
+"value": 0.8248707523309277,
+"before": 0.7794295980137094,
+"why": "r66 D2 P_rul225: old own-row patch value (same base)",
+"video_id": "simulation_0292",
+"question": "What is the length of the column below the drone in meters?",
+"unit": "r66_D2_ALL"
+},
+"1020": {
+"value": 1.126305595596212,
+"before": 1.0642587522171651,
+"why": "r66 D2 P_rul225: old own-row patch value (same base)",
+"video_id": "simulation_0292",
+"question": "What is the height of the column below the drone in meters?",
+"unit": "r66_D2_ALL"
+},
+"1022": {
+"value": 1.3548287235917842,
+"before": 1.4959286642274316,
+"why": "r66 D2 P_rul424: old own-row patch value (same base)",
+"video_id": "simulation_0293",
+"question": "What is the length of the column below the drone in meters?",
+"unit": "r66_D2_ALL"
+},
+"1023": {
+"value": 1.2407934461318306,
+"before": 1.2964715089971075,
+"why": "r66 D2 P_rul424: old own-row patch value (same base)",
+"video_id": "simulation_0293",
+"question": "What is the height of the column below the drone in meters?",
+"unit": "r66_D2_ALL"
+},
+"1029": {
+"value": 0.228088480601831,
+"before": 0.226839992621015,
+"why": "r66 D2 P_wing: old own-row patch value (same base)",
+"video_id": "simulation_0296",
+"question": "What is the width (wing span) of the butterfly in meters?",
+"unit": "r66_D2_ALL"
+},
+"1033": {
+"value": 11.704424829276684,
+"before": 12.66012267516204,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0298",
+"question": "What is the length of the fire truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"1034": {
+"value": 3.31966509797723,
+"before": 3.2062906369107216,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0298",
+"question": "What is the width of the fire truck in meters?",
+"unit": "r66_D2_ALL"
+},
+"1807": {
+"value": 4.830697168681608,
+"before": 4.818981226335182,
+"why": "r66 D2 P_rul127: old own-row patch value (same base)",
+"video_id": "simulation_0103_segmented",
+"question": "What is the average speed of the boat in m/s?",
+"unit": "r66_D2_ALL"
+},
+"1834": {
+"value": 0.0399769754521322,
+"before": 0.01,
+"why": "r66 D2 P_rul062: old own-row patch value (same base)",
+"video_id": "simulation_0123_segmented",
+"question": "What is the diameter of the cup with the toothbrush in meters?",
+"unit": "r66_D2_ALL"
+},
+"1836": {
+"value": 0.3047647613224154,
+"before": 0.1215,
+"why": "r66 D2 PSIM: agree_wgm formula on own m3 inputs g 0.3047647613224154 c 0.15 (own old geo; m3-era row has none)",
+"video_id": "simulation_0123_segmented",
+"question": "What is the width of the bottom towel of the three stacked towels on the sink in meters?",
+"unit": "r66_D2_ALL"
+},
+"1966": {
+"value": 0.5315835286071368,
+"before": 0.4822203216546279,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0233_segmented",
+"question": "What is the width(horizontal) of the chair next to the blackboard in meters?",
+"unit": "r66_D2_ALL"
+},
+"1967": {
+"value": 0.7153125975055691,
+"before": 0.6530066855739752,
+"why": "r66 D2 P_rul441: old own-row patch value (same base)",
+"video_id": "simulation_0233_segmented",
+"question": "What is the length(vertical) of the chair next to the blackboard in meters?",
+"unit": "r66_D2_ALL"
+},
+"1971": {
+"value": 1.970191317514812,
+"before": 2.068047295442019,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239_segmented",
+"question": "What is the length of the brown horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"1974": {
+"value": 1.5364810811578042,
+"before": 1.552601049668716,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239_segmented",
+"question": "What is the average speed of the white horse in m/s?",
+"unit": "r66_D2_ALL"
+},
+"1975": {
+"value": 2.3198321345348973,
+"before": 2.4578883445991333,
+"why": "r66 D2 P_jump: old own-row patch value (same base)",
+"video_id": "simulation_0239_segmented",
+"question": "What is the length of the white horse in meters?",
+"unit": "r66_D2_ALL"
+},
+"2030": {
+"value": 1.5923877643862816,
+"before": 1.595045330106475,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.5765350975831802 c 1.63",
+"video_id": "internet_0005",
+"question": "What is the height of the woman in yellow in meters?",
+"unit": "r66_D2_ALL"
+},
+"2065": {
+"value": 20.033711767185196,
+"before": 20.57685152553808,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 19.245764486547223 c 22.0",
+"video_id": "internet_0013",
+"question": "What is the diameter of the center island planter in meters?",
+"unit": "r66_D2_ALL"
+},
+"2067": {
+"value": 4.4,
+"before": 2.6860332346600653,
+"why": "r66 D2 P_rul338: old own-row patch value (same base)",
+"video_id": "internet_0013",
+"question": "What is the speed of the bicycle on the upper left corner at 3.0s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"2068": {
+"value": 29.48969995744168,
+"before": 25.3339137104278,
+"why": "r66 D2 P_rul143: old own-row patch value (same base)",
+"video_id": "internet_0013",
+"question": "What is the distance between the two black cars in the round about at 1.0s in meters?",
+"unit": "r66_D2_ALL"
+},
+"2091": {
+"value": 22.632405766208187,
+"before": 22.586637150950413,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 22.908971664405307 c 22.0",
+"video_id": "internet_0019",
+"question": "What is the size of the ball in cm?",
+"unit": "r66_D2_ALL"
+},
+"2092": {
+"value": 172.6385389579627,
+"before": 172.80615284708256,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 171.6362642397069 c 175.0",
+"video_id": "internet_0019",
+"question": "What is the height of the person standing in the middle in cm?",
+"unit": "r66_D2_ALL"
+},
+"2094": {
+"value": 169.5117486064767,
+"before": 169.89799352847905,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 167.21264918198247 c 175.0",
+"video_id": "internet_0019",
+"question": "What is the height of the person on the right (the receiver) in cm?",
+"unit": "r66_D2_ALL"
+},
+"2994": {
+"value": 0.486,
+"before": 0.6,
+"why": "r66 D2 P_rul005: old own-row patch value (same base)",
+"video_id": "internet_0028",
+"question": "What is the length of the blue and grey bag in meters?",
+"unit": "r66_D2_ALL"
+},
+"2995": {
+"value": 0.567,
+"before": 0.7,
+"why": "r66 D2 P_rul005: old own-row patch value (same base)",
+"video_id": "internet_0028",
+"question": "What is the length of the orange suitcase in meters?",
+"unit": "r66_D2_ALL"
+},
+"3001": {
+"value": 0.3830947831126798,
+"before": 0.3552713867143512,
+"why": "r66 D2 P_rul047: old own-row patch value (same base)",
+"video_id": "internet_0029",
+"question": "What is the displacement of the ball from 0.30s to 0.40s in meters? ",
+"unit": "r66_D2_ALL"
+},
+"3074": {
+"value": 16.503002570756067,
+"before": 16.731115524214513,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 15.19817299975309 c 20.0",
+"video_id": "internet_0044",
+"question": "What is the height of the kettle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3075": {
+"value": 10.669573020856774,
+"before": 10.692842194146252,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 10.531017511639936 c 11.0",
+"video_id": "internet_0044",
+"question": "What is the height of the white cylinder in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3076": {
+"value": 28.437061010050215,
+"before": 28.61288419724991,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 27.404579660972104 c 31.0",
+"video_id": "internet_0044",
+"question": "What is the height of the green bottle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3077": {
+"value": 21.28039219026873,
+"before": 21.39883913255188,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 20.58335240911442 c 23.0",
+"video_id": "internet_0044",
+"question": "What is the height of the plastic bottle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3078": {
+"value": 10.274122598716724,
+"before": 10.555620807857874,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 8.735957708519493 c 15.0",
+"video_id": "internet_0044",
+"question": "What is the height of the plate in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3084": {
+"value": 34.437358951885884,
+"before": 33.10648701709081,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 36.53464942042673 c 30.0",
+"video_id": "internet_0045",
+"question": "What is the height of the green bottle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3085": {
+"value": 26.56016966540396,
+"before": 26.10472830304,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 27.258273591021503 c 25.0",
+"video_id": "internet_0045",
+"question": "What is the height of the plastic bottle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3086": {
+"value": 11.163366470002547,
+"before": 10.817811651383304,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 11.702504892480436 c 10.0",
+"video_id": "internet_0045",
+"question": "What is the height of the plate in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3095": {
+"value": 26.9283629263788,
+"before": 26.707830751204664,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 28.29032720370752 c 24.0",
+"video_id": "internet_0047",
+"question": "What is the diameter of the rolling ball in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3101": {
+"value": 24.150001036976555,
+"before": 24.139255655377674,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 24.214573848619366 c 24.0",
+"video_id": "internet_0048",
+"question": "What is the diameter of the ball in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3102": {
+"value": 70.91749844880066,
+"before": 167.88003750950116,
+"why": "r66 D2 P_rul160: old own-row patch value (same base)",
+"video_id": "internet_0048",
+"question": "What is the width of a single piece wall pad in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3103": {
+"value": 180.157113399389,
+"before": 169.1354523780319,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 167.68035737182083 c 213.0 (own old geo; m3-era row has none)",
+"video_id": "internet_0048",
+"question": "What is the height of the height of the wall pads in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3107": {
+"value": 1.7797213615605365,
+"before": 1.8640632603635208,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.8480264738514056 c 1.63 (own old geo; m3-era row has none)",
+"video_id": "internet_0048",
+"question": "What is the height of the walking person in meters?",
+"unit": "r66_D2_ALL"
+},
+"3108": {
+"value": 1.5369461750771296,
+"before": 1.5502834719389849,
+"why": "r66 D2 GEOKIND: agree_geo_kind formula on own m3 inputs g 1.5369461750771296 c 1.3 (own old geo; m3-era row has none)",
+"video_id": "internet_0048",
+"question": "What is the average walking speed of the walking person between 2.50s and 3.50s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"3109": {
+"value": 1.6815566608293528,
+"before": 1.6755957649196522,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.7177700070067208 c 1.6",
+"video_id": "internet_0049",
+"question": "What is the height of the person riding scooter in meters?",
+"unit": "r66_D2_ALL"
+},
+"3110": {
+"value": 0.9312709072684784,
+"before": 0.8583289313303741,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.0524693633696316 c 0.7",
+"video_id": "internet_0049",
+"question": "What is the height of the gray table in meters?",
+"unit": "r66_D2_ALL"
+},
+"3111": {
+"value": 0.6804013932690252,
+"before": 0.681782911691522,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 0.6721708723069777 c 0.7",
+"video_id": "internet_0049",
+"question": "What is the height of the gray chairs in meters?",
+"unit": "r66_D2_ALL"
+},
+"3112": {
+"value": 0.9893903209475188,
+"before": 0.9718309672608003,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.1016133740586578 c 0.77",
+"video_id": "internet_0049",
+"question": "What is the height of the brown table in meters?",
+"unit": "r66_D2_ALL"
+},
+"3114": {
+"value": 3.4276437221681855,
+"before": 2.4,
+"why": "r66 D2 DISGM_PRESCALE: dis_size_gm formula on own m3 inputs g 4.895308952549572 c 2.4",
+"video_id": "internet_0049",
+"question": "What is the height of the canopy in meters?",
+"unit": "r66_D2_ALL"
+},
+"3116": {
+"value": 1.8060436900070422,
+"before": 1.7982545054071588,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.853492454800758 c 1.7",
+"video_id": "internet_0050",
+"question": "What is the height of the person riding scooter in meters?",
+"unit": "r66_D2_ALL"
+},
+"3117": {
+"value": 3.7126000370740604,
+"before": 3.660831273579278,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 4.038953707476279 c 3.05",
+"video_id": "internet_0050",
+"question": "What is the height of the right basketball stand in meters?",
+"unit": "r66_D2_ALL"
+},
+"3118": {
+"value": 3.7251512259285873,
+"before": 3.5017109384157314,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 4.087326498740128 c 3.0",
+"video_id": "internet_0050",
+"question": "What is the height of the left basketball stand in meters?",
+"unit": "r66_D2_ALL"
+},
+"3121": {
+"value": 1.0892811731608412,
+"before": 1.0864272793436864,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.1065626595825422 c 1.05",
+"video_id": "internet_0050",
+"question": "What is the width of the left basketball backboard in meters?",
+"unit": "r66_D2_ALL"
+},
+"3125": {
+"value": 1.5,
+"before": 1.1699919311179552,
+"why": "r66 D2 P_rul230: old own-row patch value (same base)",
+"video_id": "internet_0051",
+"question": "What is the height of the green car in meters?",
+"unit": "r66_D2_ALL"
+},
+"3126": {
+"value": 3.091872467784425,
+"before": 3.149270974915225,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 2.768795120334286 c 4.0",
+"video_id": "internet_0051",
+"question": "What is the height of the tree in the middle of the video in meters?",
+"unit": "r66_D2_ALL"
+},
+"3127": {
+"value": 2.43982685770243,
+"before": 3.513093734430802,
+"why": "r66 D2 GEOKIND: agree_geo_kind formula on own m3 inputs g 2.43982685770243 c 4.5",
+"video_id": "internet_0051",
+"question": "What is the distance between the brown and green car in meters?",
+"unit": "r66_D2_ALL"
+},
+"3128": {
+"value": 1.8035628832975874,
+"before": 1.8018695246421466,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.813756506655028 c 1.78",
+"video_id": "internet_0052",
+"question": "What is the height of the person riding scooter in meters?",
+"unit": "r66_D2_ALL"
+},
+"3131": {
+"value": 0.30802225222171076,
+"before": 0.2502740628993592,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 0.2502740628993592 c 0.5",
+"video_id": "internet_0052",
+"question": "What is the width of the no-parking sign in meters?",
+"unit": "r66_D2_ALL"
+},
+"3133": {
+"value": 0.9523837383295105,
+"before": 0.9405962829726184,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.026276183222356 c 0.8",
+"video_id": "internet_0052",
+"question": "What is the wheel-to-wheel width of the scooter in meters?",
+"unit": "r66_D2_ALL"
+},
+"3145": {
+"value": 4.842441797783548,
+"before": 1.8,
+"why": "r66 D2 DISGM_PRESCALE: dis_size_gm formula on own m3 inputs g 13.027356980511753 c 1.8",
+"video_id": "internet_0054",
+"question": "What is the length of the brown chairs in meters?",
+"unit": "r66_D2_ALL"
+},
+"3151": {
+"value": 1.399738527664111,
+"before": 0.8829457364341127,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.1692418102191249 c 2.13",
+"video_id": "internet_0055",
+"question": "What is the height of the DO NOT ENTER sign in meters?",
+"unit": "r66_D2_ALL"
+},
+"3152": {
+"value": 1.0126976627527289,
+"before": 0.8076667514484869,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.1517904399173466 c 0.75",
+"video_id": "internet_0055",
+"question": "What is the width of the DO NOT ENTER sign in meters?",
+"unit": "r66_D2_ALL"
+},
+"3155": {
+"value": 0.8706226262757035,
+"before": 0.7137376663446843,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 0.950143512197768 c 0.71",
+"video_id": "internet_0055",
+"question": "What is the width of the Bicycle sign in meters?",
+"unit": "r66_D2_ALL"
+},
+"3157": {
+"value": 0.7096632873853955,
+"before": 0.5878117930201467,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 0.7625980005374297 c 0.6",
+"video_id": "internet_0055",
+"question": "What is the width of the YIELD sign in meters?",
+"unit": "r66_D2_ALL"
+},
+"3158": {
+"value": 1.7561935328771319,
+"before": 1.7521188240639618,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.7808415569501457 c 1.7",
+"video_id": "internet_0056",
+"question": "What is the height of the person riding scooter in meters?",
+"unit": "r66_D2_ALL"
+},
+"3161": {
+"value": 1.4869372708236503,
+"before": 1.4967259456276405,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.429535052059182 c 1.63",
+"video_id": "internet_0057",
+"question": "What is the height of the person in meters? ",
+"unit": "r66_D2_ALL"
+},
+"3170": {
+"value": 1.9342057162017614,
+"before": 1.63,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 2.0813828559561403 c 1.63",
+"video_id": "internet_0058",
+"question": "What is the height of the person in meters? ",
+"unit": "r66_D2_ALL"
+},
+"3172": {
+"value": 4.122542139736127,
+"before": 3.979147318972223,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0058",
+"question": "What is the velocity of the ball at 1.00s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"3175": {
+"value": 5.530109623170032,
+"before": 5.335100832075882,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0058",
+"question": "What is the velocity of the ball at 2.00s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"3179": {
+"value": 24.764701135832706,
+"before": 24.709280638547707,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 25.09984425715735 c 24.0",
+"video_id": "internet_0059",
+"question": "What is the diameter of the ball in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3180": {
+"value": 71.13480088968241,
+"before": 70.35809949985031,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 75.97841728438237 c 61.0",
+"video_id": "internet_0059",
+"question": "What is the length of the billboard in the middle in cm?",
+"unit": "r66_D2_ALL"
+},
+"3181": {
+"value": 87.9728934664162,
+"before": 89.61662596309135,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 78.72462513803475 c 114.0",
+"video_id": "internet_0059",
+"question": "What is the height of the billboard on the left in cm?",
+"unit": "r66_D2_ALL"
+},
+"3182": {
+"value": 40.40812159909907,
+"before": 41.61447887399379,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 33.869896861712625 c 61.0",
+"video_id": "internet_0059",
+"question": "What is the height of the billboard on the right in cm?",
+"unit": "r66_D2_ALL"
+},
+"3187": {
+"value": 1.5120531132180453,
+"before": 1.5148966303931013,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0059",
+"question": "What is the displacement of the ball between 2.50s and 3.00s in meters?",
+"unit": "r66_D2_ALL"
+},
+"3188": {
+"value": 9.05897940281427,
+"before": 8.796272992311374,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 10.808432387083164 c 6.0",
+"video_id": "internet_0060",
+"question": "What is the length of the pink box in cm?",
+"unit": "r66_D2_ALL"
+},
+"3189": {
+"value": 8.857486833381506,
+"before": 8.61445309773028,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 10.46664136012053 c 6.0",
+"video_id": "internet_0060",
+"question": "What is the width of the pink box in cm?",
+"unit": "r66_D2_ALL"
+},
+"3194": {
+"value": 7.406686823381034,
+"before": 7.3609947042539545,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 7.588135889296598 c 7.0",
+"video_id": "internet_0061",
+"question": "What is the width of the acorn in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3199": {
+"value": 14.780336932665994,
+"before": 15.194359988035604,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0061",
+"question": "What is the displacement of the acorn between 1.30s and 1.40s in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3201": {
+"value": 12.776260922569644,
+"before": 8.100000000000001,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 14.19075131661979 c 10.0 (own old geo; m3-era row has none)",
+"video_id": "internet_0062",
+"question": "What is the length of the shorter side of the wallet in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3204": {
+"value": 0.4470228145629936,
+"before": 0.4461663208098465,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0062",
+"question": "What is the displacement of the wallet between 2.20s and 2.50s in meters?",
+"unit": "r66_D2_ALL"
+},
+"3205": {
+"value": 3.898154442929718,
+"before": 3.8919655680800274,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0062",
+"question": "What is the velocity of the wallet at 2.60s in m/s? ",
+"unit": "r66_D2_ALL"
+},
+"3206": {
+"value": 24.57965015768042,
+"before": 24.745095293842553,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 23.609951621919 c 27.0",
+"video_id": "internet_0063",
+"question": "What is the height of the water bottle in cm?",
+"unit": "r66_D2_ALL"
+},
+"3207": {
+"value": 7.830573550040812,
+"before": 7.842555534004045,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 7.75906510052563 c 8.0",
+"video_id": "internet_0063",
+"question": "What is the diameter of the water bottle in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3208": {
+"value": 1.9050333898548528,
+"before": 1.8557756425269167,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0063",
+"question": "What is the velocity of the water bottle at 1.50s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"3209": {
+"value": 3.844575198474375,
+"before": 3.783345529487535,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0063",
+"question": "What is the velocity of the water bottle at 1.70s in m/s?",
+"unit": "r66_D2_ALL"
+},
+"3210": {
+"value": 0.5787300810494508,
+"before": 0.5687044135449203,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0063",
+"question": "What is the displacement of the water bottle between 1.50s and 1.70s in meters?",
+"unit": "r66_D2_ALL"
+},
+"3212": {
+"value": 1.7650363425038393,
+"before": 1.7632361465129591,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.7758761807340264 c 1.74",
+"video_id": "internet_0064",
+"question": "What is the height of the person in meters? ",
+"unit": "r66_D2_ALL"
+},
+"3214": {
+"value": 5.21437012423509,
+"before": 5.217983850776234,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0064",
+"question": "What is the velocity of the ball at 3.6s in m/s? ",
+"unit": "r66_D2_ALL"
+},
+"3218": {
+"value": 0.826866121145516,
+"before": 1.113517558455121,
+"why": "r66 D2 P_rul046: old own-row patch value (same base)",
+"video_id": "internet_0064",
+"question": "What is the displacement of the person between 4.00s and 5.00s in meters? ",
+"unit": "r66_D2_ALL"
+},
+"3219": {
+"value": 24.277564202700006,
+"before": 24.25763216862876,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 24.397500811743875 c 24.0",
+"video_id": "internet_0064",
+"question": "What is the diameter of the ball in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3224": {
+"value": 0.2614877289954754,
+"before": 0.36158521056279075,
+"why": "r66 D2 P_rul024: old own-row patch value (same base)",
+"video_id": "internet_0065",
+"question": "What is the displacement of the ball between 0.20s and 0.30 in meters?",
+"unit": "r66_D2_ALL"
+},
+"3241": {
+"value": 6.881145446563138,
+"before": 7.120438504495509,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 7.890410958904109 c 5.0",
+"video_id": "internet_0067",
+"question": "What is the width of the acorn in cm? ",
+"unit": "r66_D2_ALL"
+},
+"3258": {
+"value": 4.445845464523489,
+"before": 4.449691939184103,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 4.4228363417153576 c 4.5",
+"video_id": "internet_0070",
+"question": "What is the length of the speedboat in meters?",
+"unit": "r66_D2_ALL"
+},
+"3259": {
+"value": 1.7924955653548809,
+"before": 1.8128822822692932,
+"why": "r66 D2 W07: agree_wgm formula on own m3 inputs g 1.6749004609997722 c 2.1",
+"video_id": "internet_0070",
+"question": "What is the height of the speedboat in meters?",
+"unit": "r66_D2_ALL"
+}
+}

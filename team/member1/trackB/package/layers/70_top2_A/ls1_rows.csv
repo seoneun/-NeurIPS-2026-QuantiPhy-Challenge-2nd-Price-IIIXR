@@ -1,0 +1,25 @@
+sp,id,vid,q,npass,Wmed,Wmax
+test,386,simulation_0165,What is the width of the road that the bike is crossing,0,,
+test,389,simulation_0166,What is the width of the road that the bike is crossing,0,,
+test,394,simulation_0167,What is the width of the road that the bike crossed thr,1,2.961352956266219,2.961352956266219
+test,399,simulation_0167,What is the width of the road that the bike and the car,1,2.961352956266219,2.961352956266219
+test,1233,simulation_0058,What is the width of the lane in meters?,8,10.63655709834945,10.639063206318566
+test,1245,simulation_0059,What is the width of the lane in meters?,8,10.356675476147316,10.362726451374739
+test,1258,simulation_0060,What is the width of the lane in meters?,8,12.027463286236394,12.030835175898433
+test,1269,simulation_0061,What is the width of the lane in meters?,0,,
+test,1280,simulation_0062,What is the width of the lane in meters?,7,10.89341127526307,10.89341127526307
+test,1293,simulation_0063,What is the width of the lane in meters?,0,,
+test,1306,simulation_0064,What is the width of the lane in meters?,0,,
+test,1318,simulation_0065,What is the width of the lane in meters?,8,10.884074913353224,10.885356240820883
+test,1330,simulation_0066,What is the width of the lane in meters?,0,,
+test,1347,simulation_0067,What is the width of the lane in meters?,0,,
+test,1390,simulation_0168,What is the width of the road that the bike crossed thr,0,,
+test,1395,simulation_0168,What is the width of the road that the bike and the car,0,,
+test,1517,simulation_0144,"What is the width of the road the vehicle is on, in met",0,,
+test,1762,simulation_0066_segmented,What is the width of the lane in meters?,0,,
+test,2063,internet_0013,What is the width of the straight-through lane in meter,0,,
+test,2064,internet_0013,What is the width of the roundabout lane in meters?,0,,
+test,3062,internet_0042,What is the width of the road in meters?,0,,
+val,1344,simulation_0060,What is the width of the lane in meters?,8,12.303792541598737,12.34069366082508
+val,2200,internet_0013,What is the width of the straight-through lane in meter,0,,
+val,2201,internet_0013,What is the width of the roundabout lane in meters?,0,,

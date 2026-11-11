@@ -1,0 +1,14 @@
+{
+ "215": {
+  "value": 5.279417652847741,
+  "why": "rul098: second_fix dist2, mo_guard:agree_geo_kind 2.423 -> raw two-object meas 5.279 (merged geo 5.279)"
+ },
+ "221": {
+  "value": 6.268843252269158,
+  "why": "rul098: second_fix dist2, mo_guard:agree_geo_kind 3.219 -> raw two-object meas 6.269 (merged geo 7.158)"
+ },
+ "222": {
+  "value": 8.11135275707648,
+  "why": "rul098: second_fix dist2, dis_caw_routed 2.574 -> raw two-object meas 8.111 (merged geo 9.246)"
+ }
+}

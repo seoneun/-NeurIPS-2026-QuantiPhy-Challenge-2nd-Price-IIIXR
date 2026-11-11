@@ -1,0 +1,678 @@
+id1,vid,cat,kind,tgt,src48,g48,mode48,src46,mode46,g46,caw_crop,cl_geo,cl_mode,q_answer_source,q_meas_mode,q_merge_src,q_meas_why,u_answer_source,u_meas_mode,u_merge_src,u_meas_why,folds,n_other_q
+1,simulation_0007,S2,size,wooden pier,agree_wgm,1.5322937052842336,2d_ratio,agree_wgm,2d_ratio,1.5322937052842336,2.1,1.5278247951425394,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+2,simulation_0007,S2,size,pier,agree_wgm,5.777048492903561,2d_ratio,agree_wgm,2d_ratio,5.777048492903561,6.4,5.837732129469198,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+19,simulation_0053,D2,speed,green car,caw_c1,,2d_ratio,caw_c1,2d_ratio,,13.0,11.74158274380849,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+20,simulation_0053,D2,size,orange car,agree_wgm,5.077979461850847,2d_ratio,agree_wgm,2d_ratio,5.077979461850847,4.4,5.078328519874662,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+22,simulation_0053,D2,dist2,black lamps,agree_geo_kind,8.347339452866533,2d_ratio,agree_geo_kind,2d_ratio,8.347339452866533,10.0,8.307544561527353,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+23,simulation_0053,D2,speed,person,caw_c1,,2d_ratio,caw_c1,2d_ratio,,1.1,11.759976240326074,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+24,simulation_0054,D2,speed,green car,patch:rul276,11.86274084164081,2d_ratio,agree_gm,2d_ratio,11.86274084164081,13.7,11.86274084164081,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+25,simulation_0054,D2,size,orange car,agree_wgm,5.077255903897948,2d_ratio,agree_wgm,2d_ratio,5.077255903897948,4.5,5.07476681316097,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+27,simulation_0054,D2,dist2,black lamps,agree_geo_kind,8.780393800267051,2d_ratio,agree_geo_kind,2d_ratio,8.780393800267051,10.0,8.775259360826663,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+28,simulation_0054,D2,size,orange car,dis_geo,2.004607647152909,2d_ratio,dis_geo,2d_ratio,2.004607647152909,4.6,2.021977402118824,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+35,simulation_0068,D2,size,turning yellow car,dis_geo,2.018113325847645,2d_ratio,dis_geo,2d_ratio,2.018113325847645,4.5,2.015833880145468,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+36,simulation_0068,D2,size,white car,agree_wgm,2.1710613930516103,2d_ratio,agree_wgm,2d_ratio,2.1710613930516103,1.8,2.1756988087262097,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+39,simulation_0069,D2,size,white car,dis_geo,2.172282493355271,2d_ratio,dis_geo,2d_ratio,2.172282493355271,4.2,2.178914464945822,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+42,simulation_0070,S2,size,turning yellow car,agree_wgm,2.0268702305319435,2d_ratio,agree_wgm,2d_ratio,2.0268702305319435,1.82,2.026072172402047,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+45,simulation_0071,S2,size,turning yellow car,agree_wgm,2.0284583965520646,2d_ratio,agree_wgm,2d_ratio,2.0284583965520646,1.8,2.027930748041156,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+48,simulation_0073,D2,size,white car,agree_wgm,2.229717919727141,2d_ratio,agree_wgm,2d_ratio,2.229717919727141,1.8,2.229717919727141,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,prior_no_track,test_00,1
+50,simulation_0073,D2,dist2,white car,agree_geo_kind,5.990664754456915,2d_ratio,agree_geo_kind,2d_ratio,5.990664754456915,4.67,5.990664754456915,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target2_no_track,test_02,1
+51,simulation_0073,D2,dist2,white car,agree_geo_kind,5.163629208152283,2d_ratio,agree_geo_kind,2d_ratio,5.163629208152283,3.33,5.163629208152283,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target2_no_track,test_03,1
+54,simulation_0073,D2,speed,white car,dis_geo,4.286199760663655,2d_ratio,dis_geo,2d_ratio,4.286199760663655,13.33,4.309984456256288,vlm_2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,prior_no_track,test_06,1
+57,simulation_0075,S2,speed,turing yellow car,patch:rul275,4.109270638205163,2d_ratio,agree_gm,2d_ratio,4.109270638205163,4.0,4.107600225058983,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+58,simulation_0075,S2,size,turning yellow car,agree_wgm,2.0512067040794952,2d_ratio,agree_wgm,2d_ratio,2.0512067040794952,1.8,2.0471713655826447,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+81,simulation_0080,S2,speed,bike,patch:rul275,5.338443480698466,2d_ratio,agree_gm,2d_ratio,5.338443480698466,4.1,5.335493334901938,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+88,simulation_0082,S2,size,yellow car,agree_wgm,2.3084523535681614,2d_ratio,agree_wgm,2d_ratio,2.3084523535681614,1.8,2.293015220421112,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+90,simulation_0082,S2,size,car,agree_wgm,2.3504242145421284,2d_ratio,agree_wgm,2d_ratio,2.3504242145421284,2.0,2.3347064062469496,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+95,simulation_0083,S2,size,yellow car,caw_c1,,2d_ratio,caw_c1,2d_ratio,,2.02,2.31525,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+96,simulation_0083,S2,size,car,caw_c1,,vlm_2d_ratio,caw_c1,vlm_2d_ratio,,4.89,5.67,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_01,1
+97,simulation_0083,S2,size,car,caw_c1,,vlm_2d_ratio,caw_c1,vlm_2d_ratio,,2.0,2.31525,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_02,1
+103,simulation_0084,D2,size,yellow car,patch:rul271,,2d_ratio,patch:rul271,2d_ratio,,1.8,2.5301077093925106,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+105,simulation_0084,D2,size,car,patch:rul271,,2d_ratio,patch:rul271,2d_ratio,,1.7,2.582818286671521,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+118,simulation_0086,D2,size,car,agree_wgm,5.6079013110637055,2d_ratio,agree_wgm,2d_ratio,5.6079013110637055,4.5,5.603470588455192,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+119,simulation_0086,D2,size,car,agree_wgm,2.3826316451151497,2d_ratio,agree_wgm,2d_ratio,2.3826316451151497,1.8,2.38074916193433,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+150,simulation_0092,S2,size,car,agree_wgm,1.9220341468467248,2d_ratio,agree_wgm,2d_ratio,1.9220341468467248,1.5,1.9220341468467248,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+161,simulation_0094,D2,size,car,agree_wgm,2.085927287105924,2d_ratio,agree_wgm,2d_ratio,2.085927287105924,1.45,2.085337107421417,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+166,simulation_0095,D2,size,car,agree_wgm,1.851124080047235,2d_ratio,agree_wgm,2d_ratio,1.851124080047235,1.0,1.8517865517433143,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+171,simulation_0096,D2,size,car,agree_wgm,1.910494832615878,2d_ratio,agree_wgm,2d_ratio,1.910494832615878,1.0,1.893301214134237,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+176,simulation_0097,D2,size,car,agree_wgm,1.89772945045171,2d_ratio,agree_wgm,2d_ratio,1.89772945045171,1.69,1.8980613397172128,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+187,simulation_0100,S2,speed,boat,dis_geo,5.144960397824018,2d_ratio,dis_geo,2d_ratio,5.144960397824018,2.0,4.436298515795105,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+203,simulation_0103,D2,speed,boat,dis_geo,4.900242847111473,2d_ratio,dis_geo,2d_ratio,4.900242847111473,2.0,4.435985503858327,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+207,simulation_0103,D2,dist2,shark,dis_geo,14.69718218928771,2d_ratio,dis_geo,2d_ratio,14.69718218928771,1.12,14.69718218928771,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,0
+217,simulation_0106,D2,dist2,viruses,agree_geo_kind,7.042704993534003,2d_ratio,agree_geo_kind,2d_ratio,7.042704993534003,4.13,7.042764944975432,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target2_no_track,test_02,1
+227,simulation_0112,D2,size,bridge,patch:rul441,0.9910688502019942,2d_ratio,patch:rul439,2d_ratio,0.9910688502019942,0.6,0.9920338529130712,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+228,simulation_0112,D2,size,car,patch:rul441,1.6323486944503434,2d_ratio,patch:rul439,2d_ratio,1.6323486944503434,1.13,1.6349422501070594,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+229,simulation_0112,D2,size,wheel,patch:rul441,0.8453234310546421,2d_ratio,patch:rul439,2d_ratio,0.8453234310546421,0.68,0.8692597275849012,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+230,simulation_0112,D2,size,car,patch:rul441,5.450878231331247,2d_ratio,patch:rul439,2d_ratio,5.450878231331247,4.5,5.459020976027363,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+239,simulation_0116,D2,size,yellow door,agree_wgm,0.8323714521597534,2d_ratio,agree_wgm,2d_ratio,0.8323714521597534,1.0,0.8338960014438382,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+241,simulation_0117,D2,size,ball,geo_cawinvalid,0.065880255617007,2d_ratio,geo_cawinvalid,2d_ratio,0.065880255617007,0.02,0.0658809234956138,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+242,simulation_0117,D2,size,door,agree_wgm,2.279528774710972,2d_ratio,agree_wgm,2d_ratio,2.279528774710972,2.05,2.270300966955761,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+243,simulation_0117,D2,size,door,agree_wgm,1.1056025119851578,2d_ratio,agree_wgm,2d_ratio,1.1056025119851578,0.97,1.1041352536449134,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+244,simulation_0117,D2,size,electronic lock,agree_wgm,0.2919287531646203,2d_ratio,agree_wgm,2d_ratio,0.2919287531646203,0.2,0.2915413810025157,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+245,simulation_0117,D2,size,electronic lock,dis_geo,0.0621125006733234,2d_ratio,dis_geo,2d_ratio,0.0621125006733234,0.15,0.06,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+246,simulation_0118,D2,disp,toy car,kin,0.2500733317085901,2d_ratio,kin,2d_ratio,0.2500733317085901,0.1,0.2500733317085901,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+256,simulation_0119,D2,path,chess piece,agree_gm,0.0783333333333333,2d_ratio,agree_gm,2d_ratio,0.0783333333333333,0.04,0.096,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,4
+265,simulation_0123,D2,size,blue rolling cup,agree_wgm,0.0772734048983455,2d_ratio,agree_wgm,2d_ratio,0.0772734048983455,0.1,0.0772734048983455,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+266,simulation_0123,D2,size,blue rolling cup,patch:rul062,,2d_ratio,patch:rul062,2d_ratio,,0.05,0.0441562313704831,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+267,simulation_0123,D2,size,green toothbrush lying,dis_geo,0.1124034007772238,2d_ratio,dis_geo,2d_ratio,0.1124034007772238,0.21,0.1124034007772238,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,3
+268,simulation_0123,D2,size,blue cup,patch:rul062,,2d_ratio,patch:rul062,2d_ratio,,0.15,0.0441562313704831,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+270,simulation_0123,D2,size,largest towel,dis_geo,0.1876639833245534,2d_ratio,dis_geo,2d_ratio,0.1876639833245534,0.38,0.1876639833245534,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+272,simulation_0124,D2,size,car,agree_gm,4.866269930246438,vlm_2d_ratio,agree_gm,vlm_2d_ratio,4.866269930246438,4.5,5.423093544725325,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_01,2
+273,simulation_0124,D2,size,car,agree_gm,2.0514807841366194,vlm_2d_ratio,agree_gm,vlm_2d_ratio,2.0514807841366194,2.4,2.198932343607728,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_02,2
+274,simulation_0124,D2,size,black car,agree_wgm,4.851113205538692,2d_ratio,agree_wgm,2d_ratio,4.851113205538692,4.5,4.881193537293106,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+275,simulation_0124,D2,size,black car,agree_wgm,2.045091140747721,2d_ratio,agree_wgm,2d_ratio,2.045091140747721,1.8,2.056252820008317,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+278,simulation_0125,D2,size,potted plant,agree_wgm,1.354810562667175,2d_ratio,agree_wgm,2d_ratio,1.354810562667175,0.7,1.3683985445360904,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+279,simulation_0125,D2,size,house,agree_wgm,8.12886337600305,2d_ratio,agree_wgm,2d_ratio,8.12886337600305,5.6,8.367426186857616,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+280,simulation_0125,D2,size,house,agree_wgm,6.895379132380697,2d_ratio,agree_wgm,2d_ratio,6.895379132380697,4.53,7.03348867880785,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+281,simulation_0125,D2,size,person,agree_wgm,1.880557945194736,2d_ratio,agree_wgm,2d_ratio,1.880557945194736,1.75,1.8796392158883048,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+285,simulation_0126,S2,dist2,handles,dis_geo,0.4445520544034415,2d_ratio,dis_geo,2d_ratio,0.4445520544034415,1.22,0.2407309212918857,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+301,simulation_0130,D2,size,car,patch:rul424,4.470156075077657,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,4.470156075077657,4.5,4.470156075077657,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,target_low_det(0.29/owl0.00),test_00,2
+302,simulation_0130,D2,size,car,patch:rul424,2.2350780375388286,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,2.2350780375388286,2.1,2.2350780375388286,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,target_low_det(0.29/owl0.00),test_01,2
+303,simulation_0130,D2,size,white airplane,agree_gm,47.511173916903,vlm_2d_ratio,agree_gm,vlm_2d_ratio,47.511173916903,69.5,47.511173916903,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,target=prior_object,meas,vlm_2d_ratio,xg_v,prior_low_det(0.29/owl0.00),test_02,1
+304,simulation_0130,D2,size,white airplane,agree_gm,47.511173916903,vlm_2d_ratio,agree_gm,vlm_2d_ratio,47.511173916903,60.5,47.511173916903,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,target=prior_object,meas,vlm_2d_ratio,xg_v,prior_low_det(0.29/owl0.00),test_03,1
+308,simulation_0131,D2,size,hot air balloon,dis_geo,14.477351736350975,2d_ratio,dis_geo,2d_ratio,14.477351736350975,6.4,14.477351736350975,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+309,simulation_0131,D2,size,hot air balloon,dis_geo,19.586435269707184,2d_ratio,dis_geo,2d_ratio,19.586435269707184,284.0,19.586435269707184,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+311,simulation_0132,D2,size,apple,dis_geo,0.0974095021377899,2d_ratio,dis_geo,2d_ratio,0.0974095021377899,0.24,0.0974173155165486,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+315,simulation_0133,D2,size,apple,agree_wgm,0.0963445710573025,2d_ratio,agree_wgm,2d_ratio,0.0963445710573025,0.08,0.0951558691094172,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+321,simulation_0134,S2,size,toaster,agree_wgm,0.2690806451612904,2d_ratio,agree_wgm,2d_ratio,0.2690806451612904,0.28,0.2191633655822354,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+323,simulation_0134,S2,accel,bread slice,caw_nogeo,,,caw_nogeo,,,9.8,2.0,,vlm,,,target_static_track(7px<21),vlm,,,target_static_track(7px<20),test_03,1
+332,simulation_0137,D2,size,house,agree_wgm,6.530315997962062,2d_ratio,agree_wgm,2d_ratio,6.530315997962062,7.3,6.531275673329884,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+333,simulation_0137,D2,size,house,agree_wgm,3.5175241438174294,2d_ratio,agree_wgm,2d_ratio,3.5175241438174294,4.5,3.517893636542828,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+335,simulation_0142,D2,size,man,agree_wgm,1.781364059718752,2d_ratio,agree_wgm,2d_ratio,1.781364059718752,1.75,1.7722267240364202,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+337,simulation_0142,D2,size,floor tile,agree_gm,1.09234562924774,2d_ratio_scene,agree_gm,2d_ratio_scene,1.09234562924774,0.6,0.65,,meas,2d_ratio_scene,d,,meas,2d_ratio_scene,d,,test_02,2
+353,simulation_0154,D2,size,shark,patch:rul441,5.964145286630057,2d_ratio,patch:rul439,2d_ratio,5.964145286630057,2.8,5.964145286630057,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+355,simulation_0155,D2,size,shark,patch:rul441,6.061144872822698,2d_ratio,patch:rul439,2d_ratio,6.061144872822698,2.5,6.061144872822698,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+357,simulation_0156,D2,size,shark,patch:rul441,6.079180703847633,2d_ratio,patch:rul439,2d_ratio,6.079180703847633,3.5,6.1059990481794415,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+360,simulation_0156,D2,size,turtle,patch:rul441,2.0690858342351,2d_ratio,patch:rul439,2d_ratio,2.0690858342351,0.7,2.0690858342351,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,0
+364,simulation_0158,D2,size,turtle,agree_wgm,1.681056744704894,2d_ratio,agree_wgm,2d_ratio,1.681056744704894,0.8,1.5747304981308612,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+365,simulation_0158,D2,speed,turtle,kin,2.704987033246985,2d_ratio,kin,2d_ratio,2.704987033246985,2.6,2.609297142154697,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+382,simulation_0163,S2,accel,ball,dis_geo,0.3858239365598694,2d_ratio,dis_geo,2d_ratio,0.3858239365598694,2.4,0.3734145026939902,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+384,simulation_0163,S2,accel,ball,dis_geo,0.3804230240070678,2d_ratio,dis_geo,2d_ratio,0.3804230240070678,2.1,0.3570099835374491,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+388,simulation_0165,D2,size,bike,agree_wgm,1.82660635063649,2d_ratio,agree_wgm,2d_ratio,1.82660635063649,2.0,1.859988238691204,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+389,simulation_0166,D2,size,wheel,agree_wgm,0.7559075224707202,2d_ratio,agree_wgm,2d_ratio,0.7559075224707202,0.67,0.7559075224707202,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+391,simulation_0166,D2,size,bike,agree_wgm,1.87673591785834,2d_ratio,agree_wgm,2d_ratio,1.87673591785834,2.0,1.807558874004161,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+392,simulation_0166,D2,size,police car,agree_wgm,5.003139806112988,2d_ratio,agree_wgm,2d_ratio,5.003139806112988,4.5,4.960799350119766,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+393,simulation_0166,D2,size,tire,agree_wgm,0.7819732991076416,2d_ratio,agree_wgm,2d_ratio,0.7819732991076416,0.66,0.7819732991076416,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+397,simulation_0167,D2,size,police car,agree_wgm,4.7206524464682245,2d_ratio,agree_wgm,2d_ratio,4.7206524464682245,4.5,4.721102551619564,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,prior_low_det(0.22/owl0.00),test_02,1
+398,simulation_0167,D2,size,police car,agree_wgm,1.9397280804903176,2d_ratio,agree_wgm,2d_ratio,1.9397280804903176,2.1,1.9391893245550205,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,prior_low_det(0.22/owl0.00),test_03,1
+417,simulation_0173,D2,size,airplane,patch:rul441,54.9225597641926,2d_ratio,patch:rul439,2d_ratio,54.9225597641926,46.08,55.06674321589836,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+418,simulation_0173,D2,size,stone cliff,patch:rul441,48.38636009489945,2d_ratio,patch:rul439,2d_ratio,48.38636009489945,43.0,48.401144112492304,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+419,simulation_0173,D2,size,rear wheels,patch:rul441,1.5874248693696758,2d_ratio,patch:rul439,2d_ratio,1.5874248693696758,0.55,1.7387419301920142,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+420,simulation_0175,D2,size,airplane,patch:rul441,56.0979724912775,2d_ratio,patch:rul439,2d_ratio,56.0979724912775,45.08,56.0979724912775,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+421,simulation_0175,D2,size,stone cliff,patch:rul441,48.27551341766937,2d_ratio,patch:rul439,2d_ratio,48.27551341766937,42.0,48.30811588987537,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+422,simulation_0175,D2,size,rear wheels,patch:rul441,1.636458081954894,2d_ratio,patch:rul439,2d_ratio,1.636458081954894,0.55,1.636458081954894,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+424,simulation_0177,D2,disp,elephant,kin,3.4722445491745586,2d_ratio,kin,2d_ratio,3.4722445491745586,2.85,3.4722445491745586,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+426,simulation_0178,D2,size,big elephant,agree_wgm,3.1066746884315326,2d_ratio,agree_wgm,2d_ratio,3.1066746884315326,3.1,3.050298789519928,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+428,simulation_0178,D2,disp,big elephant,kin,5.677566841695061,2d_ratio,kin,2d_ratio,5.677566841695061,13.878,5.667923017541987,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+430,simulation_0179,D2,size,trolley,agree_wgm,1.2155201517109349,2d_ratio,agree_wgm,2d_ratio,1.2155201517109349,0.9,1.2167707643199657,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+431,simulation_0179,D2,size,trolley,agree_wgm,1.215909391614957,2d_ratio,agree_wgm,2d_ratio,1.215909391614957,0.83,1.2109384398832663,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+442,simulation_0183,D2,speed,box,patch:rul276,2.14690659779681,2d_ratio,agree_gm,2d_ratio,2.14690659779681,2.3,2.14690659779681,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+443,simulation_0183,D2,speed,box,patch:rul276,2.920317940533741,2d_ratio,agree_gm,2d_ratio,2.920317940533741,3.45,2.920317940533741,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+447,simulation_0185,D2,speed,box,patch:rul276,3.30366993709112,2d_ratio,agree_gm,2d_ratio,3.30366993709112,3.18,3.30366993709112,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+473,simulation_0192,D2,size,box,agree_wgm,1.141309741057078,2d_ratio,agree_wgm,2d_ratio,1.141309741057078,0.73,1.052391729233828,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+478,simulation_0193,D2,size,callisto model,patch:rul256,,vlm_2d_ratio,patch:rul256,vlm_2d_ratio,,0.13,0.1391314635411465,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,h1,,,prior_static_track(6px<93),test_00,4
+481,simulation_0193,D2,speed,europa model,patch:orbit,0.6232267100807369,2d_ratio,patch:orbit,2d_ratio,0.6232267100807369,1.254,0.314,,meas,2d_ratio,d,,vlm,,,target_static_track(6px<93),test_03,3
+483,simulation_0193,D2,size,io model,patch:rul256,,vlm_2d_ratio,patch:rul256,vlm_2d_ratio,,0.188,0.1391314635411465,2d_ratio,meas,vlm_2d_ratio,xg_v,,vlm,,,prior_static_track(6px<93),test_05,3
+500,simulation_0197,S2,size,neck,caw_nogeo,,,caw_nogeo,,,0.015,0.0376,,vlm,,,part_target,vlm,,,part_target,test_03,5
+501,simulation_0197,S2,size,bottle,dis_size_gm,0.0120975987306309,vlm_2d_ratio,dis_size_gm,vlm_2d_ratio,0.0120975987306309,0.06,0.0120975987306309,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_04,5
+531,simulation_0203,D2,size,table,patch:rul424,2.6421836302099413,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,2.6421836302099413,1.5,2.6421863216274373,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,prior_no_freefall,test_00,4
+532,simulation_0203,D2,size,typewriter,patch:rul424,0.3973654393357263,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,0.3973654393357263,0.43,0.3996252911247431,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,prior_no_freefall,test_01,4
+533,simulation_0203,D2,size,typewriter,patch:rul424,0.2224060294789513,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,0.2224060294789513,0.4,0.1838558383175096,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,prior_no_freefall,test_02,4
+534,simulation_0203,D2,size,paper,patch:rul424,0.1635393701950068,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,0.1635393701950068,0.15,0.1634548425862332,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,prior_no_freefall,test_03,4
+535,simulation_0203,D2,size,letter,patch:rul424,0.1818878280344756,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,0.1818878280344756,0.28,0.1832506485146134,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,prior_no_freefall,test_04,3
+538,simulation_0203,D2,speed,magnifying glass,kin,3.2911301341583896,vlm_2d_ratio,kin,vlm_2d_ratio,3.2911301341583896,3.23,3.2911301341583896,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,target_static_track(1px<15),test_07,5
+539,simulation_0204,D2,size,table,agree_wgm,2.647089309816099,2d_ratio,agree_wgm,2d_ratio,2.647089309816099,1.2,2.6450282860519567,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+542,simulation_0204,D2,size,letter,agree_wgm,0.2130350939694842,2d_ratio,agree_wgm,2d_ratio,0.2130350939694842,0.13,0.2398667984421594,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+545,simulation_0204,D2,speed,magnifying glass,kin,3.293971192676163,2d_ratio,kin,2d_ratio,3.293971192676163,3.27,3.293402457884505,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,4
+546,simulation_0207,D2,size,table,agree_wgm,2.6868012736612004,2d_ratio,agree_wgm,2d_ratio,2.6868012736612004,1.5,2.678843745775043,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+549,simulation_0207,D2,size,paper,patch:rul291,0.063396434547062,2d_ratio,patch:rul291,2d_ratio,0.063396434547062,0.14,0.063396434547062,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+550,simulation_0207,D2,size,letter,agree_gm,0.2866845510232138,vlm_2d_ratio,agree_gm,vlm_2d_ratio,0.2866845510232138,0.15,0.2866547987806939,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_04,2
+554,simulation_0208,D2,size,table,dis_geo,2.694731680511253,2d_ratio,dis_geo,2d_ratio,2.694731680511253,1.0,2.690743358757892,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+555,simulation_0208,D2,size,typewriter,agree_wgm,0.4038487772842802,2d_ratio,agree_wgm,2d_ratio,0.4038487772842802,0.43,0.4031372855862748,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+556,simulation_0208,D2,size,typewriter,agree_wgm,0.2356379720626432,2d_ratio,agree_wgm,2d_ratio,0.2356379720626432,0.11,0.232140472426095,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+561,simulation_0210,D2,size,black cat,agree_wgm,0.6950864659509753,2d_ratio,agree_wgm,2d_ratio,0.6950864659509753,0.5,0.6844695193724238,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,5
+562,simulation_0210,D2,size,black cat,agree_wgm,0.4869781992666621,2d_ratio,agree_wgm,2d_ratio,0.4869781992666621,0.46,0.4799806105260017,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,5
+563,simulation_0210,D2,size,wooden bench,agree_wgm,1.013507776530665,2d_ratio,agree_wgm,2d_ratio,1.013507776530665,1.1,0.9989442691368992,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+564,simulation_0210,D2,size,wooden bench,agree_wgm,0.4696744053840904,2d_ratio,agree_wgm,2d_ratio,0.4696744053840904,0.44,0.4629254619286311,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,4
+565,simulation_0210,D2,size,lampshade,agree_wgm,0.2521409965746169,2d_ratio,agree_wgm,2d_ratio,0.2521409965746169,0.44,0.2427292966019962,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,4
+567,simulation_0210,D2,size,table lamp,agree_wgm,0.6377684031005016,2d_ratio,agree_wgm,2d_ratio,0.6377684031005016,0.61,0.6287089394034284,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,4
+568,simulation_0210,D2,size,vase,agree_wgm,0.4746183464933966,2d_ratio,agree_wgm,2d_ratio,0.4746183464933966,0.46,0.4748983937830577,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,4
+571,simulation_0213,D2,size,black cat,agree_wgm,0.7177618008147956,2d_ratio,agree_wgm,2d_ratio,0.7177618008147956,0.5,0.7181112526932331,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,6
+572,simulation_0213,D2,size,black cat,agree_wgm,0.5045652591521428,2d_ratio,agree_wgm,2d_ratio,0.5045652591521428,0.46,0.5050164834582234,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,6
+573,simulation_0213,D2,size,wooden bench,agree_wgm,1.060880801294249,2d_ratio,agree_wgm,2d_ratio,1.060880801294249,1.2,1.1339952236266762,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,5
+574,simulation_0213,D2,size,wooden bench,agree_wgm,0.4916276884046519,2d_ratio,agree_wgm,2d_ratio,0.4916276884046519,0.45,0.5255099816806548,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,5
+575,simulation_0213,D2,size,lampshade,agree_wgm,0.2535763866508205,2d_ratio,agree_wgm,2d_ratio,0.2535763866508205,0.44,0.2708209206647526,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,5
+577,simulation_0213,D2,size,table lamp,agree_wgm,0.662403622271531,2d_ratio,agree_wgm,2d_ratio,0.662403622271531,0.6,0.7080555542644612,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,5
+578,simulation_0213,D2,size,vase,agree_wgm,0.4968027167036483,2d_ratio,agree_wgm,2d_ratio,0.4968027167036483,0.53,0.4972469990973276,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,5
+579,simulation_0213,D2,size,floor mirror,agree_wgm,1.335157301141055,2d_ratio,agree_wgm,2d_ratio,1.335157301141055,1.37,1.336351310074068,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,5
+580,simulation_0213,D2,size,floor mirror,dis_geo,0.6267937168498485,2d_ratio,dis_geo,2d_ratio,0.6267937168498485,1.26,0.6273542480295348,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,5
+581,simulation_0213,D2,speed,dog,agree_gm,1.2208371146809798,2d_ratio,agree_gm,2d_ratio,1.2208371146809798,1.08,1.9416864708604928,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_10,5
+582,simulation_0213,D2,speed,dog,agree_gm,0.912014549247486,2d_ratio,agree_gm,2d_ratio,0.912014549247486,1.1,0.8445013129132474,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_11,5
+584,simulation_0213,D2,size,dog,agree_wgm,0.6649911364210292,2d_ratio,agree_wgm,2d_ratio,0.6649911364210292,0.71,0.6604556143556665,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,,7
+585,simulation_0214,D2,size,black cat,agree_wgm,0.6923245115166964,2d_ratio,agree_wgm,2d_ratio,0.6923245115166964,0.5,0.6829060402588494,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+586,simulation_0214,D2,size,wooden bench,agree_wgm,1.0304366650854984,2d_ratio,agree_wgm,2d_ratio,1.0304366650854984,1.3,1.0303266879609467,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,6
+587,simulation_0214,D2,size,wooden bench,dis_geo,0.4186148951909837,2d_ratio,dis_geo,2d_ratio,0.4186148951909837,1.1,0.4169415886069492,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+588,simulation_0214,D2,size,tv stand,agree_wgm,1.9884207521571728,2d_ratio,agree_wgm,2d_ratio,1.9884207521571728,1.6,1.9892987425181203,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+589,simulation_0214,D2,size,tv stand,patch:rul073,,2d_ratio,patch:rul073,2d_ratio,,1.3,0.5315535101465423,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,6
+590,simulation_0214,D2,size,lampshade,patch:rul271,,2d_ratio,patch:rul271,2d_ratio,,0.4,0.5315535101465423,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,6
+591,simulation_0214,D2,size,floor mirror,dis_geo,0.4783508925637791,2d_ratio,dis_geo,2d_ratio,0.4783508925637791,1.1,0.4785327840943255,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,6
+592,simulation_0214,D2,speed,dog,agree_gm,0.9504667330372796,2d_ratio,agree_gm,2d_ratio,0.9504667330372796,1.08,0.8738708869198573,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,6
+593,simulation_0214,D2,speed,dog,agree_gm,0.776777885080603,2d_ratio,agree_gm,2d_ratio,0.776777885080603,1.1,0.79790239526212,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,6
+594,simulation_0214,D2,size,dog,agree_wgm,0.9112171323641096,2d_ratio,agree_wgm,2d_ratio,0.9112171323641096,0.9,0.9053237183237696,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+596,simulation_0214,D2,size,white sofa,agree_wgm,3.155712286824339,2d_ratio,agree_wgm,2d_ratio,3.155712286824339,2.1,3.151296738027765,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_11,6
+598,simulation_0215,D2,size,black cat,agree_wgm,0.6976917835200338,2d_ratio,agree_wgm,2d_ratio,0.6976917835200338,0.5,0.6892069144700356,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+599,simulation_0215,D2,size,wooden bench,agree_wgm,1.0385139005654072,2d_ratio,agree_wgm,2d_ratio,1.0385139005654072,1.3,1.0505617746928726,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,6
+600,simulation_0215,D2,size,wooden bench,dis_geo,0.4218962604983979,2d_ratio,dis_geo,2d_ratio,0.4218962604983979,1.1,0.4267906583506181,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+601,simulation_0215,D2,size,tv stand,agree_wgm,2.004007531393623,2d_ratio,agree_wgm,2d_ratio,2.004007531393623,2.1,1.9828468452740096,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+602,simulation_0215,D2,size,tv stand,dis_geo,0.5354837938136806,2d_ratio,dis_geo,2d_ratio,0.5354837938136806,1.3,0.5298295214092495,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,6
+603,simulation_0215,D2,size,lampshade,patch:rul424,,2d_ratio,patch:rul424,2d_ratio,,0.43,0.5354837938136806,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,6
+605,simulation_0215,D2,size,floor mirror,dis_geo,0.4819158353802275,2d_ratio,dis_geo,2d_ratio,0.4819158353802275,1.1,0.4768380988575659,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,6
+607,simulation_0215,D2,size,white sofa,agree_wgm,3.1814715443068247,2d_ratio,agree_wgm,2d_ratio,3.1814715443068247,2.1,3.1533360711804823,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+609,simulation_0216,D2,size,black cat,agree_wgm,0.6261025596152532,2d_ratio,agree_wgm,2d_ratio,0.6261025596152532,0.5,0.6264537273925973,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+610,simulation_0216,D2,size,black cat,agree_wgm,0.4722689050760098,2d_ratio,agree_wgm,2d_ratio,0.4722689050760098,0.48,0.4718899587374577,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,7
+611,simulation_0216,D2,size,wooden bench,agree_wgm,0.9975475852115718,2d_ratio,agree_wgm,2d_ratio,0.9975475852115718,1.1,0.9853648342632056,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+612,simulation_0216,D2,size,wooden bench,patch:rul271,,2d_ratio,patch:rul271,2d_ratio,,0.45,0.452220576111133,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+613,simulation_0216,D2,size,lampshade,dis_geo,0.2313153820780456,2d_ratio,dis_geo,2d_ratio,0.2313153820780456,0.44,0.2356178492291911,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,6
+615,simulation_0216,D2,size,table lamp,agree_wgm,0.6216600893347477,2d_ratio,agree_wgm,2d_ratio,0.6216600893347477,0.43,0.6231949813817913,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,6
+616,simulation_0216,D2,size,vase,agree_wgm,0.4674498346160505,2d_ratio,agree_wgm,2d_ratio,0.4674498346160505,0.43,0.4670747550768714,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,6
+617,simulation_0216,D2,size,floor mirror,agree_wgm,1.238501108209536,2d_ratio,agree_wgm,2d_ratio,1.238501108209536,1.43,1.223375663795381,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,6
+618,simulation_0216,D2,size,floor mirror,agree_wgm,1.2573553095983208,2d_ratio,agree_wgm,2d_ratio,1.2573553095983208,1.35,1.241999604449485,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+619,simulation_0216,D2,size,tv,agree_wgm,0.848156400952834,2d_ratio,agree_wgm,2d_ratio,0.848156400952834,1.0,0.8502505172340719,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_10,6
+620,simulation_0216,D2,size,tv,agree_wgm,0.5397358915154398,2d_ratio,agree_wgm,2d_ratio,0.5397358915154398,0.6,0.4927588224879279,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_11,6
+622,simulation_0216,D2,size,tv stand,patch:rul271,,2d_ratio,patch:rul271,2d_ratio,,0.43,0.4586851349600319,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,,8
+623,simulation_0217,D2,size,black cat,agree_wgm,0.6834553627653972,2d_ratio,agree_wgm,2d_ratio,0.6834553627653972,0.5,0.68907712174859,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,9
+624,simulation_0217,D2,size,tv,caw_nogeo,,,caw_nogeo,,,1.3,0.9333917391687376,2d_ratio,vlm,,,target_low_det(0.28/owl0.09),vlm,,,target_low_det(0.28/owl0.09),test_01,8
+625,simulation_0217,D2,size,wooden bench,agree_wgm,1.020768759760283,2d_ratio,agree_wgm,2d_ratio,1.020768759760283,1.3,1.0262816102422705,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,8
+626,simulation_0217,D2,size,wooden bench,dis_geo,0.4179525519459602,2d_ratio,dis_geo,2d_ratio,0.4179525519459602,1.2,0.4169268926913302,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,8
+627,simulation_0217,D2,size,tv stand,dis_geo,0.530478316839649,2d_ratio,dis_geo,2d_ratio,0.530478316839649,1.3,0.4249447798983055,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,8
+628,simulation_0217,D2,size,lampshade,agree_wgm,0.5319862160154764,2d_ratio,agree_wgm,2d_ratio,0.5319862160154764,0.43,0.5325506990171145,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,8
+629,simulation_0217,D2,size,vase,patch:rul424,0.2664645621146772,vlm_2d_ratio,patch:rul424,vlm_2d_ratio,0.2664645621146772,0.23,0.2664645621146772,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,target_low_det(0.24/owl0.09),test_06,8
+631,simulation_0217,D2,speed,dog,agree_gm,1.0513805756612975,2d_ratio,agree_gm,2d_ratio,1.0513805756612975,1.1,0.8964243407012772,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,8
+633,simulation_0217,D2,size,dog,agree_wgm,0.91583185466751,2d_ratio,agree_wgm,2d_ratio,0.91583185466751,0.77,0.6841814094582503,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_10,8
+637,simulation_0218,D2,size,big robot,patch:rul441,3.7992202090354654,2d_ratio,patch:rul439,2d_ratio,3.7992202090354654,3.1,3.807117818515811,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+638,simulation_0218,D2,size,big robot,patch:rul441,3.7118045228098713,2d_ratio,patch:rul439,2d_ratio,3.7118045228098713,2.37,3.712948826538388,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+641,simulation_0219,D2,size,big robot,patch:rul441,3.788614281364368,2d_ratio,patch:rul439,2d_ratio,3.788614281364368,3.1,3.788614281364368,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,4
+642,simulation_0219,D2,size,big robot,patch:rul441,3.7014426253329753,2d_ratio,patch:rul439,2d_ratio,3.7014426253329753,2.87,3.7014426253329753,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+644,simulation_0219,D2,size,tire,patch:rul441,0.2165605857604225,2d_ratio,patch:rul439,2d_ratio,0.2165605857604225,0.95,0.56,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+645,simulation_0219,D2,speed,small robot,patch:rul441,1.088899663921711,2d_ratio,patch:rul439,2d_ratio,1.088899663921711,3.5,1.0863196578810834,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+646,simulation_0219,D2,size,small robot,patch:rul441,1.8238992646568284,2d_ratio,patch:rul439,2d_ratio,1.8238992646568284,1.0,1.8228321102072125,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+659,simulation_0221,S2,speed,vacuum cleaner,patch:rul275,1.0907079579749468,vlm_2d_ratio,agree_gm,vlm_2d_ratio,1.0907079579749468,1.15,1.0907079579749468,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_no_track,meas,vlm_2d_ratio,v,target_no_track,test_10,7
+660,simulation_0221,S2,accel,vacuum cleaner,patch:rul275,2.021021723136767,vlm_2d_ratio,agree_gm,vlm_2d_ratio,2.021021723136767,1.19,2.021021723136767,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_no_track,meas,vlm_2d_ratio,v,target_no_track,test_11,7
+664,simulation_0221,S2,accel,vacuum cleaner,patch:rul275,0.626163475952823,vlm_2d_ratio,agree_gm,vlm_2d_ratio,0.626163475952823,0.876,0.626163475952823,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_no_track,meas,vlm_2d_ratio,v,target_no_track,,8
+671,simulation_0222,S2,size,floor mirror,caw_c1,,vlm_2d_ratio,caw_c1,vlm_2d_ratio,,1.13,0.4379999999999999,vlm_2d_ratio,meas,vlm_2d_ratio,v,prior_low_det(0.15/owl0.00),meas,vlm_2d_ratio,v,prior_low_det(0.15/owl0.00),test_06,6
+675,simulation_0222,S2,speed,vacuum cleaner,patch:rul275,1.0848996144883791,vlm_2d_ratio,agree_gm,vlm_2d_ratio,1.0848996144883791,1.15,1.0848996144883791,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),test_10,7
+676,simulation_0222,S2,accel,vacuum cleaner,patch:rul275,2.027238117821405,vlm_2d_ratio,agree_gm,vlm_2d_ratio,2.027238117821405,2.19,2.027238117821405,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),test_11,7
+680,simulation_0222,S2,accel,vacuum cleaner,patch:rul275,0.9508457743711016,vlm_2d_ratio,agree_gm,vlm_2d_ratio,0.9508457743711016,0.876,0.9508457743711016,vlm_2d_ratio,meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),meas,vlm_2d_ratio,v,target_low_det(0.15/owl0.00),,8
+681,simulation_0223,S2,size,chinese chess board,agree_wgm,1.1657155946430406,2d_ratio,agree_wgm,2d_ratio,1.1657155946430406,0.88,0.7910212963649205,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+682,simulation_0223,S2,size,chinese chess board,agree_wgm,1.0570391436125104,2d_ratio,agree_wgm,2d_ratio,1.0570391436125104,0.778,0.7172765617370606,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+683,simulation_0223,S2,speed,chess,patch:rul275,0.2175127183191576,vlm_2d_ratio,agree_gm,vlm_2d_ratio,0.2175127183191576,0.4,0.2216175442914379,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_02,2
+696,simulation_0225,D2,size,black cat,agree_wgm,0.843661096216358,2d_ratio,agree_wgm,2d_ratio,0.843661096216358,0.5,0.8494094955298045,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+697,simulation_0225,D2,size,black cat,agree_wgm,0.6040292354795929,2d_ratio,agree_wgm,2d_ratio,0.6040292354795929,0.46,0.6057970060761044,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+698,simulation_0225,D2,size,beach chair,agree_wgm,1.3146518654555843,2d_ratio,agree_wgm,2d_ratio,1.3146518654555843,1.1,1.3061596343333493,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+700,simulation_0226,D2,size,black cat,agree_wgm,0.8514607653224757,2d_ratio,agree_wgm,2d_ratio,0.8514607653224757,0.67,0.8540874738042195,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+701,simulation_0226,D2,size,beach chair,agree_wgm,1.596488934979642,2d_ratio,agree_wgm,2d_ratio,1.596488934979642,0.75,1.5836205243453234,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+702,simulation_0226,D2,size,pool tiles,caw_nogeo,,,caw_nogeo,,,0.6,0.5205,,vlm,,,scene_target,vlm,,,scene_target,test_02,1
+703,simulation_0227,D2,size,black cat,agree_wgm,0.846642914780423,2d_ratio,agree_wgm,2d_ratio,0.846642914780423,0.5,0.8434836587839787,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+704,simulation_0227,D2,size,black cat,agree_wgm,0.6075788942400703,2d_ratio,agree_wgm,2d_ratio,0.6075788942400703,0.46,0.6082646917232624,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+705,simulation_0227,D2,size,beach chair,agree_wgm,1.322377593346035,2d_ratio,agree_wgm,2d_ratio,1.322377593346035,0.75,1.3221980192740388,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+707,simulation_0227,D2,size,swimming ring,agree_wgm,1.3757545639595583,2d_ratio,agree_wgm,2d_ratio,1.3757545639595583,1.52,1.3617675826407096,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+708,simulation_0227,D2,size,swimming ring,agree_wgm,1.0543280811812985,2d_ratio,agree_wgm,2d_ratio,1.0543280811812985,0.75,1.0347380106072868,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,2
+709,simulation_0227,D2,speed,swimming ring,dis_geo,1.824602918052312,2d_ratio,dis_geo,2d_ratio,1.824602918052312,0.67,1.805766076624556,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,2
+710,simulation_0228,D2,size,black cat,agree_wgm,0.8515620993379369,2d_ratio,agree_wgm,2d_ratio,0.8515620993379369,0.5,0.8502270735035323,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+711,simulation_0228,D2,size,beach chair,dis_geo,1.626481855571589,2d_ratio,dis_geo,2d_ratio,1.626481855571589,0.67,1.5858362591533213,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+720,simulation_0229,S2,speed,paper airplane,patch:rul275,5.965187905526321,2d_ratio,agree_gm,2d_ratio,5.965187905526321,3.33,5.956482655199356,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,6
+721,simulation_0229,S2,accel,paper airplane,dis_geo,7.782101504892242,2d_ratio,dis_geo,2d_ratio,7.782101504892242,2.0,7.778691572630419,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,6
+722,simulation_0229,S2,speed,paper airplane,patch:rul275,5.19731736696686,2d_ratio,agree_gm,2d_ratio,5.19731736696686,3.0,5.199986277001207,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,6
+723,simulation_0229,S2,accel,paper airplane,dis_geo,5.938635132527285,2d_ratio,dis_geo,2d_ratio,5.938635132527285,1.6,5.928562075196518,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,6
+726,simulation_0230,S2,size,orange chair,agree_wgm,0.7742998352553542,2d_ratio,agree_wgm,2d_ratio,0.7742998352553542,0.5,0.7738576236956914,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+736,simulation_0231,D2,size,chalkboard,agree_wgm,1.4872244348642305,2d_ratio,agree_wgm,2d_ratio,1.4872244348642305,1.18,1.4874497626372474,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+740,simulation_0231,D2,speed,paper airplane,dis_geo,5.492375453905269,2d_ratio,dis_geo,2d_ratio,5.492375453905269,1.428,5.436755573509407,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,7
+741,simulation_0231,D2,accel,paper airplane,dis_geo,7.168241275769242,2d_ratio,dis_geo,2d_ratio,7.168241275769242,1.5,7.098513112303569,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,7
+742,simulation_0231,D2,speed,paper airplane,dis_geo,4.798454710728294,2d_ratio,dis_geo,2d_ratio,4.798454710728294,1.428,4.746416291440877,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,7
+743,simulation_0231,D2,accel,paper airplane,dis_geo,5.492730792499374,2d_ratio,dis_geo,2d_ratio,5.492730792499374,1.6,5.459925929546642,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,7
+744,simulation_0231,D2,size,black cat,agree_wgm,0.663636391894366,2d_ratio,agree_wgm,2d_ratio,0.663636391894366,0.45,0.6571658965803444,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,8
+745,simulation_0231,D2,size,black cat,agree_wgm,0.4856243052617895,2d_ratio,agree_wgm,2d_ratio,0.4856243052617895,0.48,0.4815204501482416,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,8
+747,simulation_0231,D2,size,clock,agree_wgm,0.3718061087160575,2d_ratio,agree_wgm,2d_ratio,0.3718061087160575,0.5,0.3686640946447475,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_11,7
+748,simulation_0232,D2,size,chair,agree_wgm,0.6046610253922061,2d_ratio,agree_wgm,2d_ratio,0.6046610253922061,0.51,0.6091533222975292,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,5
+750,simulation_0232,D2,size,room,caw_nogeo,,,caw_nogeo,,,2.7,2.5,,vlm,,,scene_target,vlm,,,scene_target,test_02,6
+755,simulation_0232,D2,size,black cat,agree_wgm,0.6700202193431628,2d_ratio,agree_wgm,2d_ratio,0.6700202193431628,0.45,0.6701164075313171,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,7
+756,simulation_0232,D2,size,black cat,agree_wgm,0.4636027276249982,2d_ratio,agree_wgm,2d_ratio,0.4636027276249982,0.48,0.4659441725557688,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,7
+757,simulation_0232,D2,size,clock,agree_wgm,0.3605798992638875,2d_ratio,agree_wgm,2d_ratio,0.3605798992638875,0.4,0.3624010230989313,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+758,simulation_0233,D2,size,black cat,agree_wgm,0.8647139204542066,2d_ratio,patch:rul439,2d_ratio,0.8647139204542066,0.45,0.8718360876339101,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+759,simulation_0233,D2,size,chair,patch:rul441,0.5647111317251962,2d_ratio,patch:rul439,2d_ratio,0.5647111317251962,0.67,0.5647111317251962,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+760,simulation_0233,D2,size,chair,patch:rul441,0.7647129908778698,2d_ratio,patch:rul439,2d_ratio,0.7647129908778698,0.67,0.7647129908778698,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+761,simulation_0234,S2,size,white basketball backboard,agree_wgm,1.3127437986248212,2d_ratio,agree_wgm,2d_ratio,1.3127437986248212,1.05,1.310470588235294,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+762,simulation_0234,S2,size,white basketball backboard,agree_wgm,0.7809994751312227,2d_ratio,agree_wgm,2d_ratio,0.7809994751312227,1.05,0.7796470588235294,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+764,simulation_0234,S2,speed,basketball,dis_geo,1.0054456511108345,2d_ratio,dis_geo,2d_ratio,1.0054456511108345,3.9,1.0028047365584989,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+765,simulation_0234,S2,accel,basketball,dis_geo,2.025450666942844,2d_ratio,dis_geo,2d_ratio,2.025450666942844,9.8,2.0244437845787715,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+766,simulation_0234,S2,speed,basketball,dis_geo,1.0017704059486,2d_ratio,dis_geo,2d_ratio,1.0017704059486,3.1,0.9994648547993606,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,2
+767,simulation_0234,S2,accel,basketball,dis_geo,1.872843532700016,2d_ratio,dis_geo,2d_ratio,1.872843532700016,9.8,1.868851343239636,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,2
+772,simulation_0235,S2,speed,basketball,dis_geo,1.0104431674730376,2d_ratio,dis_geo,2d_ratio,1.0104431674730376,3.1,1.0089657887005763,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+773,simulation_0235,S2,accel,basketball,dis_geo,2.016275632600689,2d_ratio,dis_geo,2d_ratio,2.016275632600689,9.81,2.0247194220784137,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+774,simulation_0235,S2,speed,basketball,dis_geo,1.0073486827469162,2d_ratio,dis_geo,2d_ratio,1.0073486827469162,3.92,1.0076677678004118,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,3
+775,simulation_0235,S2,accel,basketball,dis_geo,1.856025272927574,2d_ratio,dis_geo,2d_ratio,1.856025272927574,9.81,1.8584841192903767,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,3
+776,simulation_0236,D2,size,brown horse,agree_wgm,1.753076240998621,2d_ratio,agree_wgm,2d_ratio,1.753076240998621,1.54,1.7888282250941845,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+777,simulation_0236,D2,size,brown horse,agree_wgm,2.059255365701819,2d_ratio,agree_wgm,2d_ratio,2.059255365701819,2.2,2.095875623918009,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+778,simulation_0236,D2,size,house,agree_wgm,8.714567400906187,2d_ratio,agree_wgm,2d_ratio,8.714567400906187,6.3,8.685710185471375,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+779,simulation_0236,D2,size,house,agree_wgm,8.028581045732814,2d_ratio,agree_wgm,2d_ratio,8.028581045732814,6.53,8.00199538953048,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+780,simulation_0236,D2,size,glass window,agree_wgm,1.244938200129455,2d_ratio,agree_wgm,2d_ratio,1.244938200129455,1.15,1.2481875338699415,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+783,simulation_0237,D2,size,house,agree_wgm,9.96200439001667,2d_ratio,agree_wgm,2d_ratio,9.96200439001667,10.5,9.972551893159112,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+784,simulation_0237,D2,size,house,agree_wgm,11.114765271704956,2d_ratio,agree_wgm,2d_ratio,11.114765271704956,10.5,11.126533287160592,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+785,simulation_0238,D2,size,brown horse,patch:jump,1.994801682464232,2d_ratio,patch:jump,2d_ratio,1.994801682464232,1.5,0.6479905761035706,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+786,simulation_0238,D2,size,brown horse,patch:jump,2.3603727717406,2d_ratio,patch:jump,2d_ratio,2.3603727717406,2.1,0.7636722778218329,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+787,simulation_0238,D2,size,house,patch:jump,9.916188073699006,2d_ratio,patch:jump,2d_ratio,9.916188073699006,8.5,3.1980457715538653,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,3
+788,simulation_0238,D2,size,house,patch:jump,9.135613502299956,2d_ratio,patch:jump,2d_ratio,9.135613502299956,7.5,2.946304559215806,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+789,simulation_0238,D2,size,glass window,patch:jump,1.416598296242715,2d_ratio,patch:jump,2d_ratio,1.416598296242715,1.15,0.460398468240858,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+790,simulation_0238,D2,size,glass window,patch:jump,0.8094847407101229,2d_ratio,patch:jump,2d_ratio,0.8094847407101229,1.14,0.263084838994776,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+791,simulation_0238,D2,avgspeed,horse,patch:jump,1.8469703956304604,2d_ratio,patch:jump,2d_ratio,1.8469703956304604,0.874,0.593591663717826,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,3
+792,simulation_0238,D2,size,horse,patch:jump,2.168262698330686,2d_ratio,patch:jump,2d_ratio,2.168262698330686,1.54,0.6992811453834983,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,3
+793,simulation_0238,D2,size,horse,patch:jump,2.924210182409984,2d_ratio,patch:jump,2d_ratio,2.924210182409984,2.44,0.9419238922572554,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,3
+794,simulation_0239,D2,size,horse,patch:jump,2.247903631789278,2d_ratio,patch:jump,2d_ratio,2.247903631789278,2.4,0.7573479148912851,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+795,simulation_0239,D2,size,house,patch:jump,11.032234308387666,2d_ratio,patch:jump,2d_ratio,11.032234308387666,10.5,3.687063352178236,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+796,simulation_0239,D2,size,house,patch:jump,12.31218393818223,2d_ratio,patch:jump,2d_ratio,12.31218393818223,10.5,4.111468907089628,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+797,simulation_0239,D2,speed,horse,patch:jump,2.037649070792386,2d_ratio,patch:jump,2d_ratio,2.037649070792386,1.11,0.6791514857439857,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+798,simulation_0239,D2,size,horse,patch:jump,2.6165247977620045,2d_ratio,patch:jump,2d_ratio,2.6165247977620045,2.43,0.8720916321449863,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,1
+799,simulation_0240,D2,size,horse,patch:jump,1.9931393539468745,2d_ratio,patch:jump,2d_ratio,1.9931393539468745,1.5,0.6523190556679982,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,4
+800,simulation_0240,D2,size,horse,patch:jump,2.367632174449424,2d_ratio,patch:jump,2d_ratio,2.367632174449424,2.3,0.7695270100361531,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+801,simulation_0240,D2,size,house,patch:jump,9.980245232171942,2d_ratio,patch:jump,2d_ratio,9.980245232171942,8.5,3.2426874796249763,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,3
+802,simulation_0240,D2,size,house,patch:jump,9.194717945278732,2d_ratio,patch:jump,2d_ratio,9.194717945278732,7.5,2.9874321969722817,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+803,simulation_0240,D2,size,glass window,patch:jump,1.3966523940065692,2d_ratio,patch:jump,2d_ratio,1.3966523940065692,1.22,0.4600504309642192,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+804,simulation_0240,D2,size,glass window,patch:jump,0.814713896503832,2d_ratio,patch:jump,2d_ratio,0.814713896503832,1.13,0.2628859605509824,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+805,simulation_0240,D2,speed,horse,patch:jump,1.871390394684156,2d_ratio,patch:jump,2d_ratio,1.871390394684156,0.874,0.6083541661152804,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,3
+806,simulation_0240,D2,size,horse,patch:jump,2.182269365635264,2d_ratio,patch:jump,2d_ratio,2.182269365635264,1.62,0.7090424518130415,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,3
+807,simulation_0240,D2,size,horse,patch:jump,2.969631193751375,2d_ratio,patch:jump,2d_ratio,2.969631193751375,2.44,0.9675616133016148,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,3
+808,simulation_0240,D2,speed,rabbit,patch:jump,2.027688359562224,2d_ratio,patch:jump,2d_ratio,2.027688359562224,1.04,0.6482419337382233,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target_det_track_iou(0.01),test_09,3
+809,simulation_0240,D2,size,rabbit,patch:jump,0.5819384975027371,2d_ratio,patch:jump,2d_ratio,0.5819384975027371,0.44,0.1902025688411361,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target_det_track_iou(0.01),test_10,3
+817,simulation_0243,D2,size,antelope,dis_geo,2.750208390636596,2d_ratio,dis_geo,2d_ratio,2.750208390636596,1.15,2.758968903778127,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+818,simulation_0243,D2,size,antelope,agree_wgm,3.2372987582342647,2d_ratio,agree_wgm,2d_ratio,3.2372987582342647,1.52,3.018675395552368,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+820,simulation_0244,D2,size,antelope,agree_wgm,2.694143914866594,2d_ratio,agree_wgm,2d_ratio,2.694143914866594,1.35,2.736677382090628,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+821,simulation_0244,D2,size,antelope,agree_wgm,3.175732814607677,2d_ratio,agree_wgm,2d_ratio,3.175732814607677,1.52,3.2299007029871203,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+822,simulation_0244,D2,size,tree,agree_wgm,6.536611465577965,2d_ratio,agree_wgm,2d_ratio,6.536611465577965,11.0,6.53596760740599,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+823,simulation_0244,D2,avgspeed,rabbit,agree_geo_kind,1.2871767858951877,2d_ratio,agree_geo_kind,2d_ratio,1.2871767858951877,1.277,1.3084190371764586,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+824,simulation_0244,D2,size,rabbit,agree_wgm,0.3680524473861467,2d_ratio,agree_wgm,2d_ratio,0.3680524473861467,0.24,0.3739205960946172,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,1
+825,simulation_0244,D2,size,rabbit,agree_wgm,0.4563850347588219,2d_ratio,agree_wgm,2d_ratio,0.4563850347588219,0.48,0.4636615391573254,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,1
+826,simulation_0245,D2,size,antelope,agree_wgm,2.727296155367468,2d_ratio,agree_wgm,2d_ratio,2.727296155367468,1.42,2.7450384861999253,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+827,simulation_0245,D2,size,antelope,agree_wgm,2.9764667141689665,2d_ratio,agree_wgm,2d_ratio,2.9764667141689665,1.53,3.147378609866643,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+828,simulation_0245,D2,speed,rabbit,dis_geo,1.3276293058716622,2d_ratio,dis_geo,2d_ratio,1.3276293058716622,0.6385,1.3276293058716622,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+831,simulation_0246,D2,size,antelope,agree_wgm,2.9942515124032694,2d_ratio,agree_wgm,2d_ratio,2.9942515124032694,1.4,3.005187372567596,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+842,simulation_0249,D2,size,horse,patch:jump,2.330917021279269,2d_ratio,patch:jump,2d_ratio,2.330917021279269,2.4,0.7308884705531762,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+845,simulation_0249,D2,size,rabbit,patch:jump,0.5400194385317028,vlm_2d_ratio,patch:jump,vlm_2d_ratio,0.5400194385317028,0.49,0.1685220591808113,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_03,1
+846,simulation_0249,D2,speed,rabbit,patch:jump,2.372303794750103,vlm_2d_ratio,patch:jump,vlm_2d_ratio,2.372303794750103,2.62,0.7403169070742072,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_04,1
+874,simulation_0255,S2,accel,tennis ball,dis_geo,1.0581495034429345,2d_ratio,dis_geo,2d_ratio,1.0581495034429345,6.5,1.0581495034429345,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,0
+875,simulation_0255,S2,accel,tennis ball,dis_geo,1.035603416926253,2d_ratio,dis_geo,2d_ratio,1.035603416926253,9.8,1.035603416926253,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,0
+876,simulation_0255,S2,accel,tennis ball,dis_geo,1.0610961898944085,2d_ratio,dis_geo,2d_ratio,1.0610961898944085,6.5,1.0610961898944085,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,0
+880,simulation_0256,S2,accel,tennis ball,dis_geo,1.0737622009101058,2d_ratio,dis_geo,2d_ratio,1.0737622009101058,9.8,1.0737622009101058,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,0
+881,simulation_0256,S2,accel,tennis ball,dis_geo,1.0415497761539283,2d_ratio,dis_geo,2d_ratio,1.0415497761539283,9.8,1.0415497761539283,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,0
+887,simulation_0257,D2,size,phone,patch:rul022,,,patch:rul022,,,0.15,0.05,,vlm,,,2-decade sanity rule,vlm,,,2-decade sanity rule,test_04,2
+894,simulation_0258,D2,size,phone,patch:rul022,,,patch:rul022,,,0.17,0.05,,vlm,,,2-decade sanity rule,vlm,,,prior_det_track_iou(0.00),test_04,2
+902,simulation_0259,D2,size,iphone,patch:rul022,,,patch:rul022,,,0.07,0.05,,vlm,,,2-decade sanity rule,vlm,,,2-decade sanity rule,test_05,4
+910,simulation_0260,D2,size,table,agree_wgm,1.5832527062510402,2d_ratio,agree_wgm,2d_ratio,1.5832527062510402,1.2,1.5850486696249366,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+911,simulation_0260,D2,size,ac,agree_wgm,0.7811643308375176,2d_ratio,agree_wgm,2d_ratio,0.7811643308375176,0.79,0.7899657634401928,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,6
+912,simulation_0260,D2,size,iphone,patch:rul022,,,patch:rul022,,,0.09,0.05,,vlm,,,2-decade sanity rule,vlm,,,2-decade sanity rule,test_05,5
+915,simulation_0260,D2,size,mug,agree_wgm,0.0871835190666872,2d_ratio,agree_wgm,2d_ratio,0.0871835190666872,0.12,0.0872058273561649,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,6
+916,simulation_0260,D2,size,bag,agree_wgm,0.3452467355040814,2d_ratio,agree_wgm,2d_ratio,0.3452467355040814,0.45,0.3456383662838518,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+920,simulation_0261,D2,speed,mug,kin,6.157896178645802,2d_ratio,kin,2d_ratio,6.157896178645802,6.0,6.157896178645802,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,0
+925,simulation_0263,D2,size,spacecraft,agree_wgm,6.537003635547984,2d_ratio,agree_wgm,2d_ratio,6.537003635547984,5.5,6.537003635547984,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+933,simulation_0265,D2,size,spacecraft,agree_wgm,5.853445583075056,2d_ratio,agree_wgm,2d_ratio,5.853445583075056,4.5,5.853445583075056,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+942,simulation_0267,D2,size,spacecraft,geo_cawinvalid,1.863376003524074,2d_ratio,geo_cawinvalid,2d_ratio,1.863376003524074,280.0,1.863376003524074,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1000,simulation_0285,D2,size,plane,patch:rul441,17.59233147588701,2d_ratio,patch:rul439,2d_ratio,17.59233147588701,14.8,17.59233147588701,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+1001,simulation_0285,D2,size,plane,patch:rul441,5.5889433312595305,2d_ratio,patch:rul439,2d_ratio,5.5889433312595305,264.0,5.5889433312595305,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1006,simulation_0287,D2,size,plane,patch:rul441,17.486693532048807,2d_ratio,patch:rul439,2d_ratio,17.486693532048807,14.8,17.486693532048807,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+1007,simulation_0287,D2,size,plane,patch:rul441,5.490995995632963,2d_ratio,patch:rul439,2d_ratio,5.490995995632963,264.0,5.490995995632963,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1010,simulation_0288,D2,size,fish,patch:rul441,0.3046028211741189,2d_ratio,patch:rul439,2d_ratio,0.3046028211741189,0.35,0.3046028211741189,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1028,simulation_0295,D2,size,butterfly,agree_wgm,0.1608524934348607,2d_ratio,agree_wgm,2d_ratio,0.1608524934348607,0.15,0.1608524934348607,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+1034,simulation_0298,D2,size,fire truck,patch:rul441,10.654821220356489,2d_ratio,patch:rul439,2d_ratio,10.654821220356489,16.77,10.654821220356489,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+1035,simulation_0298,D2,size,fire truck,patch:rul441,3.5814525110441977,2d_ratio,patch:rul439,2d_ratio,3.5814525110441977,3.2,3.5814525110441977,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1045,simulation_0009,D3,size,boat,rul263_dimgm,0.9424744997763892,3d_calib,rul263_dimgm,3d_calib,0.9424744997763892,2.15,0.9457964687761772,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,8
+1048,simulation_0009,D3,size,pier,caw_nogeo,,,caw_nogeo,,,8.18,3.2,,vlm,,,scene_target,vlm,,,scene_target,test_04,7
+1054,simulation_0010,S3,size,door,dis_size_gm,4.87564213473868,vlm_3d_calib,dis_size_gm,vlm_3d_calib,4.87564213473868,2.28,4.87564213473868,vlm_3d_calib,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,,test_01,3
+1056,simulation_0010,S3,size,wheel,agree_gm,1.4370668717554569,vlm_3d_calib,agree_gm,vlm_3d_calib,1.4370668717554569,1.08,1.4370668717554569,vlm_3d_calib,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,,test_03,3
+1066,simulation_0013,D3,size,wheel,rul263_unstable_gm,0.7845050550284383,3d_gravnofall_fovdefault,rul263_unstable_gm,3d_gravnofall_fovdefault,0.7845050550284383,0.76,1.0857484183536752,3d_gravnofall_mogefov,meas,3d_gravnofall_fovdefault,d,,meas,3d_gravnofall_fovdefault,d,,test_02,1
+1068,simulation_0014,D3,size,wheel,rul263_caw,2.0007957074564606,3d_gravnofall_fovdefault,rul263_caw,3d_gravnofall_fovdefault,2.0007957074564606,1.1,2.8787876809209743,3d_gravnofall_mogefov,meas,3d_gravnofall_fovdefault,d,,meas,3d_gravnofall_fovdefault,d,,test_01,3
+1071,simulation_0014,D3,size,rectangular cargo box,rul263_caw,1.7603896116517712,3d_gravnofall_fovdefault,rul263_caw,3d_gravnofall_fovdefault,1.7603896116517712,1.03,2.536968873436285,3d_gravnofall_mogefov,meas,3d_gravnofall_fovdefault,d,,meas,3d_gravnofall_fovdefault,d,,test_04,4
+1076,simulation_0015,S3,size,art display panel,agree_wgm,1.6712024452205527,3d_calib,agree_wgm,3d_calib,1.6712024452205527,2.13,1.6712024452205527,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,5
+1078,simulation_0015,S3,size,bench seat,agree_gm,0.6948159899308872,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,0.6948159899308872,1.13,0.6948159899308872,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_05,5
+1082,simulation_0015,S3,speed,human,agree_gm,1.294091420324922,3d_calib,agree_gm,3d_calib,1.294091420324922,1.29,1.294095794561282,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_09,5
+1096,simulation_0021,S3,speed,person,agree_gm,1.3631096468574049,3d_calib,agree_gm,3d_calib,1.3631096468574049,1.44,1.3465994430936226,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,2
+1097,simulation_0021,S3,size,fire hydrant,agree_wgm,1.0932066478906883,3d_calib,agree_wgm,3d_calib,1.0932066478906883,1.08,1.0931810787448288,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,1
+1098,simulation_0021,S3,size,streetlight,agree_wgm,4.472814531422773,3d_calib,agree_wgm,3d_calib,4.472814531422773,4.58,4.472814531422773,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+1122,simulation_0029,D3,speed,boat,dis_geo,4.072875170066544,3d_calib,dis_geo,3d_calib,4.072875170066544,1.7015,4.072875170066544,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,0
+1136,simulation_0033,D3,size,orange car,rul263_dimgm,4.319535488164107,3d_personf,rul263_dimgm,3d_personf,4.319535488164107,4.616,4.319535488164107,3d_personf,meas,3d_personf,d,,meas,3d_personf,d,,test_05,5
+1148,simulation_0035,S3,size,eagle,agree_wgm,1.0455136752542191,3d_calib,agree_wgm,3d_calib,1.0455136752542191,0.54,1.0455136752542191,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,0
+1149,simulation_0036,S3,size,boat,dis_geo,9.89328291383312,3d_calib,dis_geo,3d_calib,9.89328291383312,3.3,9.65834104650684,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,1
+1170,simulation_0043,S3,size,rock,agree_gm,20.76138166054926,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,20.76138166054926,13.88,20.76138166054926,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,0
+1171,simulation_0044,S3,size,rock,agree_gm,12.362317458003098,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,12.362317458003098,6.81,12.362317458003098,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,0
+1176,simulation_0045,D3,size,telephone booth,patch:rul197,2.4189712056813266,3d_calib_tdepth=prior,patch:rul197,3d_calib_tdepth=prior,2.4189712056813266,2.43,2.342246741005071,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,7
+1178,simulation_0045,D3,size,moving bicycle,patch:rul058,1.0695116473223905,3d_calib,patch:rul058,3d_calib,1.0695116473223905,1.67,1.0329807468142114,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,7
+1181,simulation_0045,D3,size,step,rul263_unstable_gm,0.3656244982829459,vlm_3d_calib_tdepth=prior,rul263_unstable_gm,vlm_3d_calib_tdepth=prior,0.3656244982829459,0.2,0.3656244982829459,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,,meas,vlm_3d_calib_tdepth=prior,xg_v,,test_07,6
+1184,simulation_0046,S3,size,telephone booth,agree_gm,2.189438716172547,vlm_3d_calib_tdepth=prior,agree_gm,vlm_3d_calib_tdepth=prior,2.189438716172547,2.4,2.189438716172547,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,,meas,vlm_3d_calib_tdepth=prior,xg_v,,test_02,6
+1185,simulation_0046,S3,size,telephone booth,agree_gm,1.358654370739117,vlm_3d_calib_tdepth=prior,agree_gm,vlm_3d_calib_tdepth=prior,1.358654370739117,1.15,1.358654370739117,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,,meas,vlm_3d_calib_tdepth=prior,xg_v,,test_03,6
+1187,simulation_0046,S3,size,moving bicycle,patch:rul058,0.9537770845377384,vlm_3d_calib,patch:rul058,vlm_3d_calib,0.9537770845377384,1.65,0.9824184984999056,vlm_3d_calib,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,,test_05,6
+1188,simulation_0046,S3,size,moving bicycle,agree_gm,1.675600293423097,vlm_3d_calib,agree_gm,vlm_3d_calib,1.675600293423097,1.75,1.6791511760279405,vlm_3d_calib,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,,test_06,6
+1189,simulation_0046,S3,size,step,agree_gm,0.1970903179241915,vlm_3d_calib_tdepth=prior,agree_gm,vlm_3d_calib_tdepth=prior,0.1970903179241915,0.17,0.1970903179241915,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,,meas,vlm_3d_calib_tdepth=prior,xg_v,,test_07,5
+1195,simulation_0048,S3,speed,moving bicycle,patch:rul278,5.012392232909124,3d_calib,agree_gm,3d_calib,5.012392232909124,4.5642,5.068478068155734,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,6
+1205,simulation_0050,D3,dist2,pillar,patch:rul194,7.235767173149777,3d_calib_tdepth=prior,patch:rul194,3d_calib_tdepth=prior,7.235767173149777,5.67,1.0928294321447218,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,5
+1228,simulation_0056,D3,size,streetlight,dis_size_gm,2.52662585289774,3d_personf,dis_size_gm,3d_personf,2.52662585289774,6.1,2.526619426929981,3d_personf,meas,3d_personf,d,,meas,3d_personf,d,,test_01,4
+1230,simulation_0056,D3,size,orange car,rul263_dimgm,1.585170739534119,3d_personf,rul263_dimgm,3d_personf,1.585170739534119,1.88,1.5943049628379706,3d_personf,meas,3d_personf,d,,meas,3d_personf,d,,test_03,5
+1232,simulation_0056,D3,dist2,streetlight,caw_c1,,3d_personf,caw_c1,3d_personf,,8.973,0.0188279660892646,3d_personf,meas,3d_personf,d,,meas,3d_personf,d,,test_05,3
+1233,simulation_0058,D3,speed,yellow car,patch:rul112,3.565469172331155,vlm_3d_calib,patch:rul112,vlm_3d_calib,3.565469172331155,10.5,3.5327319043553898,vlm_3d_calib,meas,vlm_3d_calib,xg_v,target=prior_object,meas,vlm_3d_calib,xg_v,target=prior_object,test_00,8
+1245,simulation_0059,D3,speed,yellow car,patch:rul112,,,patch:rul112,,,13.4,12.8,,vlm,,,target=prior_object,vlm,,,target=prior_object,test_00,9
+1253,simulation_0059,D3,avgspeed,walking pedestrian,agree_geo_kind,1.3259959688499263,3d_calib,agree_geo_kind,3d_calib,1.3259959688499263,1.43,1.3249977241040491,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,9
+1259,simulation_0060,D3,size,lane,patch:rul237,6.315113072076633,3d_calib_tdepth=prior_scene,patch:rul237,3d_calib_tdepth=prior_scene,6.315113072076633,5.5,10.0,,meas,3d_calib_tdepth=prior_scene,d,,meas,3d_calib_tdepth=prior_scene,d,,test_01,7
+1263,simulation_0060,D3,size,bicycle wheel,patch:rul197,0.6118696447237719,3d_calib,patch:rul197,3d_calib,0.6118696447237719,0.67,0.6651454451516894,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_05,7
+1267,simulation_0060,D3,size,green car,rul263_caw,3.4784583962898665,3d_calib_tdepth=prior,rul263_caw,3d_calib_tdepth=prior,3.4784583962898665,1.82,3.690967650496866,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_09,7
+1268,simulation_0060,D3,size,purple car,rul263_caw,1.056688471729753,3d_calib_tdepth=prior,rul263_caw,3d_calib_tdepth=prior,1.056688471729753,1.82,3.690784009840885,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_10,7
+1277,simulation_0061,D3,avgspeed,walking pedestrian,agree_geo_kind,1.4909276986137057,3d_calib,agree_geo_kind,3d_calib,1.4909276986137057,1.4,1.511588774613788,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,7
+1282,simulation_0062,D3,size,white car,patch:rul131,3.1760520280516333,3d_calib,patch:rul131,3d_calib,3.1760520280516333,1.78,1.1139419804233268,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,8
+1290,simulation_0062,D3,avgspeed,walking pedestrian,agree_geo_kind,1.2948356598714286,3d_calib,agree_geo_kind,3d_calib,1.2948356598714286,1.3,1.1590760598015029,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_10,7
+1295,simulation_0063,D3,size,white car,patch:rul131,2.326675869216377,3d_calib,patch:rul131,3d_calib,2.326675869216377,1.74,2.357266408057721,vlm_3d_mogefov,meas,3d_calib,d,,meas,3d_calib,d,,test_02,8
+1299,simulation_0063,D3,size,turning yellow car,rul263_dimgm,1.8398864574169824,3d_calib,rul263_dimgm,3d_calib,1.8398864574169824,2.01,1.864601113396661,3d_mogefov,meas,3d_calib,d,,meas,3d_calib,d,,test_06,7
+1301,simulation_0063,D3,size,traffic light,dis_size_gm,1.325398095296016,3d_calib_tdepth=prior,dis_size_gm,3d_calib_tdepth=prior,1.325398095296016,6.3,1.4332773367852223,vlm_3d_mogefov_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_08,7
+1302,simulation_0063,D3,size,streetlight,rul263_caw,4.542570448999364,3d_calib_tdepth=prior,rul263_caw,3d_calib_tdepth=prior,4.542570448999364,6.4,13.237962801695083,vlm_3d_mogefov_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_09,7
+1303,simulation_0063,D3,avgspeed,walking pedestrian,agree_geo_kind,1.2175585805230205,3d_calib,agree_geo_kind,3d_calib,1.2175585805230205,1.3,1.220327487228004,vlm_3d_mogefov,meas,3d_calib,d,,meas,3d_calib,d,,test_10,7
+1308,simulation_0064,D3,size,white car,rul263_caw,2.26142890230888,3d_fovdefault,rul263_caw,3d_fovdefault,2.26142890230888,2.0,3.1400635646744672,3d_mogefov,meas,3d_fovdefault,d,,meas,3d_fovdefault,d,,test_02,8
+1320,simulation_0065,D3,size,white car,rul263_caw,2.2964484112258385,3d_fovdefault,rul263_caw,3d_fovdefault,2.2964484112258385,1.74,3.2788372953127167,3d_mogefov,meas,3d_fovdefault,d,,meas,3d_fovdefault,d,,test_02,7
+1347,simulation_0067,D3,speed,yellow car,dis_geo,4.415858667744696,3d_calib,dis_geo,3d_calib,4.415858667744696,13.8,4.398522678648003,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,6
+1351,simulation_0067,D3,size,white car,patch:rul131,4.653867143457033,3d_calib,patch:rul131,3d_calib,4.653867143457033,1.78,4.653691730725052,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,7
+1356,simulation_0067,D3,avgspeed,walking pedestrian,agree_geo_kind,1.2164644197999048,3d_calib,agree_geo_kind,3d_calib,1.2164644197999048,1.5,1.2141799754609706,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_09,6
+1363,simulation_0074,S3,avgspeed,walking pedestrian,agree_geo_kind,1.3738804198350456,3d_calib,agree_geo_kind,3d_calib,1.3738804198350456,1.1,1.3634065318761783,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,6
+1365,simulation_0074,S3,avgspeed,turing yellow car,agree_geo_kind,3.842035577094603,3d_calib,agree_geo_kind,3d_calib,3.842035577094603,4.62,3.824319422046651,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,6
+1366,simulation_0074,S3,size,turning yellow car,agree_wgm,2.1729548095147786,3d_calib,agree_wgm,3d_calib,2.1729548095147786,2.1,2.1729548095147786,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,6
+1370,simulation_0074,S3,size,purple car,agree_gm,4.355811154268823,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,4.355811154268823,4.7,4.372079841474582,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_08,6
+1372,simulation_0074,S3,size,square earthen platform,dis_size_gm,1.192549221765617,vlm_3d_calib_tdepth=prior,dis_size_gm,vlm_3d_calib_tdepth=prior,1.192549221765617,4.88,1.192644175244721,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,,meas,vlm_3d_calib_tdepth=prior,xg_v,,test_10,6
+1375,simulation_0074,S3,accel,white car,patch:rul278,5.006132409071214,3d_calib,agree_gm,3d_calib,5.006132409071214,3.28,4.860440650708519,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,,8
+1378,simulation_0109,D3,size,red blood cell,geo_cawinvalid,1.7340687200326506,3d_calib,geo_cawinvalid,3d_calib,1.7340687200326506,0.0007,1.7102129880704768,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+1379,simulation_0110,D3,dist2,cells,agree_geo_kind,2.9982527713704004,3d_calib,agree_geo_kind,3d_calib,2.9982527713704004,4.76,2.9982527713704004,3d_calib,meas,3d_calib,d,,meas,vlm_3d_calib,v,target2_no_track,test_00,0
+1380,simulation_0110,D3,size,red blood cell,geo_cawinvalid,0.8630044737608371,3d_calib,geo_cawinvalid,3d_calib,0.8630044737608371,7.5e-06,0.8354155346110892,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+1381,simulation_0110,D3,size,red blood cell,patch:rul267,0.8716340042904386,3d_calib,patch:rul267,3d_calib,0.8716340042904386,7e-05,0.8438685463248166,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,2
+1382,simulation_0143,S3,size,floor tile,caw_nogeo,,,caw_nogeo,,,0.6,1.2,,vlm,,,scene_target,vlm,,,scene_target,test_00,0
+1383,simulation_0143,S3,speed,man,agree_gm,1.545745710008035,3d_calib,agree_gm,3d_calib,1.545745710008035,1.3,1.5434359601246597,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,1
+1384,simulation_0143,S3,speed,man,agree_gm,1.7064566375684078,3d_calib,agree_gm,3d_calib,1.7064566375684078,1.3,1.7046515936931697,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+1385,simulation_0143,S3,accel,man,dis_geo,3.868650924780511,3d_calib,dis_geo,3d_calib,3.868650924780511,1.44,3.808859152383517,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+1386,simulation_0164,S3,speed,ball,dis_geo,3.891027498170041,3d_calib,dis_geo,3d_calib,3.891027498170041,15.58,3.953169565543192,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,1
+1387,simulation_0164,S3,accel,ball,dis_geo,0.0858681000356261,3d_calib,dis_geo,3d_calib,0.0858681000356261,2.2,0.2380340594540591,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,1
+1388,simulation_0164,S3,speed,ball,patch:rul278,3.3477119127932844,3d_calib,agree_gm,3d_calib,3.3477119127932844,4.2,3.301381518527508,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+1389,simulation_0164,S3,accel,ball,patch:rul278,1.5414298493998109,3d_calib,agree_gm,3d_calib,1.5414298493998109,2.2,1.5020895604483573,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+1394,simulation_0168,D3,size,police car,rul263_dimgm,2.260218883129519,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,2.260218883129519,2.06,2.415537649658308,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,3
+1395,simulation_0168,D3,avgspeed,police car,agree_geo_kind,4.701138024665887,3d_calib_tdepth=prior,agree_geo_kind,3d_calib_tdepth=prior,4.701138024665887,6.58,4.797150142375274,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_04,3
+1397,simulation_0168,D3,size,tire,rul263_caw,0.4691440246298438,3d_calib_tdepth=prior,rul263_caw,3d_calib_tdepth=prior,0.4691440246298438,0.61,0.5143730950956469,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_06,2
+1418,simulation_0180,D3,size,trolley,rul263_dimgm,1.42696006566025,3d_calib,rul263_dimgm,3d_calib,1.42696006566025,0.98,1.426916164082808,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,2
+1430,simulation_0184,D3,speed,box,dis_geo,1.5407491306087089,3d_calib,dis_geo,3d_calib,1.5407491306087089,3.16,1.58,,meas,3d_calib,d,,meas,3d_calib,d,,test_01,0
+1431,simulation_0184,D3,speed,box,patch:rul277,2.2489531461120573,3d_calib,agree_gm,3d_calib,2.2489531461120573,3.16,2.37,,meas,3d_calib,d,,meas,3d_calib,d,,test_02,0
+1432,simulation_0184,D3,size,box,rul263_dimgm,1.141285840066524,3d_calib,rul263_dimgm,3d_calib,1.141285840066524,0.64,1.1582280556807256,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,0
+1437,simulation_0186,D3,size,box,rul263_dimgm,0.4211220846092082,3d_calib,rul263_dimgm,3d_calib,0.4211220846092082,0.45,0.4211220846092082,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,0
+1471,simulation_0303,D3,size,plane,rul263_dimgm,16.609621886196848,3d_calib,rul263_dimgm,3d_calib,16.609621886196848,14.8,16.609621886196848,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,0
+1476,simulation_0305,D3,size,plane,rul263_dimgm,17.306240109337345,3d_calib,rul263_dimgm,3d_calib,17.306240109337345,14.16,17.306240109337345,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,0
+1482,simulation_0307,D3,size,plane,rul263_dimgm,17.97431664717075,3d_calib,rul263_dimgm,3d_calib,17.97431664717075,21.3,17.97431664717075,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,0
+1490,simulation_0310,S3,size,forklift,agree_wgm,2.6937787905022588,3d_calib,agree_wgm,3d_calib,2.6937787905022588,2.01,2.6937787905022588,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,0
+1509,simulation_0141,D3,path,man,dis_geo,4.157575203346702,3d_calib,dis_geo,3d_calib,4.157575203346702,1.88,4.155692015329255,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,5
+1513,simulation_0144,S3,size,tire,agree_gm,1.0768788922680756,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,1.0768788922680756,1.1,1.1131035877049975,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,2
+1515,simulation_0144,S3,avgspeed,rocket,dis_geo,15.186688762070878,3d_calib,dis_geo,3d_calib,15.186688762070878,38.734,15.15326883847524,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,3
+1516,simulation_0144,S3,speed,rocket,geo_cawinvalid,19.83873212146868,3d_calib,geo_cawinvalid,3d_calib,19.83873212146868,318.0,19.856948394713083,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,3
+1518,simulation_0144,S3,size,road,caw_nogeo,,,caw_nogeo,,,7.5,2.5,,vlm,,,scene_target,vlm,,,scene_target,test_05,2
+1519,simulation_0149,S3,size,car,patch:rul212,2.5920476014588307,3d_calib_tdepth=prior,patch:rul212,3d_calib_tdepth=prior,2.5920476014588307,1.78,1.5187898612321815,3d_mogefov_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,2
+1520,simulation_0149,S3,size,collision warning markings,agree_gm,1.3790207332263198,3d_calib_tdepth=prior_scene,agree_gm,3d_calib_tdepth=prior_scene,1.3790207332263198,1.35,1.2,,meas,3d_calib_tdepth=prior_scene,d,,meas,3d_calib_tdepth=prior_scene,d,,test_01,2
+1521,simulation_0149,S3,size,pillar,agree_gm,1.898291690306316,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,1.898291690306316,1.0,1.898291690306316,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,2
+1522,simulation_0149,S3,speed,car,patch:rul069,2.8902203253775456,3d_calib_tdepth=prior,patch:rul069,3d_calib_tdepth=prior,2.8902203253775456,13.4,5.904451329585253,3d_mogefov_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,2
+1524,simulation_0149,S3,speed,car,patch:rul278,13.991714487682582,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,13.991714487682582,10.6,8.749449573735799,3d_mogefov_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_05,2
+1526,simulation_0150,S3,size,car,agree_gm,1.4254834672306227,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,1.4254834672306227,1.81,1.420431100218117,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,4
+1527,simulation_0150,S3,size,collision warning markings,dis_size_gm,0.3367242223859431,3d_calib_tdepth=prior_scene,dis_size_gm,3d_calib_tdepth=prior_scene,0.3367242223859431,1.35,1.2,,meas,3d_calib_tdepth=prior_scene,d,,meas,3d_calib_tdepth=prior_scene,d,,test_01,4
+1528,simulation_0150,S3,size,pillar,agree_gm,0.8058553502776873,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,0.8058553502776873,1.0,0.8058553502776873,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,4
+1531,simulation_0150,S3,speed,car,patch:rul278,9.328757317211924,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,9.328757317211924,13.8,9.335988452969652,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_05,4
+1534,simulation_0150,S3,size,b1' lettering,agree_wgm,1.4700016434364396,3d_calib,agree_wgm,3d_calib,1.4700016434364396,2.15,1.470000949816027,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,3
+1536,simulation_0151,S3,size,blue car,phys_bound_final,1.163441297730559,3d_calib_tdepth=prior,agree_gm,3d_calib_tdepth=prior,1.163441297730559,1.68,1.1350452598524496,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,1
+1539,simulation_0151,S3,speed,blue car,patch:rul079,9.62150954780548,3d_samedepth,patch:rul079,3d_samedepth,9.62150954780548,2.58,8.040933545047848,3d_samedepth,meas,3d_samedepth,d,,meas,3d_samedepth,d,,test_03,1
+1540,simulation_0151,S3,accel,blue car,dis_caw_routed,130.0233533255732,3d_samedepth,dis_caw_routed,3d_samedepth,130.0233533255732,2.1,20.859066036243167,3d_samedepth,meas,3d_samedepth,d,,meas,3d_samedepth,d,,test_04,1
+1546,simulation_0159,D3,size,turtle,rul263_unstable_gm,1.9514196208786243,3d_calib,rul263_unstable_gm,3d_calib,1.9514196208786243,1.05,1.9373738896153168,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,1
+1549,simulation_0159,D3,size,shark,rul263_caw,4.519744312455874,3d_calib,rul263_caw,3d_calib,4.519744312455874,2.53,4.519744312455874,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,0
+1557,simulation_0202,D3,size,table,rul263_dimgm,2.548442059427982,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,2.548442059427982,2.416,2.540922621888683,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,vlm_3d_calib_tdepth=prior,v,prior_no_freefall,test_00,2
+1558,simulation_0202,D3,size,table,rul263_dimgm,0.9201655578618124,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.9201655578618124,1.416,0.9201850925766764,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,vlm_3d_calib_tdepth=prior,v,prior_no_freefall,test_01,2
+1559,simulation_0202,D3,size,typewriter,rul263_dimgm,0.4817370612234114,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.4817370612234114,0.43,0.4817391457223639,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,vlm_3d_calib_tdepth=prior,v,prior_no_freefall,test_02,2
+1560,simulation_0202,D3,size,typewriter,rul263_dimgm,0.3132850590420225,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.3132850590420225,0.35,0.3123951496207817,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,vlm_3d_calib_tdepth=prior,v,prior_no_freefall,test_03,2
+1561,simulation_0202,D3,size,typewriter,rul263_caw,0.3169873418329746,3d_calib_tdepth=prior,rul263_caw,3d_calib_tdepth=prior,0.3169873418329746,0.37,0.316988713452132,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,vlm_3d_calib_tdepth=prior,v,prior_no_freefall,test_04,2
+1562,simulation_0202,D3,size,paper,rul263_dimgm,0.1541344388181129,vlm_3d_calib_tdepth=prior,rul263_dimgm,vlm_3d_calib_tdepth=prior,0.1541344388181129,0.1696,0.1541344388181129,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,2-decade sanity rule,meas,vlm_3d_calib_tdepth=prior,xg_v,prior_no_freefall,test_05,2
+1567,simulation_0205,D3,size,table,rul263_dimgm,0.9403562508699086,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.9403562508699086,1.1164,0.9403562508699086,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_01,1
+1568,simulation_0205,D3,size,typewriter,rul263_dimgm,0.4829365927901514,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.4829365927901514,0.36,0.4779876280092375,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,1
+1569,simulation_0205,D3,size,typewriter,rul263_dimgm,0.2965110612634162,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,0.2965110612634162,0.34,0.2933959657663043,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,1
+1570,simulation_0205,D3,size,typewriter,rul263_unstable_gm,0.3131888670705542,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,0.3131888670705542,0.33,0.3093703713964602,vlm_3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_04,1
+1574,simulation_0206,D3,size,table,patch:rul197,2.4420106342182533,3d_calib_tdepth=prior,patch:rul197,3d_calib_tdepth=prior,2.4420106342182533,2.416,2.4420106342182533,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,3
+1576,simulation_0206,D3,size,typewriter,rul263_dimgm,0.4531660070263399,3d_calib,rul263_dimgm,3d_calib,0.4531660070263399,0.36,0.4531660070263399,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,4
+1582,simulation_0206,D3,size,paper,rul263_dimgm,0.1482771129150502,vlm_3d_calib_tdepth=prior,rul263_dimgm,vlm_3d_calib_tdepth=prior,0.1482771129150502,0.18,0.1482771129150502,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,xg_v,2-decade sanity rule,meas,vlm_3d_calib_tdepth=prior,xg_v,2-decade sanity rule,test_08,3
+1584,simulation_0209,D3,size,table,rul263_dimgm,2.812207630577362,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,2.812207630577362,1.62,2.4659771859586934,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_00,2
+1585,simulation_0209,D3,size,typewriter,rul263_caw,0.7941371734050406,3d_calib,rul263_caw,3d_calib,0.7941371734050406,0.33,0.4567674938234979,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,3
+1586,simulation_0209,D3,size,typewriter,rul263_caw,0.3447669076246531,3d_calib,rul263_caw,3d_calib,0.3447669076246531,0.2,0.2816759998835368,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,3
+1587,simulation_0209,D3,size,letter,dis_size_gm,0.5184199531244067,3d_calib_tdepth=prior,dis_size_gm,3d_calib_tdepth=prior,0.5184199531244067,0.13,0.5184199531244067,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,1
+1591,simulation_0209,D3,size,table,rul263_dimgm,1.0407750871443209,3d_calib_tdepth=prior,rul263_dimgm,3d_calib_tdepth=prior,1.0407750871443209,1.28,0.8861538046744053,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_07,2
+1592,simulation_0209,D3,size,typewriter,rul263_dimgm,0.3080461484763888,3d_calib,rul263_dimgm,3d_calib,0.3080461484763888,0.33,0.260403713082453,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,3
+1594,simulation_0211,D3,size,black cat,rul263_caw,0.513532065932908,3d_calib,rul263_caw,3d_calib,0.513532065932908,0.46,0.514289341351408,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,6
+1595,simulation_0211,D3,size,wooden bench,patch:rul197,1.0341047717626153,3d_calib,patch:rul197,3d_calib,1.0341047717626153,1.08,1.0336563388955318,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,5
+1596,simulation_0211,D3,size,wooden bench,patch:rul197,0.5232978702558064,3d_calib,patch:rul197,3d_calib,0.5232978702558064,0.53,0.5232895673880669,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,5
+1601,simulation_0211,D3,size,floor mirror,rul263_caw,1.5680897691309683,3d_calib,rul263_caw,3d_calib,1.5680897691309683,1.29,1.568113647725944,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,5
+1602,simulation_0211,D3,size,floor mirror,rul263_dimgm,1.577060873833834,3d_calib,rul263_dimgm,3d_calib,1.577060873833834,0.93,1.5764909866095644,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_09,5
+1607,simulation_0212,D3,size,wooden bench,rul263_dimgm,1.062552018320584,3d_calib,rul263_dimgm,3d_calib,1.062552018320584,0.89,1.08493990996901,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,6
+1614,simulation_0212,D3,size,floor mirror,rul263_dimgm,0.5491334165723332,3d_calib,rul263_dimgm,3d_calib,0.5491334165723332,0.71,0.5939891399340533,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_09,6
+1617,simulation_0212,D3,speed,dog,agree_gm,1.231807509945989,3d_calib,agree_gm,3d_calib,1.231807509945989,1.68,1.231807509945989,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,,8
+1618,simulation_0212,D3,speed,dog,agree_gm,1.1513217006008205,3d_calib,agree_gm,3d_calib,1.1513217006008205,1.1,1.1513217006008205,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,,8
+1619,simulation_0212,D3,size,dog,rul263_dimgm,0.7950424229275779,3d_calib,rul263_dimgm,3d_calib,0.7950424229275779,0.86,0.7950424229275779,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,,8
+1621,simulation_0242,D3,size,brown horse,rul263_dimgm,2.120369827668703,3d_calib,rul263_dimgm,3d_calib,2.120369827668703,1.55,0.7349910174645418,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,4
+1623,simulation_0242,D3,size,glass window,rul263_unstable_gm,0.797601350824286,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,0.797601350824286,1.13,0.2404699000435348,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,3
+1624,simulation_0242,D3,avgspeed,white horse,dis_geo,1.7742694469724176,3d_calib,dis_geo,3d_calib,1.7742694469724176,0.156,0.5402178727474025,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,3
+1625,simulation_0242,D3,size,white horse,rul263_dimgm,2.694814312120047,3d_calib,rul263_dimgm,3d_calib,2.694814312120047,2.11,0.8144139580024621,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,3
+1626,simulation_0242,D3,avgspeed,rabbit,dis_geo,1.7159985385755536,3d_calib,dis_geo,3d_calib,1.7159985385755536,0.155,0.557474935730797,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_05,3
+1627,simulation_0242,D3,size,rabbit,rul263_dimgm,0.5176080228737673,3d_calib,rul263_dimgm,3d_calib,0.5176080228737673,0.44,0.1600548008041857,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_06,3
+1629,simulation_0247,D2,size,deer,agree_wgm,2.697150813318995,2d_ratio,agree_wgm,2d_ratio,2.697150813318995,2.1,2.6686755659762387,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+1670,simulation_0022_segmented,S3,size,rock,patch:rul011,17.294843725799055,3d_calib_tdepth=prior,patch:rul011,3d_calib_tdepth=prior,17.294843725799055,8.3,17.286258156372728,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,1
+1680,simulation_0024_segmented,D3,size,rock,rul263_unstable_gm,15.97162197047247,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,15.97162197047247,4.26,15.97162197047247,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_03,0
+1681,simulation_0024_segmented,D3,size,rock,patch:rul057,7.379206398042351,3d_calib_tdepth=prior,patch:rul057,3d_calib_tdepth=prior,7.379206398042351,2.3257,7.379206398042351,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_04,0
+1682,simulation_0024_segmented,D3,size,rock,rul263_unstable_gm,6.949646635695746,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,6.949646635695746,4.26,6.949646635695746,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_05,0
+1698,simulation_0028_segmented,S3,size,rock,agree_gm,7.00106963395445,vlm_3d_calib_tdepth=prior,agree_gm,vlm_3d_calib_tdepth=prior,7.00106963395445,2.5,7.00106963395445,vlm_3d_calib_tdepth=prior,meas,vlm_3d_calib_tdepth=prior,v,prior_det_track_iou(0.01),meas,vlm_3d_calib_tdepth=prior,v,prior_det_track_iou(0.01),test_04,0
+1707,simulation_0031_segmented,D3,avgspeed,boat,agree_geo_kind,4.026816286734291,3d_personf,agree_geo_kind,3d_personf,4.026816286734291,3.394,4.020286632746912,3d_personf,meas,3d_personf,d,,meas,3d_personf,d,,test_04,1
+1711,simulation_0032_segmented,D3,size,person,caw_nogeo,,,caw_nogeo,,,2.05,1.8,,vlm,,,prior_no_freefall,vlm,,,prior_no_freefall,test_00,3
+1731,simulation_0037_segmented,D3,size,rock,rul263_unstable_gm,22.031627947007674,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,22.031627947007674,13.86,22.031627947007674,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_01,0
+1732,simulation_0037_segmented,D3,size,rock,rul263_unstable_gm,4.395555064429073,3d_calib_tdepth=prior,rul263_unstable_gm,3d_calib_tdepth=prior,4.395555064429073,1.63,4.395555064429073,3d_calib_tdepth=prior,meas,3d_calib_tdepth=prior,d,,meas,3d_calib_tdepth=prior,d,,test_02,0
+1749,simulation_0043_segmented,S3,size,boat,dis_geo,6.75459095281467,3d_calib,dis_geo,3d_calib,6.75459095281467,3.11,6.756030012157628,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,1
+1756,simulation_0048_segmented,S3,size,moving bicycle,patch:rul058,1.6854294851251486,3d_calib,patch:rul058,3d_calib,1.6854294851251486,1.15,1.6854294851251486,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,6
+1792,simulation_0100_segmented,S2,avgspeed,boat,dis_geo,5.340328029652489,2d_ratio,dis_geo,2d_ratio,5.340328029652489,2.5,5.340328029652489,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+1819,simulation_0115_segmented,D2,size,boat,agree_wgm,4.73822100702239,2d_ratio,agree_wgm,2d_ratio,4.73822100702239,4.5,4.774594513727485,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+1820,simulation_0115_segmented,D2,size,boat,agree_wgm,1.8562102914108327,2d_ratio,agree_wgm,2d_ratio,1.8562102914108327,3.0,1.8704597064087047,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+1826,simulation_0116_segmented,D2,size,door,agree_wgm,1.854465715564384,2d_ratio,agree_wgm,2d_ratio,1.854465715564384,2.13,1.8573395051354653,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+1827,simulation_0116_segmented,D2,size,door,agree_wgm,0.8643694932846652,2d_ratio,agree_wgm,2d_ratio,0.8643694932846652,1.05,0.8657090913767,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+1831,simulation_0121_segmented,S2,speed,last ball,patch:rul275,2.6877264721290177,2d_ratio,agree_gm,2d_ratio,2.6877264721290177,3.0,2.686207380508024,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+1832,simulation_0123_segmented,D2,size,rolling cup,agree_wgm,0.0772954275735781,2d_ratio,agree_wgm,2d_ratio,0.0772954275735781,0.04,0.0772954275735781,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+1833,simulation_0123_segmented,D2,size,rolling cup,patch:rul062,,2d_ratio,patch:rul062,2d_ratio,,0.04,0.0441688157563303,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+1834,simulation_0123_segmented,D2,size,toothbrush lying,agree_wgm,0.1139970489557805,2d_ratio,agree_wgm,2d_ratio,0.1139970489557805,0.15,0.1139970489557805,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+1835,simulation_0123_segmented,D2,size,cup,patch:rul062,,2d_ratio,patch:rul062,2d_ratio,,0.01,0.045,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+1836,simulation_0123_segmented,D2,size,towel,agree_wgm,0.4659809388330213,2d_ratio,agree_wgm,2d_ratio,0.4659809388330213,0.15,0.4659809388330213,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+1838,simulation_0124_segmented,D2,avgspeed,car,agree_geo_kind,21.380808077668256,vlm_2d_ratio,agree_geo_kind,vlm_2d_ratio,21.380808077668256,26.085,21.363709340680728,2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_00,2
+1849,simulation_0145_segmented,S2,size,tire,patch:rul424,1.2534450977944147,2d_ratio,patch:rul424,2d_ratio,1.2534450977944147,1.1,0.5519184075316041,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+1851,simulation_0145_segmented,S2,speed,rocket,patch:rul424,10.319932967713562,2d_ratio,patch:rul424,2d_ratio,10.319932967713562,390.0,29.0,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+1852,simulation_0145_segmented,S2,accel,rocket,patch:rul424,9.399929057591146,2d_ratio,patch:rul424,2d_ratio,9.399929057591146,100.0,2.0,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+1943,simulation_0224_segmented,S2,size,chinese chess board,patch:disc,2.657291304163798,2d_ratio,patch:disc,2d_ratio,2.657291304163798,0.64,0.3637530852822154,2d_ratio,meas,2d_ratio,d,,vlm,,,target_no_track,test_00,1
+1964,simulation_0227_segmented,D2,speed,red general chess,caw_nogeo,,,caw_nogeo,,,1.041,1.91954882163653,2d_ratio,h1,,,target_static_track(1px<86),h1,,,target_static_track(1px<86),test_10,3
+1967,simulation_0233_segmented,D2,size,chair,patch:rul441,0.5638815274057293,2d_ratio,patch:rul439,2d_ratio,0.5638815274057293,0.71,0.5638815274057293,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+1968,simulation_0233_segmented,D2,size,chair,patch:rul441,0.763589568361925,2d_ratio,patch:rul439,2d_ratio,0.763589568361925,0.79,0.763589568361925,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+1972,simulation_0239_segmented,D2,size,brown horse,patch:jump,2.2520713782974515,2d_ratio,patch:jump,2d_ratio,2.2520713782974515,1.1,0.7436612314636561,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+1975,simulation_0239_segmented,D2,avgspeed,white horse,patch:jump,1.6821297371632855,2d_ratio,patch:jump,2d_ratio,1.6821297371632855,0.874,0.5573350816484574,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+1976,simulation_0239_segmented,D2,size,white horse,patch:jump,2.6629423417943925,2d_ratio,patch:jump,2d_ratio,2.6629423417943925,1.63,0.8823048274456874,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,1
+1977,simulation_0243_segmented,D2,size,deer,dis_geo,2.739954958753535,2d_ratio,dis_geo,2d_ratio,2.739954958753535,1.0,2.7388259482003363,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+1978,simulation_0243_segmented,D2,size,deer,agree_wgm,3.215479299950202,2d_ratio,agree_wgm,2d_ratio,3.215479299950202,1.53,3.2183581278721154,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+1980,simulation_0245_segmented,D2,size,deer,agree_wgm,2.712607457444297,2d_ratio,agree_wgm,2d_ratio,2.712607457444297,1.1,2.7169178884918166,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+1981,simulation_0245_segmented,D2,size,deer,agree_wgm,3.1963607393720834,2d_ratio,agree_wgm,2d_ratio,3.1963607393720834,1.85,3.1927852445545524,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+2000,simulation_0255_segmented,S2,speed,tennis ball,patch:rul413,6.744562219923037,2d_ratio,patch:rul413,2d_ratio,6.744562219923037,6.8,6.744562219923037,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+2001,simulation_0255_segmented,S2,speed,tennis ball,patch:rul413,6.217761231232817,2d_ratio,patch:rul413,2d_ratio,6.217761231232817,3.4,6.217761231232817,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+2002,simulation_0255_segmented,S2,speed,tennis ball,patch:rul413,5.692693860504484,2d_ratio,patch:rul413,2d_ratio,5.692693860504484,6.8,5.692693860504484,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+2030,internet_0005,D2,dist2,black road signs,agree_geo_kind,4.532323069832342,2d_ratio,agree_geo_kind,2d_ratio,4.532323069832342,4.0,4.527849559405468,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+2031,internet_0005,D2,size,woman in yellow,agree_wgm,1.5982365380751438,2d_ratio,agree_wgm,2d_ratio,1.5982365380751438,1.63,1.5765350975831802,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+2033,internet_0005,D2,size,floor tiles,dis_size_gm,2.483745971332993,2d_ratio_scene,dis_size_gm,2d_ratio_scene,2.483745971332993,0.5,0.625,,meas,2d_ratio_scene,d,,meas,2d_ratio_scene,d,,test_03,4
+2049,internet_0009,S2,disp,player,sruler_geo,2.9507990221460285,2d_ratio,sruler_geo,2d_ratio,2.9507990221460285,8.2,2.9536453328788213,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_02,3
+2051,internet_0010,S2,speed,ball,dis_geo,486.5241852015007,2d_ratio,dis_geo,2d_ratio,486.5241852015007,213.0,486.98055747944505,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+2063,internet_0012,S2,avgspeed,white car,sruler_geo,14.182940493059888,2d_ratio,sruler_geo,2d_ratio,14.182940493059888,23.0,11.535099348086328,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_07,3
+2066,internet_0013,D2,size,island planter,agree_wgm,19.23161489480317,2d_ratio,agree_wgm,2d_ratio,19.23161489480317,13.0,19.245764486547223,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_vlmruler,ruler,prior_static_track(3px<4),test_02,6
+2067,internet_0013,D2,speed,white car,dis_geo,5.575873550775713,2d_ratio,dis_geo,2d_ratio,5.575873550775713,13.0,2.113904718753957,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,ruler,prior_static_track(3px<4),test_03,6
+2072,internet_0014,S2,speed,football,caw_nogeo,,,caw_nogeo,,,1.1,9.15,,h1,,,target_no_track,h1,,,target_no_track,test_02,5
+2078,internet_0015,S2,avgspeed,motorcycle,sruler_geo,27.360928020045787,2d_ratio,sruler_geo,2d_ratio,27.360928020045787,23.0,27.603080834113783,2d_ratio,meas,2d_ratio,sruler,target_low_det(0.25/owl0.00),meas,2d_ratio,sruler,target_low_det(0.25/owl0.00),test_03,3
+2080,internet_0016,S2,dist2,players,sruler_geo,22.18545644800796,2d_ratio,sruler_geo,2d_ratio,22.18545644800796,4.88,3.2423397113168857,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_00,4
+2083,internet_0016,S2,dist2,basket,sruler_geo,25.10398851240786,2d_ratio,sruler_geo,2d_ratio,25.10398851240786,4.5,25.10398851240786,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_03,4
+2086,internet_0017,S2,size,keyboard,dis_geo,14.271704519980386,2d_ratio,dis_geo,2d_ratio,14.271704519980386,33.0,14.283947039251093,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,3
+2089,internet_0018,S2,dist2,players,sruler_geo,25.948564759885496,2d_ratio,sruler_geo,2d_ratio,25.948564759885496,24.69,25.94754872433412,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_00,3
+2092,internet_0019,D2,size,ball,agree_wgm,22.91440615930212,2d_ratio,agree_wgm,2d_ratio,22.91440615930212,22.0,22.908971664405307,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,5
+2093,internet_0019,D2,size,person,agree_wgm,170.97672288094657,2d_ratio,agree_wgm,2d_ratio,170.97672288094657,175.0,171.6362642397069,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,5
+2095,internet_0019,D2,size,person,agree_wgm,165.6887829980307,2d_ratio,agree_wgm,2d_ratio,165.6887829980307,175.0,167.21264918198247,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,5
+2097,internet_0019,D2,speed,ball,dis_geo,3.527424020834836,2d_ratio,dis_geo,2d_ratio,3.527424020834836,10.3,3.525382776929722,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,5
+2098,internet_0019,D2,hvel,ball,dis_geo,1.944235083646276,2d_ratio,dis_geo,2d_ratio,1.944235083646276,10.0,1.9434430912983047,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,5
+2105,internet_0021,S2,dist2,airplane,dis_geo,125.14449277496789,2d_ratio,dis_geo,2d_ratio,125.14449277496789,3000.0,1200.0,,meas,2d_ratio,d,,vlm,,,target2_low_det(0.29/owl0.09),test_01,0
+2107,internet_0022,S2,size,tea cup,caw_c1,,2d_ratio,caw_c1,2d_ratio,,72.0,133.96946902737818,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+2132,internet_0026,S2,size,toy truck,dis_geo,66.41599047314989,2d_ratio,dis_geo,2d_ratio,66.41599047314989,33.0,66.43747266832288,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+2133,internet_0026,S2,size,toy truck,dis_geo,55.87912087912088,2d_ratio,dis_geo,2d_ratio,55.87912087912088,23.0,55.87912087912088,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+2138,internet_0027,S2,speed,orange ball,dis_geo,24.369478319833508,2d_ratio,dis_geo,2d_ratio,24.369478319833508,153.0,24.15051017301362,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+2143,captured_0001,D3,disp,ball,dis_geo,20.656943925855973,3d_calib,dis_geo,3d_calib,20.656943925855973,195.5,20.657102946732707,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+2144,captured_0001,D3,speed,ball,patch:rul019,50.50869212446825,3d_calib,patch:rul019,3d_calib,50.50869212446825,144.0,50.51882121592597,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+2145,captured_0001,D3,speed,ball,patch:rul019,22.884515209878668,3d_calib,patch:rul019,3d_calib,22.884515209878668,150.0,22.80570218734585,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,1
+2164,captured_0008,D3,speed,basketball,agree_gm,3.205668232952597,3d_calib,agree_gm,3d_calib,3.205668232952597,3.64,3.2144458634151727,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+2169,captured_0008s,D3,speed,basketball,agree_gm,3.211200664067768,3d_calib,agree_gm,3d_calib,3.211200664067768,4.9,3.208765882482284,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+2174,captured_0008x,D3,speed,basketball,agree_gm,3.1844068133327874,3d_calib,agree_gm,3d_calib,3.1844068133327874,3.92,3.272741360645816,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,1
+2240,captured_0014,D3,speed,rolling ball,dis_geo,141.12399280313835,3d_calib,dis_geo,3d_calib,141.12399280313835,50.0,140.77309587631075,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,6
+2251,captured_0014s,D3,speed,rolling ball,dis_geo,138.4904752816481,3d_calib,dis_geo,3d_calib,138.4904752816481,49.0,138.4904752816481,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,6
+2262,captured_0014x,D3,speed,rolling ball,dis_geo,141.12399280313835,3d_calib,dis_geo,3d_calib,141.12399280313835,41.4,92.99670330297404,3d_mogefov,meas,3d_fovdefault,d,,meas,3d_fovdefault,d,,test_07,6
+2391,captured_0022,S3,accel,ping pong ball,patch:rul145,10.68688893933104,3d_calib,patch:rul145,3d_calib,10.68688893933104,194.0,10.442517779242468,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+2403,captured_0022x,S3,accel,ping pong ball,patch:rul145,10.281187978762784,3d_calib,patch:rul145,3d_calib,10.281187978762784,976.0,10.179389998739362,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_02,1
+2480,captured_0028s,S3,speed,ping pong ball,patch:rul210,267.3651439374256,3d_calib,patch:rul210,3d_calib,267.3651439374256,143.0,267.3651439374256,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,0
+2615,captured_0035a,S3,disp,basketball,patch:rul281,13.376480372953592,3d_calib,patch:rul280,3d_calib,13.376480372953592,23.2,13.332519525098157,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,2
+2624,captured_0035as,S3,disp,basketball,patch:rul281,13.397305294093329,3d_calib,patch:rul280,3d_calib,13.397305294093329,23.2,13.368635898422426,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,2
+2633,captured_0035ax,S3,disp,basketball,patch:rul281,13.426244542287884,3d_calib,patch:rul280,3d_calib,13.426244542287884,23.2,13.729454187403938,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_03,2
+2800,captured_0052x,D3,size,trash bin,patch:rul197,40.42155509724324,vlm_3d_calib,patch:rul197,vlm_3d_calib,40.42155509724324,43.0,28.631741197469285,3d_mogefov,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,prior_static_track(0px<16),test_01,2
+2814,captured_0053,D3,disp,trash bin,agree_gm,0.6686514270231617,3d_calib,agree_gm,3d_calib,0.6686514270231617,1.0,0.6641735046990099,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,4
+2815,captured_0053s,D3,size,book,caw_nogeo,,,caw_nogeo,,,21.0,7.954657102018479,3d_calib,vlm,,,target=prior_object,vlm,,,target=prior_object,test_00,3
+2816,captured_0053s,D3,size,book,caw_nogeo,,,caw_nogeo,,,26.0,13.2137631534533,3d_calib,vlm,,,target=prior_object,vlm,,,target=prior_object,test_01,3
+2822,captured_0053s,D3,disp,trash bin,agree_gm,0.6997341653457994,3d_calib,agree_gm,3d_calib,0.6997341653457994,1.0,0.6650203239101194,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,4
+2823,captured_0053x,D3,size,book,caw_nogeo,,,caw_nogeo,,,21.0,24.0,,vlm,,,target=prior_object,vlm,,,target=prior_object,test_00,3
+2824,captured_0053x,D3,size,book,caw_nogeo,,,caw_nogeo,,,26.0,24.0,,vlm,,,target=prior_object,vlm,,,target=prior_object,test_01,3
+2830,captured_0053x,D3,disp,trash bin,agree_gm,0.6679226365144519,3d_calib,agree_gm,3d_calib,0.6679226365144519,1.0,0.6381059277937906,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,4
+2831,captured_0054a,D3,disp,orange ball,dis_geo,1.187718003942691,3d_calib,dis_geo,3d_calib,1.187718003942691,0.5457,1.188455710253101,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,4
+2832,captured_0054a,D3,disp,soccer ball,dis_geo,0.2512709533174434,3d_calib,dis_geo,3d_calib,0.2512709533174434,1.04,0.2512709533174434,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,3
+2836,captured_0054a,D3,speed,soccer ball,dis_geo,0.3638475839679811,3d_calib,dis_geo,3d_calib,0.3638475839679811,2.21,0.3638475839679811,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_05,3
+2837,captured_0054a,D3,speed,green ball,agree_gm,2.681242895902612,3d_calib,agree_gm,3d_calib,2.681242895902612,3.04,2.690352906890932,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_06,3
+2838,captured_0054a,D3,speed,white ball,agree_gm,2.519632679884182,3d_calib,agree_gm,3d_calib,2.519632679884182,2.21,2.240959629049227,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,3
+2842,captured_0054a,D3,dist2,green ball,dis_geo,2.753988946487985,3d_calib,dis_geo,3d_calib,2.753988946487985,0.0345,2.952792466378072,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_11,2
+2843,captured_0054as,D3,disp,orange ball,dis_geo,1.1896249542093005,3d_calib,dis_geo,3d_calib,1.1896249542093005,0.5457,1.1889395318247455,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,3
+2844,captured_0054as,D3,disp,soccer ball,dis_geo,0.2513740776264395,3d_calib,dis_geo,3d_calib,0.2513740776264395,1.08,0.2520893303720055,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+2848,captured_0054as,D3,speed,soccer ball,dis_geo,0.3638999945759428,3d_calib,dis_geo,3d_calib,0.3638999945759428,2.21,0.3639156951837223,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_05,2
+2849,captured_0054as,D3,speed,green ball,agree_gm,2.696646125625004,3d_calib,agree_gm,3d_calib,2.696646125625004,3.04,2.696646125625004,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_06,2
+2850,captured_0054as,D3,speed,white ball,agree_gm,2.519632679884182,3d_calib,agree_gm,3d_calib,2.519632679884182,3.07,1.4326383827474758,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,2
+2851,captured_0054as,D3,speed,green ball,patch:rul082,2.673718795441996,3d_calib,patch:rul082,3d_calib,2.673718795441996,3.14,4.937248228713584,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_08,2
+2852,captured_0054as,D3,speed,white ball,agree_gm,4.965974284153561,3d_calib,agree_gm,3d_calib,4.965974284153561,3.07,4.959259038131394,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_09,2
+2855,captured_0054ax,D3,disp,orange ball,dis_geo,1.1891818106719778,3d_calib,dis_geo,3d_calib,1.1891818106719778,0.5457,1.1885367563951776,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,4
+2856,captured_0054ax,D3,disp,soccer ball,dis_geo,0.2530306845789712,3d_calib,dis_geo,3d_calib,0.2530306845789712,1.1,0.2532758127827124,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,3
+2859,captured_0054ax,D3,speed,soccer ball,dis_geo,0.3638795466282959,3d_calib,dis_geo,3d_calib,0.3638795466282959,2.21,0.3638593789436519,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,3
+2860,captured_0054ax,D3,speed,green ball,agree_gm,2.681242895902612,3d_calib,agree_gm,3d_calib,2.681242895902612,3.039,2.864439564750436,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_05,3
+2861,captured_0054ax,D3,speed,white ball,agree_gm,2.519632679884182,3d_calib,agree_gm,3d_calib,2.519632679884182,3.14,1.3380880955930017,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_06,3
+2866,captured_0054b,D3,disp,orange ball,agree_gm,0.8202394596367807,3d_calib,agree_gm,3d_calib,0.8202394596367807,0.43,0.8727085883749087,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,3
+2867,captured_0054b,D3,disp,soccer ball,agree_gm,0.4080738952963235,3d_calib,agree_gm,3d_calib,0.4080738952963235,0.68,0.6692539779468839,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+2878,captured_0054bs,D3,disp,orange ball,dis_geo,0.8733450550416408,3d_calib,dis_geo,3d_calib,0.8733450550416408,0.43,0.8736816829449284,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_00,3
+2879,captured_0054bs,D3,disp,soccer ball,agree_gm,0.4371681349508962,3d_calib,agree_gm,3d_calib,0.4371681349508962,0.44,0.4442669690925921,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+2884,captured_0054bs,D3,speed,green ball,agree_gm,2.414100439231184,3d_calib,agree_gm,3d_calib,2.414100439231184,3.66,2.414100439231184,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_06,2
+2885,captured_0054bs,D3,speed,white ball,dis_geo,1.496653466974355,3d_calib,dis_geo,3d_calib,1.496653466974355,3.09,1.537510664103102,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,2
+2890,captured_0054bx,D3,disp,orange ball,dis_geo,1.037766476593859,3d_calib,dis_geo,3d_calib,1.037766476593859,0.43,0.873543828515135,3d_calib,meas,vlm_3d_calib,v,target_px_fail,meas,vlm_3d_calib,v,target_px_fail,test_00,3
+2891,captured_0054bx,D3,disp,soccer ball,agree_gm,0.498530004132274,3d_calib,agree_gm,3d_calib,0.498530004132274,0.44,0.4635157807147781,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_01,2
+2896,captured_0054bx,D3,speed,green ball,agree_gm,2.4799184135014483,3d_calib,agree_gm,3d_calib,2.4799184135014483,3.13,2.2843947563896574,3d_calib,meas,vlm_3d_calib,xg_v,,meas,vlm_3d_calib,xg_v,,test_06,2
+2897,captured_0054bx,D3,speed,white ball,agree_gm,1.8098467567750247,3d_calib,agree_gm,3d_calib,1.8098467567750247,3.66,1.8098467567750247,3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_07,2
+2906,captured_0061,D3,speed,soccer ball,agree_gm,2.7123640615751308,3d_calib,agree_gm,3d_calib,2.7123640615751308,3.52,2.657152413230332,vlm_3d_calib,meas,3d_calib,d,,meas,3d_calib,d,,test_04,1
+2961,internet_0008_segmented,S2,avgspeed,sailboat,patch:rul153,4.126386985017543,2d_ratio,patch:rul153,2d_ratio,4.126386985017543,0.5,4.119666209787806,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+2962,internet_0008_segmented,S2,avgspeed,speedboat,patch:rul153,25.88740633897878,2d_ratio,patch:rul153,2d_ratio,25.88740633897878,1.5,25.88740633897878,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+2963,internet_0008_segmented,S2,size,speedboat,patch:rul153,3.9214580957655247,2d_ratio,patch:rul153,2d_ratio,3.9214580957655247,4.0,3.9214580957655247,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+2998,internet_0029,D2,speed,ball,agree_gm,1.6565988304664283,2d_ratio,agree_gm,2d_ratio,1.6565988304664283,1.96,1.5044726018777537,2d_gself,meas,2d_ratio,ruler,prior_no_freefall,meas,2d_ratio,ruler,prior_no_freefall,test_01,1
+2999,internet_0029,D2,speed,ball,agree_gm,3.806140295937451,2d_ratio,agree_gm,2d_ratio,3.806140295937451,3.92,3.45721573699912,2d_gself,meas,2d_ratio,ruler,prior_no_freefall,meas,2d_ratio,ruler,prior_no_freefall,test_02,1
+3040,internet_0037,S2,size,swimming pool,caw_nogeo,,,caw_nogeo,,,10.0,10.0,,vlm,,,scene_target,vlm,,,scene_target,test_04,0
+3046,internet_0039,S2,avgspeed,swimming man,dis_geo,0.6123582847395487,2d_ratio,dis_geo,2d_ratio,0.6123582847395487,1.3,0.6578953233700024,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+3047,internet_0039,S2,avgspeed,swimming man,dis_geo,0.6207441856129015,2d_ratio,dis_geo,2d_ratio,0.6207441856129015,1.35,0.6106855308315964,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+3048,internet_0039,S2,avgspeed,swimming man,dis_geo,0.6162659303885838,2d_ratio,dis_geo,2d_ratio,0.6162659303885838,1.3,0.6305198031182886,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+3049,internet_0039,S2,accel,swimming man,dis_geo,0.0633020669918246,2d_ratio,dis_geo,2d_ratio,0.0633020669918246,1.31,0.0963393073664268,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+3051,internet_0040,S2,size,credit card,dis_geo,11.795415011011,2d_ratio,dis_geo,2d_ratio,11.795415011011,5.4,11.795415011011,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,0
+3075,internet_0044,D2,size,kettle,agree_wgm,15.168946759223417,2d_ratio,agree_wgm,2d_ratio,15.168946759223417,20.0,15.19817299975309,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,6
+3076,internet_0044,D2,size,white cylinder,agree_wgm,10.630206784022707,2d_ratio,agree_wgm,2d_ratio,10.630206784022707,11.0,10.531017511639936,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+3077,internet_0044,D2,size,green bottle,agree_wgm,27.35188037686742,2d_ratio,agree_wgm,2d_ratio,27.35188037686742,31.0,27.404579660972104,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,6
+3078,internet_0044,D2,size,plastic bottle,agree_wgm,20.54377041406636,2d_ratio,agree_wgm,2d_ratio,20.54377041406636,23.0,20.58335240911442,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,6
+3079,internet_0044,D2,size,plate,agree_wgm,8.719158373411885,2d_ratio,agree_wgm,2d_ratio,8.719158373411885,11.0,8.735957708519493,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,6
+3080,internet_0044,D2,dist2,kettle,agree_geo_kind,53.25930123587816,2d_ratio,agree_geo_kind,2d_ratio,53.25930123587816,43.0,53.355850966874215,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,5
+3081,internet_0044,D2,dist2,cylinder,agree_geo_kind,22.134862526617983,2d_ratio,agree_geo_kind,2d_ratio,22.134862526617983,13.0,22.1784340329502,2d_ratio,meas,2d_ratio,d,,meas,vlm_2d_ratio,v,target_low_det(0.24/owl0.07),test_07,5
+3082,internet_0044,D2,speed,white ball,dis_geo,0.9396590132015,2d_ratio,dis_geo,2d_ratio,0.9396590132015,14.7,0.9426710493662064,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,6
+3083,internet_0044,D2,speed,white ball,dis_geo,0.4324855987424487,2d_ratio,dis_geo,2d_ratio,0.4324855987424487,24.5,0.4341293649424249,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_09,6
+3084,internet_0045,D2,size,rolling cylinder,dis_geo,14.50126020267156,2d_ratio,dis_geo,2d_ratio,14.50126020267156,7.0,14.901248081364091,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,6
+3085,internet_0045,D2,size,green bottle,agree_wgm,36.431737454987655,2d_ratio,agree_wgm,2d_ratio,36.431737454987655,30.0,36.53464942042673,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,5
+3086,internet_0045,D2,size,plastic bottle,agree_wgm,27.28808570157899,2d_ratio,agree_wgm,2d_ratio,27.28808570157899,25.0,27.258273591021503,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,5
+3087,internet_0045,D2,size,plate,agree_wgm,11.715303809054856,2d_ratio,agree_wgm,2d_ratio,11.715303809054856,10.0,11.702504892480436,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,5
+3096,internet_0047,D2,size,rolling ball,agree_wgm,28.571354038349845,2d_ratio,agree_wgm,2d_ratio,28.571354038349845,24.0,28.29032720370752,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,6
+3098,internet_0047,D2,dist2,ball,dis_geo,0.6821965321606003,2d_ratio,dis_geo,2d_ratio,0.6821965321606003,1.47,0.6821980346970793,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+3099,internet_0047,D2,disp,ball,agree_gm,0.5888214153772806,2d_ratio,agree_gm,2d_ratio,0.5888214153772806,0.59,0.5889693325231385,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,5
+3105,internet_0048,D2,other,ball,agree_gm,1.3934001528080886,2d_ratio,agree_gm,2d_ratio,1.3934001528080886,1.22,1.3383726552480402,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+3110,internet_0049,D2,size,person riding scooter,agree_wgm,1.7164933133489022,2d_ratio,agree_wgm,2d_ratio,1.7164933133489022,1.6,1.7177700070067208,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,5
+3111,internet_0049,D2,size,gray table,agree_wgm,1.0940287052113882,2d_ratio,agree_wgm,2d_ratio,1.0940287052113882,0.7,1.0524693633696316,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+3112,internet_0049,D2,size,gray chairs,agree_wgm,0.6790522997863788,2d_ratio,agree_wgm,2d_ratio,0.6790522997863788,0.7,0.6721708723069777,2d_ratio,meas,2d_ratio,d,,vlm,,,target_low_det(0.21/owl0.00),test_02,4
+3113,internet_0049,D2,size,brown table,agree_wgm,1.0374410135625232,2d_ratio,agree_wgm,2d_ratio,1.0374410135625232,0.77,1.1016133740586578,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,4
+3114,internet_0049,D2,size,brown table,dis_geo,3.03687278515575,2d_ratio,dis_geo,2d_ratio,3.03687278515575,1.5,2.3853808618776884,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,4
+3115,internet_0049,D2,size,canopy,dis_size_gm,4.800737446949197,vlm_2d_ratio,dis_size_gm,vlm_2d_ratio,4.800737446949197,2.4,4.895308952549572,2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_05,4
+3117,internet_0050,D2,size,person riding scooter,agree_wgm,1.852991238694862,2d_ratio,agree_wgm,2d_ratio,1.852991238694862,1.7,1.853492454800758,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,7
+3118,internet_0050,D2,size,basketball stand,agree_wgm,4.037861505215669,2d_ratio,agree_wgm,2d_ratio,4.037861505215669,3.05,4.038953707476279,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,6
+3119,internet_0050,D2,size,basketball stand,agree_wgm,4.010204919563507,2d_ratio,agree_wgm,2d_ratio,4.010204919563507,3.0,4.087326498740128,vlm_2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,6
+3121,internet_0050,D2,dist2,basketball stands,agree_geo_kind,18.19316411011204,vlm_2d_ratio,agree_geo_kind,vlm_2d_ratio,18.19316411011204,20.0,18.0993220938496,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,target2_det_track_iou(0.37),meas,vlm_2d_ratio,xg_v,target2_det_track_iou(0.37),test_04,5
+3122,internet_0050,D2,size,basketball backboard,agree_wgm,1.1062634260864848,2d_ratio,agree_wgm,2d_ratio,1.1062634260864848,1.05,1.1065626595825422,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,6
+3123,internet_0050,D2,size,basketball backboard,dis_geo,1.1339200117386468,2d_ratio,dis_geo,2d_ratio,1.1339200117386468,3.1,1.1342267260721055,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,6
+3127,internet_0051,D2,size,tree,agree_wgm,2.760231054306421,2d_ratio,agree_wgm,2d_ratio,2.760231054306421,4.0,2.768795120334286,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+3129,internet_0052,D2,size,person riding scooter,agree_wgm,1.8209631710126204,2d_ratio,agree_wgm,2d_ratio,1.8209631710126204,1.78,1.813756506655028,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,4
+3130,internet_0052,D2,dist2,tall trees,caw_nogeo,,,caw_nogeo,,,6.0,0.1432809473782395,2d_ratio,vlm,,,target=target2,vlm,,,target=target2,test_01,2
+3131,internet_0052,D2,size,no-parking sign,dis_geo,0.394044489465026,2d_ratio,dis_geo,2d_ratio,0.394044489465026,1.1,0.3932878131275644,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,3
+3132,internet_0052,D2,size,no-parking sign,agree_wgm,0.2507555842050166,2d_ratio,agree_wgm,2d_ratio,0.2507555842050166,0.5,0.2502740628993592,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+3133,internet_0052,D2,size,scooter,agree_wgm,1.098548273660073,2d_ratio,agree_wgm,2d_ratio,1.098548273660073,1.05,1.098548273660073,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,3
+3140,internet_0053,D2,size,sign,agree_gm,0.5447611498559296,vlm_2d_ratio,agree_gm,vlm_2d_ratio,0.5447611498559296,0.7,0.5447611498559296,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_05,5
+3152,internet_0055,D2,size,do not enter sign,agree_wgm,1.1707300609646545,2d_ratio,agree_wgm,2d_ratio,1.1707300609646545,2.13,1.1692418102191249,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,4
+3153,internet_0055,D2,size,do not enter sign,agree_wgm,1.1532564779651815,2d_ratio,agree_wgm,2d_ratio,1.1532564779651815,0.75,1.1517904399173466,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+3155,internet_0055,D2,size,bicycle sign,dis_geo,0.4717867409857562,2d_ratio,dis_geo,2d_ratio,0.4717867409857562,1.0,1.2739500320297923,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,4
+3156,internet_0055,D2,size,bicycle sign,agree_wgm,0.4543131579862837,2d_ratio,agree_wgm,2d_ratio,0.4543131579862837,0.71,0.950143512197768,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,4
+3158,internet_0055,D2,size,yield sign,agree_wgm,0.7615539706355465,2d_ratio,agree_wgm,2d_ratio,0.7615539706355465,0.6,0.7625980005374297,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,4
+3159,internet_0056,D2,size,person riding scooter,agree_wgm,1.7863763120115903,2d_ratio,agree_wgm,2d_ratio,1.7863763120115903,1.7,1.7808415569501457,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+3162,internet_0057,D2,size,person,agree_wgm,1.7462602275132233,2d_ratio,agree_wgm,2d_ratio,1.7462602275132233,1.63,1.429535052059182,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+3166,internet_0057,D2,dist2,basket,dis_geo,1.6531369324466592,2d_ratio,dis_geo,2d_ratio,1.6531369324466592,3.68,1.6531369324466592,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+3168,internet_0057,D2,other,ball,agree_gm,1.9232460613828064,2d_ratio,agree_gm,2d_ratio,1.9232460613828064,2.4,1.7371068775552942,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,2
+3169,internet_0057,D2,avgspeed,person,agree_geo_kind,1.4528941854206086,2d_ratio,agree_geo_kind,2d_ratio,1.4528941854206086,1.4,1.1893778099438534,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,3
+3171,internet_0058,D2,size,person,agree_wgm,1.6580557094842672,2d_ratio,agree_wgm,2d_ratio,1.6580557094842672,1.63,2.0813828559561403,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+3174,internet_0058,D2,other,ball,agree_gm,3.305057714238639,2d_ratio,agree_gm,2d_ratio,3.305057714238639,2.45,3.103135745272104,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,2
+3175,internet_0058,D2,dist2,ball,dis_geo,1.135937788596057,2d_ratio,dis_geo,2d_ratio,1.135937788596057,3.05,1.0945111251255828,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+3177,internet_0058,D2,other,ball,agree_gm,2.498137268956296,2d_ratio,agree_gm,2d_ratio,2.498137268956296,2.45,2.335032838026533,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,2
+3178,internet_0058,D2,other,ball,dis_geo,4.156192978440563,2d_ratio,dis_geo,2d_ratio,4.156192978440563,2.0,3.9245791321875054,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,2
+3179,internet_0058,D2,avgspeed,ball,agree_geo_kind,2.7970033125175964,2d_ratio,agree_geo_kind,2d_ratio,2.7970033125175964,4.9,2.698276777277548,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_08,3
+3180,internet_0059,D2,size,ball,agree_wgm,25.45194009589421,2d_ratio,agree_wgm,2d_ratio,25.45194009589421,24.0,25.09984425715735,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,5
+3181,internet_0059,D2,size,billboard,agree_wgm,76.0424256595819,2d_ratio,agree_wgm,2d_ratio,76.0424256595819,61.0,75.97841728438237,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,5
+3182,internet_0059,D2,size,billboard,agree_wgm,78.3191593027494,2d_ratio,agree_wgm,2d_ratio,78.3191593027494,114.0,78.72462513803475,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,5
+3183,internet_0059,D2,size,billboard,agree_wgm,33.69545225815963,2d_ratio,agree_wgm,2d_ratio,33.69545225815963,61.0,33.869896861712625,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,5
+3184,internet_0059,D2,dist2,edge,agree_geo_kind,195.4189016254169,vlm_2d_ratio,agree_geo_kind,vlm_2d_ratio,195.4189016254169,114.0,195.3944246258788,vlm_2d_ratio,meas,vlm_2d_ratio,xg_v,,meas,vlm_2d_ratio,xg_v,,test_04,4
+3185,internet_0059,D2,speed,ball,dis_geo,3.1953620009514903,2d_ratio,dis_geo,2d_ratio,3.1953620009514903,24.5,3.201455741205741,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,5
+3186,internet_0059,D2,speed,ball,dis_geo,4.516419205688883,2d_ratio,dis_geo,2d_ratio,4.516419205688883,29.4,4.5237687058135965,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,5
+3187,internet_0059,D2,avgspeed,ball,dis_geo,3.908772321340774,2d_ratio,dis_geo,2d_ratio,3.908772321340774,10.8,3.916762777376525,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,5
+3195,internet_0061,D2,size,acorn,agree_wgm,8.041500775793493,2d_ratio,agree_wgm,2d_ratio,8.041500775793493,7.0,7.588135889296598,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+3196,internet_0061,D2,size,acorn,dis_geo,8.61589368835017,2d_ratio,dis_geo,2d_ratio,8.61589368835017,63.0,8.165912733659283,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+3197,internet_0061,D2,speed,acorn,dis_geo,2.184531101028594,2d_ratio,dis_geo,2d_ratio,2.184531101028594,13.7,1.8975821876207088,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,2
+3201,internet_0062,D2,size,longer side,dis_geo,22.035896527814256,2d_ratio,dis_geo,2d_ratio,22.035896527814256,11.0,14.0,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,4
+3203,internet_0062,D2,speed,wallet,dis_geo,2.917686476361215,2d_ratio,dis_geo,2d_ratio,2.917686476361215,24.5,2.913816570441737,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,4
+3207,internet_0063,D2,size,water bottle,agree_wgm,24.249085195047154,2d_ratio,agree_wgm,2d_ratio,24.249085195047154,27.0,23.609951621919,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,2
+3208,internet_0063,D2,size,water bottle,agree_wgm,7.91836730381452,2d_ratio,agree_wgm,2d_ratio,7.91836730381452,8.0,7.75906510052563,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+3213,internet_0064,D2,size,person,agree_wgm,1.7764188242608197,2d_ratio,agree_wgm,2d_ratio,1.7764188242608197,1.74,1.7758761807340264,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,3
+3214,internet_0064,D2,speed,ball,dis_geo,2.757563340394362,2d_ratio,dis_geo,2d_ratio,2.757563340394362,14.7,2.7527074195662564,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,3
+3216,internet_0064,D2,speed,person,dis_geo,0.8323803328915578,2d_ratio,dis_geo,2d_ratio,0.8323803328915578,3.1,0.45,,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,3
+3217,internet_0064,D2,other,ball,agree_gm,1.7076138698000134,2d_ratio,agree_gm,2d_ratio,1.7076138698000134,2.45,1.4740469528900555,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,2
+3218,internet_0064,D2,disp,ball,dis_geo,1.0400383029599378,2d_ratio,dis_geo,2d_ratio,1.0400383029599378,3.92,1.0406295778986911,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,3
+3220,internet_0064,D2,size,ball,agree_wgm,23.99450093992588,2d_ratio,agree_wgm,2d_ratio,23.99450093992588,24.0,24.397500811743875,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,3
+3244,internet_0068,D2,speed,acorn,dis_geo,0.4134448999544197,2d_ratio,dis_geo,2d_ratio,0.4134448999544197,2.31,0.4134448999544197,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,0
+3245,internet_0068,D2,speed,acorn,dis_geo,0.5226711989337118,2d_ratio,dis_geo,2d_ratio,0.5226711989337118,1.54,0.5226711989337118,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,0
+3246,internet_0068,D2,speed,acorn,dis_geo,0.6827477585480318,2d_ratio,dis_geo,2d_ratio,0.6827477585480318,2.31,0.6827477585480318,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,0
+3247,internet_0068,D2,disp,acorn,patch:rul046,4.980414335670194,2d_ratio,patch:rul046,2d_ratio,4.980414335670194,4.0,4.980414335670194,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,0
+3248,internet_0068,D2,disp,acorn,patch:rul046,5.787909440849961,2d_ratio,patch:rul046,2d_ratio,5.787909440849961,10.0,5.787909440849961,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_05,0
+3249,internet_0068,D2,disp,acorn,patch:rul046,6.55866675151612,2d_ratio,patch:rul046,2d_ratio,6.55866675151612,10.0,6.55866675151612,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_06,0
+3250,internet_0068,D2,disp,acorn,patch:rul046,7.096098908155354,2d_ratio,patch:rul046,2d_ratio,7.096098908155354,4.0,7.096098908155354,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_07,0
+3259,internet_0070,D2,size,speedboat,agree_wgm,4.389518574838685,2d_ratio,agree_wgm,2d_ratio,4.389518574838685,4.5,4.4228363417153576,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_00,1
+3260,internet_0070,D2,size,speedboat,agree_wgm,1.672197552319499,2d_ratio,agree_wgm,2d_ratio,1.672197552319499,2.1,1.6749004609997722,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,1
+3261,internet_0070,D2,disp,speedboat,agree_gm,29.44687207805609,2d_ratio,agree_gm,2d_ratio,29.44687207805609,33.0,29.545062481283352,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_02,1
+3262,internet_0070,D2,disp,speedboat,dis_geo,9.678987799350596,2d_ratio,dis_geo,2d_ratio,9.678987799350596,22.0,9.687072139672264,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_03,1
+3263,internet_0070,D2,speed,speed boat,agree_gm,9.726680142849611,2d_ratio,agree_gm,2d_ratio,9.726680142849611,13.0,9.716719834351448,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_04,0
+3265,internet_0071,S2,size,toilet paper holder,dis_geo,13.793968046073935,2d_ratio,dis_geo,2d_ratio,13.793968046073935,30.0,13.793968046073935,2d_ratio,meas,2d_ratio,d,,meas,2d_ratio,d,,test_01,2
+3266,internet_0071,S2,size,wall tile,caw_nogeo,,,caw_nogeo,,,25.0,30.0,,vlm,,,scene_target,vlm,,,scene_target,test_02,2
+3267,internet_0071,S2,size,wall tile,caw_nogeo,,,caw_nogeo,,,20.0,15.0,,vlm,,,scene_target,vlm,,,scene_target,test_03,2
+3286,internet_0074,S2,dist2,ball,sruler_geo,0.5353640443427117,2d_ratio,sruler_geo,2d_ratio,0.5353640443427117,4.6,11.584957073018575,2d_ratio,meas,2d_ratio,sruler,,meas,2d_ratio,sruler,,test_04,4
